@@ -1,6 +1,6 @@
 # KanjiFlashcards 🇯🇵
 
-A cozy little Android flashcard app for learning Japanese — kanji, vocabulary, hiragana, and katakana. Built with Kotlin and Jetpack Compose, because writing XML layouts in 2024 is no fun.
+ Android flashcard app for learning Japanese — kanji, vocabulary, hiragana, and katakana.
 
 ---
 
@@ -10,7 +10,7 @@ It's a flashcard app. You open it, pick what you want to study, and flip through
 
 - **Kanji decks** — JLPT N5 through N2. Each card shows the kanji, its on/kun readings, what it means
 - **Vocab decks** — Same with kanji, but for words. Word on the front, reading and meaning on the back.
-- **Kana decks** — The full hiragana and katakana tables, for when you're just starting out and need to drill those squiggly characters.
+- **Kana decks** — The full hiragana and katakana tables, for when you're just starting out.
 - **Track your progress** — The app remembers which cards you've reviewed. You can flip through everything or just the ones you haven't seen yet. Your call.
 ---
 
@@ -23,8 +23,6 @@ It's a flashcard app. You open it, pick what you want to study, and flip through
 | Build | Gradle (Kotlin DSL) |
 | JSON parsing | Gson |
 | Minimum Android | 8.0 (API 26) — runs on pretty much anything |
-
-No backend, no network calls, no tracking, no nonsense. Everything lives on your phone.
 
 ---
 
@@ -95,7 +93,7 @@ KanjiFlashcards/
 
 **Command line (if you're that kind of person):**
 ```bash
-git clone <repo-url> KanjiFlashcards
+git clone https://github.com/merwinhp/KanjiFlashcards.git KanjiFlashcards
 cd KanjiFlashcards
 
 # Make sure local.properties has your SDK path:
@@ -122,7 +120,7 @@ adb install app/build/outputs/apk/debug/app-debug.apk
 
 Deck data lives in `app/src/main/res/raw/`:
 
-- **n5_kanji.json** — proper JSON with fields for the kanji character, on/kun readings, meanings, and stroke count.
+- **n5_kanji.json** — proper JSON with fields for the kanji character, on/kun readings, meanings.
 - **n4–n2 kanji** — plain text files, one entry per line, parsed by `KanjiRepository`.
 - **vocab files** — also plain text, structured as `word|reading|meaning` per line, handled by `VocabRepository`.
 - **Kana** — not from files at all, just hardcoded in `KanaData.kt`.
