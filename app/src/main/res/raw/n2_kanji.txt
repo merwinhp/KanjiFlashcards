@@ -1,0 +1,372 @@
+#separator:tab
+#html:true
+#guid column:1
+#tags column:7
+wt5QU]6(JI	並	ヘイ<br>なみ、なら-べる、なら-ぶ、なら-びに	line-up	町並み (まちなみ) - townscape, street (of stores and houses)<br>並ぶ (ならぶ) - to stand in a line<br>並べる (ならべる) - to line up	町　チョウ　まち　town	
+FN66RR)8j0	丸	ガン<br>まる、まる-い、まる-める	circle	丸 (まる) - circle<br>丸い (まるい) - round, circular<br>丸で (まるで) - quite, entirely	null	
+i0wZ-4P%vy	久	キュウ、（ク）<br>ひさ-しい	long time	永久 (えいきゅう) - eternity<br>久しぶり (ひさしぶり) - it’s been a while<br>久しい (ひさしい) - long (time that has passed), old (story)	永　エイ　なが-い　eternity	
+qU26E^fa1F	乱	ラン<br>みだ-れる、みだ-す	riot	反乱 (はんらん) - insurrection, rebellion<br>乱れる (みだれる) - to be disordered, to be disarranged<br>乱暴 (らんぼう) - violence, assault	反　ハン　そ-る　anti-<br>暴　ボウ　あば-く　outburst	
+d17kU~ylb,	乳	ニュウ<br>ちち、ち	milk	乳製品 (にゅうせいひん) - dairy products​<br>牛乳 (ぎゅうにゅう) - milk<br>乳 (ちち, ち) - milk, breast	製　セイ　manufacture<br>品　ヒン　しな　article<br>牛　ギュウ　うし　cow	
+oxCn1`[I)%	乾	カン<br>かわ-く、かわ-かす	dry	乾燥 (かんそう) - drying (e.g. clothes), dryness<br>乾く (かわく) - to get dry<br>乾杯 (かんぱい) - cheers, bottoms-up	燥　ソウ　parch<br>杯　ハイ　さかずき　counter for cupfuls	
+j*>?;9:Pg	了	リョウ	finish	了解 (りょうかい) - comprehension, consent<br>了承 (りょうしょう) - acknowledgement, acknowledgment<br>完了 (かんりょう) - completion, conclusion	解　カイ　と-く　untie<br>承　ショウ　うけたまわ-る　acquiesce<br>完　カン　perfect	
+i^!:qN`^=5	介	カイ	jammed in	介入 (かいにゅう) - intervention<br>介護 (かいご) - nursing, care<br>介護施設 (かいごしせつ) - nursing home, rest home	入　ニュウ　い-る　enter<br>護　ゴ　safeguard<br>施　シ　ほどこ-す　carry out<br>設　セツ　もう-ける　establish	
+"O`S`a4h#mZ"	仏	ブツ<br>ほとけ	Buddha	仏 (ほとけ) - Buddha, Shakyamuni<br>仏像 (ぶつぞう) - statue of Buddha, image of Buddha	像　ゾウ　statue	
+Mau=1oKX>:	令	レイ	orders	命令 (めいれい) - order, command<br>仮令 (たとえ, たとい) - even if, no matter (what)<br>指令 (しれい) - orders, instructions	命　メイ　いのち　fate<br>仮　カ　かり　temporary<br>指　シ　ゆび　finger	
+tnz$wS>UX~	仲	チュウ<br>なか	relationship	仲 (なか) - relation, relationship<br>仲間 (なかま) - fellow, companion<br>仲直り (なかなおり) - reconciliation, make peace with​	間　カン　あいだ　interval<br>直　チョク　ただ-ちに　straight	
+bX^L!Q>FX/	伸	シン<br>の-びる、の-ばす、の-べる	lengthen	伸ばす (のばす) - to grow long<br>伸びる (のびる) - to stretch, to extend<br>欠伸 (あくび, けんしん) - yawn, yawning	欠　ケツ　か-ける　lack	
+eZ^?c3dlzg	伺	シ<br>うかが-う	pay respects	伺う (うかがう) - to ask, to inquire	null	
+"w5/xB#/QVM"	低	テイ<br>ひく-い、ひく-める、ひく-まる	low	最低限 (さいていげん) - minimum, at the very least​<br>低下 (ていか) - fall, decline<br>低価格 (ていかく) - low price	最　サイ　もっと-も　most<br>限　ゲン　かぎ-る　limit<br>下　カ　した　below<br>価　カ　あたい　value<br>格　カク　status	
+"D#@;L,TTuV"	依	イ、（エ）	reliant	依然 (いぜん) - still, as yet<br>依存 (いぞん) - dependence, reliance​<br>依頼 (いらい) - request, commission	然　ゼン　so<br>存　ソン　suppose<br>頼　ライ　たの-む　trust	
+pCDbtg4}j:	個	コ	individual	個性 (こせい) - individuality, personality<br>個別 (こべつ) - particular case, discrete<br>個人差 (こじんさ) - individual differences, personal equation​	性　セイ　gender<br>別　ベツ　わか-れる　separate<br>人　ジン　ひと　person<br>差　サ　さ-す　distinction	
+Q5Su^I]q.W	倍	バイ	double	倍増 (ばいぞう) - double<br>倍 (ばい) - twice, double​<br>倍率 (ばいりつ) - magnification, leverage	増　ゾウ　ま-す　increase<br>率　ソツ　ひき-いる　rate	
+"LbB?4j#cBe"	停	テイ	halt	停滞 (ていたい) - stagnation, tie-up<br>停止 (ていし) - stoppage, coming to a stop<br>停電 (ていでん) - power outage, blackout	滞　タイ　とどこお-る　stagnate<br>止　シ　と-まる　stop<br>電　デン　electricity	
+lh|s~afJib	傾	ケイ<br>かたむ-く、かたむ-ける	lean	傾ける (かたむける) - to incline, to lean<br>傾く (かたむく) - to incline toward, to slant<br>傾らか (なだらか) - gently sloping, gentle	null	
+zdY06p+V_X	像	ゾウ	statue	映像 (えいぞう) - reflection, image<br>想像 (そうぞう) - imagination, guess<br>像 (ぞう) - image, figure	映　エイ　うつ-る　reflect<br>想　ソウ　concept	
+"dc&YJU$K#N"	億	オク	hundred million	億 (おく) - hundred million	null	
+"DoBWcV#kJq"	兆	チョウ<br>きざ-す、きざ-し	portent, trillion	兆 (ちょう) - 10^12, 1<br>兆し (きざし) - sign, indication	null	
+xZ[rK4vd3,	児	ジ、（ニ）	child	育児 (いくじ) - childcare, child-rearing<br>児童 (じどう) - children, juvenile​<br>小児科 (しょうにか) - pediatrics	育　イク　そだ-つ　nurture<br>童　ドウ　わらべ　juvenile<br>小　ショウ　ちい-さい　small<br>科　カ　section	
+qLymILaXqI	党	トウ	group	政党 (せいとう) - political party​<br>野党 (やとう) - opposition party, political opposition<br>党 (とう) - party (political)	政　セイ　まつりごと　politics<br>野　ヤ　の　field	
+h<QoxVK0jF	兵	ヘイ、ヒョウ	soldier	兵器 (へいき) - arms, weapons<br>兵士 (へいし) - soldier<br>兵隊 (へいたい) - soldier, sailor	器　キ　うつわ　container<br>士　シ　gentleman<br>隊　タイ　group	
+"GFeY#+v_6~"	冊	サツ、サク	counter for books	冊 (さつ) - counter for books, volume	null	
+dUzKx~*huU	再	サイ、（サ）<br>ふたた-び	again	再生 (さいせい) - resuscitation, regeneration<br>再 (さい) - (prefix) re-, again<br>再度 (さいど) - twice, again	生　セイ　い-きる　life<br>度　ド　たび　degrees	
+skJHYu4x$w	凍	トウ<br>こお-る、こご-える	frozen	凍る (こおる) - to freeze<br>凍える (こごえる) - to freeze (of one's body), to be frozen<br>冷凍 (れいとう) - freezing, cold storage	冷　レイ　つめ-たい　cool	
+r7z~!F|vr]	刊	カン	publish	週刊 (しゅうかん) - weekly publication​<br>夕刊 (ゆうかん) - evening paper<br>創刊 (そうかん) - foundation (of a newspaper, magazine, etc), starting	週　シュウ　week<br>夕　セキ　ゆう　evening<br>創　ソウ　つく-る　create	
+ps*N>G199{	刷	サツ<br>す-る	printing	印刷物 (いんさつぶつ) - printed matter​<br>印刷 (いんさつ) - printing<br>刷る (する) - to print, to color or pattern fabric using a wooden mold	印　イン　しるし　mark<br>物　ブツ　もの　thing	
+"BS%M#&w}`y"	券	ケン	ticket	券 (けん) - ticket, coupon<br>回数券 (かいすうけん) - coupon tickets, discount tickets<br>定期券 (ていきけん) - commuter pass, season ticket	回　カイ　まわ-る　times<br>数　スウ　かず　number<br>定　テイ　さだ-める　decide<br>期　キ　period of time	
+eU7ZB-G3cP	刺	シ<br>さ-す、さ-さる	thorn	名刺 (めいし) - business card​<br>刺す (さす) - to pierce, to stab<br>刺激 (しげき) - stimulus, impetus	名　メイ　な　name<br>激　ゲキ　はげ-しい　violent	
+C&e_WAfksl	則	ソク	rule	原則 (げんそく) - principle, general rule​<br>不規則 (ふきそく) - irregularity, unsteadiness<br>規則 (きそく) - rule, regulation​	原　ゲン　はら　field<br>不　フ　non-<br>規　キ　rule	
+MfeAp.,N6*	副	フク	vice	副 (ふく) - assistant, associate<br>副詞 (ふくし) - adverb	詞　シ　poetry	
+k:quJS76Pz	劇	ゲキ	drama	劇的 (げきてき) - dramatic, exciting<br>劇 (げき) - drama, play<br>劇場 (げきじょう) - theater	的　テキ　まと　target<br>場　ジョウ　ば　place	
+KLekeE!-~=	効	コウ<br>き-く	effect	効率 (こうりつ) - efficiency<br>無効 (むこう) - invalid, no effect<br>効力 (こうりょく) - effect, efficacy	率　ソツ　ひき-いる　rate<br>無　ム　な-い　nothing<br>力　リョク　ちから　power	
+J!)RO*:-?w	勇	ユウ<br>いさ-む	courage	勇敢 (ゆうかん) - brave, heroic<br>勇気 (ゆうき) - courage, bravery<br>勇ましい (いさましい) - brave, valiant	敢　カン　daring<br>気　キ　feeling	
+M,&,~/%fj0	募	ボ<br>つの-る	recruit	募る (つのる) - to grow violent, to become stronger<br>募金 (ぼきん) - fund-raising, collection of funds​<br>応募者 (おうぼしゃ) - applicant	金　キン　かね　gold<br>応　オウ　こた-える　respond<br>者　シャ　もの　someone	
+gZ.COcD~^G	勢	セイ<br>いきお-い	power	情勢 (じょうせい) - state of things, state of affairs<br>態勢 (たいせい) - attitude, posture<br>勢い (いきおい) - force, vigor	情　ジョウ　なさ-け　feelings<br>態　タイ　condition	
+lFFGAN&YcF	包	ホウ<br>つつ-む	wrap	包丁 (ほうちょう) - kitchen knife, carving knife​<br>内包 (ないほう) - connotation, comprehension<br>小包 (こずつみ) - parcel, package	丁　チョウ　ward<br>内　ナイ　うち　inside<br>小　ショウ　ちい-さい　small	
+Q00Q`[hd*~	匹	ヒツ<br>ひき	equal	匹敵 (ひってき) - to be a match for, to rival<br>匹 (ひき, き) - counter for small animals	敵　テキ　かたき　enemy	
+PqCJyNHtce	区	ク	ward	区切り (くぎり) - punctuation, pause<br>地区 (ちく) - district, section<br>区別 (くべつ) - distinction, differentiation	切　セツ　き-る　cut<br>地　チ　ground<br>別　ベツ　わか-れる　separate	
+zCeJW3sLi3	卒	ソツ	graduate	卒業 (そつぎょう) - graduation<br>何卒 (なにとぞ, なにそつ) - please, kindly	業　ギョウ　わざ　business<br>何　カ　なに　what	
+k`W/)euKqN	協	キョウ	cooperation	妥協 (だきょう) - compromise, giving in​<br>協会 (きょうかい) - association, society<br>協力 (きょうりょく) - cooperation	妥　ダ　gentle<br>会　カイ　あ-う　association<br>力　リョク　ちから　power	
+r,}5.Uct*N	占	セン<br>し-める、うらな-う	fortune telling	独占 (どくせん) - monopoly, monopolization​<br>占領 (せんりょう) - occupying, possession<br>買い占める (かいしめる) - to buy up​	独　ドク　ひと-り　alone<br>領　リョウ　territory<br>買　バイ　か-う　buy	
+JJ:m`l,8c!	印	イン<br>しるし	mark	印鑑 (いんかん) - stamp, seal​<br>印刷物 (いんさつぶつ) - printed matter​<br>好印象 (こういんしょう) - good impression, favorable impression​	鑑　カン　かんが-みる　specimen<br>刷　サツ　す-る　printing<br>物　ブツ　もの　thing<br>好　コウ　この-む　like<br>象　ショウ　elephant	
+lpKE!/_!L(	卵	ラン<br>たまご	egg	卵 (たまご) - egg, spawn<br>卵黄 (らんおう) - egg yolk<br>卵白 (らんぱく) - egg white	黄　オウ　き　yellow<br>白　ハク　しろ　white	
+J5eYt|,.H3	厚	コウ<br>あつ-い	thick	厚かましい (あつかましい) - impudent, shameless<br>濃厚 (のうこ) - rich (in flavor, color, smell, etc.), thick<br>温厚 (おんこう) - gentle, mild-mannered​	濃　ノウ　こ-い　concentrated<br>温　オン　あたた-か　warm	
+m/KHJO_TEp	双	ソウ<br>ふた	pair	双子 (ふたご) - twins	子　シ　こ　child	
+smr((tK;Gd	叫	キョウ<br>さけ-ぶ	shout	叫ぶ (さけぶ) - to shout, to cry<br>叫び (さけび) - shout, cry	null	
+C|tM_A)Kiv	召	ショウ<br>め-す	summon	召し上がる (めしあがる) - to eat, to drink<br>召す (めす) - to call, to summon	上　ジョウ　うえ　up	
+}{%0lT,Vp	史	シ	history	歴史 (れきし) - history<br>史 (し) - history<br>女史 (じょし) - lady (of high social status; eg scholar, artist, critic, politician), Ms	歴　レキ　curriculum<br>女　ジョ　おんな　woman	
+LIP?=s5FD<	各	カク<br>おのおの	each	各位 (かくい) - everyone, each and every one (of you)<br>各自 (かくじ) - each (person), everyone<br>各地 (かくち) - every place, various places​	位　イ　くらい　rank<br>自　ジ　みずか-ら　oneself<br>地　チ　ground	
+H_d]gqD=EE	含	ガン<br>ふく-む、ふく-める	include	含める (ふくめる) - to include (in a group or scope)​, to include (a nuance)<br>含む (ふくむ) - to contain, to comprise	null	
+`Y&c]yh$-	周	シュウ<br>まわ-り	circumference	周辺 (しゅうへん) - circumference, outskirts<br>周年 (しゅうねん) - whole year, entire year​<br>周囲 (しゅうい) - surroundings, environs	辺　ヘン　あた-り　environs<br>年　ネン　とし　year<br>囲　イ　かこ-む　surround	
+rRgUQaenfP	咲	さ-く	blossom	咲く (さく) - to bloom	null	
+"d0,?O#oSH:"	喫	キツ	consume	喫茶店 (きっさてん) - coffee shop<br>喫茶 (きっさ) - tea drinking, teahouse	茶　チャ　tea<br>店　テン　みせ　shop	
+bl2*kmPdj5	営	エイ<br>いとな-む	manage	営む (いとなむ) - to run (a business), to operate<br>運営 (うん’えい) - management, administration<br>経営者 (けいえいしゃ) - manager, proprietor​	運　ウン　はこ-ぶ　carry<br>経　ケイ　へ-る　manage<br>者　シャ　もの　someone	
+ht{Yz3|%nb	団	ダン、（トン）	group	団結 (だんけつ) - unity, union<br>団体 (だんたい) - organization, association<br>集団 (しゅうだん) - group, mass	結　ケツ　むす-ぶ　tie<br>体　タイ　からだ　body<br>集　シュウ　あつ-まる　collect	
+"r#Kk)WZ7O."	囲	イ<br>かこ-む、かこ-う	surround	雰囲気 (ふんいき) - atmosphere<br>範囲 (はんい) - range, scope<br>囲む (かこむ) - to surround, to encircle	雰　フン　atmosphere<br>気　キ　feeling<br>範　ハン　pattern	
+F^?o.[=3xt	固	コ<br>かた-める、かた-まる、かた-い	hard	固める (かためる) - to harden, to solidify<br>固定 (こてい) - fixation, fixing<br>頑固 (がんこ) - stubborn, obstinate	定　テイ　さだ-める　decide<br>頑　ガン　stubborn	
+z<CB+6Q1FF	圧	アツ	pressure	圧倒 (あっとう) - overwhelm, overpower<br>圧力 (あつりょく) - pressure, stress​<br>圧勝 (あっしょう) - complete victory​	倒　トウ　たお-れる　overthrow<br>力　リョク　ちから　power<br>勝　ショウ　か-つ　win	
+wPF[Nu}O^i	坂	ハン<br>さか	slope	坂道 (さかみち) - hill road<br>坂 (さか) - slope, hill	道　ドウ　みち　road	
+eU:ieE+Rk$	均	キン	level	平均 (へいきん) - average, mean<br>均衡 (きんこう) - equilibrium, balance	平　ヘイ　たい-ら　flat<br>衡　コウ　equilibrium	
+g4|-yK81I8	型	ケイ<br>かた	model	模型 (もけい) - model, dummy<br>体型 (たいけい) - figure, body shape<br>夜型 (よるがた) - nocturnal (person)​	模　モ　imitation<br>体　タイ　からだ　body<br>夜　ヤ　よ　night	
+Aqo819n8}:	埋	マイ<br>う-める、う-まる、う-もれる	bury	埋め込む (うめこむ) - to bury, to embed<br>埋める (うめる) - to bury, to fill up<br>埋まる (うまる, うずまる) - to be buried, to be covered	込　こ-む　crowded	
+l/I48:`,2*	城	ジョウ<br>しろ	castle	城 (しろ) - castle<br>城下 (じょうか) - land near a castle, castle town	下　カ　した　below	
+Kwp0T^EqD{	域	イキ	range	領域 (りょういき) - area, domain<br>地域 (ちいき) - area, region<br>区域 (くいき) - limits, boundary	領　リョウ　territory<br>地　チ　ground<br>区　ク　ward	
+b/]:VP.pq=	塔	トウ	pagoda	塔 (とう) - tower, pagoda	null	
+f*W/ailm<x	塗	ト<br>ぬ-る	paint	塗る (ぬる) - to paint, to plaster<br>塗れ (まみれ, まぶれ) - covered with, stained	null	
+b3v<AmINR%	塩	エン<br>しお	salt	塩 (しお) - salt<br>塩辛い (しおからい, からい) - salty (taste), briny<br>食塩 (しょくえん) - table salt	辛　シン　から-い　spicy<br>食　ショク　く-う　eat, meal	
+gD4u4v=~;$	境	キョウ、（ケイ）<br>さかい	boundary	環境 (かんきょう) - environment<br>国境 (こっきょう) - national border<br>境 (さかい) - border, boundery	環　カン　ring<br>国　コク　くに　country	
+CrX8&B+z8`	央	オウ	center	中央 (ちゅうおう) - centre, middle	中　チュウ　なか　middle	
+I*W%-jk}5[	奥	オウ<br>おく	heart	奥底 (おくそこ) - depths, bottom (of one’s heart)​<br>奥 (おく) - inner part<br>奥さん (おくさん) - wife, your wife	底　テイ　そこ　bottom	
+d+Sl<tRA0}	姓	セイ、ショウ	surname	姓 (せい, しょう, そう) - surname, family name<br>姓名 (せいめい) - (full) name, family name and given name	名　メイ　な　name	
+dxJc0.x!qz	委	イ<br>ゆだ-ねる	committee	委員 (いいん) - committee member<br>委託 (いたく) - entrusting (something to a person), consignment (of goods)	員　イン　member<br>託　タク　consign	
+Ew*tC;S.Ln	季	キ	seasons	季節 (きせつ) - season<br>四季 (しき) - the four seasons<br>季刊 (きかん) - quarterly publication	節　セツ　ふし　node<br>四　シ　よ　four<br>刊　カン　publish	
+dt}T-^%EP!	孫	ソン<br>まご	grandchild	孫 (まご) - grandchild<br>子孫 (しそん) - descendant, posterity	子　シ　こ　child	
+l3t:to_1}T	宇	ウ	eaves	宇宙人 (うちゅうじん) - space alien, alien<br>宇宙 (うちゅう) - universe, cosmos	宙　チュウ　mid-air<br>人　ジン　ひと　person	
+CyRLp>hN7Y	宝	ホウ<br>たから	treasure	宝石 (ほうせき) - gem, jewel<br>宝 (たから) - treasure<br>重宝 (ちょうほう, じゅうほう) - convenient, useful	石　セキ　いし　stone<br>重　ジュウ　え　heavy	
+"D{qW#>4#ys"	寺	ジ<br>てら	Buddhist temple	寺 (てら) - temple (Buddhist)​<br>寺院 (じいん) - Buddhist temple, religious building	院　イン　institution	
+"GGB^5q7o#B"	封	フウ、ホウ	seal	封鎖 (ふうさ) - blockade<br>開封 (かいふう) - opening (an envelope or parcel), breaking the seal<br>封筒 (ふうとう) - envelope	鎖　サ　くさり　chain<br>開　カイ　ひら-く　open<br>筒　トウ　つつ　cylinder	
+EWqDtS3anm	専	セン<br>もっぱ-ら	specialty	専用 (せんよう) - exclusive use, personal use<br>専業主婦 (せんぎょうしゅふ) - housewife<br>専門書 (せんもんしょ) - technical book, specialized book	用　ヨウ　もち-いる　use<br>業　ギョウ　わざ　business<br>主　シュ　ぬし　master<br>婦　フ　lady<br>門　モン　かど　gates<br>書　ショ　か-く　write	
+rkeBIJVCT5	将	ショウ	leader	将来 (しょうらい) - future, prospects<br>将棋 (しょうぎ) - shogi, Japanese chess	来　ライ　く-る　come<br>棋　キ　chess piece	
+jts(]8kpc]	尊	ソン<br>たっと-い、とうと-い、たっと-ぶ、とうと-ぶ	revered	尊重 (そんちょう) - respect, esteem<br>尊敬 (そんけい) - respect, esteem<br>自尊心 (じそんしん) - self-esteem, self-respect	重　ジュウ　え　heavy<br>敬　ケイ　うやま-う　respect<br>自　ジ　みずか-ら　oneself<br>心　シン　こころ　heart	
+o*xwiNaeI1	導	ドウ<br>みちび-く	guide	主導 (しゅどう) - leadership, initiative<br>導入 (どうにゅう) - introduction, bringing in<br>導く (みちびく) - to guide, to lead	主　シュ　ぬし　master<br>入　ニュウ　い-る　enter	
+s`)c}gTyfJ	届	とど-ける、とど-く	deliver	届く (とどく) - to reach, to be delivered<br>届ける (とどける) - to deliver, to send<br>届 (とどけ) - report, notification	null	
+nsOn`HAp0d	層	ソウ	stratum	高層 (こうそう) - multistory, multistoried<br>一層 (いっそう) - much more, still more<br>大層 (たいそう) - very, extremely	高　コウ　たか-い　tall, expensive<br>一　イチ　ひと　one<br>大　ダイ　おお　large	
+"y!},)gi@{#"	岩	ガン<br>いわ	boulder	岩 (いわ) - rock<br>溶岩 (ようがん) - lava<br>岩石 (がんせき) - rock	溶　ヨウ　と-ける　melt<br>石　セキ　いし　stone	
+N<v,aNIYyZ	岸	ガン<br>きし	beach	岸 (きし) - bank, coast<br>海岸 (かいがん) - coast, beach​<br>沿岸 (えんがん) - coast, shore	海　カイ　うみ　sea<br>沿　エン　そ-う　run alongside	
+I8($bHbl~O	島	トウ<br>しま	island	島 (しま) - island<br>列島 (れっとう) - archipelago, chain of islands<br>半島 (はんとう) - peninsula, Korea	列　レツ　row<br>半　ハン　なか-ば　half	
+x2XR$9f^B5	州	シュウ<br>す	state	州 (しゅう) - state (of the US, Australia, India, Germany, etc), province (eg of Canada)	null	
+o.bU%=WrTN	巨	キョ	gigantic	巨大 (きょだい) - huge, gigantic	大　ダイ　おお　large	
+o:DgJmmZ}>	巻	カン<br>ま-く、まき	scroll	巻き込む (まきこむ) - to roll up, to enfold<br>巻 (かん) - volume (of book), reel (of film)<br>巻く (まく) - to wind, to coil	込　こ-む　crowded	
+"MiCx!{|c#8"	布	フ<br>ぬの	linen	毛布 (もうふ) - blanket<br>布 (ぬの) - cloth<br>布団 (ふとん) - futon	毛　モウ　け　hair<br>団　ダン　group	
+oTP8<M51J.	希	キ	hope	希望 (きぼう) - hope, wish<br>希望者 (きぼうしゃ) - applicant, candidate	望　ボウ　のぞ-む　hope<br>者　シャ　もの　someone	
+K<[cM]^B{Q	帯	タイ<br>お-びる、おび	sash	携帯 (けいたい) - something carried (in the hand)<br>地帯 (ちたい) - area, zone<br>時間帯 (じかんたい) - period of time, time slot	携　ケイ　たずさ-える　portable<br>地　チ　ground<br>時　ジ　とき　time<br>間　カン　あいだ　interval	
+k.P85|N/h-	帽	ボウ	cap	帽子 (ぼうし) - hat, cap	子　シ　こ　child	
+I+&WHK]:K&	幅	フク<br>はば	breadth	大幅 (おおはば) - big, large<br>幅広い (はばひろい) - extensive, wide<br>肩幅 (かたはば) - shoulder width (breadth)​	大　ダイ　おお　large<br>広　コウ　ひろ-い　wide<br>肩　ケン　かた　shoulder	
+K%]2T4yn$(	干	カン<br>ほ-す、ひ-る	dry	干渉 (かんしょう) - interference, intervention<br>干す (ほす) - to dry, to drink up<br>若干 (じゃっかん, そこばく, そくばく, そこば) - some, few	渉　ショウ　ford<br>若　ジャク　わか-い　young	
+KpOMOgz4T>	幼	ヨウ<br>おさな-い	infancy	幼稚 (ようち) - infancy, childish<br>幼稚園 (ようちえん) - kindergarten<br>幼い (おさない) - very young, childish	稚　チ　immature<br>園　エン　その　garden	
+brhxO@w~td	庁	チョウ	government office	官庁 (かんちょう) - government office, government agency<br>庁 (ちょう) - government office, agency<br>県庁 (けんちょう) - prefectural office	官　カン　government official<br>県　ケン　prefecture	
+E8rL$Q>%8%	床	ショウ<br>とこ、ゆか	bed	床 (ゆか) - floor<br>床屋 (とこや) - barbershop, barber​<br>起床 (きしょう) - rising (from one's bed), getting up	屋　オク　や　roof<br>起　キ　お-きる　wake up	
+nGLGZBmcq7	底	テイ<br>そこ	bottom	奥底 (おくそこ) - depths, bottom (of one’s heart)​<br>到底 (とうてい) - by no means, not at all<br>底 (そこ) - bottom, sole	奥　オウ　おく　heart<br>到　トウ　arrival	
+oIpO]vp976	府	フ	urban prefecture	政府 (せいふ) - government, administration	政　セイ　まつりごと　politics	
+gHDJ$9XxYE	庫	コ、（ク）	warehouse	倉庫 (そうこ) - storehouse, warehouse<br>金庫 (きんこ) - safe, vault<br>冷蔵庫 (れいぞうこ) - refrigerator	倉　ソウ　くら　warehouse<br>金　キン　かね　gold<br>冷　レイ　つめ-たい　cool<br>蔵　ゾウ　くら　warehouse	
+E6`GE(PL|	延	エン<br>の-びる、の-べる、の-ばす	prolong	延長 (えんちょう) - extension, elongation<br>延期 (えんき) - postponement<br>延べ (のべ) - futures, credit (buying)	長　チョウ　なが-い　long<br>期　キ　period of time	
+g`9ARa&F=k	弱	ジャク<br>よわ-い、よわ-る、よわ-まる、よわ-める	weak	弱める (よわめる) - to weaken​<br>強弱 (きょうじゃく) - strength and weakness, (degree of) strength​<br>軟弱 (なんじゃく) - weakness	強　キョウ　つよ-い　strong<br>軟　ナン　やわ-らか　soft	
+ozJ&U;1O*<	律	リツ、（リチ）	law	自律 (じりつ) - autonomy (philosophy)​, self-control​<br>法律 (ほうりつ) - law<br>規律 (きりつ) - order, observance	自　ジ　みずか-ら　oneself<br>法　ホウ　method<br>規　キ　rule	
+P9(bB1(BC9	復	フク	again	復讐 (ふくしゅう) - revenge<br>回復 (かいふく) - recovery<br>往復 (おうふく) - making a round trip	回　カイ　まわ-る　times<br>往　オウ　outward journey	
+k~>nEl;/Rd	快	カイ<br>こころよ-い	cheerful	不快 (ふかい) - displeasure, discomfort<br>不愉快 (ふゆかい) - unpleasant, disagreeable<br>快い (こころよい) - pleasant, agreeable	不　フ　non-<br>愉　ユ　pleasure	
+ET<U0tn2-a	恋	レン<br>こ-う、こい、こい-しい	romance	恋愛 (れん’あい) - love, love-making<br>恋 (こい) - love<br>恋人 (こいびと) - lover, sweetheart	愛　アイ　love<br>人　ジン　ひと　person	
+ph.pJxB+B3	患	カン<br>わずら-う	afflicted	患者 (かんじゃ) - patient	者　シャ　もの　someone	
+G:S8O65Q]p	悩	ノウ<br>なや-む、なや-ます	trouble	悩み (なやみ) - trouble, worry<br>悩む (なやむ) - to be worried<br>悩ましい (なやましい) - seductive, carnal	null	
+b*3|_(d+99	憎	ゾウ<br>にく-む、にく-い、にく-らしい、にく-しみ	hate	憎しみ (にくしみ) - hatred<br>憎い (にくい) - hateful, abominable<br>生憎 (あいにく) - unfortunately, sorry	生　セイ　い-きる　life	
+wZEbceIz*T	戸	コ<br>と	door	戸 (と) - door<br>瀬戸物 (せともの, セトモノ) - earthenware, porcelain<br>戸棚 (とだな) - cupboard, locker	瀬　せ　rapids<br>物　ブツ　もの　thing<br>棚　たな　shelf	
+AN}y}`Bf3r	承	ショウ<br>うけたまわ-る	acquiesce	了承 (りょうしょう) - acknowledgement, acknowledgment<br>承知 (しょうち) - knowledge, awareness<br>承認 (しょうにん) - recognition, acknowledgement	了　リョウ　finish<br>知　チ　し-る　know<br>認　ニン　みと-める　recognize	
+Igu}MW0kd8	技	ギ<br>わざ	skill	演技 (えんぎ) - acting, performance<br>技師 (ぎし) - engineer, technician<br>競技 (きょうぎ) - game, match	演　エン　perform<br>師　シ　expert<br>競　キョウ　きそ-う　compete	
+jT`H|FSMwd	担	タン<br>かつ-ぐ、にな-う	shouldering	負担 (ふたん) - burden, charge<br>担う (になう) - to carry on shoulder, to bear<br>分担 (ぶんたん) - taking on one’s share (e.g. of work), dividing (work, expenses, etc.) between	負　フ　ま-ける　lose<br>分　ブン　わ-ける　part, minute of time	
+mg%JwjN-4E	拝	ハイ<br>おが-む	worship	拝見 (はいけん) - seeing, look at<br>拝む (おがむ) - to assume the posture of praying, to press the palms and fingers of both hands together<br>拝啓 (はいけい) - Dear (so and so), Dear Sir	見　ケン　み-る　see<br>啓　ケイ　disclose	
+jjH<O;.nQg	拾	シュウ、ジュウ<br>ひろ-う	pick up	拾う (ひろう) - to pick up<br>拾得 (しゅうとく) - finding (lost property); picking up​	得　トク　え-る　gain	
+hYTrA]+t)_	挟	キョウ<br>はさ-む、はさ-まる	pinch	挟む (はさむ) - to hold between (e.g. one’s fingers, chopsticks), to grip (from both sides)​<br>挟まる (はさまる) - to get between, to be caught in	null	
+}mB(TcqC&	捜	ソウ<br>さが-す	search	捜査 (そうさ) - search, investigation<br>捜索 (そうさく) - search (esp for someone or something missing), manhunt	査　サ　investigate<br>索　サク　cord	
+knfV`pO_Gi	捨	シャ<br>す-てる	throw away	捨てる (すてる) - to throw away, to cast away<br>四捨五入 (ししゃごにゅう) - rounding (fractions), rounding half up	四　シ　よ　four<br>五　ゴ　いつ　five<br>入　ニュウ　い-る　enter	
+qI?{DHHIg(	掃	ソウ<br>は-く	sweep	清掃 (せいそう) - cleaning, clean-up<br>掃く (はく) - to sweep, to brush<br>掃除機 (そうじき) - vacuum cleaner​	清　セイ　きよ-い　pure<br>除　ジョ　のぞ-く　exclude<br>機　キ　はた　machine	
+qLjR[WA3s9	掘	クツ<br>ほ-る	dig	掘る (ほる) - to dig, to excavate<br>発掘 (はっくつ) - excavation, exhumation<br>採掘 (さいくつ) - mining	発　ハツ　departure<br>採　サイ　と-る　pick	
+G{lH^LP,u?	採	サイ<br>と-る	pick	採用 (さいよう) - use, adoption<br>不採用 (ふさいよう) - rejection (of an application)​<br>採集 (さいしゅう) - collecting, gathering​	用　ヨウ　もち-いる　use<br>不　フ　non-<br>集　シュウ　あつ-まる　collect	
+fW@|wLyAO^	接	セツ<br>つ-ぐ	contact	接触 (せっしょく) - touch, contact​<br>密接 (みっせつ) - close (relationship, connection, etc.), intimate<br>接着 (せっちゃく) - adhesion, glueing	触　ショク　ふ-れる　contact<br>密　ミツ　secrecy<br>着　チャク　き-る　wear	
+N+F4:[HZZ/	換	カン<br>か-える、か-わる	interchange	転換 (てんかん) - conversion, changeover<br>変換 (へんかん) - change, conversion<br>気分転換 (きぶんてんかん) - change of pace, change of mood	転　テン　ころ-がる　revolve<br>変　ヘン　か-わる　change<br>気　キ　feeling<br>分　ブン　わ-ける　part, minute of time	
+E~dDqlJZFY	損	ソン<br>そこ-なう、そこ-ねる	loss	損なう (そこなう) - to harm, to hurt<br>損失 (そんしつ) - loss (e.g. assets or profits)​<br>損 (そん) - loss, disadvantage	失　シツ　うしな-う　lose	
+b,mW7(-0x;	改	カイ<br>あらた-める、あらた-まる	reformation	改革 (かいかく) - reform, reformation<br>改める (あらためる) - to change, to alter<br>改良 (かいりょう) - improvement, reform​	革　カク　かわ　leather<br>良　リョウ　よ-い　good	
+DD75c7.pBm	敬	ケイ<br>うやま-う	respect	敬意 (けいい) - respect, honor<br>尊敬 (そんけい) - respect, esteem<br>敬う (うやまう) - to show respect for, to revere	意　イ　idea<br>尊　ソン　たっと-い　revered	
+E,]wz2yEZj	旧	キュウ	old times	旧 (きゅう) - ex-, former<br>復旧 (ふっきゅう, ふくきゅう) - restoration, restitution<br>旧知 (きゅうち) - old friend, old acquaintance	復　フク　again<br>知　チ　し-る　know	
+Q!vpq|8We;	昇	ショウ<br>のぼ-る	rise up	昇進 (しょうしん) - promotion, advancement<br>上昇 (じょうしょう) - rising, ascending	進　シン　すす-む　advance<br>上　ジョウ　うえ　up	
+A,q&oxly*z	星	セイ、（ショウ）<br>ほし	star	衛星 (えいせい) - satellite<br>星 (ほし) - star<br>星座 (せいざ) - constellation, astrological sign	衛　エイ　defense<br>座　ザ　すわ-る　sit	
+JeQm]EkigK	普	フ	universal	普及 (ふきゅう) - diffusion, spread<br>普段 (ふだん) - usual, habitual<br>普通 (ふつう) - general, ordinary	及　キュウ　およ-ぶ　reach out<br>段　ダン　steps<br>通　ツウ　とお-る　pass through	
+io%h!{cZWj	暴	ボウ、（バク）<br>あば-く、あば-れる	outburst	暴力 (ぼうりょく) - violence, mayhem<br>暴れる (あばれる) - to act violently, to rage<br>乱暴 (らんぼう) - violence, assault	力　リョク　ちから　power<br>乱　ラン　みだ-れる　riot	
+w5Px4y)jsr	曇	ドン<br>くも-る	cloudy weather	曇 (くもり) - cloudiness, cloudy weather<br>曇る (くもる) - to get cloudy<br>曇り (くもり) - cloudiness, cloudy weather	null	
+B},*UU>yw4	替	タイ<br>か-える、か-わる	exchange	入り替える (いりかえる) - to replace, to substitute<br>組み替える (くみかえる) - to rearrange (classes), to recompose<br>立て替える (たてかえる) - to pay for another, to pay someone else’s debt as a loan to him	入　ニュウ　い-る　enter<br>組　ソ　く-む　association<br>立　リツ　た-つ　stand up	
+bhmMg856nV	札	サツ<br>ふだ	tag	改札 (かいさつ) - ticket gate, ticket barrier​<br>札 (さつ) - note, paper money<br>名札 (なふだ) - name plate, name tag	改　カイ　あらた-める　reformation<br>名　メイ　な　name	
+toLzLeZy^&	机	キ<br>つくえ	desk	机 (つくえ) - desk	null	
+bF2boO_d/v	材	ザイ	lumber	人材 (じんざい) - capable person, talented person​<br>木材 (もくざい) - lumber, timber<br>取材 (しゅざい) - news coverage, collecting data (e.g. for an article)	人　ジン　ひと　person<br>木　ボク　き　tree<br>取　シュ　と-る　take	
+ySn<%P^ndz	村	ソン<br>むら	village	村 (むら) - village<br>農村 (のうそん) - agricultural community, farm village<br>漁村 (ぎょそん) - fishing village	農　ノウ　farming<br>漁　ギョ　fishing	
+Fjz{zzS=w{	板	ハン、バン<br>いた	board	板 (いた) - board, plank<br>看板 (かんばん) - signboard, billboard<br>掲示板 (けいじばん) - bulletin board, notice board	看　カン　watch over<br>掲　ケイ　かか-げる　put up (a notice)<br>示　ジ　しめ-す　indicate	
+"iVU#L}^d;1"	林	リン<br>はやし	woods	森林 (しんりん) - forest, woods​<br>林 (はやし) - woods, forest<br>山林 (さんりん) - mountain forest, forest on a mountain	森　シン　もり　forest<br>山　サン　やま　mountain	
+O<6UvWoXSC	枚	マイ	sheet of...	枚 (まい) - counter for thin, flat objects (eg sheets of paper, plates, coins)<br>枚数 (まいすう) - the number of flat things	数　スウ　かず　number	
+bQJLZV|]rh	枝	シ<br>えだ	branch	枝 (えだ) - branch, bough	null	
+wM6(Ub(nCT	枯	コ<br>か-れる、か-らす	wither	枯れる (かれる) - to wither (of a plant)<br>枯葉 (かれは) - dead leaf; Autumn Leaves​	葉　ヨウ　は　leaf	
+p1_4A2N7wV	柔	ジュウ、ニュウ<br>やわ-らか、やわ-らかい	tender	柔軟 (じゅうなん) - flexible, lithe<br>柔道 (じゅうどう) - judo<br>柔らかい (やわらかい) - soft, tender	軟　ナン　やわ-らか　soft<br>道　ドウ　みち　road	
+hE[{;EsviR	柱	チュウ<br>はしら	pillar	電柱 (でんちゅう) - utility pole, power pole<br>柱 (はしら) - pillar, post	電　デン　electricity	
+crhG(WR55s	査	サ	investigate	捜査 (そうさ) - search, investigation<br>調査 (ちょうさ) - investigation, examination<br>検査 (けんさ) - inspection, examination	捜　ソウ　さが-す　search<br>調　チョウ　しら-べる　investigate<br>検　ケン　examine	
+t-:NJH/gtC	栄	エイ<br>さか-える、は-え、は-える	prosperity	繁栄 (はん’えい) - prosperity, thriving<br>栄える (さかえる) - to prosper, to flourish​<br>栄養 (えいよう) - nutrition, nourishment	繁　ハン　luxuriant<br>養　ヨウ　やしな-う　foster	
+d2-bfEhRk}	根	コン<br>ね	root	根拠 (こんきょ) - basis, foundation​<br>根元/根本 (こんげん) - root, source<br>根性 (こんじょう) - willpower, guts	拠　キョ　foothold<br>元　ゲン　もと　origin<br>本　ホン　もと　book<br>性　セイ　gender	
+Ovcw_J)6Z4	械	カイ	contraption	機械 (きかい) - machine, mechanism	機　キ　はた　machine	
+v)<M8PyEjE	棒	ボウ	rod	棒 (ぼう) - pole, rod<br>泥棒 (どろぼう) - thief, burglar<br>鉄棒 (てつぼう) - iron rod, iron bar	泥　デイ　どろ　mud<br>鉄　テツ　iron	
+ucviHmm_.0	森	シン<br>もり	forest	森林 (しんりん) - forest, woods​<br>森 (もり) - forest	林　リン　はやし　woods	
+v-|,h8|^G,	植	ショク<br>う-える、う-わる	plant	鉢植え (はちうえ) - potted plant​<br>植物 (しょくぶつ) - plant, vegetation<br>植える (うえる) - to plant, to grow	鉢　ハチ　bowl<br>物　ブツ　もの　thing	
+kk3}Nuk}Nn	極	キョク、ゴク<br>きわ-める、きわ-まる、きわ-み	poles	極端 (きょくたん) - extreme, extremity​<br>究極 (きゅうきょく) - ultimate, extreme<br>消極的 (しょうきょくてき) - negative, passive	端　タン　はし　edge<br>究　キュウ　きわ-める　research<br>消　ショウ　き-える　extinguish<br>的　テキ　まと　target	
+g(TZuF|A.{	橋	キョウ<br>はし	bridge	橋 (はし) - bridge<br>鉄橋 (てっきょう) - railway bridge, iron bridge<br>橋渡し (はしわたし) - mediation, good offices	鉄　テツ　iron<br>渡　ト　わた-る　transit	
+Q;cJJHVl.z	欧	オウ	Europe	欧米 (おうべい) - Europe and America, the West​<br>欧 / 欧州&nbsp;(おう / おうしゅう) - Europe	米　ベイ　こめ　rice<br>州　シュウ　す　state	
+sfhw)^du_w	武	ブ、ム	military	武装 (ぶそう) - arms, armament​<br>武器 (ぶき) - weapon, arms<br>武士 (ぶし) - samurai, warrior	装　ソウ　よそお-う　attire<br>器　キ　うつわ　container<br>士　シ　gentleman	
+wAH1gBoIZ[	歴	レキ	curriculum	経歴 (けいれき) - personal history, career​<br>学歴 (がくれき) - academic background​<br>履歴書 (りれきしょ) - personal history, curriculum vitae	経　ケイ　へ-る　manage<br>学　ガク　まな-ぶ　study<br>履　リ　は-く　footgear<br>書　ショ　か-く　write	
+=/4uN}1_	殿	デン、テン<br>との、どの	Mr.	殿 (どの) - Mr, Mrs<br>殿様 (とのさま) - nobleman, dignitary<br>沈殿 (ちんでん) - precipitation, deposition	様　ヨウ　さま　formal title<br>沈　チン　しず-む　sink	
+i%(0/jW6kZ	毒	ドク	poison	毒 (どく) - poison, toxicant<br>気の毒 (きのどく) - pitiful, unfortunate<br>お気の毒に (おきのどくに) - my sympathies, that's too bad	気　キ　feeling	
+"q-0#/!T!)h"	比	ヒ<br>くら-べる	compare	比例 (ひれい) - proportion<br>対比 (たいひ) - contrast, comparison<br>比較 (ひかく) - comparison	例　レイ　たと-える　example<br>対　タイ　opposite<br>較　カク　contrast	
+"ks~4#b4!y,"	毛	モウ<br>け	hair	毛糸 (けいと) - knitting wool, woollen yarn​<br>髪の毛 (かみのけ) - hair (head)<br>毛布 (もうふ) - blanket	糸　シ　いと　thread<br>髪　ハツ　かみ　hair of the head<br>布　フ　ぬの　linen	
+z)>/d:xti7	氷	ヒョウ<br>こおり、ひ	ice	氷 (こおり) - ice<br>氷山 (ひょうざん) - iceberg	山　サン　やま　mountain	
+E]C/<p=CXC	永	エイ<br>なが-い	eternity	永遠 (えいえん) - eternity<br>永久 (えいきゅう) - eternity	遠　エン　とお-い　far<br>久　キュウ　ひさ-しい　long time	
+g7Gz8]>hw}	汗	カン<br>あせ	sweat	汗 (あせ) - sweat, perspiration<br>汗ばむ (あせばむ)&nbsp;- to be sweaty​	null	
+EG:`$DCD.S	汚	オ<br>けが-す、けが-れる、けが-らわしい、よご-す、よご-れる、きたな-い	dirty	汚染 (おせん) - pollution, contamination<br>汚れ (よごれ) - dirt, filth<br>汚れる (よごれる) - to get dirty	染　セン　そ-める　dye	
+l>YUGGrP~e	池	チ<br>いけ	pond	電池 (でんち) - battery, cell​<br>池 (いけ) - pond<br>乾電池 (かんでんち) - dry cell, battery	電　デン　electricity<br>乾　カン　かわ-く　dry	
+CmhQ_|YVHb	沈	チン<br>しず-む、しず-める	sink	沈黙 (ちんもく) - silence, being silent<br>沈める (しずめる) - to sink, to submerge​<br>沈む (しずむ) - to sink, to go under	黙　モク　だま-る　silence	
+b*<O@}W4&l	河	カ<br>かわ	river	運河 (うんが) - (navigable) canal, waterway<br>河川 (かせん) - rivers	運　ウン　はこ-ぶ　carry<br>川　セン　かわ　river	
+w+$bs%J,4L	沸	フツ<br>わ-く、わ-かす	seethe	沸騰 (ふっとう) - boiling, becoming heated<br>沸かす (わかす) - to boil, to heat​<br>沸く (わく) - to grow hot, to boil	騰　トウ　inflation	
+jSx:PM1!<-	油	ユ<br>あぶら	oil	油断 (ゆだん) - negligence, carelessness<br>油 (あぶら) - oil<br>石油 (せきゆ) - oil, petroleum	断　ダン　た-つ　cut off<br>石　セキ　いし　stone	
+NwZ7MgY*Sf	況	キョウ	condition	状況 (じょうきょう) - state of affairs<br>況して (まして) - still more, to say nothing of<br>好況 (こうきょう) - prosperous conditions, healthy economy	状　ジョウ　form<br>好　コウ　この-む　like	
+oN:UWE(rEP	泉	セン<br>いずみ	spring	泉 (いずみ) - spring, fountain<br>温泉 (おんせん) - hot spring​	温　オン　あたた-か　warm	
+j$RUpdRp~s	泊	ハク<br>と-まる、と-める	overnight	泊 (はく) - counter for nights of a stay​<br>宿泊先 (しゅくはくさき) - lodging place<br>宿泊 (しゅくはく) - lodging	宿　シュク　やど　inn<br>先　セン　さき　previous	
+"i^k#0;LQUW"	波	ハ<br>なみ	wave	電波 (でんぱ) - radio wave, reception<br>波 (なみ) - wave<br>津波 (つなみ) - tsunami, tidal wave	電　デン　electricity<br>津　シン　つ　haven	
+LM%q&]Wipd	泥	デイ<br>どろ	mud	泥 (どろ) - mud, dirt<br>泥棒 (どろぼう) - thief, burglar	棒　ボウ　rod	
+iS2f@X-[6(	浅	セン<br>あさ-い	shallow	浅い (あさい) - shallow, superficial​<br>浅ましい (あさましい) - wretched, miserable	null	
+MGeiM)UDAW	浴	ヨク<br>あ-びる、あ-びせる	bathe	海水浴 (かいすいよく) - swimming in the ocean, sea bathing<br>浴びる (あびる) - to take a shower<br>浴衣 (ゆかた, よくい) - yukata (light cotton kimono worn in the summer or used as a bathrobe)	海　カイ　うみ　sea<br>水　スイ　みず　water<br>衣　イ　ころも　clothes	
+h$n%k_2Fz*	涙	ルイ<br>なみだ	tears	涙 (なみだ) - tears	null	
+dRjpW2r|/p	液	エキ	fluid	血液 (けつえき) - blood<br>血液型 (けつえきがた) - blood type<br>液体 (えきたい) - liquid	血　ケツ　ち　blood<br>型　ケイ　かた　model<br>体　タイ　からだ　body	
+L&Z9Z(ODmG	涼	リョウ<br>すず-しい、すず-む	refreshing	涼しい (すずしい) - cool, refreshing<br>涼む (すずむ) - to cool oneself, to cool off<br>涼風 (りょうふう) - cold breeze	風　フウ　かぜ　wind	
+bxOCqgztd>	混	コン<br>ま-じる、ま-ざる、ま-ぜる、こ-む	mix	混乱 (こんらん) - disorder, chaos<br>混雑 (こんざつ) - congestion, jam<br>混ぜる (まぜる) - to mix, to stir	乱　ラン　みだ-れる　riot<br>雑　ザツ　miscellaneous	
+o$pok6E4Uw	清	セイ、（ショウ）<br>きよ-い、きよ-まる、きよ-める	pure	清算 (せいさん) - settlement (financial), squaring accounts<br>清掃 (せいそう) - cleaning, clean-up<br>清潔 (せいけつ) - clean, sanitary	算　サン　calculate<br>掃　ソウ　は-く　sweep<br>潔　ケツ　いさぎよ-い　undefiled	
+"GtXvFq#)g2"	減	ゲン<br>へ-る、へ-らす	decrease	減少 (げんしょう) - decrease, reduction<br>軽減 (けいげん) - abatement, reduction​<br>減速 (げんそく) - deceleration	少　ショウ　すく-ない　few<br>軽　ケイ　かる-い　light<br>速　ソク　はや-い　fast	
+"CZ#L;<1TlY"	温	オン<br>あたた-か、あたた-かい、あたた-まる、あたた-める	warm	地球温暖化 (ちきゅうおんだんか) - global warming​<br>常温 (じょうおん) - normal temperature, room temperature​<br>温厚 (おんこう) - gentle, mild-mannered​	地　チ　ground<br>球　キュウ　たま　sphere<br>暖　ダン　あたた-か　warmth<br>化　カ　ば-ける　change<br>常　ジョウ　つね　normal<br>厚　コウ　あつ-い　thick	
+IPiwB:Z0fu	測	ソク<br>はか-る	fathom	観測 (かんそく) - observation, survey<br>計測 (けいそく) - measuring, measurement​<br>測定 (そくてい) - measurement	観　カン　observe<br>計　ケイ　はか-る　measure<br>定　テイ　さだ-める　decide	
+"M9}Q#Mne/h"	湖	コ<br>みずうみ	lake	湖 (みずうみ) - lake	null	
+o]<SRo_WFm	湯	トウ<br>ゆ	hot water	湯 (ゆ) - hot water<br>湯気 (ゆげ) - steam, vapour<br>湯のみ (ゆのみ) - teacup	気　キ　feeling	
+uN,X!]A3:a	湾	ワン	gulf	湾 (わん) - bay, gulf<br>台湾 (たいわん) - Taiwan​	台　タイ　うてな　pedestal	
+u{ntK[S+XN	湿	シツ<br>しめ-る、しめ-す	damp	湿っぽい (しめっぽい) - damp, humid<br>湿る (しめる) - to become damp, to become moist<br>湿気 (しっけ) - moisture, humidity	気　キ　feeling	
+zow1]Gs^-1	準	ジュン	standard	水準 (すいじゅん) - level, standard<br>準備 (じゅんび) - preparation, set up<br>基準 (きじゅん) - standard, basis	水　スイ　みず　water<br>備　ビ　そな-える　provide<br>基　キ　もと　foundation	
+MJCA0CY_`L	溶	ヨウ<br>と-ける、と-かす、と-く	melt	溶かす (とかす) - to dissolve​, to melt<br>溶け込む (とけこむ) - to melt into, to dissolve into<br>溶く (とく) - to dissolve (paint), to scramble (eggs)	込　こ-む　crowded	
+i[GC.5=ai[	滴	テキ<br>しずく、したた-る	drip	水滴 (すいてき) - drop of water, vessel for replenishing inkstone water<br>滴 (しずく) - drop (eg of water), drip	水　スイ　みず　water	
+eFk^4pL!Xg	漁	ギョ、リョウ	fishing	漁業 (ぎょぎょう) - fishing industry, fishery<br>漁師 (りょうし) - fisherman<br>漁村 (ぎょそん) - fishing village	業　ギョウ　わざ　business<br>師　シ　expert<br>村　ソン　むら　village	
+Q@:[Upb[{x	濃	ノウ<br>こ-い	concentrated	濃厚 (のうこ) - rich (in flavor, color, smell, etc.), thick<br>濃い (こい) - thick, dense<br>濃度 (のうど) - concentration, density	厚　コウ　あつ-い　thick<br>度　ド　たび　degrees	
+cgx$)tH^)@	濯	タク	laundry	洗濯機 (せんたくき) - washing machine (laundry)​<br>洗濯 (せんたく) - washing, laundry<br>濯ぐ (すすぐ, そそぐ, ゆすぐ) - to rinse, to wash out	洗　セン　あら-う　wash<br>機　キ　はた　machine	
+uve(E=MIw=	灯	トウ<br>ひ	lamp	蛍光灯 (けいこうとう) - fluorescent lamp, fluorescent light​<br>電灯 (でんとう) - electric light​<br>灯台 (とうだい) - lighthouse, old-fashioned interior light fixture comprising a wooden pole with an oil-filled dish and a wick atop it	蛍　ケイ　ほたる　lightning-bug<br>光　コウ　ひか-る　ray<br>電　デン　electricity<br>台　ダイ　pedestal	
+jEfg/%:%r@	灰	カイ<br>はい	ashes	灰 (はい) - ashes<br>灰皿 (はいざら) - ashtray<br>灰色 (はいいろ, かいしょく) - grey, gray	皿　さら　dish<br>色　ショク　いろ　color	
+lHa%@QF4uZ	炭	タン<br>すみ	charcoal	石炭 (せきたん) - coal<br>炭鉱 (たんこう) - coal mine, (coal) pit<br>炭素 (たんそ) - carbon (C)	石　セキ　いし　stone<br>鉱　コウ　mineral<br>素　ソ　elementary	
+gq}~`yy+]Z	無	ム、ブ<br>な-い	nothing	無礼 (ぶれい) - impolite, rude​<br>無実 (むじつ) - innocence, guiltlessness<br>無効 (むこう) - invalid, no effect	礼　レイ　thanks<br>実　ジツ　み　truth<br>効　コウ　き-く　effect	
+lw&x_I;.gH	焼	ショウ<br>や-く、や-ける	bake	焼ける (やける) - to be roasted<br>焼く (やく) - to burn, to roast<br>日焼け (ひやけ) - sunburn, suntan	日　ニチ　ひ　day	
+"u~#*B@lpdn"	照	ショウ<br>て-る、て-らす、て-れる	illuminate	照明 (しょうめい) - illumination, lighting​<br>参照 (さんしょう) - reference, bibliographical reference<br>照る (てる) - to shine, to look slightly upward (of a noh mask; indicating joy, etc)	明　メイ　あ-かり　bright<br>参　サン　まい-る　participate	
+x@(s[vq7GL	燃	ネン<br>も-える、も-やす、も-す	burn	燃料 (ねんりょう) - fuel<br>燃える (もえる) - to burn, to get fired up<br>燃やす (もやす, もす) - to burn, to burn with (emotion, feeling)	料　リョウ　fee	
+c]sw*yo5ak	燥	ソウ	parch	乾燥 (かんそう) - drying (e.g. clothes), dryness	乾　カン　かわ-く　dry	
+NRyp$N%y&.	爆	バク	explode	爆弾 (ばくだん) - bomb<br>爆発 (ばくはつ) - explosion, detonation<br>爆破 (ばくは) - destructive blast, blowing up	弾　ダン　ひ-く　bullet<br>発　ハツ　departure<br>破　ハ　やぶ-る　rend	
+i{~~()`j_U	片	ヘン<br>かた	one-sided	破片 (はへん) - fragment, broken piece<br>片付け (かたずけ) - tidying up, finishing<br>片付く (かたずく) - to be put in order, to be put to rights​	破　ハ　やぶ-る　rend<br>付　フ　つ-ける　attach	
+b?341mFkbn	版	ハン	printing block	出版社 (しゅっぱんしゃ) - publisher, publishing house<br>出版 (しゅっぱん) - publication<br>版 (はん, ばん) - edition, version	出　シュツ　で-る　exit<br>社　シャ　やしろ　company	
+M>i-H6<ya=	玉	ギョク<br>たま	ball	玉 (たま) - ball, sphere	null	
+c(^pAxjx.-	珍	チン<br>めずら-しい	rare	珍しい (めずらしい) - unusual, rare	null	
+IE@B`0;qt6	瓶	ビン	flower pot	瓶 (びん) - bottle, jar<br>花瓶 (かびん) - (flower) vase<br>瓶詰め (びんづめ) - bottling, bottled	花　カ　はな　flower<br>詰　キツ　つ-める　packed	
+GDEZ6{L@ry	甘	カン<br>あま-い、あま-える、あま-やかす	sweet	甘やかす (あまやかす) - to pamper, to spoil​<br>甘い (あまい) - sweet<br>甘える (あまえる) - to behave like a spoiled child, to fawn on	null	
+zljSB@_Yw:	畜	チク	livestock	牧畜 (ぼくちく) - stock-farming, livestock farming<br>畜生 (ちくしょう, ちきしょう, チクショー) - damn it, damn<br>畜産 (ちくさん) - animal husbandry, livestock industry	牧　ボク　まき　breed<br>生　セイ　い-きる　life<br>産　サン　う-む　give birth	
+cG]J`r>&FV	略	リャク	abbreviation	戦略 (せんりゃく) - strategy, tactics​<br>侵略 (しんりゃく) - aggression, invasion<br>簡略 (かんりゃく) - simple, simplicity	戦　セン　いくさ　war<br>侵　シン　おか-す　encroach<br>簡　カン　simplicity	
+PHD]t91OjU	畳	ジョウ<br>たた-む、たたみ	tatami mat	折り畳む (おりたたむ) - to fold up, to fold into layers​<br>畳む (たたむ) - to fold (clothes, umbrella)​, to close (a shop, business)​<br>畳 (たたみ) - tatami mat	折　セツ　お-る　fold	
+Nj(Lb21Nrn	療	リョウ	heal	医療 (いりょう) - medical care<br>治療 (ちりょう, じりょう) - (medical) treatment, care<br>診療 (しんりょう) - diagnosis and treatment, medical care	医　イ　doctor<br>治　ジ　おさ-める　govern<br>診　シン　み-る　checkup	
+p`=5}3:i`;	皮	ヒ<br>かわ	skin	皮 (かわ) - skin, pelt<br>皮肉 (ひにく) - irony, sarcasm<br>毛皮 (けがわ, もうひ) - fur, skin	肉　ニク　meat<br>毛　モウ　け　hair	
+gZg}Yu6&7)	皿	さら	dish	皿洗い (さらあらい) - washing-up, dish-washing​<br>灰皿 (はいざら) - ashtray<br>お皿 (おさら) - plate, dish	洗　セン　あら-う　wash<br>灰　カイ　はい　ashes	
+lR&jV?tz/0	省	セイ、ショウ<br>かえり-みる、はぶ-く	government ministry	帰省 (きせい) - homecoming, returning home​<br>省略 (しょうりゃく) - omission, abbreviation<br>省く (はぶく) - to omit, to leave out	帰　キ　かえ-る　return<br>略　リャク　abbreviation	
+CJETgvwr.;	県	ケン	prefecture	県 (けん) - prefecture (of Japan)<br>県庁 (けんちょう) - prefectural office	庁　チョウ　government office	
+DW+rJA${-r	短	タン<br>みじか-い	short	短期間 (たんきかん) - short term, short time​<br>短縮 (たんしゅく) - shortening, contraction<br>短気 (たんき) - quick temper, short temper​	期　キ　period of time<br>間　カン　あいだ　interval<br>縮　シュク　ちぢ-む　shrink<br>気　キ　feeling	
+mW4M>K&haA	砂	サ、シャ<br>すな	sand	砂漠 (さばく) - desert<br>砂 (すな) - sand, grit​<br>砂糖 (さとう) - sugar	漠　バク　vague<br>糖　トウ　sugar	
+cIt5(bouD&	硬	コウ<br>かた-い	stiff	硬貨 (こうか) - coin<br>硬い (かたい) - hard, solid<br>強硬 (きょうこう) - firm, strong	貨　カ　freight<br>強　キョウ　つよ-い　strong	
+Eo+;Xk&Gh;	磨	マ<br>みが-く	grind	歯磨き (はみがき) - brushing one's teeth​<br>磨く (みがく) - to polish, to shine	歯　シ　は　tooth	
+g9QDAC>8i0	祈	キ<br>いの-る	pray	祈る (いのる) - to pray, to wish​<br>祈り (いのり) - prayer, supplication<br>祈念 (きねん) - prayer	念　ネン　wish	
+dm</EgRSNO	祝	シュク、（シュウ）<br>いわ-う	celebrate	祝日 (しゅくじつ) - national holiday, public holiday​<br>祝う (いわう) - to congratulate, to celebrate<br>お祝い (おいわい) - congratulations, celebration	日　ニチ　ひ　day	
+wg$4Oe9Z`0	祭	サイ<br>まつ-る、まつ-り	festival	大学祭 (だいがくさい) - university festival, rag day<br>お祭り (おまつり) - festival, feast<br>祭り (まつり) - festival, feast	大　ダイ　おお　large<br>学　ガク　まな-ぶ　study	
+xwd5`0F[j;	禁	キン	prohibition	禁煙 (きんえん) - no smoking<br>禁止 (きんし) - prohibition, ban<br>禁物 (きんもつ) - thing that should be (carefully) avoided, no-no	煙　エン　けむ-る　smoke<br>止　シ　と-まる　stop<br>物　ブツ　もの　thing	
+sCD~FaQTjp	秒	ビョウ	second (part of time)	秒 (びょう) - second	null	
+O2+~=;T[M5	移	イ<br>うつ-る、うつ-す	shift	移住 (いじゅう) - migration, immigration​<br>移行 (いこう) - migration, transition​<br>移民 (いみん) - emigration, immigration	住　ジュウ　す-む　dwelling<br>行　コウ　い-く　go<br>民　ミン　たみ　people	
+B^-um-H_E&	税	ゼイ	tax	税関 (ぜいかん) - customs, customs house​<br>税込 (ぜいこみ) - tax included (e.g. price), before tax (e.g. salary)<br>税金 (ぜいきん) - tax, duty	関　カン　せき　related<br>込　こ-む　crowded<br>金　キン　かね　gold	
+F]]ykSXmgG	章	ショウ	chapter	文章 (ぶんしょう) - essay, article<br>章 (しょう) - chapter, section	文　ブン　ふみ　writing	
+"N^fp&<9#-a"	童	ドウ<br>わらべ	juvenile	児童 (じどう) - children, juvenile​<br>童謡 (どうよう) - children's song, nursery rhyme<br>童話 (どうわ) - children's story, fairy tale	児　ジ　child<br>謡　ヨウ　うたい　noh chanting<br>話　ワ　はな-す　talk	
+"xstN(Q#nKw"	競	キョウ、ケイ<br>きそ-う、せ-る	compete	競う (きそう) - to compete, to contest<br>競技 (きょうぎ) - game, match<br>競合 (きょうごう) - competition, rivalry	技　ギ　わざ　skill<br>合　ゴウ　あ-う　fit	
+jmP*b*_QR]	竹	チク<br>たけ	bamboo	竹 (たけ, タケ) - bamboo (any grass of subfamily Bambusoideae), middle (of a three-tier ranking system)	null	
+y_xm1&!b0L	符	フ	token	切符 (きっぷ) - ticket<br>符号 (ふごう) - sign, mark	切　セツ　き-る　cut<br>号　ゴウ　number	
+o//RE3*ngO	筆	ヒツ<br>ふで	writing brush	筆記 (ひっき) - (taking) notes, copying​<br>筆者 (ひっしゃ) - writer, author​<br>筆 (ふで) - writing brush	記　キ　しる-す　write down<br>者　シャ　もの　someone	
+"DT2}Tl?(#8"	筒	トウ<br>つつ	cylinder	封筒 (ふうとう) - envelope<br>水筒 (すいとう) - canteen, flask<br>筒 (つつ) - pipe, tube	封　フウ　seal<br>水　スイ　みず　water	
+gGEM!(]DND	算	サン	calculate	清算 (せいさん) - settlement (financial), squaring accounts<br>計算 (けいさん) - calculation, reckoning<br>予算 (よさん) - estimate, budget	清　セイ　きよ-い　pure<br>計　ケイ　はか-る　measure<br>予　ヨ　in advance	
+I8o(7T~9AJ	管	カン<br>くだ	pipe	管 (かん) - pipe, tube<br>管理人 (かんりにん) - administrator, manager<br>管理 (かんり) - control, management	理　リ　reason<br>人　ジン　ひと　person	
+gKBOK01vGV	築	チク<br>きず-く	fabricate	築く (きずく) - to build, to construct<br>新築 (しんちく) - new building, new construction​<br>建築 (けんちく) - construction, architecture	新　シン　あたら-しい　new<br>建　ケン　た-てる　build	
+"tk>--t$D#4"	簡	カン	simplicity	簡潔 (かんけつ) - brevity, conciseness<br>簡略 (かんりゃく) - simple, simplicity<br>簡略化 (かんりゃくか) - simplification	潔　ケツ　いさぎよ-い　undefiled<br>略　リャク　abbreviation<br>化　カ　ば-ける　change	
+HO-$HywG8Y	籍	セキ	enroll	在籍 (ざいせき) - being enrolled (at a school), being registered<br>国籍 (こくせき) - nationality, citizenship<br>書籍 (しょせき, しょじゃく) - book, publication	在　ザイ　あ-る　exist<br>国　コク　くに　country<br>書　ショ　か-く　write	
+xiby;59AM<	粉	フン<br>こ、こな	flour	花粉 (かふん) - pollen<br>花粉症 (かふんしょう) - hay fever, pollinosis (allergy to pollen)​<br>粉 (こな) - flour, powder	花　カ　はな　flower<br>症　ショウ　symptoms	
+"r#NsvHrhvO"	粒	リュウ<br>つぶ	grains	粒 (つぶ, りゅう, つび, つぼ) - grain, bead	null	
+Q~_jOJ=l9J	糸	シ<br>いと	thread	毛糸 (けいと) - knitting wool, woollen yarn​<br>糸 (いと) - thread, yarn	毛　モウ　け　hair	
+vcnr6u|07c	紅	コウ、（ク）<br>べに、くれない	deep red	紅葉 (こうよう) - autumn colours, fall colors<br>紅茶 (こうちゃ) - black tea<br>口紅 (くちべに) - lipstick	葉　ヨウ　は　leaf<br>茶　チャ　tea<br>口　コウ　くち　mouth	
+"hc]?]4=`K#"	純	ジュン	genuine	純粋 (じゅんすい) - pure, true<br>単純明快 (たんじゅんめいかい) - simple and clear, plain and simple<br>単純 (たんじゅん) - simplicity, simple	粋　スイ　いき　chic<br>単　タン　simple<br>明　メイ　あ-かり　bright<br>快　カイ　こころよ-い　cheerful	
+oz3v1QQEKq	細	サイ<br>ほそ-い、ほそ-る、こま-か、こま-かい	thin	細部 (さいぶ) - details<br>詳細 (しょうさい) - detail, particulars​<br>細長い (ほそながい) - long and narrow​	部　ブ　part<br>詳　ショウ　くわ-しい　detailed<br>長　チョウ　なが-い　long	
+v|IajsFNhf	紹	ショウ	introduce	紹介 (しょうかい) - introduction, presentation	介　カイ　jammed in	
+Q]/&K!Mh4D	絡	ラク<br>から-む、から-まる、から-める	entwine	絡む (からむ) - to entangle, to entwine​<br>連絡先 (れんらくさき) - contact address​<br>連絡 (れんらく) - to contact, to get in touch​	連　レン　つら-なる　take along<br>先　セン　さき　previous	
+"u]Ab-S!H#>"	綿	メン<br>わた	cotton	綿 (めん) - cotton<br>木綿 (もめん, きわた) - cotton (material), red silk-cotton tree (Bombax ceiba)	木　ボク　き　tree	
+Ln<1*<{Bmf	総	ソウ	whole	総額 (そうがく) - sum total, total amount​<br>総合 (そうごう) - synthesis, coordination	額　ガク　ひたい　amount<br>合　ゴウ　あ-う　fit	
+M-5N5L`-_Q	緑	リョク、（ロク）<br>みどり	green	緑茶 (りょくちゃ) - green tea, Japanese tea​<br>緑 (みどり) - green	茶　チャ　tea	
+wsyHCQ1K	線	セン	line	視線 (しせん) - one’s line of sight, one’s gaze<br>光線 (こうせん) - beam, light ray<br>曲線 (きょくせん) - curve	視　シ　look at<br>光　コウ　ひか-る　ray<br>曲　キョク　ま-がる　musical composition	
+MI!P1I^U%,	編	ヘン<br>あ-む	compile	長編 (ちょうへん) - long (e.g. novel, film)​<br>編集 (へんしゅう) - editing, compilation​<br>編む (あむ) - to knit, to braid​	長　チョウ　なが-い　long<br>集　シュウ　あつ-まる　collect	
+Qi,qI9R=I,	練	レン<br>ね-る	practice	洗練 (せんれん) - polish, refinement​<br>訓練 (くんれん) - practice, training<br>練習 (れんしゅう) - practice, practicing	洗　セン　あら-う　wash<br>訓　クン　instruction<br>習　シュウ　なら-う　learn	
+n,VXl5F3sf	績	セキ	exploits	業績 (ぎょうせき) - achievement, performance<br>実績 (じっせき) - achievements, actual results<br>成績 (せいせき) - results, grade	業　ギョウ　わざ　business<br>実　ジツ　み　truth<br>成　セイ　な-る　become	
+o8z+Oxzgj$	缶	カン	tin can	缶 (かん) - can, tin<br>缶詰 (かんづめ) - canned food, tinned food<br>薬缶 (やかん) - kettle	詰　キツ　つ-める　packed<br>薬　ヤク　くすり　medicine	
+bQ:F%/Dl!!	署	ショ	government office	署名 (しょめい) - signature<br>消防署 (しょうぼうしょ) - fire station<br>税務署 (ぜいむしょ) - tax office	名　メイ　な　name<br>消　ショウ　き-える　extinguish<br>防　ボウ　ふせ-ぐ　prevent<br>税　ゼイ　tax<br>務　ム　つと-める　duty	
+egThH=+3~*	群	グン<br>む-れる、む-れ、（むら）	flock	群れ (むれ) - group, crowd<br>群衆 (ぐんしゅう, ぐんしゅ, ぐんじゅ) - group (of people), crowd<br>群集 (ぐんしゅう) - crowd, community	衆　シュウ　masses<br>集　シュウ　あつ-まる　collect	
+lBxP(?/)$Q	羽	ウ<br>は、はね	feather	羽 (はね) - feather, down	null	
+wReLGl6>bK	翌	ヨク	the following	翌朝 (よくあさ) - next morning​<br>翌年 (よくとし) - following year​<br>翌 (よく) - the following, next	朝　チョウ　あさ　morning<br>年　ネン　とし　year	
+gQx]dHoLo1	耕	コウ<br>たがや-す	till	耕地 (こうち) - arable land, plantation<br>耕す (たがやす) - to till, to plow<br>農耕 (のうこう) - farming, agriculture	地　チ　ground<br>農　ノウ　farming	
+MQBu]}fZi)	肌	はだ	texture	肌 (はだ) - skin<br>肌着 (はだぎ, はだぎぬ) - underwear, underclothes	着　チャク　き-る　wear	
+K|lj<q[on5	肩	ケン<br>かた	shoulder	肩幅 (かたはば) - shoulder width (breadth)​<br>肩 (かた) - shoulder	幅　フク　はば　breadth	
+e{Y,jcLjaZ	肯	コウ	agreement	肯定 (こうてい) - affirmation<br>肯定応答 (こうていおうとう) - acknowledge; ACK​	定　テイ　さだ-める　decide<br>応　オウ　あた-る　answer<br>答　トウ　こた-える　answer	
+M<r$ot]~Qw	胃	イ	stomach	胃 (い) - stomach<br>胃腸 (いちょう) - digestive organs​	腸　チョウ　はらわた　guts	
+kuWxYs$?=9	胸	キョウ<br>むね、（むな）	bosom	度胸 (どきょう) - courage, bravery<br>胸 (むね) - chest, breast	度　ド　たび　degrees	
+nGA8=mM+:}	脂	シ<br>あぶら	fat	脂肪 (しぼう) - fat, grease<br>脂 (あぶら) - fat, tallow	肪　ボウ　obese	
+P):xfKgL^6	脳	ノウ	brain	頭脳 (ずのう) - head, brains​<br>首脳 (しゅのう) - head, leader<br>脳 (のう) - brain, brains	頭　トウ　あたま　head<br>首　シュ　くび　neck	
+A-u>A/m3!i	腕	ワン<br>うで	arm	腕 (うで) - arm<br>腕前 (うでまえ) - ability, skill	前　ゼン　まえ　in front	
+h<h=`zxY*4	腰	ヨウ<br>こし	loins	腰 (こし) - lower back, waist<br>腰掛け (こしかけ) - seat, bench<br>腰掛ける (こしかける) - to sit (down)	掛　か-ける　hang	
+gU-1;Y=G6_	膚	フ	skin	皮膚 (ひふ) - skin	皮　ヒ　かわ　skin	
+y]Zeb]W(%a	臓	ゾウ	entrails	心臓 (しんぞう) - heart, guts	心　シン　こころ　heart	
+FC5sRtZwy5	臣	シン、ジン	retainer	大臣 (だいじん) - cabinet minister<br>総理大臣 (そうりだいじん) - prime minister (as the head of a cabinet government), premier	大　ダイ　おお　large<br>総　ソウ　whole<br>理　リ　reason	
+gTA$*Qn2]e	舟	シュウ<br>ふね、（ふな）	boat	はや舟に乗れ、日も暮れぬ。	null	
+bSs8+PjIDa	航	コウ	cruise	航空 (こうくう) - aviation, flying<br>航海 (こうかい) - (sea) voyage, navigation	空　クウ　そら　sky<br>海　カイ　うみ　sea	
+K@v*1X8hdW	般	ハン	generally	全般 (ぜんぱん) - (the) whole, entirety<br>一般 (いっぱん) - general, universal	全　ゼン　まった-く　whole<br>一　イチ　ひと　one	
+jKqw{Nc+c&	芸	ゲイ	art	芸能 (げいのう) - public entertainment, performing arts​<br>芸術 (げいじゅつ) - art, the arts<br>文芸 (ぶんげい) - literature, the arts	能　ノウ　ability<br>術　ジュツ　art<br>文　ブン　ふみ　writing	
+N]rZ-jT</:	荒	コウ<br>あら-い、あ-れる、あ-らす	laid waste	荒い (あらい) - rough, wild<br>荒れる (あれる) - to be stormy, to be rough​<br>荒らす (あらす) - to lay waste, to devastate	null	
+LsSKOs5.=E	荷	カ<br>に	luggage	重荷 (おもに) - load, heavy burden<br>荷造り (にずくり) - packing, baling<br>荷物 (にもつ) - luggage, baggage	重　ジュウ　え　heavy<br>造　ゾウ　つく-る　create<br>物　ブツ　もの　thing	
+CEMiCNE.+m	菓	カ	confectionery	お菓子 (おかし) - sweets, candy<br>菓子 (かし) - confectionery, sweets	子　シ　こ　child	
+BP{E-*fN4:	菜	サイ<br>な	vegetable	野菜 (やさい) - vegetable<br>お菜 (おかず, おさい, オカズ) - small dish (usu one of several accompanying rice), side dish	野　ヤ　の　field	
+kB_9KDcaI[	著	チョ<br>あらわ-す、いちじる-しい	renowned	著しい (いちじるしい) - striking, remarkable<br>著者 (ちょしゃ) - author, writer<br>著す (あらわす) - to write, to publish	者　シャ　もの　someone	
+qI59o6Ef;r	蒸	ジョウ<br>む-す、む-れる、む-らす	steam	蒸発 (じょうはつ) - evaporation, disappearance (of people intentionally concealing their whereabouts)<br>蒸し暑い (むしあつい) - humid, sultry​<br>蒸す (むす) - to steam (food, towel, etc), to be hot and humid	発　ハツ　departure<br>暑　ショ　あつ-い　hot	
+ffDmO5YP9G	蔵	ゾウ<br>くら	warehouse	冷蔵庫 (れいぞうこ) - refrigerator<br>貯蔵 (ちょぞう) - storage, preservation<br>蔵 (くら) - warehouse, storehouse	冷　レイ　つめ-たい　cool<br>庫　コ　warehouse<br>貯　チョ　savings	
+on)QeA5%DN	薄	ハク<br>うす-い、うす-める、うす-まる、うす-らぐ、うす-れる	dilute	薄れる (うすれる) - to fade, to become dim​<br>薄暗い (うすぐらい) - dim, gloomy​<br>薄い (うすい) - thin, pale	暗　アン　くら-い　dark	
+JYhacXfCb`	虫	チュウ<br>むし	insect	虫歯 (むしば) - cavity, tooth decay<br>虫 (むし) - insect, bug<br>昆虫 (こんちゅう) - insect, bug	歯　シ　は　tooth<br>昆　コン　descendants	
+q{u]wPO4xO	血	ケツ<br>ち	blood	血圧 (けつあつ) - blood pressure​<br>血液 (けつえき) - blood<br>血液型 (けつえきがた) - blood type	圧　アツ　pressure<br>液　エキ　fluid<br>型　ケイ　かた　model	
+L!-CV,MYs,	衣	イ<br>ころも	clothes	白衣 (はくい) - white robe, (doctor’s) white gown​<br>衣装 (いしょう) - clothing, costume<br>衣服 (いふく) - clothes	白　ハク　しろ　white<br>装　ソウ　よそお-う　attire<br>服　フク　clothes	
+"yo2#{o3=$V"	袋	タイ<br>ふくろ	sack	袋 (ふくろ) - bag, sack<br>手袋 (てぶくろ) - glove, mitten<br>足袋 (たび) - tabi, Japanese socks (with split toe)	手　シュ　て　hand<br>足　ソク　あし　foot	
+fr_0QZ2oW~	被	ヒ<br>こうむ-る	incur	被害 (ひがい) - suffering, damage<br>被る (かぶる) - to put on (one's head)<br>被せる (かぶせる) - to cover (with something), to put on (eg on someone else's head)	害　ガイ　harm	
+O4;C)7R8>p	装	ソウ、ショウ<br>よそお-う	attire	武装 (ぶそう) - arms, armament​<br>装備 (そうび) - equipment<br>舗装 (ほそう) - pavement, road surface​	武　ブ　military<br>備　ビ　そな-える　provide<br>舗　ホ　pavement	
+PfH@tFOh0	裏	リ<br>うら	back	裏面 (りめん) - back, reverse<br>裏側 (うらがわ) - the reverse, other side<br>裏切る (うらぎる) - to betray	面　メン　おも　face<br>側　ソク　がわ　side<br>切　セツ　き-る　cut	
+wd.<8_4xU4	補	ホ<br>おぎな-う	supplement	補助 (ほじょ) - assistance, support<br>補足 (ほそく) - supplement, complement​<br>補う (おぎなう) - to compensate for, to supplement​	助　ジョ　たす-ける　help<br>足　ソク　あし　foot	
+IC9$rp9IBW	複	フク	duplicate	複数 (ふくすう) - plural, multiple<br>複雑 (ふくざつ) - complex, complicated<br>複写 (ふくしゃ) - copying, duplication	数　スウ　かず　number<br>雑　ザツ　miscellaneous<br>写　シャ　うつ-す　copy	
+FCX9]nQ9ED	角	カク<br>かど、つの	angle	角度 (かくど) - angle<br>兎に角 (とにかく) - anyhow, at any rate<br>角 (つの) - horn	度　ド　たび　degrees<br>兎　ト　うさぎ　rabbit, hare	
+_V73b1Za8	触	ショク<br>ふ-れる、さわ-る	contact	接触 (せっしょく) - touch, contact​<br>触れ合い (ふれあい) - contact, connectedness<br>触れ合う (ふれあう) - to come into contact with, to touch (each other)	接　セツ　つ-ぐ　contact<br>合　ゴウ　あ-う　fit	
+FZxM<4zH^g	訓	クン	instruction	教訓 (きょうくん) - lesson, precept<br>訓練 (くんれん) - practice, training<br>訓 (くん, くに) - native Japanese reading of a Chinese character, precept	教　キョウ　おし-える　teach<br>練　レン　ね-る　practice	
+"L{#^D$igH7"	設	セツ<br>もう-ける	establish	設定 (せってい) - establishment, creation<br>設立 (せつりつ) - establishment, founding<br>介護施設 (かいごしせつ) - nursing home, rest home	定　テイ　さだ-める　decide<br>立　リツ　た-つ　stand up<br>介　カイ　jammed in<br>護　ゴ　safeguard<br>施　シ　ほどこ-す　carry out	
+hP40Yz9wVC	詞	シ	poetry	歌詞 (かし) - song lyrics, words of a song<br>動詞 (どうし) - verb<br>台詞 (せりふ, だいし, セリフ) - (spoken) line (in a play, film, comic, etc), one's lines	歌　カ　うた　song<br>動　ドウ　うご-く　move<br>台　ダイ　pedestal	
+FsR1a[EdF8	詰	キツ<br>つ-める、つ-まる、つ-む	packed	詰める (つめる) - to stuff into, to jam<br>詰まらない (つまらない) - dull, uninteresting<br>詰らない (つまらない) - dull, uninteresting	null	
+tZqPWjWWd2	誌	シ	document	雑誌 (ざっし) - journal, magazine	雑　ザツ　miscellaneous	
+AJ~<KzG.cj	課	カ	section	課題 (かだい) - subject, theme<br>学生課 (がくせいか) - student affairs office​<br>放課後 (ほうかご) - after school​	題　ダイ　topic<br>学　ガク　まな-ぶ　study<br>生　セイ　い-きる　life<br>放　ホウ　はな-す　release<br>後　ゴ　のち　behind	
+MN24+omPSi	諸	ショ	various	諸 (しょ) - various, many<br>諸君 (しょくん) - you (people), gentlemen<br>諸に (もろに, モロに) - completely, all the way	君　クン　きみ　you	
+pXsNm[Fi%t	講	コウ	lecture	受講 (じゅこう) - taking (attending) lectures​<br>講師 (こうし) - lecturer<br>講座 (こうざ) - course (e.g. of lectures)​, academic teaching unit	受　ジュ　う-ける　accept<br>師　シ　expert<br>座　ザ　すわ-る　sit	
+p]i4|HI%*^	谷	コク<br>たに	valley	谷 (たに) - valley<br>谷間 (たにま) - valley, ravine	間　カン　ま　space	
+RbKd.-5|a3	豊	ホウ<br>ゆた-か	bountiful	豊富 (ほうふ) - abundance, wealth<br>豊か (ゆたか) - abundant, wealthy<br>豊作 (ほうさく) - abundant harvest, bumper crop	富　フ　と-む　rich<br>作　サク　つく-る　make	
+JJH]W!caMy	象	ショウ、ゾウ	elephant	象徴 (しょうちょう) - symbol<br>抽象 (ちゅうしょう) - abstraction<br>気象 (きしょう) - weather, climate	徴　チョウ　indications<br>抽　チュウ　pluck<br>気　キ　feeling	
+q!,CzN=v|5	貝	かい	shellfish	貝 (かい) - shellfish, seashell<br>貝殻 (かいがら) - seashell, shell	殻　カク　から　husk	
+H%0ZI;sCs1	貨	カ	freight	銅貨 (どうか) - copper coin<br>硬貨 (こうか) - coin<br>貨物 (かもつ, かぶつ) - cargo, freight	銅　ドウ　copper<br>硬　コウ　かた-い　stiff<br>物　ブツ　もの　thing	
+A8/VE@YQrF	販	ハン	marketing	販売者 (はんばいしゃ) - seller, vendor​<br>通信販売 (つうしんはんばい) - mail order, mail-order sales<br>販売 (はんばい) - sales, selling	売　バイ　う-る　sell<br>者　シャ　もの　someone<br>通　ツウ　とお-る　pass through<br>信　シン　trust	
+J8GAn.q^5B	貯	チョ	savings	貯金 (ちょきん) - savings<br>貯まる (たまる) - to be saved up (of money)​<br>貯める (ためる) - to save up (money)	金　キン　かね　gold	
+Et+$u4tEmj	貿	ボウ	trade	貿易 (ぼうえき) - trade (foreign)​	易　エキ　やさ-しい　easy	
+hMtY2?6VQU	賞	ショウ	prize	受賞 (じゅしょう) - winning (a prize)​<br>鑑賞 (かんしょう) - appreciation (of art, music, poetry, etc.)​<br>賞品 (しょうひん) - prize, trophy	受　ジュ　う-ける　accept<br>鑑　カン　かんが-みる　specimen<br>品　ヒン　しな　article	
+e%+ls$Hs[L	賢	ケン<br>かしこ-い	intelligent	賢い (かしこい) - wise, clever<br>賢明 (けんめい) - wise, sensible	明　メイ　あ-かり　bright	
+u%V_`ds[1t	贈	ゾウ、（ソウ）<br>おく-る	presents	贈る (おくる) - to give (as a gift)<br>贈り物 (おくりもの) - present, gift<br>寄贈 (きぞう, きそう) - donation, presentation	物　ブツ　もの　thing<br>寄　キ　よ-る　approach	
+N?]THR_<sI	超	チョウ<br>こ-える、こ-す	transcend	超過 (ちょうか) - excess, being more than<br>超 (ちょう, チョー) - super-, ultra-	過　カ　す-ぎる　go beyond	
+hlYMNA9hEy	跡	セキ<br>あと	tracks	奇跡 (きせき) - miracle, wonder<br>追跡 (ついせき) - chase, pursuit<br>跡 (あと) - trace, tracks	奇　キ　strange<br>追　ツイ　お-う　follow	
+MAh-)rh/)l	踊	ヨウ<br>おど-る、おど-り	jump	踊り (おどり) - dance<br>踊る (おどる) - to dance	null	
+fS>FrNo:-A	軍	グン	army	軍事 (ぐんじ) - military affairs​<br>軍 (ぐん) - army, troop<br>軍隊 (ぐんたい) - armed forces	事　ジ　こと　abstract thing<br>隊　タイ　group	
+lVQ^$f+IDu	軒	ケン<br>のき	flats	軒 (のき) - eaves<br>軒並み (のきなみ) - row of houses, every house	並　ヘイ　なみ　line-up	
+"C>#Q$[Uy~0"	軟	ナン<br>やわ-らか、やわ-らかい	soft	柔軟 (じゅうなん) - flexible, lithe<br>軟弱 (なんじゃく) - weakness	柔　ジュウ　やわ-らか　tender<br>弱　ジャク　よわ-い　weak	
+N?lEYej|92	軽	ケイ<br>かる-い、かろ-やか	light	軽減 (けいげん) - abatement, reduction​<br>軽々 (かるがる) - lightly, easily<br>軽視 (けいし) - making light of, thinking little of	減　ゲン　へ-る　decrease<br>視　シ　look at	
+JwvIh&WB^+	輪	リン<br>わ	wheel	駐輪所 (ちゅうりんじょ) - bicycle parking place​<br>輪 (わ) - ring, circle<br>指輪 (ゆびわ) - (finger) ring	駐　チュウ　stop-over<br>所　ショ　ところ　place<br>指　シ　ゆび　finger	
+oN;Z4;|2:(	輸	ユ	transport	輸入 (ゆにゅう) - import, importation<br>輸出 (ゆしゅつ) - export<br>輸送 (ゆそう) - transport, transportation	入　ニュウ　い-る　enter<br>出　シュツ　で-る　exit<br>送　ソウ　おく-る　send	
+G}%u*(M_v&	辛	シン<br>から-い	spicy	辛抱 (しんぼう) - patience, endurance​<br>辛い (つらい) - painful, bitter<br>塩辛い (しおからい, からい) - salty (taste), briny	抱　ホウ　だ-く　embrace<br>塩　エン　しお　salt	
+b;+$VOEnqu	農	ノウ	farming	農場 (のうじょう) - farm (agriculture)​<br>農園 (のうえん) - plantation<br>農作物 (のうさくぶつ) - crops, agricultural produce​	場　ジョウ　ば　place<br>園　エン　その　garden<br>作　サク　つく-る　make<br>物　ブツ　もの　thing	
+f,1-6E-Y?A	辺	ヘン<br>あた-り、べ	environs	周辺 (しゅうへん) - circumference, outskirts<br>辺り (あたり) - neighborhood, nearby<br>辺 (へん) - area, vicinity	周　シュウ　まわ-り　circumference	
+w35mrK8y.f	述	ジュツ<br>の-べる	mention	述べる (のべる) - to state, to express<br>述語 (じゅつご) - predicate, predicate<br>口述 (こうじゅつ) - dictation, verbal statement	語　ゴ　かた-る　language<br>口　コウ　くち　mouth	
+QkQHT:>?aP	逆	ギャク<br>さか、さか-らう	inverted	逆 (ぎゃく) - reverse, opposite<br>真逆 (まさか) - by no means, never<br>逆らう (さからう) - to go against, to oppose	真　シン　ま　true	
+McN={InG)=	造	ゾウ<br>つく-る	create	創造 (そうぞう) - creation<br>構造 (こうぞう) - structure, construction<br>荷造り (にずくり) - packing, baling	創　ソウ　つく-る　create<br>構　コウ　かま-える　construct<br>荷　カ　に　luggage	
+d_;kJS)vga	郊	コウ	outskirts	郊外 (こうがい) - suburb, outskirts​<br>近郊 (きんこう) - outskirts, environs (of a city)	外　ガイ　そと　outside<br>近　キン　ちか-い　near	
+Knhi[ficD]	郵	ユウ	mail	郵送 (ゆうそう) - mailing, posting​<br>郵便 (ゆうびん) - mail service<br>郵便局 (ゆうびんきょく) - post office	送　ソウ　おく-る　send<br>便　ベン　たよ-り　convenience<br>局　キョク　office	
+Hfj<kyY*Q_	量	リョウ<br>はか-る	quantity	分量 (ぶんりょう) - amount, quantity​<br>音量 (おんりょう) - volume (sound)​<br>数量 (すうりょう) - quantity, volume	分　ブン　わ-ける　part, minute of time<br>音　オン　おと　sound<br>数　スウ　かず　number	
+r![BY1j1iT	針	シン<br>はり	needle	方針 (ほうしん) - policy, plan<br>針 (はり) - needle, pin<br>針路 (しんろ) - course, direction	方　ホウ　かた　direction<br>路　ロ　じ　road	
+"BHI#S(ZqS5"	鈍	ドン<br>にぶ-い、にぶ-る	dull	鈍い (にぶい) - dull (e.g. a knife), blunt​<br>鈍る (にぶる, なまる) - to become blunt, to grow dull<br>鈍感 (どんかん) - thickheaded, insensitive	感　カン　feeling	
+KWQi^p1{fq	鉄	テツ	iron	鉄 (てつ) - iron<br>鉄道 (てつどう) - railroad, railway<br>地下鉄 (ちかてつ) - subway, metro	道　ドウ　みち　road<br>地　チ　ground<br>下　カ　した　below	
+J_x8<=3Tg:	鉱	コウ	mineral	炭鉱 (たんこう) - coal mine, (coal) pit<br>鉱物 (こうぶつ) - mineral<br>鉱業 (こうぎょう) - mining industry	炭　タン　すみ　charcoal<br>物　ブツ　もの　thing<br>業　ギョウ　わざ　business	
+BcpJ3{!aqP	銅	ドウ	copper	銅貨 (どうか) - copper coin<br>銅 (どう, あか, あかがね) - copper (Cu), bronze (medal)	貨　カ　freight	
+exHeT._3Hn	鋭	エイ<br>するど-い	pointed	鋭い (するどい) - sharp, pointed	null	
+"p`aOA%&6<#"	録	ロク	record	登録 (とうろく) - registration, accession<br>記録 (きろく) - record, document<br>録音 (ろくおん) - (audio) recording	登　トウ　のぼ-る　climb<br>記　キ　しる-す　write down<br>音　オン　おと　sound	
+c<hSZ=IlY=	門	モン<br>かど	gates	名門 (めいもん) - noted family, noble family​<br>入門 (にゅうもん) - entering an institution, beginning training​<br>正門 (せいもん) - main gate, main entrance​	名　メイ　な　name<br>入　ニュウ　い-る　enter<br>正　セイ　ただ-しい　correct	
+"mQ.#Y/:wdr"	防	ボウ<br>ふせ-ぐ	prevent	防衛 (ぼうえい) - defense, protection<br>防犯 (ぼうはん) - prevention of crime​<br>防災 (ぼうさい) - prevention of damage resulting from a natural disaster, protection against disaster​	衛　エイ　defense<br>犯　ハン　おか-す　crime<br>災　サイ　わざわ-い　disaster	
+p_lkz>EGEL	陸	リク	land	上陸 (じょうりく) - landing, disembarkation<br>陸上 (りくじょう) - (on) land, ground<br>大陸 (たいりく) - continent	上　ジョウ　うえ　up<br>大　ダイ　おお　large	
+jaa^u,4uQ.	隅	グウ<br>すみ	corner	隅々 (すみずみ) - nooks, corners​<br>隅 (すみ) - corner, nook	null	
+C~a:!&2pH.	階	カイ	floor of a building	階級 (かいきゅう) - (social) class, rank<br>段階 (だんかい) - grade, level<br>二階建て (にかいだて) - two-storied building​	級　キュウ　rank<br>段　ダン　steps<br>二　ニ　ふた　two<br>建　ケン　た-てる　build	
+IrUT611bOa	隻	セキ	vessels	隻 (せき) - counter for ships (large boats), counter for half of a pair (eg half of a folding screen)	null	
+ux/g}j8.B?	雇	コ<br>やと-う	employ	雇用 (こよう) - employment, hire​<br>雇う (やとう) - to employ, to hire	用　ヨウ　もち-いる　use	
+b/lfnmLd%i	雲	ウン<br>くも	cloud	雲 (くも) - cloud	null	
+hjXfV9x7xf	零	レイ	zero	零 (れい) - zero, nought<br>零れる (こぼれる) - to spill, to fall out of<br>零点 (れいてん) - zero (points, marks), no marks	点　テン　point	
+M/:A2F+X:i	震	シン<br>ふる-う、ふる-える	quake	震える (ふるえる) - to shiver, to shake<br>地震 (じしん) - earthquake<br>震わせる (ふるわせる) - to (make something) quiver, to shake	地　チ　ground	
+I$jSxl*%F,	革	カク<br>かわ	leather	変革 (へんかく) - change, transformation<br>改革 (かいかく) - reform, reformation<br>革命 (かくめい) - revolution	変　ヘン　か-わる　change<br>改　カイ　あらた-める　reformation<br>命　メイ　いのち　fate	
+"yM!#_MzUK("	順	ジュン	obey	手順 (てじゅん) - process, procedure<br>順位 (じゅん’い) - order, rank<br>順に (じゅん) - in order, in turn	手　シュ　て　hand<br>位　イ　くらい　rank	
+o2jF>vp&mS	預	ヨ<br>あず-ける、あず-かる	deposit	預ける (あずける) - to give into custody<br>預かる (あずかる) - to look after, to take care of<br>預金 (よきん) - deposit, bank account	金　キン　かね　gold	
+Blm~|0q*R>	領	リョウ	territory	領域 (りょういき) - area, domain<br>占領 (せんりょう) - occupying, possession<br>大統領 (だいとうりょう) - president, chief executive	域　イキ　range<br>占　セン　し-める　fortune telling<br>大　ダイ　おお　large<br>統　トウ　す-べる　unite	
+hGJH~aW=G]	額	ガク<br>ひたい	amount	半額 (はんがく) - half the amount (of money), half price<br>総額 (そうがく) - sum total, total amount​<br>多額 (たがく) - large (amount of money), huge	半　ハン　なか-ば　half<br>総　ソウ　whole<br>多　タ　おお-い　many	
+e@6_q>>LZ3	香	コウ、（キョウ）<br>か、かお-り、かお-る	incense	香水 (こうすい) - perfume<br>香り (かおり) - fragrance<br>香辛料 (こうしんりょう) - spice, spices	水　スイ　みず　water<br>辛　シン　から-い　spicy<br>料　リョウ　fee	
+pdj(b,YZko	駐	チュウ	stop-over	駐輪所 (ちゅうりんじょ) - bicycle parking place​<br>駐車 (ちゅうしゃ) - parking<br>駐車場 (ちゅうしゃじょう) - parking lot	輪　リン　わ　wheel<br>所　ショ　ところ　place<br>車　シャ　くるま　car<br>場　ジョウ　ば　place	
+lMnXQQ+kBh	骨	コツ<br>ほね	bone	骨 (ほね) - bone<br>骨折 (こっせつ) - bone fracture<br>露骨 (ろこつ) - open, unconcealed	折　セツ　お-る　fold<br>露　ロ　つゆ　dew	
+eMN>-{2nUN	麦	バク<br>むぎ	wheat	小麦 (こむぎ) - wheat<br>蕎麦 (そば, そばむぎ, そまむぎ) - buckwheat (Fagopyrum esculentum), soba<br>麦酒 (ばくしゅ, ビール) - beer	小　ショウ　ちい-さい　small<br>蕎　キョウ　そば　buckwheat<br>酒　シュ　さけ　alcoholic drink	
+wJ/T,xl4)4	黄	コウ、オウ<br>き、（こ）	yellow	黄色い (きいろい) - yellow<br>黄色 (きいろ, こうしょく, おうしょく) - yellow, amber<br>黄金 (おうごん) - gold (Au), golden	色　ショク　いろ　color<br>金　キン　かね　gold	
+"t4!;7#O<b["	鼻	ビ<br>はな	nose	鼻水 (はなみず) - nasal mucus, dripping nose<br>鼻 (はな) - nose<br>耳鼻科 (じびか) - otolaryngology, ear	水　スイ　みず　water<br>耳　ジ　みみ　ear<br>科　カ　section	
+DaG|QHpRu=	齢	レイ	age	高齢 (こうれい) - advanced age, old age​<br>高齢化 (こうれいか) - population ageing (aging)​<br>高齢者 (こうれいしゃ) - old person, old people​	高　コウ　たか-い　tall, expensive<br>化　カ　ば-ける　change<br>者　シャ　もの　someone	

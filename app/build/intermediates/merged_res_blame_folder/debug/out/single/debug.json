@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\PLN\\.gradle\\daemon\\8.5\\com.kanjiflashcards.app-merged_res-45:\\drawable_splash_bg.png.flat",
+        "source": "C:\\Users\\PLN\\.gradle\\daemon\\8.5\\com.kanjiflashcards.app-main-47:\\drawable\\splash_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\PLN\\.gradle\\daemon\\8.5\\com.kanjiflashcards.app-merged_res-45:\\raw_n4_kanji.txt.flat",
+        "source": "C:\\Users\\PLN\\.gradle\\daemon\\8.5\\com.kanjiflashcards.app-main-47:\\raw\\n4_kanji.txt"
+    },
+    {
+        "merged": "com.kanjiflashcards.app-merged_res-45:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.kanjiflashcards.app-main-47:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.kanjiflashcards.app-merged_res-45:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.kanjiflashcards.app-main-47:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\PLN\\.gradle\\daemon\\8.5\\com.kanjiflashcards.app-merged_res-45:\\raw_n5_vocab.txt.flat",
+        "source": "C:\\Users\\PLN\\.gradle\\daemon\\8.5\\com.kanjiflashcards.app-main-47:\\raw\\n5_vocab.txt"
+    },
+    {
+        "merged": "C:\\Users\\PLN\\.gradle\\daemon\\8.5\\com.kanjiflashcards.app-merged_res-45:\\raw_n5_kanji.json.flat",
+        "source": "C:\\Users\\PLN\\.gradle\\daemon\\8.5\\com.kanjiflashcards.app-main-47:\\raw\\n5_kanji.json"
+    },
+    {
+        "merged": "C:\\Users\\PLN\\.gradle\\daemon\\8.5\\com.kanjiflashcards.app-merged_res-45:\\raw_n3_vocab.txt.flat",
+        "source": "C:\\Users\\PLN\\.gradle\\daemon\\8.5\\com.kanjiflashcards.app-main-47:\\raw\\n3_vocab.txt"
+    },
+    {
+        "merged": "C:\\Users\\PLN\\.gradle\\daemon\\8.5\\com.kanjiflashcards.app-merged_res-45:\\raw_n3_kanji.txt.flat",
+        "source": "C:\\Users\\PLN\\.gradle\\daemon\\8.5\\com.kanjiflashcards.app-main-47:\\raw\\n3_kanji.txt"
+    },
+    {
+        "merged": "C:\\Users\\PLN\\.gradle\\daemon\\8.5\\com.kanjiflashcards.app-merged_res-45:\\raw_n2_kanji.txt.flat",
+        "source": "C:\\Users\\PLN\\.gradle\\daemon\\8.5\\com.kanjiflashcards.app-main-47:\\raw\\n2_kanji.txt"
+    },
+    {
+        "merged": "com.kanjiflashcards.app-merged_res-45:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.kanjiflashcards.app-main-47:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\PLN\\.gradle\\daemon\\8.5\\com.kanjiflashcards.app-merged_res-45:\\raw_n2_vocab.txt.flat",
+        "source": "C:\\Users\\PLN\\.gradle\\daemon\\8.5\\com.kanjiflashcards.app-main-47:\\raw\\n2_vocab.txt"
+    },
+    {
+        "merged": "C:\\Users\\PLN\\.gradle\\daemon\\8.5\\com.kanjiflashcards.app-merged_res-45:\\raw_n4_vocab.txt.flat",
+        "source": "C:\\Users\\PLN\\.gradle\\daemon\\8.5\\com.kanjiflashcards.app-main-47:\\raw\\n4_vocab.txt"
+    },
+    {
+        "merged": "com.kanjiflashcards.app-merged_res-45:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.kanjiflashcards.app-main-47:/drawable/ic_launcher_background.xml"
+    }
+]

@@ -1,0 +1,451 @@
+#separator:tab
+#html:true
+#guid column:1
+#tags column:8
+kcxnJQ`uQu	kanji	ja_on	ja_kun	meaning	examples		
+b??$h_1/(g	両	リョウ		both; counter for carriages/cars (e.g., in a train)	両替 (りょうがえ) money exchange<br>両方 (りょうほう) both; both sides<br>両親 (りょうしん) both parents		
+NekU6(E,?c	予	ヨ		beforehand; previous; I; myself	予報 (よほう) forecast; prediction<br>予期 (よき) expectation; assumption<br>予測 (よそく) estimation<br>予算 (よさん) estimate; budget<br>予約制 (よやくせい) by reservation		
+DM$<.K[$.e	争	ソウ	あらそ・う	argue; contend; dispute	論争 (ろんそう) dispute; controversy<br>戦争 (せんそう) war<br>競争 (きょうそう) competition; race		
+hO7Eba69w}	交	コウ	か・わす、まじ・える、まじ・わる、ま・ざる、ま・じる、ま・ぜる	association; coming & going; mixing	交換 (こうかん) exchange; substitution<br>交際 (こうさい) company; friendship<br>外交 (がいこう) diplomacy<br>交通 (こうつう) traffic; transportation; communication<br>交差点 (こうさてん) crossing; intersection		
+O2^qP?cAF4	他	タ	ほか	another; other; the others	他人 (たにん) another person; others<br>他社 (たしゃ) another company<br>他 (ほか) other (place, thing, person)		
+FL.o7KTtb(	付	フ	つ・く、つ・ける	adhere; append; attach; refer to	付き合い (つきあい) association; socializing<br>味付け (あじつけ) flavoring, seasoning<br>寄付 (きふ) donation<br>受付 (うけつけ) reception; information desk<br>片付ける (かたづける) to tidy up; to put away		
+rqgY{8$2Hu	伝	デン	つた・う、つた・える、つた・わる	communicate; report; follow; tradition	伝統 (でんとう) tradition; convention<br>手伝い (てつだい) help<br>伝える (つたえる) to convey; to report; to tell<br>手伝う (てつだう) to help; to assist		
+"egyr~#F2B{"	位	イ	くらい	rank; grade; about; some; crown;  throne	位置 (いち) place; position<br>単位 (たんい) unit; denomination<br>地位 (ちい) position; status<br>位 (くらい) about		
+LH!`e7ICR%	係	ケイ	かかり、かか・る	concern oneself; connection; duty; person in charge	人間関係 (にんげんかんけい) human relations<br>係 (かかり) person in charge; clerk<br>信頼関係 (しんらいかんけい) trusting relationship<br>関係 (かんけい) relationship; connection		
+j_w-Xn`i9b	信	シン		trust; to entrust; truth; faith; fidelity	信じる (しんじる) to believe; to place trust in信号 (しんごう) traffic signal<br>信念 (しんねん) belief; faith<br>信用 (しんよう) confidence; trust<br>信頼 (しんらい) reliance; confidence		
+fmzY}T=$pa	側	ソク	がわ	side; lean; oppose; regret	右側 (みぎがわ) right side<br>左側 (ひだりがわ) left side<br>側 (そば) beside; proximity; besides		
+K{F7h}+t+C	全	ゼン	すべ・て、まった・く	all; entire; fulfill; whole	全体 (ぜんたい) whole; entirety<br>全員 (ぜんいん) all members; everyone<br>全国 (ぜんこく) nationwide<br>安全 (あんぜん) safety; security<br>全部 (ぜんぶ) all; entire; whole		
+A[Y6hP;H<:	内	ダイ、ナイ	うち	inside; within; house; home; among; between	内容 (ないよう) contents; substance; details<br>以内 (いない) within; up to; less than<br>家内 (かない) (hum) wife | one's family<br>案内 (あんない) guidance; showing around		
+d[:,EE~%TM	冷	レイ	さ・ます、さ・める、つめ・たい、ひ・える、ひ・や、ひ・やかす、ひ・やす	chill; cold (to the touch); cool	冷凍庫 (れいとうこ) freezer<br>冷静 (れいせい) calmness; composure<br>冷える (ひえる) to cool down; to get cold<br>冷房 (れいぼう) cooling; air-conditioner<br>冷蔵庫 (れいぞうこ) refrigerator		
+u+$f~}U@$U	初	ショ	はじ・め、はじ・めて、はつ	beginning; first time	初心者 (しょしんしゃ) beginner<br>最初 (さいしょ) beginning; first<br>初めて (はじめて) for the first time<br>初めに (はじめに) first; at the beginning		
+wA^Vn:yF/>	利	リ	き・く	advantage; benefit; profit	不利 (ふり) disadvantage; handicap<br>利口 (りこう) clever; shrewd; well-behaved (of kids, animals, etc)<br>利益 (りえき) profit; gains<br>有利 (ゆうり) advantageous; profitable<br>権利 (けんり) right; privilege<br>便利 (べんり) convenient; handy; useful		
+Dv2Tf8[:8!	加	カ	くわ・える、くわ・わる	add; addition; Canada; include; increase; join	加える (くわえる) to add; to include<br>加わる (くわわる) to be added to<br>加減 (かげん) adjustment; add and subtract<br>参加 (さんか) participation<br>参加者 (さんかしゃ) participant<br>増加 (ぞうか) increase; growth		
+B!E{1V^rSa	助	ジョ	すけ、たす・かる、たす・ける	assist; help; rescue	助ける (たすける) to save; to rescue; to aid<br>助手 (じょしゅ) assistant; helper<br>援助 (えんじょ) aid; support<br>救助 (きゅうじょ) relief; aid		
+L|4ftrM9}F	労	ロウ		labor; reward for; thank for; toil; trouble	労働 (ろうどう) labor; work<br>苦労 (くろう) hardship; labour; toil		
+en-+_L($aZ	勝	ショウ	か・つ、まさ・る	excel; prevail; victory; win	優勝 (ゆうしょう) overall victory; championship<br>勝ち (かち) victory<br>勝手 (かって) one's own convenience<br>勝手に (かってに) selfishly, of one's own convenience		
+C7>H>J%!tW	化	カ、ケ	ば・かす、ば・ける	-ization; change; influence; take the form of	化学 (かがく) chemistry<br>化粧 (けしょう) makeup; cosmetics<br>化粧品 (けしょうひん) cosmetics<br>変化 (へんか) change; transformation<br>文化 (ぶんか) culture		
+cW+k/4)sL^	単	タン		merely; one; simple; single	単なる (たんなる) mere; simple<br>単に (たんに) simply; merely<br>単位 (たんい) unit; denomination<br>単純 (たんじゅん) simple; plain<br>単語 (たんご) word; vocabulary<br>簡単 (かんたん) simple		
+"v`y#F/YCdp"	原	ゲン	はら	field; meadow; plain; original; primitive	原 (はら) field; plain<br>原因 (げんいん) cause		
+gYlh+j)-q`	参	サン	まい・る	come; go; visit; participate; to intersect; be appened to	参加 (さんか) participation<br>参加者 (さんかしゃ) participant<br>参考 (さんこう) reference<br>参考になる (さんこうになる) to be of use (as a reference)<br>参る (まいる) (hum) to go; to come; to call		
+Cac<ZwT:7e	反	タン、ハン、ホン	そ・らす、そ・る	anti-	反抗 (はんこう) opposition; resistance<br>違反 (いはん) violation; offense<br>反対 (はんたい) reverse; opposite | to object to; to oppose		
+uW*M@b)^ro	取	シュ	と・る	fetch; take	取り上げる (とりあげる) to pick up; to adopt; to accept | to confiscate<br>取り直す (とりなおす) to re-obtain<br>取引先 (とりひきさき) customer; client<br>受け取る (うけとる) to accept; to receive<br>取り替える (とりかえる) to exchange; to replace		
+KsD>5dNUzU	受	ジュ	う・かる、う・ける	accept; receive; answer; catch	受かる (うかる) to pass (examination)<br>受け取る (うけとる) to accept; to receive<br>受ける (うける) to take (a test); to receive<br>受付 (うけつけ) reception; information desk		
+"OOkivOE#[M"	号	ゴウ		yell; call; name; nickname; number	信号 (しんごう) traffic signal<br>番号 (ばんごう) number		
+uRXJv4eo7L	向	コウ	む・かう、む・く、む・ける、む・こう	peel; face; tend toward; confront	傾向 (けいこう) tendency; inclination<br>向かい (むかい) facing; across the street<br>方向 (ほうこう) direction; orientation<br>向う (むかう) to face; to go towards<br>向こう (むこう) opposite side; other side; opposite direction		
+B`B$TB.n+)	君	クン	きみ	you; male name suffix; ruler	君 (きみ) you<br>～君 (～くん) Mr. ～ (used for someone of equal or lesser status)		
+rl&]T+VZ?h	告	コク	つ・げる	announce; inform; revelation; tell	報告 (ほうこく) report; information<br>報告書 (ほうこくしょ) (written) report<br>広告 (こうこく) advertisement<br>警告 (けいこく) warning; disclaimer		
+PR)}AW%r&*	商	ショウ	あきな・う	trade in; make a deal; merchant	商人 (しょうにん) trader; merchant<br>商品 (しょうひん) good; merchandise<br>商売 (しょうばい) trade; commerce<br>商店街 (しょうてんがい) shopping area; shopping arcade<br>新商品 (しんしょうひん) new product		
+nZKus2B6.{	園	エン	その	garden; park; yard	動物園 (どうぶつえん) zoo<br>公園 (こうえん) park		
+CLE%e)QvH7	変	ヘン	か・える、か・わる	change; strange; unusual	変化 (へんか) change; transformation<br>変更 (へんこう) change; alteration<br>変える (かえる) to change; to alter<br>変わる (かわる) to change<br>大変 (たいへん) very; terribly | difficult; hard		
+h{pihD($dh	夫	フ、フウ	おっと	husband; man	夫人 (ふじん) (hon) wife; Mrs<br>夫婦 (ふうふ) married couple; husband and wife<br>工夫 (くふう) scheme; device<br>丈夫 (じょうぶ) healthy; robust; solid; durable<br>大丈夫 (だいじょうぶ) safe; all right; alright; OK		
+K~R;9%-`bR	失	シツ	うしな・う	be defeated; lose; overlook; error; fault	失望 (しつぼう) disappointment; despair<br>失業 (しつぎょう) losing one's job; becoming unemployed<br>失敗 (しっぱい) failure<br>失礼 (しつれい) impolite; rude | excuse me; I'm leaving		
+mLmlEx2zfm	守	シュ、ス	まも・る	protect; defend	守る (まもる) to protect; to guard; to uphold; to follow<br>留守 (るす) absence; being away from home		
+BR.YZvj;4C	完	カン		completion; end; perfect	完了 (かんりょう) completion<br>完全 (かんぜん) completeness<br>完成 (かんせい) completion; accomplishment		
+C<<<gSK,%1	官	カン		bureaucrat; government; organ (body)	警官 (けいかん) police officer		
+l^5,&X9ofs	定	ジョウ、テイ	さだ・か、さだ・まる、さだ・める	decide; determine; establish; fix	勘定 (かんじょう) calculation; computation; consideration<br>否定 (ひてい) denial; repudiation<br>安定 (あんてい) stability; steadiness<br>定期 (ていき) fixed period; fixed term<br>決定 (けってい) decision<br>予定 (よてい) plans; schedule | expectation; estimate		
+"y#FJ~hfzN{"	実	ジツ	み、みの・る	reality; truth	事実 (じじつ) fact; reality<br>実に (じつに) indeed; really; truly<br>実は (じつは) as a matter of fact; frankly<br>実施 (じっし) enforcement; implementation<br>実現 (じつげん) implementation (e.g. of a system)		
+E(TNhcw1fV	客	カク、キャク		client; customer; guest; visitor	乗客 (じょうきゃく) passenger<br>観光客 (かんこうきゃく) tourist<br>観客 (かんきゃく) spectator<br>客 (きゃく) customer; visitor		
+yxB/e8ccN>	宿	シュク	やど、やど・す、やど・る	to stay; lodge; inn; dwelling	宿泊 (しゅくはく) lodging<br>下宿 (げしゅく) lodging; boarding house<br>宿題 (しゅくだい) homework; assignment		
+"E+{y-}`0@#"	察	サツ		clearly understand; know well; judge; classify	観察 (かんさつ) observation<br>診察 (しんさつ) medical examination<br>警察 (けいさつ) police; ploliceman		
+MChSVi4BE~	対	タイ、ツイ		anti-; oppose; face; answer; respond	対する (たいする) to face (each other); to confront; to oppose<br>対象 (たいしょう) target; object; scope<br>絶対 (ぜったい) absolutely; unconditionally<br>反対 (はんたい) reverse; opposite | to object to; to oppose		
+dY0*OK-63:	局	キョク		punctuation; division; bureau; department; board (of a game, ex. shoji)	テレビ局 (テレビきょく) television station<br>結局 (けっきょく) after all; ultimately<br>薬局 (やっきょく) pharmacy<br>郵便局 (ゆうびんきょく) post office<br>局 (きょく) bureau; department		
+y?Sgi39Oi,	差	サ	さ・す	difference; discrepancy; distinction; variation; to dispatch; to recover	差別 (さべつ) discrimination; differentiation<br>差し上げる (さしあげる) (hum) to give; to offer | to raise<br>交差点 (こうさてん) crossing; intersection<br>差す (さす) to hold up (an umbrella, etc.); to put up; to raise<br>差 (さ) difference; variation		
+ge)0kTpUR9	席	セキ		seat; place; mat	出席率 (しゅっせきりつ) attendance rate<br>座席 (ざせき) seat<br>欠席 (けっせき) absence; non-attendance<br>出席 (しゅっせき) attendance; appearance<br>席（せき） (せき) seat		
+M(3n)&Kr~i	式	シキ		form; rule; to conform; ceremony; rite	成人式 (せいじんしき) coming-of-age ceremony<br>正式 (せいしき) official; formality<br>～式 (～しき) a ceremony<br>式 (しき) equation; formula		
+l%Rl(T~CCU	当	トウ	あ・たる、あ・てる	fit; shoulder; bear; appropriate	当たる (あたる) to be hit; to strike; to be selected; to win<br>当てる (あてる) to hit; to put on; to expose<br>当時 (とうじ) at that time; in those days<br>当然 (とうぜん) natural; of course<br>担当 (たんとう) being in charge; being responsible for<br>担当者 (たんとうしゃ) person in charge; person responsible<br>相当 (そうとう) considerably; rather; quite<br>見当 (けんとう) estimate; guess<br>適当 (てきとう) suitable; appropriate<br>弁当 (べんとう) bento; Japanese box lunch<br>本当 (ほんとう) truth; reality; actuality		
+hka&[D33HY	形	ギョウ、ケイ	かた、かたち	form; shape; style	人形 (にんぎょう) doll; puppet; figure<br>形 (かたち) form; shape		
+d+Yl3Ed=zS	役	エキ、ヤク		role; work; service	役割 (やくわり) part; role<br>役立つ (やくだつ) to be useful<br>役に立つ (やくにたつ) to be useful<br>役 (やく) use; service; role		
+vGb|FDowKX	必	ヒツ	かなら・ず	certain; inevitable; invariably	必ずしも (かならずしも) not always; not necessarily<br>必死 (ひっし) frantic; desperate<br>必ず (かならず) certainly; without fail<br>必要 (ひつよう) necessary		
+G7-kP*of>r	念	ネン		bear in mind; attention; sense; thought	信念 (しんねん) belief; faith<br>記念 (きねん) commemoration; memory<br>残念 (ざんねん) bad luck; regret		
+uT32@Yc2Vg	息	ソク	いき	breath; respiration; interest (on money); son	息が切れる (いきがきれる) to be out of breath<br>息が止まる (いきがとまる) to stop breathing<br>息 (いき) breath<br>息子 (むすこ) son		
+b|2~~a`FNk	想	ソ、ソウ		concept; idea; think; thought	思想 (しそう) idea; ideology<br>想像 (そうぞう) imagination; guess<br>理想 (りそう) ideal<br>連想 (れんそう) association (of ideas)		
+"w;:*H@#NJ*"	感	カン		emotion; feeling; sensation	感動 (かんどう) being deeply moved emotionally<br>感心 (かんしん) admiration; being impressed<br>感情 (かんじょう) emotion; feelings<br>感覚 (かんかく) sensation; feeling<br>感謝 (かんしゃ) thanks; gratitude		
+zE*g~A:@vM	成	ジョウ、セイ	な・す、な・る	become; turn into; grow reach; elapse	完成 (かんせい) completion; accomplishment<br>成人 (せいじん) adult<br>成人式 (せいじんしき) coming-of-age ceremony<br>成功 (せいこう) success<br>成績 (せいせき) results; grades<br>成長 (せいちょう) growth		
+xmJN@)5qYa	戦	セン	いくさ、たたか・う	battle; match; war	大戦 (たいせん) great war; World War<br>戦い (たたかい) battle; conflict<br>戦争 (せんそう) war<br>戦う (たたかう) to wage war; to fight		
+"GSn*N8(#17"	投	トウ	な・げる	throw; hurl; abandon; give up	投票 (とうひょう) voting<br>投げる (なげる) to throw		
+e;AX:df38n	折	セツ	おり、お・る、お・れる	bend; break; fold; submit; yield	骨折 (こっせつ) broken bone<br>折る (おる) to break; to fold<br>折れる (おれる) to be broken; to be folded		
+q<7S89znKz	指	シ	さ・す、ゆび	finger; indicate; point to	指導 (しどう) guidance; instruction<br>指導員 (しどういん) instructor<br>目指す (めざす) to aim for; to shoot for<br>指輪 (ゆびわ) ring (jewlery)<br>指す (さす) to point; to specify; to select		
+"K#}OI(+3F/"	敗	ハイ	やぶ・れる	defeat; failure; reversal	失敗 (しっぱい) failure		
+l$>.uobU_{	数	ス、スウ	かず、かぞ・える	number; figures; to count; fate; plan	人数 (にんずう) number of people<br>数える (かぞえる) to count<br>数字 (すうじ) (math) numeral; digit; number<br>数学 (すうがく) mathematics<br>数（かず） (かず) number; amount		
+Kg)VP*]]lV	昔	シャク、セキ	むかし	antiquity; old times; once upon a time	昔 (むかし) a long time ago		
+pmIXt`bG[}	昨	サク		previous; yesterday	昨年 (さくねん) last year<br>昨晩 (さくばん) last night<br>一昨年 (おととし) year before last<br>昨夜 (ゆうべ) last night<br>昨日 (きのう) yesterday		
+j`.!G)^7RZ	晴	セイ	は・らす、は・れる	clear up	素晴らしい (すばらしい) wonderful; splendid<br>晴れ (はれ) clear weather; fine weather<br>晴れる (はれる) to clear up; to be sunny		
+nHVXW+H}oq	曲	キョク	ま・がる、ま・げる	bend; lean; curve; fault; injustice; melody; composition	作曲 (さっきょく) composition (of music)<br>曲る (まがる) to turn; to bend		
+h$fhuo~(>r	最	サイ	もっと・も	extreme; most	最低 (さいてい) least; lowest; worst<br>最終 (さいしゅう) last; final<br>最高 (さいこう) most; highest; best; finest<br>～最中 (～さいちゅう) in the middle of ～<br>最初 (さいしょ) beginning; first		
+D/N.|r=fZ3	望	ボウ、モウ	のぞ・む	ambition; aspire to; desire; expect; hope	失望 (しつぼう) disappointment; despair<br>希望 (きぼう) request; hope; aspiration<br>希望者 (きぼうしゃ) applicant<br>望み (のぞみ) wish; desire<br>望む (のぞむ) to desire; to wish for		
+dp_iK1WTjo	期	キ、ゴ		date; period; term	予期 (よき) expectation; assumption<br>学期 (がっき) school term; semester<br>定期 (ていき) fixed period; fixed term<br>延期 (えんき) postponement; deferment<br>時期 (じき) time; season		
+lzeL,:_JkH	未	ミ		not yet; still; sign of the ram	未来 (みらい) the future		
+jGnH!I,Bc^	末	バツ、マツ	すえ	close; end; posterity; tip	年末 (ねんまつ) end of the year<br>粗末 (そまつ) crude; rough; shabby<br>週末 (しゅうまつ) weekend<br>末（すえ） (すえ) tip; end<br>末（まつ） (まつ) the end of		
+k?+E%!J_*T	束	ソク	たば	control; manage; ream; sheaf	約束 (やくそく) promise; agreement		
+jaSAJljCRI	果	カ	は・たす、は・て、は・てる	fruit; finish; complete; achieve	効果 (こうか) effect; efficacy<br>効果的 (こうかてき) effective; successful<br>結果 (けっか) result; consequence; outcome<br>果物 (くだもの) fruit		
+r+!^-]O{_I	様	ヨウ	さま	polite suffix; manner; situation; way	同様 (どうよう) identical; equal to<br>様々 (さまざま) various<br>様子 (ようす) state; situation; appearance<br>模様 (もよう) model; pattern; example<br>王様 (おうさま) king		
+ou(j&k=~C8	横	オウ	よこ	horizontal; perverse; side; sideways; unreasonable; width; woof	横切る (よこぎる) to cross (e.g. road)<br>横断 (おうだん) crossing; traversing<br>横 (よこ) horizontal (as opposed to vertical); lying down		
+Fq&rlmF)-;	機	キ	はた	machine; airplane; opportunity; occasion; efficacy	機嫌 (きげん) mood; spirits | be in a good mood<br>機械 (きかい) machine; apparatus<br>機能 (きのう) function; feature<br>機会 (きかい) chance; opportunity<br>飛行機 (ひこうき) airplane		
+"n~J#$J6Vr^"	欠	ケツ	か・く、か・ける	lack; gap	欠ける (かける) to be chipped; to be broken | to be lacking; to be insufficient<br>欠席 (けっせき) absence; non-attendance<br>欠点 (けってん) defect; flaw; weak point<br>欠陥 (けっかん) defect; deficiency; shortage		
+fjy;_]Tk@<	次	シ、ジ	つぎ、つ・ぐ	next; order; sequence	次々 (つぎつぎ) in succession; one by one<br>次回 (じかい) next time<br>～次第 (～しだい) depending on ～; as soon as ～<br>次 (つぎ) next; following		
+s7iFYGnp|>	歯	シ	は	tooth	虫歯 (むしば) cavity; tooth decay<br>歯医者 (はいしゃ) dentist<br>歯 (は) tooth		
+e}XZ@=jlC-	残	ザン	のこ・す、のこ・る	leftover; remainder	残業 (ざんぎょう) overtime (work)<br>残念 (ざんねん) bad luck; regret<br>残す (のこす) to leave (behind, over)<br>残り (のこり) remaining; left-over<br>残る (のこる) to remain		
+u)XG$vM[tV	求	キュウ	もと・める	demand; request; want; wish for	求める (もとめる) to want; to request; to seek<br>要求 (ようきゅう) demand; request; requirement<br>請求 (せいきゅう) billing (for a service); claim		
+LncF.UCp!T	決	ケツ	き・まる、き・める	agree upon; appoint; decide; fix	決定 (けってい) decision<br>決心 (けっしん) decision; resolution<br>解決 (かいけつ) solution; resolution<br>決して (けっして) never; by no means		
+r:wt)&PBs^	治	ジ、チ	おさ・まる、おさ・める、なお・す、なお・る	subdue; suppress; calm down; cure; conserve	政治 (せいじ) politics; government<br>治る (なおる) to be cured; to get well		
+q4MIlT,rYI	法	ハッ、ホウ、ホッ		law; rule; method; model; principle	作法 (さほう) manners; etiquette<br>憲法 (けんぽう) constitution<br>方法 (ほうほう) method; way; process<br>文法 (ぶんぽう) grammar<br>法律 (ほうりつ) law		
+Dn4N+&lq*o	活	カツ		lively; living; be helped	活動 (かつどう) activity<br>活気 (かっき) energy; liveliness<br>活用 (かつよう) practical use; application<br>生活 (せいかつ) life (one's daily existence); livelihood		
+P*Nw9D&*^a	流	リュウ、ル	なが・す、なが・れる	flow; current; unconfirmed	洗い流す (あらいながす) to rinse off<br>流れる (ながれる) to flow (liquid, time, etc.); to be washed away; to be broadcast; to circulate<br>流行 (りゅうこう) fashion; fad<br>流す (ながす) to drain; to pour; to wash away; to broadcast; to circulate<br>流れ (ながれ) current; flow | course of events		
+N>PziLj(kG	消	ショウ	き・える、け・す	extinguish; cancel; neutralize; turn off	消費 (しょうひ) consumption; expenditure<br>消防 (しょうぼう) fire fighting<br>消しゴム (けしごむ) eraser<br>消える (きえる) to go out; to disappear<br>消す (けす) to erase; to delete | to turn off power		
+"g<^/P#gF:O"	港	コウ	みなと	harbor	空港 (くうこう) airport<br>港 (みなと) harbor; port		
+zL%1Yye$?S	満	マン	み・たす、み・ちる	satisfy; fullness	不満 (ふまん) dissatisfaction; discontent; displeasure<br>満ちる (みちる) to be full; to mature; to expire<br>満足 (まんぞく) satisfaction; contentment; sufficient<br>満開 (まんかい) full bloom		
+NO-JRbW9*@	点	テン		point; period; decimal point; speck; spot	欠点 (けってん) defect; flaw; weak point<br>要点 (ようてん) gist; main point<br>交差点 (こうさてん) crossing; intersection<br>点 (てん) spot; mark | score; points | number of points		
+ckD)6i4Iw+	熱	ネツ	あつ・い	fever; heat; mania; passion	熱中 (ねっちゅう) enthusiasm; mania<br>熱帯 (ねったい) tropics<br>熱心 (ねっしん) zeal; enthusiasm<br>熱い (あつい) hot (thing) | passionate (feelings, etc.); ardent<br>熱 (ねつ) heat; fever; passion		
+r`lqMryw+@	球	キュウ	たま	ball; sphere	地球 (ちきゅう) the earth; the globe<br>地球上 (ちきゅうじょう) on the earth<br>球 (きゅう) sphere; (baseball) counter for balls		
+vCKCf_,S)$	由	ユ、ユイ、ユウ	よし	reason	不自由 (ふじゆう) disability; impairment (physical, mental, etc.)<br>経由 (けいゆ) through; by way of; via<br>理由 (りゆう) reason; motive<br>自由 (じゆう) freedom		
+r,fMp;>u2A	申	シン	もう・す	to say; to explain	申し訳 (もうしわけ) apology; excuse<br>申し込む (もうしこむ) to apply for<br>申し上げる (もうしあげる) (hum) to say; to tell<br>申す (もうす) (hum) to say; to be called		
+d9/0:~=}@X	番	バン		number in a series	順番 (じゅんばん) order; sequential order<br>番組 (ばんぐみ) program (e.g. TV)<br>一番 (いちばん) first | best; most<br>番号 (ばんごう) number<br>～番 (～ばん) number (in a series)		
+nM+k^s;l[s	登	ト、トウ	のぼ・る	ascend; climb up	登山 (とざん) mountain climbing<br>登る (のぼる) to ascend; to climb		
+qrjLVQWe<N	直	ジキ、チョク	ただ・ちに、なお・す、なお・る	frankness; honesty; repair; fix	取り直す (とりなおす) to re-obtain<br>正直 (しょうじき) honesty; frankness<br>直ちに (ただちに) at once; immediately<br>直に (じきに) in person; firsthand<br>直接 (ちょくせつ) direct		
+23l3&TYNh	相	ショウ、ソウ		each other; together; mutual; minister of state; phase	相当 (そうとう) considerably; rather; quite<br>相手 (あいて) compaion; partner; other party<br>相続 (そうぞく) succession; inheritance<br>首相 (しゅしょう) Prime Minister; Chancellor<br>相談 (そうだん) consultation; discussion		
+"A{v%Lv]#9w"	石	コク、シャク、セキ	いし	stone	宝石 (ほうせき) gem; jewel<br>石油 (せきゆ) oil; petroleum<br>石炭 (せきたん) coal<br>石けん (せっけん) soap<br>石 (いし) stone; rock; gem		
+sO3t3d`Sv;	礼	ライ、レイ		bow; salute; gratitude; ceremony	礼儀 (れいぎ) manners; etiquette<br>失礼 (しつれい) impolite; rude | excuse me; I'm leaving<br>お礼 (おれい) (pol) thanks; gratitude		
+F34$$7hEdN	神	シン、ジン	かみ	god; soul	神様 (かみさま) god; deity<br>神経 (しんけい) nerve (medical)<br>精神 (せいしん) mind; soul; heart; spirit<br>神社 (じんじゃ) Shinto shrine		
+z%0_h.rB]:	科	カ		department; section	教科書 (きょうかしょ) textbook; coursebook; schoolbook<br>科目 (かもく) (school) subject; curriculum<br>科学 (かがく) science		
+MSoG_d.U92	種	シュ	たね	seed; species; class; variety	一種 (いっしゅ) species; kind<br>人種 (じんしゅ) race (of people)<br>種類 (しゅるい) type; kind; category<br>種 (たね) seed (e.g. of a plant)		
+"l@1*z06`(#"	笑	ショウ	え・む、わら・う	laugh	微笑む (ほほえむ) to smile<br>笑顔 (えがお) smiling face; smile<br>笑い (わらい) laughter; smile<br>笑う (わらう) to laugh; to smile		
+nnMltWU9~1	箱		はこ	bin; box; case	箱 (はこ) box; case; chest		
+xv-)}X%w]l	米	ベイ、マイ	こめ	rice; metre; USA	米 (こめ) rice		
+LgVGTaq8Br	約	ヤク		approximately; promise	契約 (けいやく) contract<br>婚約 (こんやく) engagement; betrothal<br>節約 (せつやく) economising; saving<br>予約 (よやく) reservation; appointment<br>約束 (やくそく) promise; agreement		
+x%YXeAz+:A	組	ソ	くみ、く・む	assemble; cooperate; unite; braid	組合 (くみあい) association; union<br>組織 (そしき) organization; structure<br>番組 (ばんぐみ) program (e.g. TV)<br>組 (くみ) group; class (of students)<br>組む (くむ) to cross (legs or arms); to put together; to assemble		
+"F}fG#n+fTK"	絵	エ、カイ		drawing; painting; picture	絵画 (かいが) painting<br>絵 (え) picture; drawing; painting		
+pnS501N2_h	続	ゾク	つづ・く、つづ・ける	continue; sequel; series	相続 (そうぞく) succession; inheritance<br>続き (つづき) continuation; succession<br>連続 (れんぞく) occurring in succession; continuing<br>続く (つづく) to continue<br>続ける (つづける) to continue		
+mM3jc=:OYx	美	ビ	うつく・しい	beautiful; beauty	美人 (びじん) beautiful woman<br>美容院 (びよういん) beauty salon<br>美しい (うつくしい) beautiful; lovely<br>美術館 (びじゅつかん) art museum<br>美味しい (おいしい) delicious; tasty		
+N1yarT_ZWR	育	イク	そだ・つ、そだ・てる、はぐく・む	raise; rear; grow up	体育 (たいいく) physical education<br>子育て (こそだて) raising a child<br>育つ (そだつ) to be raised; to be brought up<br>教育 (きょういく) education; schooling; training<br>育てる (そだてる) to raise; to rear		
+mO%@y:CBBl	船	セン	ふね	boat; ship	船 (ふね) ship; boat		
+dTKSqMXEKo	苦	ク	くる・しい、くる・しむ、くる・しめる、にが・い、にが・る	hardship; suffering; bitterness	苦しい (くるしい) difficult; agonizing; painful<br>苦しむ (くるしむ) to suffer<br>苦労 (くろう) hardship; labour; toil<br>苦手 (にがて) poor (at); weak (in); dislike (of)<br>苦痛 (くつう) pain; agony		
+e;RcKs]A}.	葉	ヨウ	は	leaf; plant; paper; time; period	葉書 (はがき) postcard<br>言葉 (ことば) word; phrase<br>葉 (は) leaf; blade (of grass)		
+kghtcD,~Fj	表	ヒョウ	あらわ・す、あらわ・れる、おもて	chart; diagram; surface	代表 (だいひょう) representative<br>発表 (はっぴょう) announcement; publication; presenting<br>表れる (あらわれる) to appear; to become visible; to be expressed<br>表情 (ひょうじょう) facial expression<br>表面 (ひょうめん) surface; exterior		
+vbak!GlMh`	要	ヨウ	い・る、かなめ	essence; main point; need	不要 (ふよう) unnecessary<br>主要 (しゅよう) main; principal<br>要求 (ようきゅう) demand; request; requirement<br>重要 (じゅうよう) important; essential<br>必要 (ひつよう) necessary		
+MOMgX)n86^	観	カン		appearance; condition; view	観光 (かんこう) sightseeing<br>観光地 (かんこうち) tourist attraction<br>観光客 (かんこうきゃく) tourist<br>観客 (かんきゃく) spectator<br>観察 (かんさつ) observation		
+m]j=do=hVe	記	キ	しる・す	mark; sign; to note; to scribe	上記 (じょうき) the above (text)<br>記事 (きじ) article; news story<br>記入 (きにゅう) entry; filling in; filling out<br>記録 (きろく) record; document<br>日記 (にっき) diary; journal		
+jm`|+yC2&4	調	チョウ	しら・べる、ととの・う、ととの・える	prepare; arrange; investigate; move; transfer; tribute; tone; note	体調 (たいちょう) physical condition; state of health<br>強調 (きょうちょう) emphasis; highlight<br>調子 (ちょうし) tone; pitch; mood; manner<br>調査 (ちょうさ) survey<br>調べる (しらべる) to investigate; to look up		
+HB9Dz,w0Bt	談	ダン		discuss; talk	冗談 (じょうだん) joke<br>相談 (そうだん) consultation; discussion		
+J<~e*,B9L$	議	ギ		consideration; debate; deliberation	不思議 (ふしぎ) wonder; miracle; strange<br>議会 (ぎかい) congress; legislative assembly<br>議員 (ぎいん) member of the Diet<br>議論 (ぎろん) argument; discussion<br>会議室 (かいぎしつ) conference room		
+QQS&P,~>&*	負	フ	お・う、ま・かす、ま・ける	minus; negative; bear; defeat	負け (まけ) defeat; loss<br>負ける (まける) to lose; to be defeated		
+"ny0G4#T7M"	費	ヒ	つい・える、つい・やす	spend; waste; expense; cost	学費 (がくひ) tuition; school expenses<br>消費 (しょうひ) consumption; expenditure<br>費用 (ひよう) cost; expense		
+Pe{bl}W)d4	路	ロ		road; path	道路 (どうろ) road; highway		
+cbeA|{u.YZ	辞	ジ	や・める	resign; word; phrase; blame	辞める (やめる) to resign; to leave (one's job, etc.)<br>辞典 (じてん) dictionary<br>辞書 (じしょ) dictionary		
+EK(UxymIG8	返	ヘン	かえ・す、かえ・る	return; answer	繰り返す (くりかえす) to repeat<br>返却 (へんきゃく) return; repayment<br>返事 (へんじ) reply; response<br>返す (かえす) to return (something)		
+s+jt=fd8o;	速	ソク	すみ・やか、はや・い、はや・める	fast; quick	急速 (きゅうそく) rapid (e.g. progress)<br>速度 (そくど) speed; velocity<br>高速 (こうそく) high speed<br>速い (はやい) fast; quick		
+Fn)KsmY$d|	連	レン	つら・なる、つら・ねる、つ・れる	connect; join; continue	連想 (れんそう) association (of ideas)<br>連続 (れんぞく) occurring in succession; continuing<br>関連 (かんれん) relation; connection<br>連れる (つれる) to bring along; to go with; to accompany<br>連絡 (れんらく) to contact; to get in touch		
+h&5zXqg.2%	遊	ユ、ユウ	あそ・ぶ	play	遊び (あそび) playing<br>遊ぶ (あそぶ) to play; to have a good time		
+r9k5^XYIjs	選	セン	えら・ぶ	choose; select	スポーツ選手 (スポーツせんしゅ) athlete<br>選手 (せんしゅ) player; team member<br>選択 (せんたく) selection; choice<br>選ぶ (えらぶ) to choose		
+shhtdnf>A_	部	ブ		bureau; department; group; government office; bring together; govern	営業部 (えいぎょうぶ) sales department<br>大部分 (だいぶぶん) greater part; majority<br>部分 (ぶぶん) portion; section<br>部長 (ぶちょう) head of a department, team, or section<br>全部 (ぜんぶ) all; entire; whole<br>部屋 (へや) room		
+j{wU&`Kj^2	配	ハイ	くば・る	distribute	支配 (しはい) domination; control; direction; management<br>配送 (はいそう) delivery<br>配達 (はいたつ) delivery; distribution<br>心配 (しんぱい) worry; concern		
+nTevOh268Z	酒	シュ	さけ	alcohol; sake	酒 (さけ) alcohol; sake		
+JfOSsW$)ku	関	カン	かか・わる、せき	connection; gateway	人間関係 (にんげんかんけい) human relations<br>関心 (かんしん) interest; concern<br>関連 (かんれん) relation; connection<br>関係 (かんけい) relationship; connection<br>玄関 (げんかん) entranceway; front door		
+wIR;FPs_xt	雪	セツ	ゆき	snow	雪 (ゆき) snow		
+Rd->v)MUZ$	面	メン	おも、おもて、つら	face; mask; surface	場面 (ばめん) scene; setting (e.g. of novel)<br>画面 (がめん) screen; picture<br>表面 (ひょうめん) surface; exterior<br>面倒 (めんどう) trouble; bother<br>面（おもて） (おもて) face; front side<br>面（めん） (めん) face; mask<br>真面目 (まじめ) diligent; serious; honest<br>面白い (おもしろい) interesting; fascinating		
+j=`2x=:_-9	願	ガン	ねが・う	hope; pray; wish	願い (ねがい) request; desire<br>願う (ねがう) to desire; to request		
+}*9m+t&0a	類	ルイ	たぐ・い	variety; class; kind	人類 (じんるい) mankind; humanity<br>書類 (しょるい) documents; official papers<br>種類 (しゅるい) type; kind; category		
+H{fxFM<3&S	飛	ヒ	と・ばす、と・ぶ	fly; skip (pages)	飛び出す (とびだす) to jump out; to rush out<br>飛行 (ひこう) aviation; flying<br>飛行場 (ひこうじょう) airfield<br>飛ぶ (とぶ) to fly | to jump<br>飛行機 (ひこうき) airplane		
+y^]!I`l|El	馬	バ	うま、ま	horse	馬 (うま) horse		
+vU2i5@zlCL	鳴	メイ	な・く、な・らす、な・る	bark; chirp; cry; honk; ring	鳴き声 (なきごえ) animal cry; roar; chirp; tweet<br>鳴る (なる) to sound; to ring<br>鳴く (なく) to chirp; to bark		
+HIL,akIP.B	亡	ボウ、モウ	な・い	deceased; dying; perish	死亡 (しぼう) to die; to pass away<br>亡くなる (なくなる) to die; to pass away		
+"B*k.#znlv|"	件	ケン		item; matter	事件 (じけん) event; incident; case (usually negative)<br>条件 (じょうけん) condition; requirement; prerequisite		
+e1wCpPuGLi	例	レイ	たと・える	example; precedent	例 (れい) example<br>例年 (れいねん) ordinay year<br>例えば (たとえば) for example; for instance		
+"zm57f,qP#K"	倍	バイ		double; times	～倍 (～ばい) ～times; ～fold		
+QN:%ZQ<PN*	値	チ	あたい、ね	cost; price; value	価値 (かち) value; worth<br>値上がり (ねあがり) price increase<br>値上げ (ねあげ) price increase<br>値下げ (ねさげ) price decrease<br>値段 (ねだん) price; cost		
+q;4H1W%;`p	備	ビ	そな・える、そな・わる	preparation	備える (そなえる) to furnish with; to equip with<br>設備 (せつび) equipment; facilities<br>準備 (じゅんび) preparation; arrangements		
+b6[O$8mA53	優	ユウ	すぐ・れる、やさ・しい	actor; excel; surpass; gentleness	俳優 (はいゆう) actor<br>優れる (すぐれる) to surpass; to excel<br>優勝 (ゆうしょう) overall victory; championship<br>優秀 (ゆうしゅう) superiority; excellence<br>女優 (じょゆう) actress<br>優しい (やさしい) kind; gentle; amiable		
+u9!LbB`Fv@	共	キョウ	とも	together; with; alike; both	共に (ともに) jointly; at the same time<br>共同 (きょうどう) co-operation; collaboration<br>共通 (きょうつう) common; shared		
+K@_8l4)7q>	具	グ		container; utensil; detailed; preparation	具体 (ぐたい) concrete; tangible<br>具体的 (ぐたいてき) concrete<br>家具 (かぐ) furniture<br>具合 (ぐあい) condition; state; health<br>道具 (どうぐ) tool; apparatus; device		
+yd|p{Y*,ya	列	レツ		column; row; rank	列 (れつ) row; line; column<br>列車 (れっしゃ) train		
+EglbpFzzBs	刻	コク	きざ・む	chop; mince; carve; engrave	時刻 (じこく) time (shown on a clock)<br>深刻 (しんこく) serious; grave<br>遅刻 (ちこく) being late		
+H%YzhjsD0n	割	カツ	さ・く、わり、わ・る、わ・れる	proportion; split; divide	割る (わる) to divide; to split; to break<br>役割 (やくわり) part; role<br>割れる (われる) to break; to split; to be smashed<br>割合 (わりあい) ratio; percentage		
+r3~?oS{o|B	努	ド	つと・める	diligent; toil	努力 (どりょく) effort; exertion; hard work		
+EzQYQnp6:i	務	ム	つと・める	duty; task	事務 (じむ) office work<br>義務 (ぎむ) duty; obligation<br>事務所 (じむしょ) office<br>公務員 (こうむいん) government worker		
+D,&P|&@)$-	勤	キン、ゴン	つと・まる、つと・める	be employed; serve	勤め (つとめ) service; business; responsibility<br>勤める (つとめる) to work (for); to be employed (at)		
+ma(g@2hkV%	危	キ	あぶ・ない、あや・うい、あや・ぶむ	dangerous; fear	危険 (きけん) danger; peril<br>危ない (あぶない) dangerous; risky; hazardous		
+qDSG=wELf_	吸	キュウ	す・う	inhale; suck	吸収 (きゅうしゅう) absorption<br>呼吸 (こきゅう) breathing; respiration<br>吸う (すう) to smoke; to breathe in | to suck		
+zoX(d{oe(-	呼	コ	よ・ぶ	call; invite	呼吸 (こきゅう) breathing; respiration<br>呼ぶ (よぶ) to call out (to); to call		
+y53FOK8E$5	命	ミョウ、メイ	いのち	life; fate; command	命 (いのち) life; lifetime<br>命じる (めいじる) to order; to command<br>命令 (めいれい) order; command<br>生命 (せいめい) life<br>一生懸命 (いっしょうけんめい) with all one's might; very hard		
+N=Tf%+;,_I	和	オ、ワ	なご・む、なご・やか、やわ・らぐ、やわ・らげる	harmony; Japan; Japanese style; peace; soften	和菓子 (わがし) Japanese sweets<br>平和 (へいわ) peace; harmony		
+A+^JE7~vkC	喜	キ	よろこ・ぶ	rejoice; enjoy; congratulations	喜び (よろこび) joy; delight<br>喜ぶ (よろこぶ) to be happy		
+k[zRV5xBxs	因	イン	よ・る	to depend on; follow; be connected with	原因 (げんいん) cause		
+jL<?zLeqD,	困	コン	こま・る	annoyed; distressed	困難 (こんなん) difficulty; hardship<br>困る (こまる) to be troubled; to be bothered		
+JEVBQ?<6+$	在	ザイ	あ・る	to exist; countryside	存在 (そんざい) existence; being<br>滞在 (たいざい) stay; sojourn<br>現在 (げんざい) current; present time		
+C.=jvq=R8E	型	ケイ	かた	type; model; shape	典型 (てんけい) model; archetypal; representative<br>型 (かた) mould; template; type; pattern<br>髪型 (かみがた) hair style		
+"y{xX[8#.~E"	報	ホウ	むく・いる	news; to report; retaliation	予報 (よほう) forecast; prediction<br>報告 (ほうこく) report; information<br>報告書 (ほうこくしょ) (written) report<br>情報 (じょうほう) information; news; data<br>天気予報 (てんきよほう) weather forecast		
+K~KG>BL3Cc	塩	エン	しお	salt	塩 (しお) salt		
+M(,*X8!rui	増	ゾウ	ふ・える、ふ・やす、ま・す	add; augment; increase	増す (ます) to increase; to grow<br>増加 (ぞうか) increase; growth<br>増える (ふえる) to increase; to multiply		
+F0H*L07s]5	妻	サイ	つま	wife	妻 (つま) wife		
+zYI-+%{P)>	婦	フ		bride; wife; woman	主婦 (しゅふ) housewife<br>夫婦 (ふうふ) married couple; husband and wife<br>婦人 (ふじん) woman; lady<br>新婦 (しんぷ) bride		
+pHvJI,eu3}	存	ソン、ゾン		exist; to preserve; to know of	保存 (ほぞん) saving; storage; maintenance<br>存在 (そんざい) existence; being<br>ご存じ (ごぞんじ) (hon) to know		
+kfL-]}!/*.	宅	タク		home; house; my husband	住宅 (じゅうたく) residence; housing<br>帰宅 (きたく) returning home<br>お宅 (おたく) (hon) your house; your home		
+okE.[JXS?)	容	ヨウ		contain; form; shape	内容 (ないよう) contents; substance; details<br>容易 (ようい) easy; simple; plain<br>美容院 (びよういん) beauty salon		
+I-NiwT=BeI	寺	ジ	てら	Buddhist temple	寺 (てら) temple (Buddhist)		
+Eu2(%u*Fr:	島	トウ	しま	island	島 (しま) island		
+G@nQ<!Ctj6	希	キ		hope; request; sparse; rare	希望 (きぼう) request; hope; aspiration<br>希望者 (きぼうしゃ) applicant		
+K]cjxwipD7	師	シ		instructor; master; specialist; metropolis	医師 (いし) doctor<br>技師 (ぎし) technician; engineer<br>教師 (きょうし) teacher (in school/classroom)<br>看護師 (かんごし) nurse		
+NDgRNx-`2e	常	ジョウ	つね	always; continually; ordinary; normal	常に (つねに) always; constantly<br>常識 (じょうしき) common sense<br>日常 (にちじょう) ordinary; usual; regular<br>異常 (いじょう) abnormality; strangeness<br>非常 (ひじょう) emergency | extraordinary; unusual		
+rvE;pM{/)	平	ビョウ、ヘイ	たい・ら、ひら	flat; peace	不平 (ふへい) discontent; dissatisfaction<br>公平 (こうへい) fairness; impartiality<br>平ら (たいら) flatness; level<br>平和 (へいわ) peace; harmony<br>平均 (へいきん) average; mean; balance; equilibrium		
+xx$?48nG6v	幸	コウ	さいわ・い、さち、しあわ・せ	fortune; happiness	不幸 (ふこう) misfortune<br>幸い (さいわい) happiness; fortune<br>幸せ (しあわせ) happiness; good fortune<br>幸福 (こうふく) happiness; well-being<br>幸運 (こううん) good luck		
+s-qn@D?2>Y	座	ザ	すわ・る	sit; seat; cushion	座席 (ざせき) seat<br>座る (すわる) to sit; to squat		
+Al~_^+i^Gk	庫	ク、コ		warehouse	冷凍庫 (れいとうこ) freezer<br>金庫 (きんこ) safe; strongbox<br>冷蔵庫 (れいぞうこ) refrigerator		
+fapN&itxuC	庭	テイ	にわ	courtyard; garden	家庭 (かてい) household; family<br>庭 (にわ) garden; yard		
+k7}.vq]DX~	徒	ト		emptiness; futility; go on foot; pupil	生徒 (せいと) student		
+dW<_LR}u`z	得	トク	う・る、え・る	profit; benefit; advantage; gain	得る (える) to get; to obtain; to win<br>得意 (とくい) one's strong point; one's forte<br>納得 (なっとく) consent; agreement		
+pQ!ziNId(G	忘	ボウ	わす・れる	forget	忘れ物 (わすれもの) lost article; something forgotten<br>忘れる (わすれる) to forget		
+Kq8T|MjNFv	性	ショウ、セイ		gender; nature	性格 (せいかく) character; personality<br>女性 (じょせい) woman; female<br>男性 (だんせい) man; male		
+fLFX|!RDQE	悲	ヒ	かな・しい、かな・しむ	sad; regret	悲しむ (かなしむ) to be sad<br>悲劇 (ひげき) tragedy; disaster<br>悲しい (かなしい) sad		
+PB3Y9Z36fn	情	ジョウ、セイ	なさ・け	circumstances; emotion; feelings; passion	事情 (じじょう) circumstances<br>友情 (ゆうじょう) friendship; camaraderie<br>情報 (じょうほう) information; news; data<br>愛情 (あいじょう) love; affection<br>感情 (かんじょう) emotion; feelings<br>表情 (ひょうじょう) facial expression		
+phAu`oY0?v	愛	アイ		love	愛 (あい) love<br>愛する (あいする) to love<br>愛情 (あいじょう) love; affection<br>可愛い (かわいい) cute; adorable; charming		
+oE{@4uYO8W	才	サイ		genius; years old	才能 (さいのう) talent; ability		
+G)S$|kt;4H	打	ダ	う・つ	hit; strike	打つ (うつ) to hit; to strike		
+DD&uCe<nlK	支	シ	ささ・える	branch; support	支出 (ししゅつ) expenditure; disbursement<br>支店 (してん) branch office; branch store<br>支払う (しはらう) to pay<br>支給 (しきゅう) payment; allowance<br>支度 (したく) preparation; arrangements		
+zUF5(SC>9R	放	ホウ	はな・す、はな・つ、はな・れる、ほう・る	release; liberate; broadcast; emit	放す (はなす) to release; to let go<br>放送 (ほうそう) broadcast		
+PoQ-1PwzW3	散	サン	ち・らかす、ち・らかる、ち・らす、ち・る	spend; scatter; disperse	散歩 (さんぽ) walk; stroll		
+xT@19e|7O(	整	セイ	ととの・う、ととの・える	arrange; put in order	整理 (せいり) putting in order; organization; adjustment; regulation		
+fARidmLVb:	断	ダン	ことわ・る、た・つ	decline; refuse; decide; absolutely	判断 (はんだん) judgement; decision<br>断る (ことわる) to decline; to refuse<br>横断 (おうだん) crossing; traversing		
+Nv%-:kn84[	易	イ、エキ	やさ・しい	simple; easy; smooth; modify; fortune-telling	容易 (ようい) easy; simple; plain<br>貿易 (ぼうえき) trade (economics)<br>易しい (やさしい) easy; plain; simple		
+"k#kD2rA23V"	晩	バン		night	一晩 (ひとばん) one night; | all night<br>昨晩 (さくばん) last night<br>今晩 (こんばん) tonight<br>晩 (ばん) evening<br>晩御飯 (ばんごはん) dinner<br>毎晩 (まいばん) every night		
+CAm{8PPS*8	景	ケイ		scenery; view	光景 (こうけい) scene; view<br>景気 (けいき) business conditions; economic climate<br>風景 (ふうけい) scenery<br>景色 (けしき) scenery; scene; landscape		
+Pk!h}/z6?+	札	サツ	ふだ	counter for bonds; paper money	札 (さつ) paper money		
+klyGH({ST9	材	ザイ		ingredients; materials; talent; timber; wood	材料 (ざいりょう) ingredients; materials<br>食材 (しょくざい) food stuffs; ingredients		
+kK`}Rnq6%c	格	カク、コウ		case (law, grammar); character; rank; status	価格 (かかく) price; value<br>合格 (ごうかく) success; passing (e.g. exam)<br>合格者 (合格者) person who passed<br>性格 (せいかく) character; personality<br>格好 (かっこう) shape; form; posture		
+"FUra>#_x6B"	案	アン		table; investigate; document; proposition	提案 (ていあん) proposal<br>案 (あん) idea; thought<br>答案 (とうあん) answer sheet<br>案内 (あんない) guidance; showing around		
+Pxjt%Z[60}	構	コウ	かま・う、かま・える	build; posture; pretend	構成 (こうせい) organization; configuration<br>構う (かまう) to mind; to care about<br>結構 (けっこう) no thank you | quite; fairly		
+"b?@Di=~,~#"	欲	ヨク	ほっ・する、ほ・しい	desire; greed; longing; passion	食欲 (しょくよく) appetite (for food)<br>欲しい (ほしい) wanted; desired		
+p1O^R-}?s}	段	ダン		stairs	手段 (しゅだん) means; way<br>普段 (ふだん) usual; everyday<br>段 (だん) step; stair; rank; level<br>値段 (ねだん) price; cost<br>階段 (かいだん) stairs; staircase		
+szPA1`IZz+	殺	サイ、サツ、セツ	ころ・す	kill; slice off; split	殺す (ころす) to kill<br>自殺 (じさつ) suicide		
+AC7/($%-hx	氷	ヒョウ	こおり、ひ	ice; freeze	氷 (こおり) ice		
+y2ji|3,j+-	油	ユ	あぶら	fat; oil	油 (あぶら) oil<br>石油 (せきゆ) oil; petroleum<br>醤油 (しょうゆ) soy sauce; shoyu		
+uW*OaQdA$S	波	ハ	なみ	waves	波 (なみ) wave<br>津波 (つなみ) tidal wave		
+jG.>Y}_jW)	泣	キュウ	な・く	cry; weep	泣く (なく) to cry; to weep		
+"B##:-s-Kgb"	泳	エイ	およ・ぐ	swim	泳ぎ (およぎ) swimming<br>水泳 (すいえい) swimming<br>泳ぐ (およぐ) to swim		
+mToNk!,].|	深	シン	ふか・い、ふか・まる、ふか・める	intensify	深刻 (しんこく) serious; grave<br>深い (ふかい) deep | profound		
+gs|!t+3?/,	済	サイ	す・ます、す・む	come to an end; finish; settle	済ませる (すませる) to finish<br>経済学 (けいざいがく) (study of) economics<br>済む (すむ) to finish; to end<br>経済 (けいざい) economics		
+h0q+EbxA6,	温	オン	あたた・か、あたた・かい、あたた・まる、あたた・める	warm	体温 (たいおん) body temperature<br>気温 (きおん) temperature (weather)<br>温度 (おんど) temperature<br>温暖 (おんだん) warm; mild; temperate<br>温かい (あたたかい) warm<br>温い (ぬるい) lukewarm; tepid		
+Qs8[$7Uuh,	無	ブ、ム	な・い	none; not; nothing	無事 (ぶじ) safety; peace<br>無料 (むりょう) free; no charge<br>無視 (むし) disregarding; ignoring<br>無駄 (むだ) uselessness; pointlessness<br>無くなる (なくなる) to be lost (e.g. luggage); to be missing<br>無理 (むり) impossible<br>無くす (なくす) to lose something		
+JUNU4{@El_	然	ゼン、ネン		however; in that case; burn	偶然 (ぐうぜん) coincidence<br>天然 (てんねん) nature<br>当然 (とうぜん) natural; of course<br>突然 (とつぜん) abrupt; sudden; unexpected<br>自然 (しぜん) natural; nature<br>全然 (ぜんぜん) not at all (with neg. verb) | entirely; completely		
+L?BjZWy5:,	焼	ショウ	や・く、や・ける	bake; burn	焼く (やく) to burn | to roast; to grill<br>焼ける (やける) to burn; to be roasted		
+"lnp}#Hk$gU"	現	ゲン	あらわ・す、あらわ・れる	actual; existing; present	実現 (じつげん) implementation (e.g. of a system)<br>現す (あらわす) to represent; to stand for; to show; to display<br>現れ (あらわれ) manifestation; materialization; expression<br>現れる (あらわれる) to appear; to become visible<br>現代 (げんだい) nowadays; modern times<br>現在 (げんざい) current; present time<br>現場 (げんば) actual spot; actual site; shop/factory floor<br>現実 (げんじつ) reality; actuality<br>現状 (げんじょう) present condition<br>現象 (げんしょう) phenomenon<br>現金 (げんきん) cash<br>表現 (ひょうげん) expression; notation		
+"E78.=b?9)#"	留	リュウ、ル	と・まる、と・める	fasten; detain; halt	留める (とどめる) to stop; to keep (in position, in place); to limit<br>留学 (りゅうがく) studying abroad<br>留守 (るす) absence; being away from home<br>留学生 (りゅうがくせい) exchange student		
+K0YAn_X3a9	痛	ツウ	いた・い、いた・む、いた・める	damage; hurt; pain	痛み (いたみ) pain; soreness<br>苦痛 (くつう) pain; agony<br>頭痛 (ずつう) headache<br>痛い (いたい) painful; sore		
+g(AiZlsvi$	的	テキ	まと	target; mark; obvious; adj ending	一時的 (いちじてき) temporary<br>一般的 (いっぱんてき) common; general; for the masses<br>具体的 (ぐたいてき) concrete<br>効果的 (こうかてき) effective; successful<br>目的 (もくてき) goal; objective		
+"xA)#!$SW(c"	確	カク	たし・か、たし・かめる	clear; evident; firm; solid	明確 (めいかく) precise; definite<br>正確 (せいかく) accurate; correct; exact<br>確かめる (たしかめる) to check; to confirm<br>確実 (かくじつ) certainty; reliability<br>確認 (かくにん) confirmation; verification		
+DG$l_U2`*F	示	シ、ジ	しめ・す	show; display; express	掲示 (けいじ) notice; bulletin<br>掲示板 (けいじばん) bulletin board<br>示す (しめす) toshow; to demonstrate		
+"+_#VHZ@xT"	祭	サイ	まつ・り、まつ・る	ritual; pray; celebrate	お祭 (おまつり) festival<br>祭り (まつり) festival		
+Ia{,Tvj6^d	積	セキ	つ・む、つ・もる	stack; pile; amass; product of multiplication	積もる (つもる) to pile up; to accumulate<br>積極的 (せっきょくてき) active; proactive; assertive		
+zwG>tec0_s	窓	ソウ	まど	pane; window	窓 (まど) window		
+"xg^N~#i[Bv"	等	トウ	ひと・しい	etc.; similar; equal	上等 (じょうとう) superior; first-class<br>平等 (びょうどう) impartiality; evenness<br>等しい (ひとしい) equal; similar<br>高等学校 (こうとうがっこう) high school		
+t<!,,hx<fn	細	サイ	こま・か、こま・かい、ほそ・い、ほそ・る	thin; narrow; detailed; precise	細かい (こまかい) small; minor<br>細い (ほそい) thin; slender		
+G5h/n9Pz;>	経	キョウ、ケイ	へ・る	longitude; boundary; elapse; measure; warp	神経 (しんけい) nerve (medical)<br>経営 (けいえい) management; administration<br>経由 (けいゆ) through; by way of; via<br>経済 (けいざい) economics<br>経験 (けいけん) experience		
+dr(xBTv:Dx	結	ケツ	むす・ぶ、ゆ・う、ゆ・わえる	bind; join; fasten; contract	結局 (けっきょく) after all; ultimately<br>結果 (けっか) result; consequence; outcome<br>結論 (けつろん) conclusion<br>結婚 (けっこん) marriage<br>結構 (けっこう) no thank you | quite; fairly		
+kMehGb~Ex.	給	キュウ		bestow on; grant; salary; wage	供給 (きょうきゅう) supply; provision<br>支給 (しきゅう) payment; allowance<br>時給 (じきゅう) hourly wage<br>給料 (きゅうりょう) salary; wages		
+dKc:Q4>q&%	緑	リョク、ロク	みどり	green	緑 (みどり) green		
+wk4sIn;xO2	線	セン		line; track	線 (せん) line		
+jHpP8xTF_p	練	レン	ね・る	practice; polish; refine	訓練 (くんれん) training; drill<br>練習 (れんしゅう) practice		
+m1AWisjxx(	置	チ	お・く	place; put; keep; leave	位置 (いち) place; position<br>装置 (そうち) equipment; device<br>置く (おく) to put; to place		
+C>as.fb((c	老	ロウ	お・いる、ふ・ける	grow old; old man	老い (おい) old age; old person<br>老人 (ろうじん) old person		
+j-tdUQrT~	職	ショク		employment; work	就職 (しゅうしょく) finding employment<br>職 (しょく) job; work; occupation<br>職場 (しょくば) place of work<br>職業 (しょくぎょう) occupation		
+"x~GH|6X;#p"	腹	フク	はら	abdomen; stomach	腹 (はら) stomach<br>腹が立つ (はらがたつ) to be angry<br>お腹 (おなか) abdomen; stomach		
+x/Hqyzj,!;	良	リョウ	よ・い	good; skilled	仲が良い (なかがいい) be friendly with<br>仲良い (なかいい) be friendly with<br>良い (いい、よい) good		
+H-dj[Gd)Go	若	ジャク、ニャク	も・しくは、わか・い	young; immature; perhaps; few in number	若者 (わかもの) young person<br>若い (わかい) young; youthful		
+MEK_=Wy,-V	草	ソウ	くさ	grass; weeds; herbs; draft; beginning	草 (くさ) grass; weed		
+E0pF)][|UE	荷	カ	に	baggage; to bear; to shoulder	手荷物 (てにもつ) hand luggage<br>荷物 (にもつ) luggage; package		
+b@vwyE_!$v	落	ラク	お・ちる、お・とす	fall; drop	落す (おとす) to drop<br>落ちる (おちる) to fall; to drop | to fail		
+k]-*`)Y3A{	術	ジュツ		skill ;etchnique; art; magic	手術 (しゅじゅつ) surgery<br>芸術 (げいじゅつ) fine arts<br>技術 (ぎじゅつ) technology; engineering | technique; skill<br>美術館 (びじゅつかん) art museum		
+bBj?dc_aGu	衣	イ	ころも	clothes; garment	浴衣 (ゆかた) yukata (Japanese bathrobe)<br>衣服 (いふく) clothes		
+gRtf]~uS?S	覚	カク	おぼ・える、さ・ます、さ・める	wake up; memorize; remember	感覚 (かんかく) sensation; feeling<br>目が覚める (めがさめる) to awaken<br>目覚まし時計 (めざましどけい) alarm clock<br>覚悟 (かくご) readiness; preparedness<br>覚える (おぼえる) to memorize; to remember		
+J$2uO-pBtp	解	カイ、ゲ	と・かす、と・く、と・ける	answer; explanation; undo; unravel; cancel; key	理解 (りかい) understanding; comprehension<br>見解 (けんかい) opinion; point of view<br>解決 (かいけつ) solution; resolution<br>解釈 (かいしゃく) explanation; interpretation<br>誤解 (ごかい) misunderstanding		
+J1*_Y9mcT&	認	ニン	みと・める	acknowledge;recognize	承認 (しょうにん) approval; consent<br>確認 (かくにん) confirmation; verification<br>認める (みとめる) to recognize; to approve; to allow		
+d}hz;XbbY?	警	ケイ		caution; warn against; surprise	警告 (けいこく) warning; disclaimer<br>警察 (けいさつ) police; ploliceman<br>警官 (けいかん) police officer		
+s.Q6T0?|N}	身	シン	み	self; body	中身 (なかみ) contents; interior<br>出身 (しゅっしん) person's origin (e.g. city, country, parentage, school)<br>独身 (どくしん) single; unmarried<br>自身 (じしん) (by) oneself<br>身長 (しんちょう) height (of body)		
+IS&An+TB?<	追	ツイ	お・う	chase; follow ;pursue	追い付く (おいつく) to catch up (with); to draw level; to get to even<br>追う (おう) to chase; to pursue; to follow		
+ym,{>+0p7i	過	カ	あやま・ち、あやま・つ、す・ぎる、す・ごす	exceed; overdo; error; mistake	昼過ぎ (ひるすぎ) a little past noon<br>通り過ぎる (とおりすぎる) to go past; to pass by<br>通過 (つうか) passing through (e.g. train skipping a station); passing by<br>過去 (かこ) the past<br>過ぎる (すぎる) to pass by | to be too ～		
+ui0>vdts~z	達	タツ		attain; reach	上達 (じょうたつ) improvement (e.g. in skill, ability); advance<br>発達 (はったつ) development; growth<br>達する (たっする) to reach; to arrive at<br>配達 (はいたつ) delivery; distribution<br>友達 (ともだち) friend; companion		
+B*bV}I51sH	適	テキ		capable; qualified; suitable	快適 (かいてき) pleasant; comfortable<br>適切 (てきせつ) pertinent; appropriate<br>適度 (てきど) proper amount; suitable<br>適用 (てきよう) application (e.g. a technology); adoption<br>適当 (てきとう) suitable; appropriate		
+"eN.U^#J&7+"	量	リョウ	はか・る	amount; quantity; weight; estimate; measure	大量 (たいりょう) large quantity<br>量 (りょう) quantity; volume		
+lu)f66jd+f	鉄	テツ		iron	鉄 (てつ) iron (Fe)<br>鉄道 (てつどう) railroad; railway<br>地下鉄 (ちかてつ) subway		
+s5jMjs0[j@	閉	ヘイ	し・まる、し・める、と・ざす、と・じる	closed; shut	閉じる (とじる) to close; to shut<br>閉まる (しまる) to be shut; to close<br>閉める (しめる) to close; to shut		
+h*ws(!e]n<	降	コウ	お・りる、お・ろす、ふ・る	descend; fall; precipitate; surrender	降ろす (おろす) to take down; to lower; to unload<br>降り出す (ふりだす) to start to rain (snow, etc.)<br>降りる (おりる) to descend (e.g. a mountain) | to get off; to dismount<br>降る (ふる) to precipitate; to fall (e.g. rain)		
+m=P-q-*VXy	限	ゲン	かぎ・る	limit; restrict	制限 (せいげん) restriction; limit<br>限る (かぎる) to restrict; to limit<br>限界 (げんかい) limit		
+mH?(&8PbuG	陽	ヨウ		in the sun; bright	太陽 (たいよう) sun<br>陽気 (ようき) cheerful; lively		
+bgh[%K5wT}	階	カイ		stairs; up and down	～階建て (～かいだて) ～-storied building<br>階段 (かいだん) stairs; staircase<br>～階 (～かい) counter for floors in a building		
+Q2Lq/7:hGb	際	サイ	きわ	edge; verge; relationship; interval; fate	交際 (こうさい) company; friendship<br>実際 (じっさい) practicality; reality; actual<br>～際（さい） (～さい) on the occasion of ～<br>国際 (こくさい) international		
+y4%1v:e~33	雑	ザツ、ゾウ		mixed; disordered	混雑 (こんざつ) crowding; confusion; disorder<br>複雑 (ふくざつ) complex; complicated<br>雑誌 (ざっし) journal; magazine; periodical		
+si.H?ul^I/	難	ナン	かた・い、むずか・しい	difficult; tough; misfortune; sorrow; fight; rebuke	困難 (こんなん) difficulty; hardship<br>難しい (むずかしい) difficult; hard; troublesome		
+pasCn}s1%`	雲	ウン	くも	cloud	雲 (くも) cloud		
+"Klx#mLUo%m"	静	ジョウ、セイ	しず・か、しず・まる、しず・める	quiet	冷静 (れいせい) calmness; composure<br>静か (しずか) quiet; silent		
+H3EAOaK_ro	非	ヒ		poor; error; blame; non-	非常 (ひじょう) emergency | extraordinary; unusual<br>是非 (ぜひ) certainly; definitely; without fail<br>非常に (ひじょうに) very; extremely		
+"KYwB#9qC<e"	並	ヘイ	なみ、なら・びに、なら・ぶ、なら・べる	line up; line; both; identical; ordinary	並ぶ (ならぶ) to line up; to stand in a line<br>並べる (ならべる) to line up; to arrange in a line		
+K5uhIq@9Lj	丸	ガン	まる、まる・い、まる・める	circle; make circular; entirely; perfectly	丸 (まる) circle<br>丸い (まるい) round		
+fYOwCzxJQl	任	ニン	まか・す、まか・せる	entrust; shoulder; endure; work; duty	任せる (まかせる) to entrust (e.g. a task) to another; to leave to<br>責任 (せきにん) responsibility		
+D3~SNy1QiR	似	ジ	に・る	imitate; resemble	似合う (にあう) to suit; to match<br>真似 (まね) imitating; copying<br>似る (にる) to resemble; to look like; to be similar		
+y~K+&sb9rb	余	ヨ	あま・す、あま・る	remainder; surplus	余り (あまり、あんまり) remainder; balance; left over<br>余分 (よぶん) extra; excess<br>余裕 (よゆう) surplus; leeway; flexibility		
+s%Jca3fFXP	供	キョウ、ク	そな・える、とも	offer; sacrifice; supply	供給 (きょうきゅう) supply; provision<br>子供 (こども) child; children		
+G5-J.)?q02	価	カ	あたい	price; value	価値 (かち) value; worth<br>価格 (かかく) price; value<br>物価 (ぶっか) prices (in general, of commodities)<br>評価 (ひょうか) assessment; evaluation<br>高価 (こうか) high price		
+xYb89RYvx-	個	コ		individual	個人 (こじん) individual; personal<br>～個 (～こ) counter for small objects		
+e[Pz=?:77O	冊	サク、サツ		tome; volume; counter for books	～冊 (～さつ) counter for bound objects (ex. Books)		
+pO{k,B[r,I	再	サ、サイ	ふたた・び	again; twice	再び (ふたたび) again; a second time<br>再度 (さいど) twice; again; second time<br>再来月 (さらいげつ) month after next<br>再来週 (さらいしゅう) week after next<br>再来年 (さらいねん) year after next		
+z%L,Mke8Ja	処	ショ		put; fix; place	処理 (しょり) processing; disposal		
+"Nq@#{Kisrc"	判	ハン、バン		judgement; seal; signature	判断 (はんだん) judgement; decision<br>審判 (しんぱん) referee; judgement; umpire<br>批判 (ひはん) criticism; judgement<br>裁判 (さいばん) trial; judgement<br>評判 (ひょうばん) reputation; popularity		
+q9ebV[^[^/	制	セイ		law; rule; system	予約制 (よやくせい) by reservation<br>制度 (せいど) system; institution<br>制限 (せいげん) restriction; limit		
+FV~3X`x^1S	包	ホウ	つつ・む	conceal; pack up; wrap	包み (つつみ) bundle; package<br>小包 (こづつみ) (small) parcel; package<br>包む (つつむ) to wrap up; to pack		
+yB[h67N[}@	卒	ソツ		graduate; sudden; private; soldier	卒業論文 (そつぎょうろんぶん) graduation thesis<br>卒業 (そつぎょう) graduation		
+e_rmfnVN=M	印	イン	しるし	sumbol; seal; stamp	印 (しるし) mark; sign<br>印刷 (いんさつ) printing<br>印象 (いんしょう) impression		
+oa:!c[,Vw7	卵	ラン	たまご	egg; ovum	卵 (たまご) eggs; egg		
+bc$Q0:i!$&	厚	コウ	あつ・い	thick; heavy; kind	厚い (あつい) thick; deep		
+xEG]xz9/Gi	収	シュウ	おさ・まる、おさ・める	income; obtain; supply; store	収める (おさめる) to make an offering; to finish; to achieve (e.g. a result)<br>収入 (しゅうにゅう) income; revenue<br>収穫 (しゅうかく) harvest; crop<br>吸収 (きゅうしゅう) absorption		
+e)}h61`T)s	吹	スイ	ふ・く	blow; breathe; smoke	吹く (ふく) to blow (e.g. wind) | to play a wind instrument		
+FTn:-^/lf(	周	シュウ	まわ・り	circumference	周囲 (しゅうい) surroundings<br>周り (まわり) surroundings; vicinity		
+l?mx7Zg6FN	器	キ	うつわ	container; vessel; talent; ability; tool	器用 (きよう) skilful; adroit<br>武器 (ぶき) weapon; arms		
+"A!#:+d^p]C"	坂	ハン	さか	hill; incline; slope	坂 (さか) slope; hill		
+Ba$4!T>/;6	夢	ム	ゆめ	dream; vision	夢中 (むちゅう) daze; engrossment; obsessed with; hooked on<br>夢 (ゆめ) dream		
+LP,j%!a]6c	婚	コン		marriage	婚約 (こんやく) engagement; betrothal<br>離婚 (りこん) divorce<br>結婚 (けっこん) marriage		
+o5=`;%a)z+	季	キ		seasons	季節 (きせつ) season		
+B]nvWFH6nF	寄	キ	よ・せる、よ・る	rely on; entrust to; approach	寄付 (きふ) donation<br>寄る (よる) to drop by; to make a short visit		
+v[f4u2&{mo	寝	シン	ね・かす、ね・る	lie down; sleep	寝不足 (ねぶそく) lack of sleep<br>朝寝坊 (あさねぼう) oversleeping<br>寝坊 (ねぼう) oversleeping<br>寝る (ねる) to lie down | to go to bed; to sleep		
+ft^{5&gGSO	専	セン	もっぱ・ら	exclusive; solely; devote oneself to	専攻 (せんこう) major (in school or study); specialty<br>専門分野 (せんもんぶんや) area of expertise; specialization<br>専門家 (せんもんか) specialist; professional; authority<br>専門 (せんもん) speciality; area of expertise		
+un>4:v?qUz	居	キョ	い・る	exist; reside	居眠り (いねむり) nodding off (when sitting); dozing<br>芝居 (しばい) play; drama		
+f0|Qd,Y%}%	届		とど・く、とど・ける	arrive; deliver; forward; notify	届く (とどく) to be delivered<br>届ける (とどける) to deliver		
+n[.`D^Nzz[	忙	ボウ	いそが・しい	busy; occupied	忙しい (いそがしい) busy; occupied		
+C-*I=BV6bY	慣	カン	な・らす、な・れる	accustomed to; get used to	慣れる (なれる) to get used to<br>習慣 (しゅうかん) habit; custom		
+wu]T{!Wb0C	戻	レイ	もど・す、もど・る	return; arrive	戻す (もどす) to return; to restore<br>戻る (もどる) to return; to go back		
+EIC-76wpN)	払	フツ	はら・う	pay; oppose	支払い (しはらい) payment<br>支払う (しはらう) to pay<br>払う (はらう) to pay (e.g. money, bill)		
+bHFFjK>;`V	技	ギ	わざ	skill; craft	技師 (ぎし) technician; engineer<br>演技 (えんぎ) acting; performance<br>競技 (きょうぎ) game; match<br>技術 (ぎじゅつ) technology; engineering | technique; skill		
+PDPCo:1oqO	押	オウ	お・さえる、お・す	push; press; hold down; sign	押し入れ (おしいれ) closet<br>押す (おす) to push; to press		
+l6w8-]MyK>	招	ショウ	まね・く	invite; summon	招く (まねく) to invite<br>招待 (しょうたい) invitation		
+uSr%J5ODG?	捨	シャ	す・てる	discard; throw away	捨てる (すてる) to throw away		
+J[%8/+]/Pr	授	ジュ	さず・かる、さず・ける	impart; instruct	教授 (きょうじゅ) professor<br>授業 (じゅぎょう) lesson; class work		
+E@(CIDP_Gq	探	タン	さが・す、さぐ・る	search	探す (さがす) to search for		
+sN}Imp+mn7	接	セツ	つ・ぐ	connect; join; meet	直接 (ちょくせつ) direct		
+e^B^cH6`kv	換	カン	か・える、か・わる	change; interchange	交換 (こうかん) exchange; substitution<br>乗り換える (のりかえる) to transfer/change (bus, train)		
+"=##X.EkYF"	星	ショウ、セイ	ほし	star	星占い (ほしうらない) astrology; horoscope<br>衛星 (えいせい) satellite<br>星 (ほし) star		
+D1^b1zBsr.	暖	ダン	あたた・か、あたた・かい、あたた・まる、あたた・める	warmth	温暖 (おんだん) warm; mild; temperate<br>暖房 (だんぼう) heating; heater<br>暖かい (あたたかい) warm; mild; genial		
+u5]I-[btZ/	暮	ボ	く・らす、く・れる	livelihood; make a living; to set (ex. sunset); close	暮らし (くらし) living; life circumstances<br>暮らす (くらす) to live; to get along<br>暮れ (くれ) sunset; end; close<br>暮れる (くれる) to get dark; to come to an end		
+Pt9YL4kt@e	査	サ		investigate	検査 (けんさ) inspection; examination<br>調査 (ちょうさ) survey		
+KuztN5HP!E	根	コン	ね	root	屋根 (やね) roof<br>根 (ね) root (of a plant, tooth, hair, etc.)		
+G!xN82Y/W}	植	ショク	う・える、う・わる	plant	植物 (しょくぶつ) plant; vegetation<br>植える (うえる) to plant; to grow		
+vc.cM`QUsM	極	キョク、ゴク	きわ・まる、きわ・み、きわ・める	exterme; pole; very; to decide; to enter into	極 (きょく) extreme; zenith; pole<br>積極的 (せっきょくてき) active; proactive; assertive		
+iTNldnaQuF	歳	サイ、セイ		age; year; ripen	二十歳 (はたち) 20 years old<br>～歳 (～さい) ~ years old		
+,$rLhhBgL	比	ヒ	くら・べる	compare; ratio	比較 (ひかく) comparison<br>比べる (くらべる) to compare		
+AqM(H:yn_v	毛	モウ	け	hair; fur	毛布 (もうふ) blanket<br>毛虫 (けむし) hairy caterpillar<br>髪の毛 (かみのけ) hair (head)<br>毛 (け) hair; fur; feathers		
+Ij>%u)$on^	浅	セン	あさ・い	shallow; superficial	浅い (あさい) shallow; superficial		
+"G.V#RbHpkU"	浴	ヨク	あ・びせる、あ・びる	bathe; take a shower	浴衣 (ゆかた) yukata (Japanese bathrobe)<br>浴びる (あびる) to take a shower		
+L+F/UZ}`$Q	混	コン	こ・む、ま・ざる、ま・じる、ま・ぜる	mix; cloud; confuse	人混み (ひとごみ) a crowd of people<br>混乱 (こんらん) disorder; confusion<br>混雑 (こんざつ) crowding; confusion; disorder<br>混む (こむ) to be crowded; to get packed		
+yC:R}[!V2(	減	ゲン	へ・らす、へ・る	decline; decrease; reduce	加減 (かげん) adjustment; add and subtract<br>減らす (へらす) to decrease; to diminish<br>減る (へる) to decrease (in size or number); to diminish		
+EAI)A!V*Cv	渡	ト	わた・す、わた・る	deliver; hand over; pass	渡す (わたす) to hand over; to transfer<br>渡る (わたる) to cross over		
+cy%Bvmg!Yu	準	ジュン		level; make even; conform; guage; standard	水準 (すいじゅん) level; standard<br>準備 (じゅんび) preparation; arrangements		
+LQ{]QYH_Kp	演	エン		act; performance; play	演奏 (えんそう) (musical) performance<br>演技 (えんぎ) acting; performance<br>演説 (えんぜつ) speech; address<br>講演 (こうえん) lecture; speech		
+k+~_(V|jSi	煙	エン	けむり、けむ・い、けむ・る	smoke	"煙 (けむり) smoke<br>禁煙 (きんえん) ""No Smoking""; quitting smoking"		
+Qq08IK)6k]	片	ヘン	かた	fragment; piece; right half	片手 (かたて) one hand<br>片付ける (かたづける) to tidy up; to put away<br>片仮名 (かたかな) katakana		
+nr>>G=R5kV	犯	ハン	おか・す	crime; offense	犯人 (はんにん) criminal<br>犯罪 (はんざい) crime; offence		
+b^JFI>W?;f	状	ジョウ		circumstances; conditions; form	状態 (じょうたい) current status; condition<br>状況 (じょうきょう) situation; circumstances<br>現状 (げんじょう) present condition<br>症状 (しょうじょう) symptom		
+t(mQA+6t3R	独	ドク	ひと・り	alone; single	独り (ひとり) one person; alone; solitary<br>独特 (どくとく) peculiarity; uniqueness<br>独立 (どくりつ) independence; self-support<br>独身 (どくしん) single; unmarried		
+t7P@3!il<E	玉	ギョク	たま	jewel; sphere	玉 (たま) sphere; globe; egg		
+qt9[1G1~8}	疑	ギ	うたが・う	distrust; doubt; question	疑う (うたがう) to doubt; to suspect<br>疑問 (ぎもん) question; doubt; problem		
+OqA+8!>qKE	疲	ヒ	つか・れる	exhausted; tired	疲れ (つかれ) tiredness; fatigue<br>疲れる (つかれる) to get tired; to tire | to be worn out		
+B>j0pydN{Q	眠	ミン	ねむ・い、ねむ・る	die; sleep	居眠り (いねむり) nodding off (when sitting); dozing<br>睡眠 (すいみん) sleep<br>眠い (ねむい) sleepy<br>眠る (ねむる) to sleep		
+r0QMok7|-a	破	ハ	やぶ・る、やぶ・れる	break; destroy; rip; defeat	破る (やぶる) to tear; to break; to destroy<br>破産 (はさん) bankruptcy		
+s!&jMAqqF-	祖	ソ		ancestor; founder	祖母 (そぼ) (my) grandmother<br>祖父 (そふ) (my) grandfather		
+y@v51p$eOJ	禁	キン		ban; prohibit; endure	"禁止 (きんし) prohibition; ban<br>禁煙 (きんえん) ""No Smoking""; quitting smoking"		
+Kg*}:U*Jm{	秒	ビョウ		second	秒 (びょう) second (unit of time)		
+Fzw|37i8|=	移	イ	うつ・す、うつ・る	move; change; transcribe	移す (うつす) to change; to substitute; to transfer<br>移動 (いどう) moving; transfer; migration<br>移る (うつる) to move; to transfer		
+"qs#K<H!?<8"	程	テイ	ほど	rule; law; extent; degree	程度 (ていど) degree; amount; grade<br>程（ほど） (ほど) degree; extent		
+f{C={YV.i5	算	サン		abacus; count; calculate	予算 (よさん) estimate; budget<br>計算 (けいさん) calculation		
+sR}kc>.tQI	節	セチ、セツ	ふし	knot; joint; knuckle; occasion; chance; punctuation	節 (ふし) joint<br>節約 (せつやく) economising; saving<br>季節 (きせつ) season		
+q[pG`dy8&Y	簡	カン		simple;  brevity	簡単 (かんたん) simple		
+MK3Q9M_y)t	精	ショウ、セイ		purify; refine; spirit; heart; ghost	精神 (せいしん) mind; soul; heart; spirit		
+tOY(4e_U*9	糸	シ	いと	string	糸 (いと) thread; string		
+wFhu;=^-wx	紅	ク、コウ	くれない、べに	crimson	紅茶 (こうちゃ) black tea		
+G(`jst=ak$	絶	ゼツ	た・える、た・つ、た・やす	stand; bear; stop; eradicate; extremely; very	絶対 (ぜったい) absolutely; unconditionally<br>絶滅 (ぜつめつ) extinction; extermination		
+g6f4]Ga6zQ	緒	ショ、チョ	お	thread; string; connection; beginning	一緒 (いっしょ) together | at the same time		
+F0<AypljFj	罪	ザイ	つみ	crime; sin	犯罪 (はんざい) crime; offence<br>罪 (つみ) crime; sin		
+s2t+Ou}@&z	署	ショ		signature; government office; role; duty	署名 (しょめい) signature		
+"l*ryi8{H7#"	背	ハイ	せ、せい、そむ・く、そむ・ける	back; behind; abandon; turn one's back on	背が伸びる (せがのびる) to grow (height)<br>背中 (せなか) back (of body)<br>背 (せい) height		
+OTqMKN(IxL	能	ノウ		ability; skill	可能 (かのう) possible; feasible<br>才能 (さいのう) talent; ability<br>有能 (ゆうのう) able; capable<br>機能 (きのう) function; feature<br>能力 (のうりょく) ability; faculty		
+yYod?<GffL	裏	リ	うら	reverse; backside; internal	裏切る (うらぎる) to betray<br>裏 (うら) bottom; back		
+Rjy/(+}/Ag	規	キ		compass; standard; to correct; measure	規則 (きそく) rule; regulation		
+o&Jhk1saH0	訪	ホウ	おとず・れる、たず・ねる	visit; call on	訪問 (ほうもん) call; visit<br>訪ねる (たずねる) to visit; to call on		
+Lv}xzU)=Wp	許	キョ	ゆる・す	approve; permit	免許 (めんきょ) license<br>許す (ゆるす) to permit; to allow; to forgive<br>許可 (きょか) permission; approval		
+t`1eVcU@zp	誤	ゴ	あやま・る	error; mistake; wrong	誤り (あやまり) error; mistake<br>誤解 (ごかい) misunderstanding		
+w+eL7Nh}G,	論	ロン		argue; discuss; point of view	卒業論文 (そつぎょうろんぶん) graduation thesis<br>理論 (りろん) theory<br>結論 (けつろん) conclusion<br>論文 (ろんぶん) thesis; essay<br>議論 (ぎろん) argument; discussion		
+dVjav(^/sb	識	シキ		to know; record; write down	常識 (じょうしき) common sense<br>意識 (いしき) consciousness; awareness<br>知識 (ちしき) knowledge		
+I-Z~wP=J_U	財	サイ、ザイ		assets; wealth	財産 (ざいさん) property; assets<br>財布 (さいふ) purse; wallet		
+H@D2.F@T[Z	貧	ヒン、ビン	まず・しい	poverty	貧しい (まずしい) poor; scanty; inadequate		
+J.YJ|mQUnc	責	セキ	せ・める	blame; condemn	責める (せめる) to blame; to criticize; to press; to persecute<br>責任 (せきにん) responsibility		
+"DU_!.Fd!.#"	農	ノウ		agriculture	農家 (のうか) farmer<br>農業 (のうぎょう) agriculture<br>農民 (のうみん) farmer		
+l[)Hn_x-At	辺	ヘン	あた・り	boundary; border; vicinity	この辺り (このあたり) this area; around here<br>辺り (あたり) neighborhood; vicinity; nearby<br>辺 (へん) area; vicinity		
+u+NL<T/bL2	込		こ・む、こ・める	crowded; included; packed	申し込む (もうしこむ) to apply for<br>込む (こむ) to be crowded; to be packed		
+dy.lxJQz((	迷	メイ	まよ・う	be lost; confused; unclear; hesitate	迷う (まよう) to be lose one's way; to be puzzled<br>迷子 (まいご) lost child<br>迷惑 (めいわく) trouble; annoyance<br>迷惑メール (めいわくメール) spam (email)		
+J4FjVh>*~*	退	タイ	しりぞ・く、しりぞ・ける	withdraw; retreat; retire; repel	引退 (いんたい) retirement<br>退屈 (たいくつ) tedium; boredom; dullness<br>退院 (たいいん) discharge from hospital		
+xKN!Jn<z9A	遅	チ	おく・らす、おく・れる、おそ・い	late; slow	"遅刻 (ちこく) being late<br>遅れる (おくれる) to be late<br>遅い (おそい) slow | late (e.g. ""late at night"")"		
+ICa-YU-3nE	違	イ	ちが・う、ちが・える	differ	違い (ちがい) difference<br>違いない (ちがいない) sure; for certain; no mistaking it<br>違反 (いはん) violation; offense<br>間違い (まちがい) mistake; error<br>間違いない (まちがいない) sure; for certain; no mistaking it<br>間違う (まちがう) to make a mistake; to be mistaken<br>間違える (まちがえる) to make a mistake<br>違う (ちがう) to differ (from)		
+p);L<zCNva	郵	ユウ		(postal) mail	郵便 (ゆうびん) postal service; mail<br>郵便局 (ゆうびんきょく) post office		
+s678GJm(Zx	防	ボウ	ふせ・ぐ	defend; resist; surround; rival; equal	予防 (よぼう) prevention<br>消防 (しょうぼう) fire fighting<br>防ぐ (ふせぐ) to defend against; to prevent; to avoid		
+E=1~G9x>c4	除	ジ、ジョ	のぞ・く	exclude; remove; division (math)	除く (のぞく) to remove; to eliminate; to exclude<br>掃除 (そうじ) cleaning		
+JGJso,rdGE	頂	チョウ	いただき、いただ・く	peak; summit	頂きます (いただきます) expression of gratitude before meals<br>頂上 (ちょうじょう) top; summit; peak<br>頂く (いただく) (hum) to receive		
+il5:97R3x(	順	ジュン		obey; follow; well behaved; order; sequence	順 (じゅん) order; ranking<br>順番 (じゅんばん) order; sequential order<br>順調 (じゅんちょう) favourable; OK; all right		
+Ctz*t>_8D4	預	ヨ	あず・かる、あず・ける	entrust to; deposit	預ける (あずける) to entrust; to deposit; to leave in one's care		
+vxoOunx^_o	額	ガク	ひたい	forehead; fixed amount; plaque; sign	金額 (きんがく) amount of money<br>額 (ひたい) forehead; brow		
+vJ5M^?h.x8	骨	コツ	ほね	bone	骨 (ほね) bone<br>骨折 (こっせつ) broken bone		
+IY,v)u@B7j	与	ヨ	あた・える	award; bestow; take part in; cooperate	与える (あたえる) to give; to bestow		
+PA6Jf3qZaq	久	キュウ、ク	ひさ・しい	long time	永久 (えいきゅう) eternity; perpetuity<br>久しぶり (ひさしぶり) a long time; it's been a while		
+I{juzgQR=[	互	ゴ	たが・い	mutually; reciprocally	お互い (おたがい) mutual; reciprocal		
+x!EyZ1hp6I	倒	トウ	たお・す、たお・れる	knock down; fall; collapse	倒す (たおす) to knock down; to ruin<br>面倒 (めんどう) trouble; bother<br>倒れる (たおれる) to fall; to collapse | to be ruined | to be defeated (in a game)		
+rA54k@)192	偶	グウ		unexpected; accidentally; even number; same kind	偶然 (ぐうぜん) coincidence		
+C+zM<1?q}>	到	トウ		arrive; attain; invert	到着 (とうちゃく) arrival		
+yqV<I?mjMt	刺	シ	さ・さる、さ・す	stab; pierce; calling card	刺激 (しげき) stimulus		
+yGKc20wg&v	効	コウ	き・く	benefit; efficacy	効く (きく) to be effective<br>効果 (こうか) effect; efficacy<br>効果的 (こうかてき) effective; successful<br>有効 (ゆうこう) effective		
+j5CtA|H.y{	可	カ		can; passable	不可 (ふか) not possible<br>不可能 (ふかのう) impossible<br>可能 (かのう) possible; feasible<br>許可 (きょか) permission; approval<br>可愛い (かわいい) cute; adorable; charming		
+QeObg*|w}U	善	ゼン	よ・い	good; virtuous	改善 (かいぜん) improvement		
+E~j=?PFbh6	均	キン		average; level	平均 (へいきん) average; mean; balance; equilibrium		
+"V_3_o]T#%"	城	ジョウ	しろ	castle	城 (しろ) castle		
+A8<gh@~&?(	域	イキ		level; limit; range	地域 (ちいき) area; region		
+"GMV2S^Yj#9"	基	キ	もと、もとい	foundation; basis; be based on	基づく (もとづく) to be based on; to originate from<br>基本 (きほん) foundation; basis		
+B~`zEz*2)_	士	シ		gentleman; samurai	博士 (はかせ、はかし) doctorate; PhD<br>弁護士 (べんごし) lawyer; attorney		
+jSaW@tj0R$	奥	オウ	おく	interior; all the way inside	奥 (おく) inside; interior; depths; back<br>奥さん (おくさん) (hon) wife; your wife		
+o<=H@p0v76	娘		むすめ	daughter	娘 (むすめ) (my) daughter		
+uKRe|7M-6y	宝	ホウ	たから	treasure	宝 (たから) treasure<br>宝くじ (たからくじ) lottery | lottery ticket<br>宝石 (ほうせき) gem; jewel		
+Fk-}/N$FD;	導	ドウ	みちび・く	guide; lead	指導 (しどう) guidance; instruction<br>指導員 (しどういん) instructor		
+wzBa@UNKCz	布	フ	ぬの	cloth	布 (ぬの) cloth<br>毛布 (もうふ) blanket<br>布団 (ふとん) futon<br>財布 (さいふ) purse; wallet		
+KkCT@k,bd]	張	チョウ	は・る	stretch; spread; play (string instrument)	主張 (しゅちょう) claim; assertion<br>引っ張る (ひっぱる) to pull out; to draw out<br>緊張 (きんちょう) nervousness; stress<br>頑張る (がんばる) to persevere; to persist		
+l4ACm>{)%~	彼	ヒ	かの、かれ	he	彼 (かれ) he; him<br>彼ら (かれら) they (usually male); them<br>彼女 (かのじょ) she; her | girlfriend		
+"r&0;,#sP{K"	怒	ド	いか・る、おこ・る	to become angry	怒る (おこる) to get angry		
+q&@/_T7Y&;	怖	フ	こわ・い	be frightened; afraid	恐怖 (きょうふ) fear; dread<br>怖い (こわい) scary; frightening		
+BVDR0v2^mz	恐	キョウ	おそ・れる、おそ・ろしい	fear; awe	恐れる (おそれる) to fear<br>恐ろしい (おそろしい) dreadful; terrifying; frightening<br>恐怖 (きょうふ) fear; dread		
+s7fz>B{=K:	恥	チ	はじ、は・じらう、は・じる、は・ずかしい	dishonor	恥ずかしい (はずかしい) embarrassed; shameful; shy		
+DPSolk*}fq	抱	ホウ	いだ・く、かか・える、だ・く	embrace; hold	抱える (かかえる) to hold or carry under or in the arms<br>抱く (いだく、だく) to embrace; to hug		
+KdFu!qS3![	普	フ		widely; generally; universally	普段 (ふだん) usual; everyday<br>普通 (ふつう) usual; ordinary		
+n/d:KE1>3`	更	コウ	さら、ふ・かす、ふ・ける	to change; alternately; by turns; to pass; futhermore	変更 (へんこう) change; alteration<br>更に (さらに) furthermore; moreover		
+Oz&o9y!yan	替	タイ	か・える、か・わる	exchange; substitute	両替 (りょうがえ) money exchange<br>替える (かえる) to replace; to exchange; to substitute<br>取り替える (とりかえる) to exchange; to replace		
+"gp_U=w3g#_"	机	キ	つくえ	desk; table	机 (つくえ) desk		
+bK?E2s5m<E	杯	ハイ	さかずき	counter for cups, glasses	～杯 (～はい) counter for cups (of liquid)		
+L^_gl_=hq-	松	ショウ	まつ	pine tree	松 (まつ) pine tree		
+JcWu)HL]Vb	汗	カン	あせ	sweat	汗 (あせ) sweat; perspiration; condensation		
+DWDsVU[gmI	汚	オ	きたな・い、けが・す、けが・らわしい、けが・れる、よご・す、よご・れる	dirty; pollute; disgrace	汚染 (おせん) pollution; contamination<br>汚れる (よごれる) to become dirty<br>汚い (きたない) dirty; unclean | disordered; messy		
+rrXs`a+^a}	泊	ハク	と・まる、と・める	overnight stay	宿泊 (しゅくはく) lodging<br>泊まる (とまる) to stay at (e.g. hotel)		
+MmRM>m>TB_	津	シン	つ	harbor; soak; spill; soup; bodily fluid	津波 (つなみ) tidal wave		
+&7w-JB;(Q	涙	ルイ	なみだ	tears	涙 (なみだ) tears		
+yrd?0_def<	燃	ネン	も・える、も・す、も・やす	blaze; burn; glow	燃える (もえる) to burn		
+HzVgOkY^>n	猫	ビョウ	ねこ	cat	猫 (ねこ) cat		
+qC8]{y-K.B	異	イ	こと	different; uncommon	異なる (ことなる) to differ<br>異常 (いじょう) abnormality; strangeness		
+g5t/LzmAK^	皆	カイ	みな	all; everything; everyone	皆 (みんな、みな) everyone; everybody<br>皆 (みんな、みな) all; everyone<br>皆さん (みなさん) all; everyone		
+"j)W$#)/lhp"	盗	トウ	ぬす・む	steal	強盗 (ごうとう) mugger; burgler<br>盗む (ぬすむ) to steal		
+"PlBVC6MR#l"	突	トツ	つ・く	collide; sudden	突然 (とつぜん) abrupt; sudden; unexpected<br>衝突 (しょうとつ) collision; crash | conflict		
+"tM;:$U#owD"	絡	ラク	から・まる、から・む	entwine; coil around; connect; logical thread	連絡 (れんらく) to contact; to get in touch		
+q[>=H&S8>2	舞	ブ	まい、ま・う	dance; encourage	舞台 (ぶたい) stage (theatre)<br>お見舞い (おみまい) visiting/seeing someone who is ill		
+IzhjjX*7]<	薄	ハク	うす・い、うす・まる、うす・める、うす・らぐ、うす・れる	think; shallow; weak (taste, etc.)	薄い (うすい) thin | weak (taste, etc.)		
+Ml)=4i43dd	街	カイ、ガイ	まち	street; town	商店街 (しょうてんがい) shopping area; shopping arcade<br>街 (まち) city; town		
+Ph.mZql9F{	講	コウ		reconcile; make peace with; learn; discuss	講演 (こうえん) lecture; speech<br>講堂 (こうどう) auditorium; lecture hall<br>講義 (こうぎ) lecture		
+v9Dhf5L5uM	豆	ズ、トウ	まめ	bean	納豆 (なっとう) natto (fermented soybeans)<br>豆 (まめ) legume; bean<br>豆腐 (とうふ) tofu; bean curd; beancurd		
+M`O@O8&(+7	越	エツ	こ・える、こ・す	exceed; surpass	引っ越し (ひっこし) moving; changing residence<br>越える (こえる) to exceed; to pass<br>越す (こす) to cross over (e.g. mountain); to surpass<br>引っ越す (ひっこす) to move; to change residence		
+uB5A)48;8h	迎	ゲイ	むか・える	greet; welcome	歓迎 (かんげい) welcome; reception<br>迎え (むかえ) meeting; greeting<br>迎える (むかえる) to pickup; to greet; to receive		
+nW*QG~%nU?	述	ジュツ	の・べる	mention; relate; speak; state	述べる (のべる) to state; to mention		
+w|/!Pz_-@:	逃	トウ	に・がす、に・げる、のが・す、のが・れる	escape; evade; set free	逃げる (にげる) to escape; to run away		
+HdnlQuY$s,	逆	ギャク	さか、さか・らう	opposite; reversed	逆 (ぎゃく) opposite<br>逆らう (さからう) to oppose; to defy		
+C.tjs&EbeZ	途	ト		road; path	～途端 (～とたん) just as; at the moment of<br>途中 (とちゅう) on the way to; in the middle of		
+pxGu0sG;$1	震	シン	ふる・う、ふる・える	shake; tremble	震える (ふるえる) to shiver; to shake<br>地震 (じしん) earthquake		
+O}YnigoX]m	靴	カ	くつ	shoes	靴 (くつ) shoes; footwear<br>靴下 (くつした) socks		
+F!is7>`5@X	頼	ライ	たの・む、たの・もしい、たよ・る	request; rely on; trust	依頼 (いらい) request; commission<br>信頼 (しんらい) reliance; confidence<br>信頼関係 (しんらいかんけい) trusting relationship<br>頼る (たよる) to rely on; to count on<br>頼む (たのむ) to request		
+g],K6L1pfm	髪	ハツ	かみ	hair (on the head)	髪の毛 (かみのけ) hair (head)<br>髪型 (かみがた) hair style<br>髪 (かみ) hair (on the head)		
+h,qGZx2QO4	齢	レイ		age	年齢 (ねんれい) age; years		

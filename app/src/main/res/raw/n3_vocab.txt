@@ -1,0 +1,1891 @@
+#separator:tab
+#html:true
+#guid column:1
+#tags column:5
+g`BR4q/Gm.	起きる	to get up, to rise, to blaze up (fire); to wake up, to be awake, to stay awake; to occur (usually of unfavourable incidents), to happen, to take place	おきる	jlpt3vocab
+Qh..T^hL1`	寝る	to lie down, to go to bed, to lie in bed, to sleep, to sleep with someone	ねる	jlpt3vocab
+dNL%jo3?N~	浴びる	to dash over oneself (e.g. waterr), to take (e.g. shower), to bask in (e.g. the sun), to bathe in, to be flooded with (e.g. light), to be covered in; to suffer (e.g. an attack), to draw (e.g. criticism, attention, praise), to have heaped upon, to be showered with	あびる	jlpt3vocab
+Ac-gxW~LBl	湯	hot water, hot bath, hot spring; molten iron	ゆ　トウ	jlpt3vocab
+b(_]:|NdX[	寝台車	sleeping car, sleeper	しんだいしゃ	jlpt3vocab
+w/+G@QRdJ`	日光浴	sunbathing, sun tanning	にっこうよく	jlpt3vocab
+KY;<MjvEp!	寝室	bedroom	しんしつ	jlpt3vocab
+s8Uf36JNs0	浴室	bathroom, bath	よくしつ	jlpt3vocab
+d{e1:xk{}B	熱湯	boiling water	ねっとう	jlpt3vocab
+i8Dbc{GcjJ	早起き	early rising	はやおき	jlpt3vocab
+GNZBAN~~]e	起動	startup, booting up, activation, starting (e.g. machine, engine), launch	きどう	jlpt3vocab
+irG6FMhV3G	昼寝	nap (afternoon), siesta	ひるね	jlpt3vocab
+"w]W#2{I+p9"	寝かす	to put to sleep, to lay (sth) on its side	ねかす	jlpt3vocab
+Dv{q>Q$P,j	水浴び	bathing (swimming) in cold water	みずあび	jlpt3vocab
+u;%v^X1wZB	海水浴	swimming in the ocean, sea bathing, seawater bath, going for a dip in the ocean	かいすいよく	jlpt3vocab
+dftx=*(W]b	湯船	bathtub; (Edo period: boat with a bathtub rented to customers)	ゆぶね	jlpt3vocab
+d3^DTBlSp<	浴衣	Yukata (light cotton Kimono worn in summer or used as a bathrobe)	ゆかた	jlpt3vocab
+CH&Bq*sAAF	洗う	to wash, to investigate	あらう	jlpt3vocab
+k35<`0K>Tc	濯	to rinse, to wash out; to have one's revenge, to wipe out with disgrace	タク	jlpt3vocab
+FTDn_>d}5n	干す	to air, to dry, to desiccate, to drain (off), to drink up; to deprive of a role, job, etc. (usually in passive)	ほす	jlpt3vocab
+P|?r4I$,Z=	活	living, life; judo art of resuscitation; action, activity	カツ	jlpt3vocab
+"v[82#K.y]J"	洗剤	detergent, washing material	せんざい	jlpt3vocab
+m=$nNMiAQS	水洗	rinsing with water, flushing	すいせん	jlpt3vocab
+"kgyW]P#SX&"	洗濯	washing, laundry	せんたく	jlpt3vocab
+geh}=Vl3.$	干物	dried fish (or shellfisch, etc.), stockfish	ひもの	jlpt3vocab
+Iy3uH-alEn	若干名	few people, small number of people	じゃっかんめい	jlpt3vocab
+tdvfP?N<}/	生活	living, life (daily existence), livelihood	せいかつ	jlpt3vocab
+y{Xb:av_!v	活動	action, activity; movie (esp. silent movie era)	かつどう	jlpt3vocab
+IJp%Y-jVRE	活発	vigour, active, lively	かっぱつ	jlpt3vocab
+u>6po4:rEM	手洗い	washing one's hands, water (or basin, etc.) for washing one's hands, restroom, lavatory, toilet, hand-washing (laundry)	てあらい	jlpt3vocab
+v_dgk!y9)+	洗面所	washroom, bathroom	せんめんじょ	jlpt3vocab
+e]11d.TUqa	食生活	eating habits	しょくせいかつ	jlpt3vocab
+G(q@Z^$hCM	活気	energy, liveliness	かっき	jlpt3vocab
+NYwfNTzrn	活用	practical use, application, conjugation, declension, inflection	かつよう	jlpt3vocab
+bAp%jbbb.n	干渉	interference, intervention, meddling	かんしょう	jlpt3vocab
+G$%od&!|h;	拾う	to pick up, to find, to gather	ひろう	jlpt3vocab
+Qsfc8K%A0&	捨てる	to throw away, to cast away, to dump, to discard, to abandon, to desert, to leave, to give up, to resign	すてる	jlpt3vocab
+b[lUZbT]_R	燃える	to burn, to get fired up	もえる	jlpt3vocab
+"g=efagM#!*"	袋	bag, sack, pouch, skin of an orange (and other fruits), dead end, plot of land surrounded by water, plastic shopping bag	ふくろ　タイ	jlpt3vocab
+j@kRA3+7J?	拾得物	found article	しゅうとくぶつ	jlpt3vocab
+ld.P,bSv/{	拾万円	100.000 Yen	じゅうまんえん	jlpt3vocab
+n8B?hW9idS	燃料	fuel	ねんりょう	jlpt3vocab
+BOL`L?W@A%	紙袋	paper bag	かみぶくろ	jlpt3vocab
+Owal=3Au%>	手袋	glove, mitten, mitt	てぶくろ	jlpt3vocab
+n-1HX9Jmy7	曜	weekday	ヨウ	jlpt3vocab
+G*3Q&&(`[(	末	tip, top, end, close (e.g. of the month), youngest child, descendants, offspring, posterity, future, finally, trivialities; the end of, powder	すえ　マツ　バツ	jlpt3vocab
+x9cqjO2Xa~	昨	last (year), yersterday	サク	jlpt3vocab
+huW81NGh.Y	翌	the following, next	ヨク	jlpt3vocab
+F6EBCgICOu	週末	weekend	しゅうまつ	jlpt3vocab
+BR?^mZSbs7	期末	end of term	きまつ	jlpt3vocab
+CkchCH00oH	結末	end, conclusion	けつまつ	jlpt3vocab
+kHEQP^3Fky	翌朝	the next morning	よくあさ	jlpt3vocab
+K+nHJ*%;!e	昨年	last year	さくねん	jlpt3vocab
+MgG3rTRykG	月末	end of the month	げつまつ	jlpt3vocab
+dAuZ,$/v|I	末っ子	youngest child	すえっこ　ばっし　まっし	jlpt3vocab
+FY~o:DkSoj	足袋	Tabi, Japanese socks (with split toe)	たび	jlpt3vocab
+KfO;m1}2%.	風袋	packing, wrapping, tare	ふうたい	jlpt3vocab
+k2MNDDX?^M	一昨年	year before last	いっさくねん　おととし	jlpt3vocab
+yl4*thD)85	予	beforehand, previous, myself, I	あらかじめ　ヨ　シャ	jlpt3kanji
+gxl?Mu<i5]	定	determine, fix, establish, decide	さだめる　さだまる　さだか　テイ　ジョウ	jlpt3kanji
+eUxR~5d=5*	用	utilize, business, service, use, employ	もちいる　ヨウ	jlpt3kanji
+5DrYGGBW=	事	matter, thing, fact, business, reason, possibly	こと　つかう　つかえる　ジ　ズ	jlpt3kanji
+r=yh%f6emi	予 auch 余	over, more than, formal or oratory first person pronoun, I	よ	jlpt3vocab
+PqAf]X^K*s	定まる	to become settled, to be fixed	さだまる	jlpt3vocab
+bWE5Z7rJ0k	用いる	to use, make use of, to utilize	もちいる	jlpt3vocab
+nh2(*;mAzm	予定	plans, arrangement, schedule, program, programme, expectation, estimate	よてい	jlpt3vocab
+y8X0@+X7U]	天気予報	weather forecast, weather report	てんきようほう	jlpt3vocab
+d)hK1jI5^5	定年	reitrement age, years of service in a military rank before eligibility for promotion	ていねん	jlpt3vocab
+BwU/<msoBO	利用	use, utilization, application	りよう	jlpt3vocab
+u6u)o%$^Ot	用事	tasks, things to do, errand, business (to take care of), affairs, engagement	ようじ	jlpt3vocab
+s6`;ZyU&wV	大事な	important, valuable, serious matter	だいじな	jlpt3vocab
+r}TPFnKSy.	起	rouse, wake up, get up	おきる　おこる　おこす　たつ　キ	jlpt3kanji
+ye.eSPqcQ<	寝	lie down, sleep, rest, bed, remain unsold	ねる　ねかす　シン	jlpt3kanji
+x.^TnmkIqC	浴	bathe, be favored with, bask in	あびる　あびせる　ヨク	jlpt3kanji
+s}ITXaPfgV	洗	wash, inquire into, probe	あらう　セン	jlpt3kanji
+m}zX0j3lh?	干	dry, parch, ebb, recede, interfere, intercede	ほす　ひる　カン	jlpt3kanji
+rx^Q@UjtF8	活 (2)	lively, resuscitation, being helped, living	いきる　いかす　いける　カツ	jlpt3kanji
+QwG4@$4[P|	拾	pick up, gather, find, go on foot, ten	ひろう　シュウ　ジュウ	jlpt3kanji
+"J#dv)dbOag"	捨	discard, throw away, abandon, resign, reject, sacrifice	すてる　シャ	jlpt3kanji
+ML=Q:dcexf	燃	burn, blaze, glow	もえる　もやす　もす　ネン	jlpt3kanji
+PxjyU+P}mr	好事家	dilettante, person of fantastic taste	こうずか	jlpt3vocab
+H/_03DSll?	押	push, stop, check, subdue, attach, seize, weight, press, seal, do in spite of	おす　おし　おさえる　オウ	jlpt3kanji
+H[?0m&hAPh	引	pull, tug, jerk, admit, install, quote, refer to&nbsp;	ひく　ひき　びき　ひける　イン	jlpt3kanji
+r/b?nlAU(n	取	take, fetch, take up	とる　とり　どり　シュ	jlpt3kanji
+Qp:UN7p$ac	消	extinguish, blow out, turn off, neutralize, cancel	きえる　けす　ショウ	jlpt3kanji
+K5QJoTNR!H	押す	to push, to press, to apply pressure from above, to press down, to stamp (e.g. passport), to apply a seal, to affix (e.g. gold leaf), to press (so. for sth.), to urge, to compel, to influence, to overwhelm, to overpower, to repress, to push (events along), to advance (a plan), to do in spite of.., to do even though..., to force, to make sure, to be pressed for time, to advance troops, to attack, (of light) to be diffused across and entire surface	おす	jlpt3vocab
+H3wWxWC;<a	引く	to pull, &nbsp;to draw (attention), to attract (interest), to draw back, to draw (a card), to draw (a plan, line), to catch (a cold), to play (sting instrument), to look up (e.g. dictionary), to consult, to haul, to pull (vehicles), to substract, to ebb, to fade, to descend (from), to inherit (a characteristic), to quote, to raise (as evidence), to lay (a cable), to draw (a cable)	ひく	jlpt3vocab
+d}RX7=/xps	取る	to take, to pick up, to harvest, to earn, to win, to choose, to steal, to eat, to have (a meal), to remove (one's glasses etc.), to compete (in sumo, cards, etc.), to play	とる	jlpt3vocab
+Joe;EIx8v,	消える	to go out, to vanish, to disappear	きえる	jlpt3vocab
+d_Fi*DxP-p	消す	to erase, to delete, to cross out, to turn off power, to extinguish, to put out, to bump off	けす	jlpt3vocab
+x*6^Yztw$0	押印	affixing one's seal	おういん	jlpt3vocab
+Ec]nI.Fn1K	強引	overbearing, coercive, pushy, forcible, high-handed	ごういん	jlpt3vocab
+b(.|.8Y]zG	取材	news coverage, collecting data (e.g. for an article), covering (sth. for media), interview	しゅざい	jlpt3vocab
+"O!JB*d$c#n"	消防車	fire-enginge	しょうぼうしゃ	jlpt3vocab
+"v252#mWzi;"	引火	catching fire	いんか	jlpt3vocab
+cd.h]ar^XP	引き出す	to pull out, to take out, to draw out, to withdraw	ひきだす	jlpt3vocab
+BpKO|Ya4;8	引用	quotation, citation, reference	いんよう	jlpt3vocab
+wM=]tanVk$	取り消す	to cancel, to withdraw, to retract, to take back (words, etc.), to revoke	とりけす	jlpt3vocab
+jo10jfR3T`	消化	digestion, thorough understanding, seeling accumulated (excess) products, dealing with a large amount of work, losing one's form and turning into sth. else	しょうか	jlpt3vocab
+sx>]&<wxJR	戸	door, counter for houses, door radical	と　コ	jlpt3kanji
+ln9QFO.7QP	窓	window, pane	まど　てんまど　けむだし　ソウ　ス	jlpt3kanji
+"H<M=#,O[&R"	階	storey, stair, counter for storeys of a building	きざはし　カイ	jlpt3kanji
+uzC`;otn,G	段	grade, steps, stairs	ダン　タン	jlpt3kanji
+B3$%z<[YAt	戸	door (esp. Japanese-Style), entrance (to a home), narrows, gate	と	jlpt3vocab
+uuS9mi-p)i	窓	window	まど	jlpt3vocab
+J$fyc;2Ir7	階	storey, story, floor, stairs, stage (in chronostratigraphy), counter for storeys and floors of a building	かい	jlpt3vocab
+F}C7+^BNCr	段	step, stair, (flight of) stairs, (row of) stitches, columns (of print), grade, rank, level, counter for breaks in written language (or speech etc.)	だん	jlpt3vocab
+fxv;6;:<H}	戸外	open-air, outdoors	こがい	jlpt3vocab
+IC>&*Ul0(K	門戸	door	もんこ	jlpt3vocab
+ORgyJ.?}!l	車窓	train window, car window	しゃそう	jlpt3vocab
+gu(c!]Yp(p	階段	stairs, stairway, staircase	かいだん	jlpt3vocab
+"Q#<S{@3*3}"	石段	(flight of) stone steps)	いしだん	jlpt3vocab
+GlEx)BLX8Q	手段	means, way, measure	しゅだん	jlpt3vocab
+B.t1TOTf^S	井戸水	well water	いどみず	jlpt3vocab
+"yCRuB#5j]:"	一戸建て	detached house, stand-alone-house, single-family home	いっこだて	jlpt3vocab
+t1{_sSo1n7	同窓会	graduate's association, alumni meeting, class reunion	どうそうかい	jlpt3vocab
+M.O(pFi>1+	窓口	ticket window, teller window, counter, contact person, point of contact	まどぐち	jlpt3vocab
+z0QESU^?6G	段階	grade, level, stage, class, phase, steps, order, gradation	だんかい	jlpt3vocab
+w|i&_vzyQ4	植	plant	うえる　うわる　ショク	jlpt3kanji
+Fd+2a[pyj5	葉	leaf, plane, lobe, needle, blade, spear, counter for flat things, fragment piece	は　ヨウ	jlpt3kanji
+3uHXg1jb%	実	reality, truth	み　みのる　まこと　みの　みちる　ジツ　シツ	jlpt3kanji
+o_wkr;UG*/	根	root, radical, head (pimple)	ね　コン	jlpt3kanji
+l1y%s[w;6a	植わる	to be planted	うわる	jlpt3vocab
+oZzPzV50qD	植える	to plant, to grow, to raise, to insert, to transplant, to implant, to set (type), to inoculate (e.g. an infectious agent), to instill (idea, value etc.), to instil, to inculcate	うえる	jlpt3vocab
+"wZF#4,:`H2"	実 auch 誠	truth, reality, sincerity, honesty, fidelity, content, substance, (good) result)	じつ　まこと	jlpt3vocab
+n[FGFB4v?+	根	root (of a plant), root (of a tooth, hair, etc.), center (of a pimple etc.), root (of all evil etc.), source, origin, cause, basis, one's true nature, (fishing) reef	ね	jlpt3vocab
+L><Is(k3,>	植物	plant, vegetation	しょくぶつ	jlpt3vocab
+"vq#R!n:V3V"	移植	transplanting, porting, implantation, engrafting	いしょく	jlpt3vocab
+BgCeutnW<[	言葉	language, dialect, word, words, phrase, term, expression, remark, speech (manner of) speaking	ことば	jlpt3vocab
+yuEVC_eu-V	実現	implementation (e.g. of a system), materialization, realization	じつげん	jlpt3vocab
+biN-mjl1Jq	実家	(one's parents') home	じっか	jlpt3vocab
+z4@RWo@FEo	根元 auch 根源 oder 根本	root, source, origin, foundation, base, principle	こんげん　こんぽん	jlpt3vocab
+D,1!U2|&@-	植木	garden shrubs, trees, potted plant	うえき	jlpt3vocab
+"i#}FP-&)AV"	紅葉	autumn colours, fall colors, leaves changing color, leaves turning red/yellow, red/yellow leaves,(Japanese) maple, autumn leaf color	こうよう　もみじ	jlpt3vocab
+n.5vx!E=fy	屋根	roof	やね	jlpt3vocab
+Ab4U+VSLq*	建	build	たてる　たて　たつ　ケン　コン	jlpt3kanji
+m5kss;&Dwq	築	fabricate, build, construct	きずく　チク	jlpt3kanji
+s7vz/4!UZC	構	posture, build, pretend	かまえる　かまう　コウ	jlpt3kanji
+c0`s`F%%dl	造	create, make, structure, physique	つくる　つくり　ゾウ	jlpt3kanji
+"L[HL81xc#f"	建つ	to be erected, to be built	たつ	jlpt3vocab
+q5DC{2>*rP	建てる	to build, to construct	たてる	jlpt3vocab
+t94%*$08Ve	築く	to build, to pile up, to amass	きずく	jlpt3vocab
+K+_EgwTZ9)	構う	to mind, to care about, to be concerned about, to care for, to look after, to prepare for, to interfere with, to meddle in, to tease	かまう	jlpt3vocab
+nw]Fp(!`/l	造る auch 作る	to make, to produce, to manufacture, to build, to construct, to prepare (food), to brew (alcohol), to raise, to grow, to cultivate, to train, to till, to draw up) a document, to make out, to prepare, to write, to create (an artistic work, etc.), to compose, to coin (a phrase), to organize, to establish, to found, to have (a child), to make up (one's face etc.), to fabricate (an excuse etc.), to form (a line etc.), to set (a record etc.), to commit (a sin, a crime etc.)	つくる	jlpt3vocab
+lQn]$|Ot`J	建立	(act of) building (temple, monument, etc.), erection	こんりゅう	jlpt3vocab
+NH%n|q$Bg2	改築	structural alteration of building, reconstruction	かいちく	jlpt3vocab
+vX|$Sy)~!M	構造	structure, construction	こうぞう	jlpt3vocab
+BL/WiZu,`s	木造	wooden, made of wood	もくぞう	jlpt3vocab
+GXxkW~iV/B	造花	artificial flowers, artificial flower making	ぞうか	jlpt3vocab
+C/6fXT$O|e	建築	contruction, architecture (of buildings)	けんちく	jlpt3vocab
+n|UBZu?o=(	構成	organization, configuration, composition	こうせい	jlpt3vocab
+B_,ITXe:-%	構内	premises, grounds, campus, in-house	こうない	jlpt3vocab
+k<{VXIIk|<	建造物	structure	けんぞうぶつ	jlpt3vocab
+z,w46,X?Xx	造船	shipbuilding	ぞうせん	jlpt3vocab
+"k#f,<RIA3Y"	設	establishment, provision, prepare	もうける　セツ	jlpt3kanji
+o}uf43:Kka	柱	pillar, post, cylinder, support	はしら　チョウ	jlpt3kanji
+I%ez7tEb9D	庫	warehouse, storehouse	くら　コ　ク	jlpt3kanji
+O>0MJHWh]6	向	yonder, facing, beyond, confront, defy, tend toward, approach	むく　むい　むける　むかい　むこう　コウ	jlpt3kanji
+wrn(1,`Aw}	設ける	to prepare ahead of time, to create, to establish	もうける	jlpt3vocab
+rat56?j}bf	柱	pillar, post, support, prop, mainstay, counter for buddhas, gods, nobles etc., column	はしら	jlpt3vocab
+"b#>,HdrQ>w"	庫	warehouse, storehouse, cellar, magazine, granary, godown, depository, treasury, elevator	くら	jlpt3vocab
+xx%m>Ym:=J	向く	to face, to turn toward, to be suited for, to be fit for	むく	jlpt3vocab
+u$RW3[WNn6	建設	contrsuction, establishment	けんせつ	jlpt3vocab
+xs.Lkh7/F@	設定	establishment, creation, posing (a problem), setting (movie, novel, etc.), scene, options setting, preference settings, configuration, setup	せってい	jlpt3vocab
+m]^MjkY^d(	電柱	telephone pole, telegraph pole, lightpole, utility pole	でんちゅう	jlpt3vocab
+n-jbbaVO[2	金庫	safe, strongbox, cashbox, vault, strongroom, depository, cash office, treasury, provider of funds	きんこ	jlpt3vocab
+j[nGaB:&U!	方向	direction, orientation, bearing, way, course (e.g. of action)	ほうこう	jlpt3vocab
+"HDA]Lj#`EL"	設計	plan, design, layout	せっけい	jlpt3vocab
+D?E}GLYq*,	設立	establishment, founding, incorporation (of a business)	せつりつ	jlpt3vocab
+iwqc!=ooNL	大黒柱	central pillar (of a building), mainstay (e.g. of an economy), backbone (e.g. of a family), provider, main man	だいこくばしら	jlpt3vocab
+"QY#7(D&@nb"	車庫	garage, car shed, carport	しゃこ	jlpt3vocab
+Hv`TxWKhT-	向上心	ambition, aspiration, desire to improve oneself	こうじょうしん	jlpt3vocab
+lm,`7P5d>J	庫裏	temple kitchen, monastery kitchen, quarters of a head priest (and his family)	くり	jlpt3vocab
+i{>^+E,EG<	熱	heat, temperature, fever, mania, passion	あつい　ネツ	jlpt3kanji
+NX()NLg[jr	冷	cool, cold (beer, person), chill	つめたい　ひえる　ひや　さめる　レイ	jlpt3kanji
+Pvpvzc1Hy0	温	warm	あたたか　あたたまる　ぬく　オン	jlpt3kanji
+i,i8{HP_1Y	度	degrees, occurrence, time, counter for occurrences, consider, attitude	たび　たい　ド　ト　タク	jlpt3kanji
+D|gko6]LSk	熱い	hot (thing), passionate (feelings, etc.), ardent, hot (e.g. gaze), hot (e.g. temper), zealous, enthusiastic, fired up, intense, severe, extreme, hot (topic), of interest	あつい	jlpt3vocab
+g}ap{MlF(<	冷える	to grow cold (from room temperature, e.g. in refridgerator), to get chilly, to cool down	ひえる	jlpt3vocab
+w|zfEY2]T!	冷やす	to cool (from room temperature), to chill, to refridgerate, to calm down, to cool off, to regain one's composure, to relax, to be frightened (at), to be scared (of)	ひやす	jlpt3vocab
+qwFpc^uTVG	温かい auch 暖かい	warm, mild, genial	あたたかい　あったかい	jlpt3vocab
+bJe$IaEaq(	度	degree (angle, temperature, scale, etc.), counter for occurrences and time, strength (of alcohol)	ど	jlpt3vocab
+yAFEs6d)ES	度	time (three times, each time, etc.), times, degree	たび	jlpt3vocab
+r|,|g$hT(%	高熱	high fever, pyro-	こうねつ	jlpt3vocab
+y?g]Q1.CHi	温度	temperature	おんど	jlpt3vocab
+p%$Z?GBp}>	熱心	zeal, enthusiasm	ねっしん	jlpt3vocab
+Or:Yi{DTPt	冷ます	to cool (e.g. from a high temperature to room temperature), to let cool, to dampen, to throw a damper on, to spoil	さます	jlpt3vocab
+pc=DA,[w_j	体温計	medical thermometer	たいおんけい	jlpt3vocab
+rhhpM@Cw[C	支度	preparation, arrangements	したく	jlpt3vocab
+"PdG=C[)qy#"	材	lumber, log, timber, wood, materials, ingredients, talent	ざい	jlpt3kanji
+C;!*,sLSm8	型	mould, type, model	かた　ケイ	jlpt3kanji
+zW-?]08t0[	焼	bake, burning	やく　やき　やける　ショウ	jlpt3kanji
+zD54)N{Pr4	器	utensil, vessel, receptacle, implement, instrument, ability, container, tool, set	うつわ　キ	jlpt3kanji
+E27mm6oG@r	型	model, type (e.g. of machine, goods, etc.), type, style, pattern, mold, template, model, kata (standard form of a movement, posture etc. in martial arts, sports etc.), form (e.g. customary procedure), size (e.g. clothing, shoes), (taxonomical) form	かた	jlpt3vocab
+kxI5[5o$O&	焼く	to burn, to roast, to broil, to grill, to bake, to toast, to barbecue, to heat (up), to make (charcoal, pottery, bricks, etc.), to bake, to fire, to burn, to tan (e.g. suntan), to burn, to print (a photo), to burn (an optical disc), to be jealous of, to be envious of, to envy	やく	jlpt3vocab
+"dtZ#h!$<XF"	焼ける	to burn, be roasted, be heated, be sunbunrt, to fade (in the sun), to glow red (e.g. of the sky at sunset), to be jealous, to be envious	やける	jlpt3vocab
+D$J9{-l/Hg	材料	ingredients, material	ざいりょう	jlpt3vocab
+y$K[P]E|$*	木材	timber, lumber, wood	もくざい	jlpt3vocab
+uaAlza}.*j	典型的	typical, prototypical, representative, stereotypical, model, odeal, archetypal, quintessential	てんけいてき	jlpt3vocab
+y@h%[w~,o)	模型	model, dummy, maquette, physical model	もけい	jlpt3vocab
+Er*8lkwnR,	延焼	spread of fire	えんしょう	jlpt3vocab
+D2MZ4M;5;d	日焼け	sunburn, suntan, tan, becoming discolored from the sun (e.g. paper), yellowing	ひやけ	jlpt3vocab
+zhxwxuPkx;	食器	tableware	しょっき	jlpt3vocab
+DBL(-j9Ja!	素材	raw materials, subject matter	そざい	jlpt3vocab
+y%K,1Omr::	心材	heartwood	しんざい	jlpt3vocab
+Fr?|=q_h@]	容器	container, vessel	ようき	jlpt3vocab
+MQn..o*S1f	器用な	nimble-fingered, dexterous, skillful (with the fingers), handy, clever, shrewd, ingenious	きような	jlpt3vocab
+Do6djjTJLM	卵	egg, ovum, spawn, roe	たまご　ラン	jlpt3kanji
+xn~FxO[(da	乳	milk, breasts	ちち　ち　ニュウ	jlpt3kanji
+s[1kOsId5N	粉	flour, powder, dust	こ　こな　フン	jlpt3kanji
+HvuKd<SRFZ	塩	salt	しお　エン	jlpt3kanji
+qBy@B|pPyV	卵	eggs, egg, spawn, roes, hen egg, (an expert) in the making, beginning, origin, infancy	たまご	jlpt3vocab
+nhySJC$(5_	乳	milk, breasts, loop, decorative bump (on a hanging bell)	ちち	jlpt3vocab
+"eS](#6`uj+"	卵白	white of an egg, albumen	らんぱく	jlpt3vocab
+NM81@zPVGg	乳歯	milk (baby) tooth, first set of teeth	にゅうし	jlpt3vocab
+m6(vWytV^[	小麦粉	wheat flour	こむぎこ	jlpt3vocab
+I]V,B=._R~	粉末	fine powder	ふんまつ	jlpt3vocab
+ARR:DkSrJ`	粉薬	powder medicine	こなぐすり	jlpt3vocab
+on{s.~2V7&	塩味	salty taste, salitness	しおあじ	jlpt3vocab
+lwN9SRu3B|	塩素	chlorine	えんそ	jlpt3vocab
+NkJA!8-ep`	産卵	egg-laying, spawning	さんらん	jlpt3vocab
+OuLoM{vP:m	牛乳	(cow's) milk	ぎゅうにゅう	jlpt3vocab
+vw71`AzT-U	乳飲み子	suckling child, babe in arms, child at the breast, baby, infant	ちのみご	jlpt3vocab
+C3<*A:$K*Q	哺乳類	mammal, Säugetier	ほにゅうるい	jlpt3vocab
+KsMRk20j2P	粉雪	powdered snow	こなゆき	jlpt3vocab
+uJBz;!H/6A	花粉	pollen	かふん	jlpt3vocab
+fYm<Fy35^R	塩分	salt, salt content	えんぶん	jlpt3vocab
+"xbxT-`#:~M"	法度	law, ban, prohibition, ordinance	はっと	jlpt3vocab
+lviOZ&6^H{	菜	vegetable, side dish, greens	な　サイ	jlpt3kanji
+coHwo]XQAC	果	fruit, reward, carry out, achieve, end, finish, succeed	はたす　はてる　カ	jlpt3kanji
+y1Etc5=tCH	豆	beans, pea, midget	まめ　トウ　ズ	jlpt3kanji
+gd/H`f$hTV	缶	tin can, container, jar radical	かま　カン	jlpt3kanji
+k8BdUMn}>$	果たす	to accomplish, to achieve, to carry out, to fulfill, to realize, to execute, to perform, to do, to do ... completeley, to do ... entirely	はたす	jlpt3vocab
+Lb_zu~)GW=	果てる	to end, to be finished, to be exhausted, to die, to perish, to do utterly, to do completely, indicates an extreme has been reached	はてる	jlpt3vocab
+bON?|AAE/i	豆	legume (esp. edible legumes or their seeds, such as beans, peas, pulses etc.), beans, peas, soya bean (soybean), soy, female genitalia, kidney, miniature, tiny, child	まめ	jlpt3vocab
+zNl0~`uS/2	野菜	vegetable	やさい	jlpt3vocab
+d~~Jf-Togx	菜の花	rape blossoms, broccolini	なのはな	jlpt3vocab
+tOt4)HQ}0h	成果	fruits (of one's labors), results, outcome, accomplishment	せいか	jlpt3vocab
+i(y+W]}5(X	果実酒	fruit wine (e.g. cider, wine, plum liquor), fruit liquer	かじつしゅ	jlpt3vocab
+n:N*~XIYT8	豆腐	tofu, bean-curd	とうふ	jlpt3vocab
+u,wz.nl84`	大豆	soya bean (soybean)	だいず	jlpt3vocab
+Qbb(my59dF	空き缶	empty can	あきかん	jlpt3vocab
+l2@?SxN<?w	生野菜	fresh vegetables	なまやさい	jlpt3vocab
+iCPnz@eVp*	菜園	vegetable garden	菜園	jlpt3vocab
+"Bjc6g#idSr"	豆知識	trivia, bits of knowledge	まめちしき	jlpt3vocab
+Rd{N>0yJ^s	缶詰	packing (in cans), canning, canned goods, tin can, confining so. (e.g. so they can concentrate on work), being stuck in a confined space)	かんづめ	jlpt3vocab
+bxn53}Kg:q	果物	fruit	くだもの	jlpt3vocab
+ONt@OgY,H7	小豆	adzuki beans	あずき	jlpt3vocab
+dzLoB{^M[b	杯	counter for cupfuls, wine glass, glass, toast; counter for ships, octopuses and squid	さかずき　ハイ	jlpt3kanji
+O(NwB-.*S3	枚	sheet of..., counter for flat thin objects or sheets	マイ　バイ	jlpt3kanji
+fBb,:Kemps	匹	equal, head, counter for small animals, roll of cloth	ひき　ヒツ	jlpt3kanji
+f!<57le%^K	量	quantity, measure, weight, amount, consider, estimate, surmise	はかる　リョウ	jlpt3kanji
+w}BQj,aCL%	量る auch 計る	to measure, to weigh, to survey, to time (sound, gauge, estimate), to conjecture, to infer, to surmise	はかる	jlpt3vocab
+h)[VLi.;H5	乾杯	toast, drink (in celebration or in honor of sth.), drinking one's glass dry, cheers	かんぱい	jlpt3vocab
+m40rw>D<:	枚数	the number of flat things, win-loss difference which influences the ranking of wrestlers (Sumo term!)	まいすう	jlpt3vocab
+hj)d7GQK,=	二枚目	handsome man, actor in a love scene	にまいめ	jlpt3vocab
+A]@pHq9v^S	匹敵	comparing with, match, rival, equal	ひってき	jlpt3vocab
+o,]6YBLGWM	計量	measurement, computation, metric, measure	けいりょう	jlpt3vocab
+K*?cdlH@6@	分量	amount, quantity	ぶんりょう	jlpt3vocab
+E4q|6$ZiUd	重量	weight, heavyweight boxer	じゅうりょう	jlpt3vocab
+O/>o+Q>9|m	三枚	three flat objects (e.g. tickets, cloth, etc.), filleting (a fish)	さんまい	jlpt3vocab
+dCZNoMD_=a	熱帯魚	tropical fish	ねったいぎょ	jlpt3vocab
+gY/I%[U8q]	頭	head, counter for large animals	あたま　かしら　かぶり　トウ　ズ　ト	jlpt3kanji
+ii@:iwWxf/	顔	face, expression	かお　ガン	jlpt3kanji
+"A,/P#=06&^"	首	neck, counter for songs and poems	くび　シュ	jlpt3kanji
+u5WMN?.&Qi	鼻	nose, snout	はな　ビ	jlpt3kanji
+pcegGH$6NB	頭	head, hair (on one's head), mind, brains, intellect, leader, chief, boss, captain, top, tip, beginning, start, head, person, top structural component of a Kanji, neck	あたま	jlpt3vocab
+N<L}NS=otg	顔	face, visage, look, expression, countenance, honor, face, influence, notoriety	かお	jlpt3vocab
+oIT3g+p5tp	首	neck, head, dismissal, discharge, firing (from a job)	くび	jlpt3vocab
+px:zZal%L(	頭痛	headache	ずつう	jlpt3vocab
+q~3151d`eB	年頭	beginning of the year, the oldest person	ねんとう	jlpt3vocab
+w$xTbNSy7_	顔面	face (of person)	がんめん	jlpt3vocab
+OPacO~UUy+	首位	first place, head position, leading position	しゅい	jlpt3vocab
+CItbjZ+h?V	鼻水	nasal mucus, dripping nose	はなみず	jlpt3vocab
+cTMN7cv3Qx	耳鼻科	otolaryngology, concerning ear, nose and throat	じびか	jlpt3vocab
+CWS8KxUc{:	口頭	oral	こうとう	jlpt3vocab
+Mv@SPOH}{W	頭文字	initials, initialism, first letter of a word, acronym, capital letter	かしらもじ	jlpt3vocab
+wL``W><*7X	笑顔	similing face, smile	えがお	jlpt3vocab
+C2Lf}z)9ZS	顔負け	feeling embarrassed, being put to shame, bowing to	かおまけ	jlpt3vocab
+KPip[]QZLD	顔色	complexion, one's colour, countenance, expression, one's face	かおいろ	jlpt3vocab
+e;}%Xb9.Q4	首相	Prime Minister, Chancellor, Premier	&nbsp;しゅしょう	jlpt3vocab
+rl6c8gl,e>	呼	call, call out to, invite	よぶ　コ	jlpt3kanji
+CurD:?q-FN	吸	suck, imbibe, inhale, sip	すう　キュウ	jlpt3kanji
+v?bI,t`$s]	息	breath, respiration, son, interest (on money)	いき　ソク	jlpt3kanji
+A$vVnXtDi)	汗	sweat, perspire	あせ　カン	jlpt3kanji
+NZfn(]ywA5	呼ぶ	to call out (to), to call, to invoke, to summon (a doctor, etc.), to invite, to designate, to name, to brand, to garner (support, etc.), to gather, to take as one's wife	よぶ	jlpt3vocab
+NUPyTbw%$g	吸う	to smoke, to breathe in, to inhale, to suck, to sip, to slurp, to absorb, to soak up, to kiss	すう	jlpt3vocab
+K696aNPQj$	息	breath, breathing, tone, mood	いき	jlpt3vocab
+usD(MPm,7d	深呼吸	deep breath	しんこきゅう	jlpt3vocab
+"tVp)V_fGc#"	休息	rest, relief, relaxation	きゅうそく	jlpt3vocab
+f>0qpq_;)c	利息	interest (bank)	りそく	jlpt3vocab
+mK8P%,AX{-	呼吸	breath, respiration, knack, trick, secret (of doing sth)	こきゅう	jlpt3vocab
+MB({J_BrSa	吸い取る	to suck up, to absorb, to squeeze (money)	すいとる	jlpt3vocab
+pe0TG7ay/h	息苦しい	choking, oppressive, suffocating	いきぐるしい	jlpt3vocab
+"F|._EBidh#"	冷や汗	cold sweat	ひやあせ	jlpt3vocab
+mSjbtb3wVS	発汗	sweating, perspiration	はっかん	jlpt3vocab
+nk|T?@J9vj	検	examination, investigate	しらべる　ケン	jlpt3kanji
+o85rvF4z&$	査	investigate	サ	jlpt3kanji
+MzyOB*w]7<	歯	tooth, cog	よわい　は　シ	jlpt3kanji
+pNOn+[@65;	痛	pain, hurt, damage, bruise	いたい　いたむ　いたましい　いためる　ツウ	jlpt3kanji
+t5Wp^$W8nw	痛む	to hurt, to ache, to feel a pain, to be injured, to be spoiled (e.g. food)	いたむ	jlpt3vocab
+B:KyH4ChAh	痛める	to hurt, to injure, to cause pain, to harm, to damage, to spoil, to worry, to bother, to be grieved over, to afflict, to cause financial loss, to hurt one's pocket	いためる	jlpt3vocab
+y@Xdn?g+OI	痛ましい	pitiful, heartbreaking, tragical	いたましい	jlpt3vocab
+f0O:ig,SA2	点検	inspection, examination, checking	てんけん	jlpt3vocab
+"d)I#OB]!52"	探検	exploration, expedition	たんけん	jlpt3vocab
+muM@1k<G.x	検査	inspection (e.g. customs, factory), examination, scan (e.g. MRI, PET, etc.)&nbsp;	けんさ	jlpt3vocab
+"PyJ#18#C]0"	調査	investigation, examination, inquiry, enquiry, survey	ちょうさ	jlpt3vocab
+,2ZO:lCc%	査証	visa	さしょう	jlpt3vocab
+zLe8Vt7p4F	虫歯	cavity, tooth decay, decayed tooth, caries	むしば	jlpt3vocab
+fu|l(S1]C,	永久歯	permanent tooth	えいきゅうし	jlpt3vocab
+A*6?n]tSOW	激痛 auch 劇痛	pain (intense, sharp, violent)	げきつう	jlpt3vocab
+hZd+1/q$~l	歯科	dentistry, dental	しか	jlpt3vocab
+"n(~%;3th-#"	歯車	gear, cog-wheel	はぐるま	jlpt3vocab
+"DtUQgzo#k:"	検討	consideration, examination, investigation, study, scrutiny, discussion, analysis, review	けんとう	jlpt3vocab
+djC:(U,@D$	審査員	examiner, judge	しんさいん	jlpt3vocab
+p{Ic.z,i^:	血	blood	ち　ケツ	jlpt3kanji
+ke|qd<q1p<	液	fluid, liquid, juice, sap, secretion	エキ	jlpt3kanji
+Fx{WFdu.pQ	包	wrap, pack up, cover, conceal	つつむ　くるむ　ホウ	jlpt3kanji
+jewg&Gu9U2	帯	sash, belt, obi, zone, region	おびる　おび　タイ	jlpt3kanji
+FA]o;)y5LD	包む	to wrap up, to tuck in, to pack, to do up, to cover with, to dress in, to conceal, to hide, to be engulfed in, to be enveloped by	つつむ	jlpt3vocab
+Ut;bDVV^n	帯びる	to wear (sword, decoration, etc.), to carry, to be entrusted (with a mission), to take on, to have a trace of, to be tinged with	おびる	jlpt3vocab
+L;&^T/uf=9	血管	blood vessel, vein	けっかん	jlpt3vocab
+CS/={18,pT	血統書	a pedigree; Stammbaum	けっとうしょ	jlpt3vocab
+gtqw&Dj<83	冷血	cold-bloodedness, clodheartedness	れいけつ	jlpt3vocab
+t/c_K4^aBk	赤血球	red blood cell, erythrocyte	せっけっきゅう	jlpt3vocab
+G.gHXf%~b~	包帯	bandage, dressing	ほうたい	jlpt3vocab
+i~n/!4u3FG	酒気帯び運転	drunk driving, driving under the influence (of alcohol), DUI, legal category based on blood alcohol content	しゅきおびうんてん	jlpt3vocab
+c,OuJ0C3E[	一帯	region, zone, whole place	いったい	jlpt3vocab
+"E*!a!g#A3J"	血色	complexion; Gesichtsfarbe, Teint	けっしょく	jlpt3vocab
+kmUgLD._K8	液体	liquid, fluid	えきたい	jlpt3vocab
+"pTLA#Z(E*U"	血液型	blood type	けつえきがた	jlpt3vocab
+"j#!%I}lxdl"	携帯電話	mobile telephone, cellular telephone	けいたいでんわ	jlpt3vocab
+"C@c4XP}A#p"	救	salvation, save, help, rescue, reclaim	すくう　キュウ	jlpt3kanji
+QEXDGVPXss	助	help, rescue, assist	たすかる　たすける　ジョ	jlpt3kanji
+"A~U#!{}Gd#"	死	death, die	しぬ　シ	jlpt3kanji
+A7x41+>uwy	亡	deceased, the late, dying, perish	ない　ボウ　モウ	jlpt3kanji
+bS??RrP:9^	亡い	dead	ない	jlpt3vocab
+wTOfsb<B%F	死ぬ	to die, to pass away, to lose spirit, to lose vigor, to look dead, to cease, to stop	しぬ	jlpt3vocab
+o~m(JDAU/)	<div>助かる</div>	to be saved, to be rescued, to survive, to escape harm, to be spared damage, to be helped, to be saved trouble	たすかる	jlpt3vocab
+m2&GOa:fap	助ける	to help, to save, to rescue, to give relief to, to spare (life), to reinforce, to promote, to abet	たすける	jlpt3vocab
+o6SDz)}>tq	救う	to rescue from, to help out of, to save	すくう	jlpt3vocab
+E[0bFrdzf~	救急車	ambulance	きゅうきゅうしゃ	jlpt3vocab
+n@kiD|s%f<	救援	relief, rescure, reinforcement	きゅうえん	jlpt3vocab
+d2n_>dsZE9	助言	advice, suggestion	じょげん	jlpt3vocab
+P83E4:+%R>	救助	relief, aid, rescue	きゅうじょ	jlpt3vocab
+Ne~WChwKdm	死守	defending to the last, defending desperately	ししゅ	jlpt3vocab
+P:`oUN1Ty;	亡者	the dead	もうじゃ	jlpt3vocab
+n2Zk~v[I~e	救急箱	first-aid kit	きゅうきゅうばこ	jlpt3vocab
+pYwR&>A^je	救済	relief, aid, salvation, help, rescue	きゅうさい	jlpt3vocab
+pE~vV-6]:e	援助	assistance, aid, support	えんじょ	jlpt3vocab
+qgG98/w8kn	補助	assistance, support, aid, help, subsidy, supplement, subvention, grant-in-aid, auxiliary, subsidiary, spot (in bodybuilding)	ほじょ	jlpt3vocab
+GT.tOg5zDc	亡命	flight from one's country, seeking asylum, defection, emigration (for political reasons), (going into) exile, becoming a (political) refugee	ぼうめい	jlpt3vocab
+C)PKM@8$+*	志望者	candidate, applicant	しぼうしゃ	jlpt3vocab
+MlCQouDeG9	息子	son, (vulgar: penis)	むすこ	jlpt3vocab
+oo;yr2QaK(	助太刀	assistance (in a fight), seconds (in a fight)	すけだち	jlpt3vocab
+H~zC4GS43M	戦	war, battle, match	たたかう　いくさ　セン	jlpt3kanji
+l*X87j:xW{	決	decide, fix, agree upon, appoint	きまる　きめる　ケツ	jlpt3kanji
+fy?P.+ursH	勝	victory, win, prevail, excel	かつ　まさる　ショウ	jlpt3kanji
+s9hH,YHU-e	負	defeat, negative, minus, bear, owe, assume as responsibility	まける　まかす　おう　フ	jlpt3kanji
+ANHA6vu<jD	戦う	to make war (on), to wage war (against), to go to war (with), to fight (with), to do battle (against), to compete (against), to struggle (against adversities, etc.), to fight, to contend, to resist	たたかう	jlpt3vocab
+ihZ~r`=zwl	決まる	to be decided, to be settled, to look good in(clothes)	きまる	jlpt3vocab
+JMVW&x[D4+	決める	to decide, to choose, to determine, to make up one's mind, to resolve, to set one's heart on, to settle, to arrange, to set, to appoint, to fix, to clinch (a victory), to decide (the outcome of a match), to persist in doing, to go through with, to always do, to have made a habit of, to take for granted, to assume, to dress up, to dress to kill, to dress to the nines, to carry out successfully (a move in sports, a pose in dance, etc.), to succeed in doing, to immobilize with a double-arm lock (in sumo, judo, etc.), to eat or drink sth., to take illega drugs	きめる	jlpt3vocab
+C=]hs&^-e-	勝つ	to win, to gain victory	かつ	jlpt3vocab
+"go5lZwO{#}"	勝る	to excel, to surpass, to exceed, to have an edge, to be superior, to outrival, to outweigh, to preponderate	まさる	jlpt3vocab
+QP])MQrY&%	負ける	to lose, to be defeated, to succumb, to give in, to surrender, to yield, to be inferior to, to break out in a rash due to (e.g. lacquer, shaving, etc.), to reduce the price, to lower the price, to give a discount on	まける	jlpt3vocab
+PAB,ZWLV9c	負かす	to defeat	まかす	jlpt3vocab
+8{>+7AZ>l	負う	to bear, to carry on one's back, to take responsibility for, to accept a duty, to be injured, to owe	おう	jlpt3vocab
+mb$6hWU]aQ	負け戦	lost battle	まけいくさ	jlpt3vocab
+HN8B/QSO@P	作戦	tactics, strategy, military or naval operations	さくせん	jlpt3vocab
+gHi:W]s6Nv	決定戦	deciding match, play-off, runoff	けっていせん	jlpt3vocab
+AqZy{W@oV=	決意	decision, determination, resolution	けつい	jlpt3vocab
+DQpF:<A+!=	圧勝	complete victory	あっしょう	jlpt3vocab
+l^0N0<2BOx	勝負	victory or defeat, match, contest, game, bout	しょうぶ	jlpt3vocab
+D!cFuf)y<o	負担	burden, charge, responsibility	ふたん	jlpt3vocab
+E~-N0-VDOU	背負う	to be burdened with, to take responsibility for, to carry on back or shoulder, to have (sth.) in the background, to be in front (of sth.)	せおう	jlpt3vocab
+QmgMjwXR>L	挑戦	challenge, defiance, dare, attempt, try	ちょうせん	jlpt3vocab
+kvf$?2.Y)N	決心	determination, resolution	けっしん	jlpt3vocab
+qn@S=Q1Z;J	多数決	majority rule	たすうけつ	jlpt3vocab
+w_$!FV9-aq	決勝	decision of a contest, finals (in sports)	&nbsp; けっしょう	jlpt3vocab
+iy^;1f7y[w	代	substitue, change, convert, replace, period, age, counter for decades of ages, eras, etc., generation, charge, rate, fee	かわる　かえる　よ　しろ　ダイ　タイ	jlpt3kanji
+t~_C8B4>T,	表	surface, table, chart, diagram	あらわれる　あらわす　おもて　ヒョウ	jlpt3kanji
+IDzw{MBZR^	第	No., residence	ダイ　テイ	jlpt3kanji
+mTa,q[oXNJ	回	-times, round, game, revolve, counter for occurrences	まわる　まわす　カイ　エ	jlpt3kanji
+c/yD/{%qH2	代わる auch 替わる	to succeed, to relieve, to replace, to take the place of, to substitute for, to take over for, to represent, to be exchanged, to change (places with), to switch	かわる	jlpt3vocab
+EsvBt&U9t5	代える auch 換える、替える	to replace, to exchange, to interchange, to substitute	かえる	jlpt3vocab
+l8:~N`U>~C	代 auch 世	world, society, age, generation	よ	jlpt3vocab
+iVY+jp}[A	代	charge, cost, price, generation, age, reign, era, a representative of, on behalf of, for (so.), used after a phone number to indicate that it is a switchboard number, counter for decades of ages, eras, etc., counter for genereations (of inheritors to a throne, etc.), proxy application company, pronoun	だい	jlpt3vocab
+sqSqxx,dJC	代	substitution, material, price, margin (e.g. for stapling etc.), area required for sth., shiro (unit of land area equal to one-fiftieth of a tan; ~19.83 m²)	しろ	jlpt3vocab
+F4`F[(K?5?	表れる auch 現れる	to appear, to come in sight, to become visible, to come out, to embody, to materialize, to be expressed (e.g. emotions), to become apparent (e.g. trends, effects)	あらわれる	jlpt3vocab
+"FmW>!,WN,#"	表す auch 現す	to reveal, to show, to display, to express, to represent, to signify, to stand for, to make widely known	あらわす	jlpt3vocab
+"l=WRf#}4nA"	表	"surface, face (e.g. the visible side of an object), front (of a building etc.), obverse side (""head"") of a coin, outside, exterior, appearance, public, first half (of an innings), top (of an inning), cover (for tatami mats, etc.), foreground"	おもて	jlpt3vocab
+E_22!s7N[j	第	ordinal	だい	jlpt3vocab
+6t1~VdpUc	回る	to turn, to revolve, to visit several places, to function well, to pass a certain time	まわる	jlpt3vocab
+Q^ZODrWgxM	回す	to turn, to rotate, to gyate, to circulate, to send around, to surround, to put sth. to a new use (e.g. leftovers), ... around (e.g. to chase so. around), to dial (e.g. telephone number), to invest, to gang-rape	まわす	jlpt3vocab
+"C26de/S#As"	食事代	cost of a meal	しょくじだい	jlpt3vocab
+Hj{FigpF),	代理	representation, agency, proxy, agent, attorney, substitute, alternate, acting (principal etc.)	だいり	jlpt3vocab
+OSz;=[cICv	身代金	ransom; Lösegeld	みのしろきん	jlpt3vocab
+v3_Z5P%1d(	表示	indication, expression, showing, manifestation, demonstration, display, representation	ひょうじ	jlpt3vocab
+j^*br`|($p	回数券	book of tickets&nbsp;	かいすうけん	jlpt3vocab
+w,E.*Zr~^5	時代	period, epoch, era, age, the times, those days, oldness, ancientness, antiquity, antique, period piece	じだい	jlpt3vocab
+dm,Co(Jy2`	交代	alternation, change, relief, relay, shift, substitution (sports, etc.)	こうたい	jlpt3vocab
+h6v(w:3GPL	代表	representative, representation, delegation, type, example, model	だいひょう	jlpt3vocab
+j*QJ7TqPAA	回収	collection, recovery, withdrawal, retrieval	かいしゅう	jlpt3vocab
+nS})$H}KgW	第一回	first time, first, initial	だいいっかい	jlpt3vocab
+lrasyR?&HI	記	scribe, account, narrative	しるす　キ	jlpt3kanji
+E^[*nb6W)M	録	record	ロク	jlpt3kanji
+i%&H:(wy`d	優	tenderness, excel, surpass, actor, superiority, gentleness	すぐれる　やさしい　ユウ	jlpt3kanji
+AotJp_2>TV	賞	prize, reward, praise	賞	jlpt3kanji
+F<f^^{w3W_	記す	to write down, to note, to jot down, to remember	しるす	jlpt3vocab
+Bysytkd:ZL	優れる	to surpass, to outstrip, to excel	すぐれる	jlpt3vocab
+t!?`I4xVzp	優しい	tender, kind, gentle, graceful, affectionate, amiable	やさしい	jlpt3vocab
+blV]J.:t)!	暗記	memorization, learning by heart	あんき	jlpt3vocab
+nuWr7&($=v	記入	entry, filling in of forms	きにゅう	jlpt3vocab
+oGA;(Jbg_K	登録	registration, accession, register, entry, record	とうろく	jlpt3vocab
+x8l7t+Arx5	議事録	record of proceedings, minutes	ぎじろく	jlpt3vocab
+jtR-jDaF.m	録画	(video) recording	ろくが	jlpt3vocab
+GpI/5)z=+	優勝	overall victory, championship	ゆうしょう	jlpt3vocab
+P:rIM48d3~	優先	preference, priority, precedence	ゆうせん	jlpt3vocab
+Dvn{~l+<YZ	賞状	honorable certificate	しょうじょう	jlpt3vocab
+KU4^>-dgLz	日記	diary, journal	にっき	jlpt3vocab
+c?^m0mDWr+	記事	article, news, story, report, account	きじ	jlpt3vocab
+l4[+Fu=-nv	記念	commemoration, celebration, honoring the memory of sth., turning sth. into a memento, memory	きねん	jlpt3vocab
+B)yerP2m|-	記録	record, minutes, document, a record (e.g. in sports), results, score, to record, to document, to set a record (e.g. in sports), to show a result, to reach a value	きろく	jlpt3vocab
+c3epLpIWYL	録音	(audio) recording	ろくおん	jlpt3vocab
+HHgE42M%92	受賞	winning (a prize)	じゅしょう	jlpt3vocab
+Dmt,~ZP2?&	賞金	prize, monetary award	しょうきん	jlpt3vocab
+LvlaVJ<UUq	秒	second (1/60 minute)	ビョウ	jlpt3kanji
+jMS4+d.QK8	差	distinction, difference, variation, descrepancy, margin, balance	さす　サ	jlpt3kanji
+n<+ClCs!RJ	測	fathom, plan, scheme, measure	はかる　ソク	jlpt3kanji
+s(YD$Khr09	順	obey, order, turn, right, docility, occasion	ジュン	jlpt3kanji
+vX.$/Q`fZs	差す	to shine, to be visible, to be tinged with, to rise (of water levels), to flow in, to be felt (i.e. as an emotion), to come over one, to hold up (an umbrella etc.), to put up, to raise, to extend one's arm straight ahead (in dance), to insert, to put in, to wear (a sowrd) in one's belt, to wear at one's side, to carry under one's arm, to insert one's arm under an opponent's arm, to pole (a boat), to pour, to add (liquid), to serve (drinks), to put on (lipstick, etc.), to apply, to color, to dye, to light (a fire), to burn, to shut, to close, to lock, to fasten, to stop in the midst of, to leave undone	さす	jlpt3vocab
+P2~n^-*r9o	測る auch 計る	to measure, to weigh, to survey, to time (sound, gauge, estimate), to conjecture, to infer, to surmise	はかる	jlpt3vocab
+yXo~+jbt@h	秒読み	countdown	びょうよみ	jlpt3vocab
+l@9?6Mpdg<	毎秒	every second	まいびょう	jlpt3vocab
+Q4.v~BwI|n	時差	time difference	じさ	jlpt3vocab
+JKp,<MoZ$)	差別	discrimination, distinction, differentiation	さべつ	jlpt3vocab
+t)]Ti!TxNj	予測	prediction, estimation	よそく	jlpt3vocab
+suf|0hj8lv	測定	measurement	そくてい	jlpt3vocab
+"g{v#pT3[8&"	順序	order, sequence, procedure	じゅんじょ	jlpt3vocab
+QjsSaSA8<	順番	turn (in line), order of things, sequential order	じゅんばん	jlpt3vocab
+t-1ty+h+FQ	秒速	per second	びょうそく	jlpt3vocab
+FTj<kvNBA8	大差	great difference	たいさ	jlpt3vocab
+D{tylf3Ho2	測量	measurement, surveying; Messung, Vermessung	そくりょう	jlpt3vocab
+lxYUgCBdZY	計測	measurement, measure, instrumentation	けいそく	jlpt3vocab
+"Q$)Sv>md2#"	不順	irregularity, unseasonableness	ふじゅん	jlpt3vocab
+Es*z|s@IB3	球	ball, sphere	たま　キュウ	jlpt3kanji
+mc)80b;Rnu	打	strike, hit, knock, pound, dozen	うつ　ダ	jlpt3kanji
+qD8F27_v<a	投	throw, discard, abandon, launch into, join, invest in, hurl, give up, sell at a loss	なげる　トウ	jlpt3kanji
+v/%bKK!&*U	点	spot, point, mark, speck, decimal point	テン	jlpt3kanji
+NkKAC}obrh	球 auch 玉	ball, sphere, globe, orb, bead (of sweat, dew, etc.), drop, droplet, ball (in sports), pile (of noodles, etc.), bullet, bulb (i.e. a light bulb), lens (of glasses, etc.), bead (of an abacus), ball (i.e. testicle), gem, jewel (esp. spherical, sometimes figuratively), pearl, female entertainer (e.g. a geisha), person (when commenting on their nature), character, item, funds or person used as part of a plot	たま	jlpt3vocab
+gEU~=i.N8X	打つ	to hit, to strike, to knock, to beat, to punch, to slap, to tap, to bang, to clap, to pound, to strike (noon, etc.), to sound (cymbals, etc.), to beat (a drum, etc.), to beat (rhythmically, e.g. pulse, waves, etc.), to move, to impress, to touch, to drive in, to hammer in, to put in, to eject, to type, to send, to transmit, to insert, to write in, to mark, to make (noodles etc.), to prepare, to till (soil), to sprinkle, to throw, to cast, to do, to carry out, to play, to perform, to engage in (gambling, etc.), tp pay (a deposti etc.), to visit (on a pilgrimage), to line (a coat), to bind (a criminal)	うつ	jlpt3vocab
+kyB_wbqQmB	投げる	to throw, to cast away, to face defeat, to give up	なげる	jlpt3vocab
+l!KVBUVA60	地球儀	globe (map)	ちきゅうぎ	jlpt3vocab
+H<1UrR`dir	球技	ball game (e.g. baseball, tennis, soccer)	きゅうぎ	jlpt3vocab
+hfgJ<fwz08	打球	batting, batted ball	だきゅう	jlpt3vocab
+qiJT0{OvnB	強打	smiting, blow	きょうだ	jlpt3vocab
+q&$Jj3fQoS	投書	letter to the editor, letter from a reader, contribution	とうしょ	jlpt3vocab
+"p?l]S/DUQ#"	重点	important point, lay stress on, colon, emphasis	じゅうてん	jlpt3vocab
+Ip_t>}NYQb	満点	perfect score, full marks, extremely, very, quite	まんてん	jlpt3vocab
+nCB%<oyn.B	打点	runs batted in, RBI	だてん	jlpt3vocab
+n;Rzi/xu&V	野球部	baseball club (i.e. baseball team of a university, corporation, etc.)	やきゅうぶ	jlpt3vocab
+"xk`)#bp4<u"	投手	pitcher	とうしゅ	jlpt3vocab
+eRI1TY4@Me	同点	deadlock, tie, draw	どうてん	jlpt3vocab
+lkI~D_3y>I	利点	advantage, point in favor	りてん	jlpt3vocab
+dB%V7(/f^e	点数	marks, points, score, runs, number of items, credits	てんすう	jlpt3vocab
+t`z5:c]zGe	交差点	crossing, intersection	こうさてん	jlpt3vocab
+DTvQ!AVJ{=	感	emotion, feeling, sensation, admiration, impression	カン	jlpt3kanji
+A4F9WE,bH2	情	feelings, emotion, passion, sympathy, circumstances, facts	なさけ　ジョウ　セイ	jlpt3kanji
+"i(dTj|Y^#*"	恋	romance, in love, yearn for, miss, darling	こう　こいしい　こい　レン	jlpt3kanji
+D85->m|Ke_	愛	love, affection, favourite	アイ	jlpt3kanji
+HXKfZmlWWb	情け	pity, sympathy, compassion, mercy, affection	なさけ	jlpt3vocab
+N`{%a}Jd4N	恋う	to love	こう	jlpt3vocab
+I6@CVW&.GM	恋し	yearned for, longed for, missed	こいしい	jlpt3vocab
+q>-Q,ar}mP	恋い	to miss, to yearn for	こい	jlpt3vocab
+k+?q/t6Vmn	感情的	emotional, sentimental	かんじょうてき	jlpt3vocab
+FYtfM~lcb~	安心感	sense of security	あんしんかん	jlpt3vocab
+IOj`>k8`B~	感動	being deeply moved emotionally, excitement, passion, deep emotion, impression	かんどう	jlpt3vocab
+z(}FyemCOs	風情	taste, elegance, charm, appearance, air, the likes of..., lowly people such as...	ふぜい	jlpt3vocab
+fA!OB481Na	愛用	favorite, habitual use	あいよう	jlpt3vocab
+Pte*cBMC0j	愛情	love, affection	あいじょう	jlpt3vocab
+P?:T~GwK/^	恋愛	love, love-making, passion, emotion, affections, falling in love	れんあい	jlpt3vocab
+"n,CJ}(#=qd"	感じる	to feel, to sense, to experience	かんじる	jlpt3vocab
+CthaBS/!I5	感想	impression, thoughts	かんそう	jlpt3vocab
+uqcA-BY(Z(	感心	admiration, well done!	かんしん	jlpt3vocab
+BG0GmwZW^T	友情	friendship, fellowship, camaderie	ゆうじょう	jlpt3vocab
+lDiyt.kUtf	同情	sympathy, compassion, sympathize, pity, feel for	どうじょう	jlpt3vocab
+L_/gce_4d?	恋人	lover, sweetheart, significant other	こいびと	jlpt3vocab
+wi$|`UK6W_	信	faith, truth, fidelity, trust	シン	jlpt3kanji
+ELl~GhF);P	想	conception, idea, thought, samjna (perception; buddhist term)	ソウ　ソ	jlpt3kanji
+ik]fXI019m	伝	transmit, go along, walk along, follow, report, communicate, legend, tradition	つたわる　つたえる　つたう　デン	jlpt3kanji
+v{vavq2yUC	欲	longing, covetousness, greed, passion, desire, craving	ほっする　ほしい　ヨク	jlpt3kanji
+DmHAkO(tK_	伝わる	to be handed down, to be introduced, to be transmitted, to be circulated, to go along, to walk along	つたわる	jlpt3vocab
+I{z]]>e}lU	伝える	to convey, to report, to transmit, to communicate, to tell, to impart, to propagate, to teach, to bequeath	つたえる	jlpt3vocab
+F(/OKKfIK(	伝う	to go along, to walk along, to follow	つたう	jlpt3vocab
+B9m@2TgT8p	伝	legend, tradition, biography, life, method, way, horseback transportation and communication relay system used in ancient Japan	でん	jlpt3vocab
+"hY7J;#/n(&"	信	honesty, fidelity, trust, reliance, (religious) faith, counter for recieved messages	しん	jlpt3vocab
+CgSW{8k5>g	欲する	to want, to desire	ほっする	jlpt3vocab
+wk$&/<)LcQ	欲しい	wanted, wished for, in need of, desired	ほしい	jlpt3vocab
+le=@oOhK0@	信頼	reliance, trust, faith, confidence	しんらい	jlpt3vocab
+c@4iwE:Y|p	信号	signal, signaling, traffic light, traffic signal	しんごう	jlpt3vocab
+A.x0~]@VMP	空想	daydream, fantasy, fancy, vision	くうそう	jlpt3vocab
+fu{ps{3rck	愛想	civility, courtesy, compliments, sociability, graces	あいそ	jlpt3vocab
+"Bl#=&&l~`Z"	伝説	tradition, legend, folklore	でんせつ	jlpt3vocab
+z8p:%SFWEp	信じる	to believe (in), to place trust in, to confide in, to have faith in	しんじる	jlpt3vocab
+qe83T`0gGE	自信	self-confidence, confidence (in oneself)	じしん	jlpt3vocab
+nB`]&.$=;{	信用	confidence, dependence, credit, faith, reliance, belief, credence, trust	しんよう	jlpt3vocab
+qE@gf,~sKK	予想	expectation, anticipation, prediction, forecast, conjecture&nbsp;	よそう	jlpt3vocab
+kSnl6>s+_!	理想	ideal　(noun)	りそう	jlpt3vocab
+ur9EA*o;vg	食欲	appetite (for food)	しょくよく	jlpt3vocab
+d{<oliLOSC	苦	suffering, trial, worry, hardship, feel, bitter, scowl	くるしむ　くるしめる　にがる　くるしい　にがい　ク	jlpt3kanji
+f.gouAo}{9	悩	trouble, worry, in pain, distress, illness	なやむ　なやます　ノウ	jlpt3kanji
+NzQ~H-?o^C	困	quandary, become distressed, annoyed	こまる　コン	jlpt3kanji
+i_s?PYt[QU	難	difficult, impossible, trouble, accident, defect	むずかしい　かたい　ナン	jlpt3kanji
+mL@[WI]Vl_	苦しむ	to suffer, to groan, to be worried	くるしむ	jlpt3vocab
+AblxV)K?&2	苦しめる	to torment, to pain, to inflict (physical) pain, to hurt, to harass, to cause (emotional) pain, to afflict, to distress, to bother, to trouble, to stump, to baffle	くるしめる	jlpt3vocab
+o1+.<1e/m>	苦る	to feel bitter, to scowl	にがる	jlpt3vocab
+"nr|n#HF|W,"	苦しい	painful, difficult, agonizing, needy, tight (budget), straitened (circumstances), forced (smile, joke), lame (excuse), strained (interpretaion), awkward (situation), painful (position), (after masu- stem) hard to to, unpleasant	くるしい	jlpt3vocab
+AO)X/[;H0A	苦い	bitter	にがい	jlpt3vocab
+fqL)+_~}sA	苦	pain, anguish, suffering, distress, anxiety, worry, trouble, difficulty, hardship, duhkha (suffering; buddhist term)	く	jlpt3vocab
+b)GT^hZGS|	悩む	to be worried, to be troubled	なやむ	jlpt3vocab
+HU3QfG*b?k	悩ます	to afflict, to torment, to harass, to molest	なやます	jlpt3vocab
+e3{^!5+c)M	脳	brain, mind	のう	jlpt3vocab
+u~)R7/|!2L	困る	to be troubled, to be worried, to be bothered, to be embarrassed, to be stumped	こまる	jlpt3vocab
+NL-{zRq>)r	難しい	difficult, hard, troublesome, complicated, serious (disease, problem, etc.), fussy, particular, fastidious, hard to please, displeased, gloomy, glum, sullen, serious (look), dirty, unclean, filthy, detestable, unpleasant, uncomfortable, creepy, spooky	むずかしい	jlpt3vocab
+sFl)5.{:ss	難い	difficult, hard	かたい	jlpt3vocab
+f{Uk?@Qhhe	難	difficulty, trouble, hardship, accident, disaster, danger, fault, defect, criticism	なん	jlpt3vocab
+MNE}sJsGnY	苦痛	pain, agony, bitterness	くつう	jlpt3vocab
+p%tJDRyd.=	苦情	complaint, troubles, objection, grievance	くじょう	jlpt3vocab
+isd@y)_z>G	困難	difficulty, distress	こんなん	jlpt3vocab
+RgsSe,;~rh	難所	perilous pass (on a route or journey), rough spot	なんしょ	jlpt3vocab
+C&mcz@I0mf	苦労	troubles, hardships	くろう	jlpt3vocab
+cjv$3$Nr>P	苦心	pain, trouble, anxiety, diligence, hard work	くしん	jlpt3vocab
+FT$;?gQ|lR	難問	perplexity, difficult question, difficult problem	なんもん	jlpt3vocab
+l+J1bn7iEq	苦手	poor (at), weak (in), not very good (at), dislike (of), difficult to deal with	にがて	jlpt3vocab
+xA@99ac|DU	怒	angry, be offended	いかる　おこる　ド	jlpt3kanji
+Q-y6XGH<%s	悲	grieve, sad, deplore, regret	かなしむ　かなしい　ヒ	jlpt3kanji
+jQh$>!f(@R	笑	laugh	わらう　えむ　ショウ	jlpt3kanji
+iK3l/HzCDO	喜	rejoice, take pleasure in	よろこぶ　キ	jlpt3kanji
+f`TRq>_u:>	怒る	to get angry, to get mad, to tell someone off, to scold, to be angular, to be square	おこる　いかる	jlpt3vocab
+RfbW?oae}U	怒り	anger, rage, fury, wrath, indignation	いかり	jlpt3vocab
+P*`x2P]@}>	悲しい	sad, sorrowful	かなしい	jlpt3vocab
+h1bnihn7Ah	悲しむ	to be sad, to mourn for, to regret	かなしむ	jlpt3vocab
+mQpj.MXe[v	笑う	to laugh, to smile, to sneer, to ridicule, to be dumbfounded, to be flabbergasted	わらう	jlpt3vocab
+J~f}_hsnqC	笑む	to smile	えむ	jlpt3vocab
+g8+5&C[9mZ	喜ぶ	to be delighted, to be glad, to be pleased, to congratulate, to gratefully accept	よろこぶ	jlpt3vocab
+(=axN>N6X	喜び	joy, delight, rapture, pleasure, gratification, rejoicing, congratulations, felicitations	よろこび	jlpt3vocab
+"rT0#/F4~94"	激怒	rage, indignation, exasperation	げきど	jlpt3vocab
+"v0MQ|IJ;0#"	悲劇	tragedy, disaster	ひげき	jlpt3vocab
+i]ne{H>M:=	悲観	pessimism, disappointment	ひかん	jlpt3vocab
+fsSZt^&;cT	爆笑	roar of laughter (from several people), laughing hard (single person)	ばくしょう	jlpt3vocab
+NurTLTOFH5	喜怒哀楽	human emotions (joy, anger, pathos and humor); Freude, Zorn, Trauer und Glück	きどあいらく	jlpt3vocab
+wBjj]6<664	悲恋	blighted love, disappointed love	ひれん	jlpt3vocab
+Q*6SCU@fti	大笑い	great laughter, burst of laughter	おおわらい	jlpt3vocab
+"tIC}+H<ly#"	笑顔	smiling face, smile	えがお	jlpt3vocab
+u@KpKt5F/h	笑い声	laughter	わらいごえ	jlpt3vocab
+"DmK&.,#iU6"	大喜び	great joy	おおよろこび	jlpt3vocab
+Pg!e7Dj9I0	残	remainder, leftover, balance	のこる　のこす　ザン	jlpt3kanji
+F,49E_.(Sb	念	wish, sense, idea, thought, feeling, desire, attention	ネン	jlpt3kanji
+dO,iv:abq8	泣	cry, weep, moan	なく　キュウ	jlpt3kanji
+pr+5r(iPX$	涙	tears, sympathy	なみだ　ルイ	jlpt3kanji
+w,^Ru2Bsg!	残る	to remain, to be left (over)	のこる	jlpt3vocab
+"rg1h_0C>#["	残す	to leave (behind, over), to bequeath, to save, to reserve	のこす	jlpt3vocab
+y3[3=AyL<f	泣く	to cry, to weep, to sob, to howl	なく	jlpt3vocab
+df/*$|F]k}	残留	residual, residue, stay behind, stay back	ざんりゅう	jlpt3vocab
+uA!ulcmUj@	残雪	remaining snow, lingering snow	ざんせつ	jlpt3vocab
+E;$0hJb<}m	専念	absorption, giving undivided attention, devoting oneself (to)	せんねん	jlpt3vocab
+"zO0#YN?%4y"	念願	one's heart's desire, earnest petition	ねんかん	jlpt3vocab
+ekB9GePo5C	信念	belief, faith, conviction	しんねん	jlpt3vocab
+CrQE|QDUtf	号泣	crying aloud, lamentation, wailing	ごうきゅう	jlpt3vocab
+sNC!ZA/,;U	涙声	tearful voice	なみだごえ	jlpt3vocab
+"QJ#z<2^pDC"	残念	deplorable, bad luck, regret, disappointment	ざんねん	jlpt3vocab
+p&XILj{g&%	残さず	all, entirely, completely, without exception	のこさず	jlpt3vocab
+Kd<JWxRf4^	入念	careful, elaborate, scrupulous&nbsp;	にゅうねん	jlpt3vocab
+JB[(=GW`,L	理念	(platonic) ideal (of how things ought to be, e.g. human rights), foundational principle, conception (e.g. of the university), doctrine, ideology	りねん	jlpt3vocab
+At6B9oPn$T	泣き虫	crybaby, blubberer&nbsp;	なきむし	jlpt3vocab
+Fq>&*,&K3Q	結	tie, bind, contract, join, organize, do up hair, fasten	むすぶ　ゆう　ゆわえる　ケツ	jlpt3kanji
+"g#&!v`yH3^"	婚	marriage	コン	jlpt3kanji
+jmN4]}L@[M	紹	introduce, inherit, help	ショウ	jlpt3kanji
+DzLauya@w*	介	jammed in, shellfish, mediate, concern oneself with	カイ	jlpt3kanji
+kv|P$y@cYr	結ぶ	to tie, to bind, to link, to bear (fruit), to close (e.g. deal), to confirm, to conclude, to connect (two distant places), to close tightly, to purse (e.g. lips), to unite (with), to ally, to join hands	むすぶ	jlpt3vocab
+gGi;|poP!@	結う	to do up (hair), to braid, to fasten, to fix	&nbsp;ゆう	jlpt3vocab
+r!?Mu%<00D	結わえる	to bind, to fasten, to tie up	ゆわえる	jlpt3vocab
+C!p.dE}Xu]	結婚	marriage	けっこん	jlpt3vocab
+k:Vb:T!:(/	結果	result, consequence, outcome, effect, coming to fruition, bearing fruit	けっか	jlpt3vocab
+eo[cwY^-R_	金婚式	golden wedding (anniversary)	きんこんしき	jlpt3vocab
+r+00x2t!5;	新婚	newly-wed	しんこん	jlpt3vocab
+q{F[L}(<i	紹介	introduction, presentation, referral, listing	しょうかい	jlpt3vocab
+iTp~.ETSe(	仲介料	agency fee/charge, intermediation fee/charge	ちゅうかいりょう	jlpt3vocab
+ufaU3UzCU]	魚介類	marine products, seafood, fish and shellfish	ぎょかいるい	jlpt3vocab
+M}z4R^t*GM	結論	conclusion	けつろん	jlpt3vocab
+"g5cjE,bqW#"	婚約	engagement, betrothal	こんやく	jlpt3vocab
+v@5@lTZ(,P	未婚	unmarried	みこん	jlpt3vocab
+"qYfEL5#::-"	独	single, alone, spontaneously, Germany	ひとり　ドク	jlpt3kanji
+xc{zZ*gnKC	身	somebody, person, one's station in life	み　シン	jlpt3kanji
+D4ouJfyQk[	貯	savings, store, lay in, keep, wear mustache	チョ	jlpt3kanji
+lxX^2dW_=^	期	period, time, date, term	キ　ゴ	jlpt3kanji
+kltp9Ui,Up	身	body, oneself, one's place, one's position, main part, meat (as opposed to bone, skin, etc.), wood (as opposed to bark), blade (as opposed to its handle), container (as opposed to its lid)	み	jlpt3vocab
+B$Y,dL5^AP	期	period, time, age (Geology term), term (e.g. in office), period, session (e.g. of parliament), stage (e.g. disease)	き	jlpt3vocab
+N$iaM[ww[Q	独身	bachelorhood, single, unmarried, celibate	どくしん	jlpt3vocab
+B|RsQYq<>>	独立	independence (e.g. independence day), self-support	どくりつ	jlpt3vocab
+"CmICy(#DC9"	独り言	soliloquy, monologue, speaking to oneself	ひとりごと	jlpt3vocab
+JZB&62Z~y5	身近な	near oneself, close to one, familiar	みぢかな	jlpt3vocab
+Jw,@1X9/,w	身長	height (of body), stature	しんちょう	jlpt3vocab
+hi-.|DDHO`	貯金	putting money aside, savings, deposit (e.g. in a bank)	ちょきん	jlpt3vocab
+E&8AhKzALh	貯蔵	storage, preservation	ちょぞう	jlpt3vocab
+p&mAD@hVey	期末	end of term	きまつ	jlpt3vocab
+"D}iuh!#:4F"	期待	expectation, anticipation, hope	きたい	jlpt3vocab
+wJfpZ%~EUe	最期	one's last moment, one's time of death	さいご	jlpt3vocab
+s5K>BZ1x!3	独り立ち	being independent, standing on one's own, becoming independent	ひとりだち	jlpt3vocab
+z_v/wucF]5	出身	person's origin (e.g. city, country, parentage, school)	しゅっしん	jlpt3vocab
+kphUP&Oeyj	身分	social position, social status	みぶん	jlpt3vocab
+x44anfSO[{	中身	contents, interior, substance, filling, (sword) blade	なかみ	jlpt3vocab
+pMOyG4NwZm	前期	first term, first half-year, preceding period, early period	ぜんき	jlpt3vocab
+m7cYO.{:}+	新学期	new school term	しんがっき	jlpt3vocab
+QL=:f0}WKf	約	promise, approximately, shrink	ヤク	jlpt3kanji
+z;$QiF83w&	束	bundle, sheaf, ream, tie in bundles, govern, manage, control	たば　ソク	jlpt3kanji
+Q:ZR:d27{A	必	invariably, certain, inevitable	かならず　ヒツ	jlpt3kanji
+e]Vv1|^eSj	守	guard, protect, defend, obey	まもる　もり　シュ　ス	jlpt3kanji
+rY}fKF-hF(	必ず	always, without exception, necessarily, certainly, without fail, positively, invariably	かならず	jlpt3vocab
+QfLLl/[`b0	必	definiteness, certainty	ひつ	jlpt3vocab
+jQYSX_zeF3	守る	to protect, to guard, to defend, to kepp (e.g. a promise), to abide (by the rules), to observe, to obey, to follow	まもる	jlpt3vocab
+fy3)7zn)HF	守り	protection, defense, providence, amulet, charm, talisman	まもり	jlpt3vocab
+bbGv7m&<U_	守り	babysitting, babysitter, protecting, keeping, keeper	もり	jlpt3vocab
+wmK0[bR>yA	予約	reservation, appointment, booking, advance order, contract, subscription, pledge	よやく	jlpt3vocab
+G6mBWFW+{)	花束	bunch of flowers, bouquet	はなたば	jlpt3vocab
+Hgxe@o^%,?	必勝	certain victory&nbsp;	ひっしょう	jlpt3vocab
+su2$T&1Ua}	子守歌	lullaby	こもりうた	jlpt3vocab
+dL19+;`6ix	守備	defense	しゅび	jlpt3vocab
+x8P0>-sIb^	留守	absence, being away from home, house-sitting, house-sitter, being left unattended to (of one's studies, etc.), neglecting	るす	jlpt3vocab
+QFCg>&7d5G	解約	cancellation of contract	かいやく	jlpt3vocab
+bkrK_jJna-	結束	union, unity, solidarity, bundling, binding, tying, putting on (clothes, armor, etc.)	けっそく	jlpt3vocab
+bivfIXt+8|	束縛	restraint, restriction, fetters, yoke, shackles, binding confinement with rope	そくばく	jlpt3vocab
+b5.t$h*F2J	一期一会	once-in-a-lifetime encounter (hence should be cherished as such)	いちごいちえ	jlpt3vocab
+K><(zeS^+,	必死	frantic, desperate, inevitable death	ひっし	jlpt3vocab
+I6~F_Tii1x	厳守	strict observance, adherence, scrupulous compliance	げんしゅ	jlpt3vocab
+Lt9b{wajqC	式	style, ceremony, rite, function, method, system, form, expression	シキ	jlpt3kanji
+E5i[SRWX,W	列	file, row, rank, tier, column	レツ	jlpt3kanji
+o.5lNBi%*E	祝	celebrate, congratulate	いわう　シュク　シュウ	jlpt3kanji
+D`8^Dg>Bao	酔	drunk, feel sick, poisoned, elated, spellbound	よう　スイ	jlpt3kanji
+N,@Jh3z`iS	祝う	to congratulate, to celebrate, to observe (a festival)	いわう	jlpt3vocab
+wbBkm;&rTD	祝	public holiday, celebration	しゅく	jlpt3vocab
+C.{Lh3=v3x	酔う	to get drunk, to become intoxicated, to feel sick (e.g. in a vehicle), to become nauseated, to be elated, to be exalted, to be spellbound, to be in raptures	よう	jlpt3vocab
+e69?s7|}6m	正式	due form, official, formality	せいしき	jlpt3vocab
+PI@Ve|hc[S	結婚式	marriage ceremony, wedding, nuptials	けっこんしき	jlpt3vocab
+n|&rSZ$BLa	書式	blank form, format	しょしき	jlpt3vocab
+BHxR>iFRfc	行列	line, queue, procession, parade, matrix (mathematics)	ぎょうれつ	jlpt3vocab
+q0&!-^2}R=	列島	archipelago, chain of islands	れっとう	jlpt3vocab
+weNCulZ+2j	祝賀	celebrations, congratulations	しゅくが	jlpt3vocab
+Mcs]}Zm:0+	二日酔い	hangover	ふつかよい	jlpt3vocab
+"v{eLrg#@/O"	酔っ払い	drunkard	よっぱらい	jlpt3vocab
+PU&7:GN_r-	泥酔	dead drunk	でいすい	jlpt3vocab
+PN4+sK@RBn	一式	complete set, all, everything	いっしき	jlpt3vocab
+d4/ofnO~:3	株式	stock (company), share (finance); Aktie	かぶしき	jlpt3vocab
+"q)NlN#~`aK"	列車	train (ordinary)	れっしゃ	jlpt3vocab
+e:qpd<ZJ5n	祝日	national holiday, public holiday	しゅくじつ	jlpt3vocab
+FjPQyPF/V0	祝儀	congratulations, celebration, congratulatory gift, tip	しゅうぎ	jlpt3vocab
+y1<7)+mrzj	永	eternity, long, lengthy	ながい　エイ	jlpt3kanji
+EPvmu*v-6>	永い auch 永い	long (distance), long (time), lengthy	ながい	jlpt3vocab
+n0BS$ti,U.	願	petition, request, vow, wish, hope	ねがう　ガン	jlpt3kanji
+e3>!z0iXdc	願う	to desire, to wish, to hope, to beg, to request, to implore, to pray, to have sth. done for oneself	ねがう	jlpt3vocab
+BT(]~LXzcq	幸	happiness, blessing, fortune	さいわい　さち　しあわせ　コウ	jlpt3kanji
+C%5X@C9$Da	幸い	happiness, blessedness, luck, fortune, felicity, luckily, forunately	さいわい	jlpt3vocab
+wVRk@3_xPr	幸	good luck, fortune, happiness, harvest, yield	さち	jlpt3vocab
+RdJN;1idOW	幸せ	happiness, good fortune, luck, blessing	しあわせ	jlpt3vocab
+"HtyJVe#t}N"	福	blessing, fortune, luck, wealth	フク	jlpt3kanji
+l7aj,B>GaT	永遠	eternity, perpetuity, immortality, permanence	えいえん	jlpt3vocab
+N.IA-g%o4Y	永住	permanent residence	えいじゅう	jlpt3vocab
+Pn[e>`+%dr	願書	written application or petition, application form	がんしょ	jlpt3vocab
+j%J`2h^ov4	幸運	good luck, fortune	こううん	jlpt3vocab
+i<jsU,;`$o	社会福祉士	social worker; Sozialarbeiter	しゃかいふくしし	jlpt3vocab
+K|`XA_>=+(	出願	application	しゅつがん	jlpt3vocab
+vf+^G,-&Wm	不幸	unhappiness, sorrow, misfortune, disaster, accident, death	ふこう	jlpt3vocab
+fVTgrKB<iy	幸福な	being happy, being blessed, joyful, well-being; glücklich, glückselig, beglückt, freudevoll, begünstigt, gesegnet, gnadenvoll, gnädig, segensreich	こうふくな	jlpt3vocab
+Bwmf-1m}^	祝福	blessing; Segen	しゅくふく	jlpt3vocab
+hTqQfN^`q}	関	connection, barrier, gateway, involve, concerning	せき　かかわる　カン	jlpt3kanji
+l-=r%*aZ],	係	person in charge, connection, duty, concern oneself	かかる　かかり　ケイ	jlpt3kanji
+p})Xd(,KeC	和	harmony, Japanese style, peace, soften, Japan	やわらぐ　やわらげる　なごむ　なごやか　ワ　オ	jlpt3kanji
+K:BqmSCx,,	付	adhere, attach, refer to, append	つく　つける　フ	jlpt3kanji
+J-Q;V7}1gC	関	barrier, gate	せき	jlpt3vocab
+L+0y[T.?@(	係り	charge, duty, person in charge, official clerk, connection, linking	かかり	jlpt3vocab
+z}?6Y*P5:C	係る	to be the work of, to be the result of, to be done by, to concern, to affect, to involve, to relate to&nbsp;	かかる	jlpt3vocab
+joL?ERU)Q|	和らぐ	to soften, to calm down, to be mitigated (gelindert werden)	やわらぐ	jlpt3vocab
+mGHz$74kvQ	和らげる	to soften, to moderate, to relieve	やわらげる	jlpt3vocab
+F((.~D(a5d	和む	to be softened, to calm down	なごむ	jlpt3vocab
+Oya!nktAO?	和やかな	mild, calm, gentle, quiet, harmonious	ながやかな	jlpt3vocab
+"D9,+t<|&#R"	付く	to be attached, to be connected with, to adhere, to stick, to cling, to remain imprinted, to scar, to stain, to dye, to bear (fruit, interest, etc.), to be acquired (of a habit, ability, etc.), to increase (of strength, etc.), to take root, to accompany, to attend, to follow, to study with, to side with, to belong to, to possess, to haunt, to be lit, to be lighted, to be settled, to be resolved, to be decided, to be given (of a name, price, etc.), to be sensed, to be perceived, to be lucky, to become (a state, condition, etc.)	つく	jlpt3vocab
+o@vvH]Xj}V	付ける	to attach, to join, to add, to append, to affix, to stick, to glue, to fasten, to sew on, to apply (ointment), to furnish (a house with), to wear, to put on, to keep a diary, to make an entry, to appraise, to set (a price), toa llot, to budget, to assign, to bring alongside, to place (under guard or doctor), to follow, to shadow, to load, to give (courage to), to keep (an eye on), to establish (relations or understanding)	つける	jlpt3vocab
+yWj?K^6-r;	関所	barrier, checking station	せきしょ	jlpt3vocab
+B/&bG+H1ko	玄関	entranceway, entry hall, vestibule, foyer, entryway, mud room	げんかん	jlpt3vocab
+yA]V{q*Z,T	関わる	to be affected, to be influenced, to be concerned with, to have to do with, to stick to (opinions)	かかわる	jlpt3vocab
+F;7L~-l,2I	係員	official (e.g. customs), clerk in charge	かかりいん	jlpt3vocab
+"vtsARQ3f#6"	関係	relation, relationship, connection, participation, involvement, concern, influence, effect, sexual relations(hip), related to..., connected to..., relation	かんけい	jlpt3vocab
+jSam%+KNw}	和らぎ	alleviation, abatement, peacefulness	やわらぎ	jlpt3vocab
+jwTJ2pY_ZS	和食	Japanese food, Japanese-style meal, Japanese cuisine	わしょく	jlpt3vocab
+hkTIO/gS<w	付近	neighbourhood, vicinity, environs	ふきん	jlpt3vocab
+EPY<Oc)[]{	関東地方	Kanto region (incl. Tokyo, Kanagawa, Saitama, Gunma, Tochigi, Ibaraki and Chiba prefectures)	かんとうちほう	jlpt3vocab
+"p<[G:#Vo5P"	関心	concern, interest	かんしん	jlpt3vocab
+JmmJ[P5xZt	片付ける	to tidy up, to put in order, to straighten up, to put away, to settle (problem), to clear (dispute), to finish, to bring sth. to an end, to marry off (e.g. a daughter), to do away with so. to bump so. off	かたづける	jlpt3vocab
+dt1]gV*W~K	身に付ける	to learn, to acquire knowledge, to carry, to wear (clothes, etc.), to put on	みにつける	jlpt3vocab
+oSy2p4%geL	娘	daughter, girl	むすめ	jlpt3kanji
+El$zmGhUlk	老	old man, old age, grow old	おいる　ふける　ロウ	jlpt3kanji
+z2Kw+}cF^8	婦	lady, woman, wife, bride	フ	jlpt3kanji
+"Qs#Gs1I7$Q"	姓	surname	セイ　ショウ	jlpt3kanji
+uzoFt6a~$	老いる	to age, to grow old	おいる	jlpt3vocab
+rL^<a_|Y_J	老ける	to age, to grow old	ふける	jlpt3vocab
+iV?6jAOF47	老後	old age	ろうご	jlpt3vocab
+vK_zW>:4Te	夫婦	married couple, spouses, husband and wife, couple, pair, his and hers, pair of objects, one larger, one smaller	ふうふ	jlpt3vocab
+fwemK?r_M)	夫人	woman, lady, adult female	ふじん	jlpt3vocab
+kU[M6cjt(W	主婦業	house wife work, house work, Hausfrauentätigkeit, Hausarbeit	しゅふぎょう	jlpt3vocab
+QVGs}A=,t>	新婦	bride	しんぷ	jlpt3vocab
+GSyGIs_Ba)	同姓同名	(having) dame family and personal name	どうせいどうめい	jlpt3vocab
+LUKK~j<5mD	敬老	respect for the aged	けいろう	jlpt3vocab
+kBnjv<`bg/	老夫婦	old couple, elderly couple	ろうふうふ	jlpt3vocab
+DI-Oz1d-kS	主婦	housewife, mistress (of the house), homemaker	しゅふ	jlpt3vocab
+N$s5KTX:z$	受付	reception (desk), information desk, receipt, acceptance	うけつけ	jlpt3vocab
+I,|kzZE&|8	和尚	perceptor or high priest (esp. in Zen or Pure Land Buddhism; in Tendai or Kegon Buddhism; in Shingon, Hosso, Ritsu or Shin Buddhism), second highest priestly rank in Buddhism, monk (esp. head monk of a temple), master (of one's art, trade, etc.)	おしょう	jlpt3vocab
+O9/!G;!&/z	百姓	farmer, peasant, country bumpkin, farming, the common people	ひゃくしょう	jlpt3vocab
+"g#r[$hy%Kf"	仲	go-between, relationship	なか　チュウ	jlpt3kanji
+lpWv(3.aQC	君	mister, you, ruler, male name suffix	きみ　クン	jlpt3kanji
+v8K4l1wF={	彼	he, that, the	かれ　かの　ヒ	jlpt3kanji
+OF;/f31D!}	他	other, another, the others	ほか　タ	jlpt3kanji
+B++Pzmlk;L	他	other (place, thing, person), the rest, outside, beyond, nothing except, nothing but, nothing apart from, nothing aside from, no choice (but to), besides..., in addition to...	ほか	jlpt3vocab
+P[,rXBZ[JN	仲良し	intimate friend, close friend, bosom buddy, chum	なかよし	jlpt3vocab
+"OQb2>Zd3U#"	仲裁	arbitration, intercession, mediation; Schlichtung, Vermittlung, Beilegung, Versöhnung	ちゅうさい	jlpt3vocab
+kd-tc93SAW	彼女	she, her, girlfriend, sweetheart	かのじょ	jlpt3vocab
+sEoI]2x+,Z	彼氏	boyfriend	かれし	jlpt3vocab
+Hl/f{6J/EJ	彼岸	equinoctial week (when Buddhist services are held), nirvana; Woche der Tagundnachtgleiche, Jenseits	ひがん	jlpt3vocab
+JflNA01vNt	他国	forerign country, other country, another province, strange land, alien land	たこく	jlpt3vocab
+d9cB/&{Sd-	他人	another person, other people, others, unrelated person (i.e. not related by blood), outsider, stranger	たにん	jlpt3vocab
+JNU7*l[nr8	仲間	company, fellow, colleague, associate, comrade, mate, group, circle of friends, partner, member of the same category	なかま	jlpt3vocab
+M5S3(sqpYm	仲介する	agency, intermediation	ちゅうかいする	jlpt3vocab
+s`gmmBu4!p	他者	another person, others	他者	jlpt3vocab
+qt/Ey>q!iE	他言無用	not a word to anyone; Weitersagen verboten	たごんむよう	jlpt3vocab
+d+nl=!z3:Q	仲人	matchmaker, go-between, intermediary, middleman, mediator, intercessor	なこうど	jlpt3vocab
+DRfx9}Y!n0	初	first time, beginning	そめる　はじめ　はじめて　はつ　うい　ショ	jlpt3kanji
+O@5m9i|G4U	再	again, twice, second time	ふたたび　サイ　サ	jlpt3kanji
+Mc!6xYv[(%	久	long time, old story	ひさしい　キュウ　ク	jlpt3kanji
+f+PG9*b!=2	達	accomplished, reach, arrive, attain	タツ	jlpt3kanji
+nvl*:.4;3,	初める	to begin to	そめる	jlpt3vocab
+JG*Z|5PF.Z	初め	beginning, start, outset, opening, first (in line, etc.), origin, such as..., not to mention...	はじめ	jlpt3vocab
+"Pb#)]^A%jy"	初めて	for the first time, only after... is it..., only when... do you...	はじめて	jlpt3vocab
+s=idFtr;0[	初	first, new	はつ	jlpt3vocab
+k>6.d+_RkV	再び	again, once more, a second time	ふたたび	jlpt3vocab
+k5lmn]daJU	再	re-, again, repeated, deutero-, deuto-, deuter-	さい	jlpt3vocab
+H%7d|veL`f	久しい	long, long continued, old (story)	ひさしい	jlpt3vocab
+fzEIoJ>lf-	書き初め	first calligraphy of the year	かきぞめ	jlpt3vocab
+nB|mC-dEya	初々しい	innocent, artless, unsophisticated, fresh	ういういしい	jlpt3vocab
+l7vX!(DNxh	初日	first or opening day	しょにち	jlpt3vocab
+D^_/,Bq?39	再試験	reexamination	さいしけん	jlpt3vocab
+O2Lhyjlk=a	再来年	year after next	さらいねん	jlpt3vocab
+Ecmx`1F$*9	久しく	for a long time	ひさしく	jlpt3vocab
+"Dc;{PA?[#t"	永久	eternity, perpetuity, immortality	えいきゅう	jlpt3vocab
+M`O_r=%LV5	上達	improvement (e.g. in skill, ability), advance, progress	じょうたつ	jlpt3vocab
+ET=z:X%]C)	初雪	first snow (of season)	はつゆき	jlpt3vocab
+J$|EGmV@4i	初心	original intention, initial resolution	しょしん	jlpt3vocab
+Fcjfm0w^g`	最初	beginning, outset, first, onset	さいしょ	jlpt3vocab
+Pgy2,JPwW.	再開	reopening, resumption, restarting	さいかい	jlpt3vocab
+sjbzNGIZ&p	久しぶり	a long time (since the last time), it's been a while (since I last saw, mailed, etc. you)	ひさしぶり	jlpt3vocab
+ls==9NOM4l	速達	express, special delivery	そくたつ	jlpt3vocab
+dk{|btu,/-	友達	friend, companion	ともだち	jlpt3vocab
+"ocqLz~#L&f"	屋久島	Yakushima, Kagoshima	やくしま	jlpt3vocab
+x=p;+yh0Gs	個	indivdual, counter for articles	コ	jlpt3kanji
+GMN7oiY&E@	性	sex, gender, nature	セイ　ショウ	jlpt3kanji
+Ey?H5PGg-*	各	each, every, either	おのおの　カク	jlpt3kanji
+D{o8NZvQ)>	格	status, rank, capacity, character, case (law, grammar)	カク　コウ	jlpt3kanji
+kZ9?^=Kr47	個室	private room, one's own room, (toilet) stall	こしつ	jlpt3vocab
+g&>w5(vXYb	個性的	personal, individual	こせいてき	jlpt3vocab
+Lnz+mP&oce	性質	nature, property, disposition	せいしつ	jlpt3vocab
+N.9.r]}8S%	相性	affinity, compatibility	あいしょう	jlpt3vocab
+c{0w%gyZSd	各国	each nation, many nations, many countries	かっこく	jlpt3vocab
+b*yC,E?&8d	各自	individual, each	かくじ	jlpt3vocab
+eonHe^>$3@	性格	character, personality, disposition, nature	せいかく	jlpt3vocab
+bSp=k?/Bpm	個人的な	private, personal	こじんてきな	jlpt3vocab
+qA!~5Ubp+c	個性	individuality, personality, idiosyncrasy	こせい	jlpt3vocab
+C?$a?AW6|Y	女性	woman, female, feminine gender	じょせい	jlpt3vocab
+EuL9f;YXQ8	水性	aqueous, water-based	すいせい	jlpt3vocab
+k?xpXA,;gI	気性	disposition, temperament	きしょう	jlpt3vocab
+raMVXna;$3	合格祈願	prayer for passing an exam, prayer for school success	ごうかくきがん	jlpt3vocab
+e^Xvv;_)%~	体格	physique, constitution	たいかく	jlpt3vocab
+A^@Xq8J{-2	単	simple, one, single, merely	タン	jlpt3kanji
+xGMc8B86Op	複	duplicate, double, compound, multiple	フク	jlpt3kanji
+jj~7fB6-Vl	全	whole, entire, all, complete, fulfill	まったく　すべて　ゼン	jlpt3kanji
+xl:EPiyDhn	以	by means of, because, in view of, compared with	イ	jlpt3kanji
+"w)d#/$15R9"	全て	everything, all, the whole, entirely, completely, wholly, all	すべて	jlpt3vocab
+dnje)*~C,F	全く	really, truly, entirely, completely, wholly, perfectly, indeed, good grief (expression of exasperation)	まったく	jlpt3vocab
+is49InT8(V	単独	sole, single, solo, independence, singleness, singularity	たんどく	jlpt3vocab
+yE79SfD6.F	簡単	simple, easy, uncomplicated, brief, quick, light	かんたん	jlpt3vocab
+OEPqP|,yvt	複数	several, plural, plurality, multiple	ふくすう	jlpt3vocab
+cWg=G$My@>	重複	duplication, repetition, overlapping, redundancy, restoration	じゅうふく	jlpt3vocab
+CTl@sHJ~Ty	全部	all, entire, whole, altogether	ぜんぶ	jlpt3vocab
+F.~j<A%<mN	全然	not at all (with neg. verb), wholly entirely, completely	ぜんぜん	jlpt3vocab
+"Ev%#?C[T,]"	以後	after this, from now on, hereafter, thereafter, since (verb) (after te- form of verb), after (time), since (then)	いご	jlpt3vocab
+E@9x295R/e	以下	not exceeding, and downward, ... and below, below (e.g. standard), under (e.g. a level), the below-mentioned, the following, the rest	いか	jlpt3vocab
+ow35QX4Qq9	単位	unit, denomination, credit (in school)	たんい	jlpt3vocab
+fK>$|=Y`J=	複雑な	complex, complicated, mixed (feelings)	ふくざつな	jlpt3vocab
+I,6$e![YP5	安全	safety, security	あんぜん	jlpt3vocab
+KT9K8Xydtl	完全燃焼	perfect combustion; vollständige Verbrennung	かんぜんねんしょう	jlpt3vocab
+"sBE#BK_mGs"	全体	whole, entirety, whatever (is the matter)	ぜんたい	jlpt3vocab
+k.4Qa}9ijU	以上	not less than, ...and more, ... and upwards, beyond ... (e.g. one's means), further (e.g. noithing further to say), more than ... (e.g. cannot pay more than that), above-mentioned, foregoing, since ..., seeing that..., this is all, that is the end, the end	いじょう	jlpt3vocab
+pPy%jXEx2>	以内	within, inside of, less than	いない	jlpt3vocab
+ivH/GlEy*r	未	un-, not yet, hitherto, still, even now, sign of the ram, 1-3 PM, eighth sign of Chinese zodiac	ミ	jlpt3kanji
+l_XbDjK_VT	満	full, fullness, enough, satisfy	みちる　みたす　マン	jlpt3kanji
+K[a)Ve_]]4	無	nothingness, none, ain't, nothing, nil, not	ない　ム　ブ	jlpt3kanji
+o7WXUv9(T)	非	un-, mistake, negative, injustice, non-	ヒ	jlpt3kanji
+Py{j![{5lh	満ちる	to be full (e.g. moon), to rise (e.g. tide), to mature, to expire	みちる	jlpt3vocab
+cJ)OqPo^F+	満たす	to satisfy, to fulfill, to appease, to fill (e.g. a cup), to pack, to reach (a certain number)	みたす	jlpt3vocab
+pMXN8S1.(/	無い	nonexistent, not being (there), unpossessed, unowned, not had, unique, indicates negation, inexperience, innecessariness or impossibility, not..., to not be..., to have not...	ない	jlpt3vocab
+G3O3M(L?M/	未来	the future (usually distant), future tense, the world to come	みらい	jlpt3vocab
+ob;QBJ~g$S	未満	less than, insufficient	みまん	jlpt3vocab
+JEEDo&U`yD	充満	being filled with, teeming with, pregnant with	じゅうまん	jlpt3vocab
+uN+qV8Oe%J	満足	satisfaction, contentment, complacency, sufficient, enough, adequate, proper; Zufriedenheit, Befriedigung, Genugtuung, Angemessenheit, Vollständigkeit	みんぞく	jlpt3vocab
+v*a}16)v5,	無休	without a holiday, nonstop	むきゅう	jlpt3vocab
+P!Y_g%@bc.	無事に	safely, peacefully, quietly, without problems	ぶじに	jlpt3vocab
+EI9C]p]8x(	非常識	lack of common sense, thoughtlessness, senselessness, irrationalitys, absurdity, thoughtless, senseless, unreasonable, absurd, prepoosterous, aberrant	ひじょうしき	jlpt3vocab
+dLEHn1y-K~	未定	not yet fixed, undecided, pending	みてい	jlpt3vocab
+j*tz?>FHUg	未成年	minor, not of age	みせいねん	jlpt3vocab
+hI@`{99h4,	満席	full house, all seats occupied, fully occupied	まんせき	jlpt3vocab
+PswB?]N=o=	無口	reticence, taciturnity, halter; Schweigsamkeit, Wortkargheit, Einsilbigkeit, Verschwiegenheit	むくち	jlpt3vocab
+D5+pC.9:6(	無理な	unreasonable, unnatural, unjustifiable, impossible, forcible, forced, compulsory, excessive (work, etc.), immoderate, to work too hard, to try too hard, irrational	むりな	jlpt3vocab
+Cl{9JY6_8~	非難	criticism, blame, censure, attack, reproach	ひなん	jlpt3vocab
+tCoKXQT|JY	非常口	emergency exit	ひじょうぐち	jlpt3vocab
+nm!Tgt*lzP	幼	infancy, childhood	おさない　ヨウ	jlpt3kanji
+LzwQO-PW_q	児	newborn babe, child, young of animals	ジ　二	jlpt3kanji
+p,sJNCCv]~	童	juvenile, child	わらべ　ドウ	jlpt3kanji
+Ck_L}_*-Qd	徒	on foot, junior, emptiness, vanity, futility, uselessness, ephemeral thing, gang, set, party, people	ト	jlpt3kanji
+bW0iO{S%G@	幼い	very young, childish, immature	おさない	jlpt3vocab
+eDu:`!|i%G	児 auch 子	child, young (animal), young woman, young geisha, offshoot	こ	jlpt3vocab
+ix,w$96KW?	幼稚園	kindergarten	ようちえん	jlpt3vocab
+YfMD@iY];	幼友達	childhood friends	おさなともだち	jlpt3vocab
+PT>gK=i+ta	幼少期	(early) childhood	ようしょうき	jlpt3vocab
+qkAUb7AR1N	小児科	pediatrics; Pädiatrie, Kinderheilkunde	しょうにか	jlpt3vocab
+wwYX>>T&(q	育児	childcare, nursing, upbringing	いくじ	jlpt3vocab
+AE`G;ChWY6	童歌	children's song, nursery song	わらべうた	jlpt3vocab
+j/sDKab4&F	童話	fairy-tale	どうわ	jlpt3vocab
+u4xPR}les|	教徒	believer, adherent; Gläubiger, Anhänger einer Religion	きょうと	jlpt3vocab
+t$_b7.7_CB	徒労	fruitless effort, wasted effort, abortive scheme, futility	とろう	jlpt3vocab
+kRa8L0AV/F	幼児	infant, baby, child, child over 1 but not yet of school age	ようじ	jlpt3vocab
+of-f1o$qYA	乳児	infant (below 1 years old), suckling baby	にゅうじ	jlpt3vocab
+"iKxA5jl#X2"	児童	children, juvenile	じどう	jlpt3vocab
+DonW{%run}	童心	child's mind, childlike, innocence, naivete	どうしん	jlpt3vocab
+r9Ox8z{8XA	生徒	pupil	せいと	jlpt3vocab
+Iq$L|[V;qJ	徒歩	walking, going on foot	とほ	jlpt3vocab
+QVB@)R99/`	担	shouldering, carry, raise, bear	かつぐ　になう　タン	jlpt3kanji
+"Qr#osy}sKv"	任	responsibility, duty, term, entrust to, appoint	まかせる　まかす　ニン	jlpt3kanji
+fKA+7*R1?P	師	expert, teacher, master, model, exemplar, army (incl. counter), war	シ	jlpt3kanji
+vT]57)%:n.	組	association, braid, plait, construct, assemble, unite, cooperate, grapple	くむ　くみ　ソ	jlpt3kanji
+gO2Yb/S,tS	担ぐ	to shoulder, to carry on one's shoulder, to take (someone) for a ride, to deceive, to take in	かつぐ	jlpt3vocab
+o.87>?=.Td	担う	to carry on shoulder, to bear (burden), to shoulder (gun)	になう	jlpt3vocab
+z4r+pVYv~P	任せる	to entrust (e.g. a tast) to another, to leave to, to passively leave to so. else's facilities, to leave to take its natural course, to continue (sth.) in a natural fashion (without particular aim), to rely fully on one's (full strength, great ability, long time taken) to get sth. done	まかせる	jlpt3vocab
+l*@`k8)/ZP	任す	to entrust, to leave to a person	まかす	jlpt3vocab
+B|Z:)vDB^$	組む	to cross (legs or arms), to link (arms), to put together, to construct, to assemble, to produce (e.g. TV program), to braid, to plait, to grapple, to wrestle, to unite, to join, to link up, to form an alliance, to set (e.g. type), to issue (e.g. money order)	くむ	jlpt3vocab
+Qh!zoH.ME~	組	set (of items), group (of people), class (of students), company (esp. construction), family (i.e. mafia), team, typesetting, composition	くみ	jlpt3vocab
+JDp;c?vR1-	担当する	being in charge (of an area of responsibility), being responsible (for a work role, etc.)	たんとうする	jlpt3vocab
+zw<;kR:CR!	辞任する	to resign, resignation	じにんする	jlpt3vocab
+QvJk_wI6T9	医師	doctor, physician	いし	jlpt3vocab
+OZFATdt+5K	恩師	teacher, one's former teacher	おんし	jlpt3vocab
+xMX?cYfJTS	組織図	organization chart	そしきず	jlpt3vocab
+y/_enz6xA}	負担	burden, charge, responsibility	ふたん	jlpt3vocab
+L(tm@AL@E^	担任	in charge (of sth.), class teacher, homeroom teacher, form teacher	たんにん	jlpt3vocab
+MOAq{zHw^z	教師	teacher (classroom)	きょうし	jlpt3vocab
+hA3&txwlh$	調理師	chef, cook	ちょうりし	jlpt3vocab
+LcEYD{q-fc	組み合わせ	combination	くみあわせ	jlpt3vocab
+e_+iNU4Q9K	番組	program (e.g. TV), programme	ばんぐみ	jlpt3vocab
+B&*h60cUd!	師走	twelfth month (esp. of lunar calendar), December	しわす	jlpt3vocab
+fDA3yVL_zK	机	desk, table	つくえ　キ	jlpt3kanji
+oX]ld`xp{@	座	squat, seat, cushion, gathering, sit	すわる　ザ	jlpt3kanji
+rubX/?Bxq=	板	plank, board, plate, stage	いた　ハン　バン	jlpt3kanji
+nU8+.EyZZS	筆	writing brush, writing, painting brush, handwriting	ふで　ヒツ	jlpt3kanji
+lp+r2t6iUm	座る	to sit, to squat, to assume (a position), to hold steady, to hold still	すわる	jlpt3vocab
+x)!b]hO9,o	座	seat, place, position, status, gathering, group, stand, pedestal, platform, (historical) trade guild, attaches to the names of theatres, theatrical troupes and constellations, counter for theatres, deities, Buddhist images, tall mountains	ざ	jlpt3vocab
+v!}AH{xf?`	板	board, plank, sheet (of metal), plate (of glass), pane, slab, cutting board, chopping board, chef (esp. of high-end Japanese cuisine), cook, stage (i.e. at a theatre)	いた	jlpt3vocab
+j|)^LqfV,D	学習机	writing desk	がくしゅうづくえ	jlpt3vocab
+K(KqThU_>p	星座	constellation, star sign, zodiac sign	せいざ	jlpt3vocab
+"q3+SM9.#f>"	黒板	blackboard, chalkboard	こくばん	jlpt3vocab
+"Kw$p#w75aC"	板前	chef (esp. of high-end Japanese cuisine), cook, area of a kitchen that contains the chopping board	いたまえ	jlpt3vocab
+bM7UZ3S3%$	鉛板	lead plate; Bleiplatte	えんばん	jlpt3vocab
+J6-Y;]ev}F	万年筆	fountain pen	まんねんひつ	jlpt3vocab
+kZp$J)XUf?	板書	writing on a blackboard	ばんしょ	jlpt3vocab
+P&[ETyrI)k	筆者	writer (often in self-reference), author	ひっしゃ	jlpt3vocab
+cPfJLY|$p?	筆記試験	written examination	ひっきしけん	jlpt3vocab
+y(VKpUde)D	机上	on the desk, theoretical, academic	きじょう	jlpt3vocab
+gULY{g/&*W	板木 oder 版木	(printing) block, woodcut	はんぎ	jlpt3vocab
+g7h6EF~QA?	貸	lend	かす　タイ	jlpt3kanji
+ylS^R!Tf}^	借	borrow, rent	かりる　シャク	jlpt3kanji
+h]HgX}nZ/r	返	return, answer, fade, repay	かえる　かえす　ヘン	jlpt3kanji
+"LZu4<ki#r-"	冊	tome, counter for books, volume	サツ　サク	jlpt3kanji
+OR^,.YKi.b	貸す	to leand, to loan, to rent out, to hire out	かす	jlpt3vocab
+zMwTi267E%	借りる	to borrow, to have a loan, to rent, to hire	かりる	jlpt3vocab
+ov/aQ.:oH]	返る	to return, to come back, to go back, to turn over, (after masu- stem of a verb) (to become) extremely), (to become) completely	かえる	jlpt3vocab
+"sEyJ:{0RP#"	返す	to return (sth.), to restore, to put back, to turn over, to turn upside down, to overturn, to pay back, to retaliate, to reciprocate, to repeat..., to do ... back	かえす	jlpt3vocab
+Ql?{GY[36F	貸借	loan, debit and credit, lending and borrowing	たいしゃく	jlpt3vocab
+AvHF$ID?,,	貸し借り	lending and borrowing	かしかり	jlpt3vocab
+juMrmXfJda	借金	debt, loan, liabilities	しゃっきん	jlpt3vocab
+"J,R#Q:sLo9"	返信	reply	へんしん	jlpt3vocab
+m*2/8:L:O,	別冊	seperate volume, extra issue, supplement, additional volume, supplementary volume	べっさつ	jlpt3vocab
+kj])bZl:cy	貸し切る	to reserve, to charter	かしきる	jlpt3vocab
+:3Z6ul_>w	借地	leased land	しゃくち	jlpt3vocab
+AGj$)tX0!A	繰り返す	to repeat, to do sth. over again	くりかえす	jlpt3vocab
+zex_pyKG:O	寝返り	turning over while sleeping in bed, betrayal, double-crossing	ねがえり	jlpt3vocab
+dROrC`aG^G	返事	reply, answer, response	へんじ	jlpt3vocab
+J)1@ZIc;!C	返品	returned goods, returning purchased goods	へんぴん	jlpt3vocab
+HtYXK/xzxt	小冊子	booklet, pamphlet, brochure	しょうさっし	jlpt3vocab
+PW-n;x%So2	短冊	long, narrow card on which Japanese poems are written (vertically), strip of paper	たんざく	jlpt3vocab
+"mz#Wn@s`j:"	具	tool, utensil, means, possess, ingredients, counter for armor, suits, sets of furniture	グ	jlpt3kanji
+vZ1zef*)<F	箱	box, chest, case, bin, railway car	はこ	jlpt3kanji
+"yTa75/ZW#m"	箱	box, case, chest, package, pack, car (of train etc.), shamisen case, shamisen, public building, community building, counter for boxes	はこ	jlpt3vocab
+u,~cX.90Z{	棒	rod, stick, cane, pole, club, line	ボウ	jlpt3kanji
+f0?[4(zp^!	伸	expand, stretch, extend, lengthen, increase	のびる　のばす　のべる　シン	jlpt3kanji
+NXD]%nV5~&	伸びる	to stretch, to extend, to lengthen, to spread, to make progress, to grow (beard, body height), to grow stale (soba), to be straightened, to be flattened, to be smoothed, to be exhausted, to be postponed, to be prolonged	のびる	jlpt3vocab
+"qtBdJ3J#H-"	伸ばす	to grow long (e.g. hair, nails), to lengthen, to extend, to stretch, to reach out, to hold out, to straighten, to smooth out, to spread evenly (dough, cream, etc.), to dilute, to thin out, to postpone, to prolong, to strengthen, to develop, to expand	のばす	jlpt3vocab
+EOgMtv/vJ/	伸べる auch 延べる	to lay out (a futon), to make (bed), to spread out, to stretch, to widen, to postpone, to extend	のべる	jlpt3vocab
+LS.I29oV^X	道具	tool, implement, instrument, utensil, apparatus, device, means	どうぐ	jlpt3vocab
+H0q0W1WoYM	文具店	stationery store, stationery shop, stationer's	ぶんぐてん	jlpt3vocab
+eCb=Z[]?$y	具体	concrete, tangible, material	&nbsp;ぐたい	jlpt3vocab
+"KeI<bov#!N"	空き箱	empty box; leere Schachtel	あきばこ auch からばこ	jlpt3vocab
+iUwZT7_X,q	屈伸	elasticity	くっしん	jlpt3vocab
+cQVX~?Yq3s	家具	furniture	かぐ	jlpt3vocab
+bRUjVH(vxR	遊具	play equipment, playground equipment	ゆうぐ	jlpt3vocab
+IUtq`~=B7J	本箱	bookcase	ほんばこ	jlpt3vocab
+Cj$aL;f1G_	鉄棒	iron rod, iron bar, iron club, horizontal bar (gymnastics)	てつぼう	jlpt3vocab
+bX_[2uBLQy	希	hope, beg, request, pray, beseech, Greece, dilute (acid), rare, few, phenomenal	キ	jlpt3kanji
+D&zoKWo3gE	望	ambition, full moon, hope, desire, aspire to, expect	のぞむ　ボウ　モウ	jlpt3kanji
+fsr-g~[_g2	夢	dream, vision, illusion	ゆめ　ム	jlpt3kanji
+bk5|20VTId	的	bull's eye, mark, target, object, adjective ending	まと　テキ	jlpt3kanji
+l~%EIM9nJm	望む	to desire, to wish for, to expect, to see, to command (a view of)	のぞむ	jlpt3vocab
+"z#[``8[qVF"	的	-like, typical	てき	jlpt3vocab
+J0bNj2sY]{	的	mark, target	まと	jlpt3vocab
+i<PXwqQv:E	希少な	scarce, rare	きしょうな	jlpt3vocab
+K>08/xzX$2	希望	hope, wish, aspiration	きぼう	jlpt3vocab
+qpaNKQ24Q!	望遠鏡	telescope	ぼうえんきょう	jlpt3vocab
+"ke#sF1HC/g"	夢中	daze, (in a) trance, ecstasy, delirium, engrossment, within a (deep) dream	むちゅう	jlpt3vocab
+QpK9U1|7KQ	夢見る	to dream (of)	ゆめみる	jlpt3vocab
+o8qJbS4uZ)	全国的な	nation-wide	ぜんこくてきな	jlpt3vocab
+Igi+IMElcG	目的	purpose, goal, aim, objective, intention	もくてき	jlpt3vocab
+x<g/eUt@!]	望遠	seeing at a distance	ぼうえん	jlpt3vocab
+v2eL~in3rB	失望	disappointment, despair	しつぼう	jlpt3vocab
+iIKCwI-|yB	悪夢	nightmare, bad dream	あくむ	jlpt3vocab
+gs06oujv1:	具体的な	concrete, tangible, definite, specific	ぐたいてきな	jlpt3vocab
+"z<WDeBF#}A"	的中	striking home, hitting the mark, coming true, proving to be right, becoming realized	てきちゅう	jlpt3vocab
+Dp(Q1~L{xu	可	can, passable, mustn't, should not, do not	カ	jlpt3kanji
+Qm)(twAXf5	能	talent, gift, function, noh (theatre)	ノウ	jlpt3kanji
+i+%u~alVvC	調	tune, tone, meter, key (music), writing style, prepare, exorcise, investigate, harmonize, mediate	しらべる　ととのう　ととのえる　チョウ	jlpt3kanji
+N|t*Rjc&_H	選	elect, select, choose, prefer	えらぶ　セン	jlpt3kanji
+CcRiT2,,u-	調べる	to examine, to investigate, to check up, to sense, to study, to inquire, to search	しらべる	jlpt3vocab
+d;>w%{rBJj	調う auch 整う	to be prepared, to be in order, to be put in order, to be arranged	ととのう	jlpt3vocab
+H&^;}PW&jv	調える auch 整える	to put in order, to arrange, to adjust, to get ready, to prepare, to raise money	ととのえる	jlpt3vocab
+LXcKq.R@p|	選ぶ	to choose, to select	えらぶ	jlpt3vocab
+"ftX%hnO#&a"	可能な	possible	かのうな	jlpt3vocab
+Dcm,!!iK,d	可能性	potentiality, likelihood, possibility, availability	かのうせい	jlpt3vocab
+qF(oRU^+v8	才能	talent, ability	さいのう	jlpt3vocab
+Fhzv]I>O.,	能力試験	ability test; Leistungstest, Fähigkeitsüberprüfung	のうりょくしけん	jlpt3vocab
+ntmU_SvW,?	順調	favourable, doing well, OK, allright	じゅんちょう	jlpt3vocab
+znT[IG??qo	選挙	election	せんきょ	jlpt3vocab
+n+F(3)IM)&	不可能な	impossible	ふかのうな	jlpt3vocab
+qlG$%8WNMH	能力	ability, faculty	のうりょく	jlpt3vocab
+"d]6j7W3l#$"	性能	ability, performance, efficiency	せいのう	jlpt3vocab
+i]F;0;sgdM	体調	physical condition	たいちょう	jlpt3vocab
+oH5BrR09UW	調子	tune, tone, key, pitch, time, rhythm, vein, mood, way, manner, style, knack, condition, state of health, impetus, spur of the moment, strain, trend	ちょうし	jlpt3vocab
+GSgO}A^6tb	選手	player (in a game), team member	せんしゅ	jlpt3vocab
+K.N6V+%m1^	面	mask, face, features, surface	おも　おもて　つら　メン	jlpt3kanji
+fMt9atsZrN	接	touch, contact, adjoin, piece together	つぐ　セツ	jlpt3kanji
+k,v9]._Qg/	受	accept, undergo, answer (phone), take, get, catch, recieve	うかる　うける　ジュ	jlpt3kanji
+uC$vAUvji=	落	fall, drop, come down, village, helmet	おちる　おとす　ラク	jlpt3kanji
+f;neSUzFI5	面	face, mask, face guard, (in kendo) striking the head, surface (esp. a geometrical surface), page, aspect, facet, side, chamfer, counter for board, flat objects, levels or stages, e.g. in a video game	めん	jlpt3vocab
+LzI~-2EeF0	面	face, surface, mask (esp. a noh or kyogen mask)	おもて	jlpt3vocab
+l,tTA-?_r4	面	face, mug, surface, surrounding area, cheek	つら	jlpt3vocab
+w)mJoF8nr[	接ぐ	to join, to piece together, to set (bones), to graft (trees)	つぐ	jlpt3vocab
+qs5Nr16P>>	受かる	to pass (examination)	うかる	jlpt3vocab
+"w*W6U4v#qL"	受ける	to receive, to get/catch, to be struck by, to sustain, to incur, to suffer, to feel, to undergo, to take, to accept, to be given, to follow, succeed, descend from, to face, to obtain, to be well-received, to become popular	うける	jlpt3vocab
+KFwq/ko$xn	落ちる	to fall down, drop, fall (e.g. rain), to sink (e.g. sun), fall onto (e.g. light or one's gaze), to be used in a certain place (e.g. money), to be omitted, missing, to decrease, to sink, to fail (e.g. exam), to lose (e.g. contest), to crash, degenerate, degrade, to fall behind, to become indecent (of a conversation), to be ruined, to go under, to fade, to come out (e.g. a stain), to come off (e.g. makeup), to be removed (e.g. illness, a name on a list), to fall (into someones hands), to become someones possession, to fall into a trap / for a trick, to give in/up, to confess, to flee, to fall, be defeated, surrender, to come to (in the end), to end in, to fall (in love, asleep), to swoon (judo), to consent, understand, to crash, freeze, move to the depth, to die	おちる	jlpt3vocab
+yT-sf~|{4Y	落とす	to drop, to lose, to let fall, to shed (light), to cast (one's gaze), to pour in (liquid), to leave behind, to clean off (dirt, makeup, paint, etc.), to remove (e.g. stains or facial hair), to lose, to spend money at a certain place, to omit, to leave out, to secretly let escape, to lose (a match), to reject (an applicant), to fail (a course), to defeat (in an election), to lower (e.g. shoulders or voice), to lessen (e.g. production or body weight), to worsen (quality), to reduce (e.g. rank or popularity), to speak baldly of, to make light of, to fall into straitened circumstances, to fall into (e.g. dilemma or sin), to make one's own, to have one's bid accepted, to force surrender, to take (e.g. an enemy camp or castle), to forcefully convince, to press for a confession, to deal with, to download, to copy from a computer to another medium, to make so. swoon (judo), to finish a story (e.g. with the punch line), to finish (a period, e.g. of fasting)	おとす	jlpt3vocab
+K)M6[?{Mtq	面接試験	interview, oral examination	めんせつしけん	jlpt3vocab
+mQSf/R2*XB	面長な	oval-faced, long-faced	おもながな	jlpt3vocab
+PSCFfocds3	外面	outer surface, outward appearance, outside, exterior, outside, outer, outward, exterior, external	がいめん	jlpt3vocab
+er~/.)a2E+	面する	to face on, to look out on to	めんする	jlpt3vocab
+hQ/Ex7G4Wy	接近	getting closer, drawing nearer, approaching, being not much different, being near (age, skill, etc.), becoming close (i.e. friendly), becoming intimate	せっきん	jlpt3vocab
+"C#draT}gBr"	受験する	to take an examination (e.g. school or university)	じゅけんする	jlpt3vocab
+j37=$s%$yV	接する	to touch, to come in contact with, to border on, to adjoin, to be adjacent, to be close, to receive (e.g. visitor), to attend to, to serve, to take care of, to look after, to deal with, to see, to receive (news), to get, to hear, to encounter, to come across, to be tangent to (geometry), to make touch, to bring into contact with, to bring adjacent to, to bring close, to connect	せっする	jlpt3vocab
+HpOX>9K`E_	受話器	(telephone) receiver	じゅわき	jlpt3vocab
+Kstf:({;K7	落書き	scrawl, scribble, graffiti	らくがき	jlpt3vocab
+"uwy+W?+n#z"	落語	rakugo, traditional Japanese comic storytelling, comic story (told by a professional storyteller)	らくご	jlpt3vocab
+Kb}{%@D}TO	真面目	diligent, serious, honest, sober, grave, earnest, steady	まじめ	jlpt3vocab
+getf1c$9x_	面白い	interesting, fascinating, intriguin, enthralling, amusing, funny, comical, pleasant, enjoyable, agreeable, fun	おもしろい	jlpt3vocab
+PivXMmM^Li	倍	double, twice, times, fold	バイ	jlpt3kanji
+r<![3T~qd_	率	ratio, rate, proportion, %, coefficient, factor	ひきいる　ソツ　リツ	jlpt3kanji
+AT9}!J:/MY	平	even, flat, space	たいら　ひら　ヘイ　ビョウ	jlpt3kanji
+N`c`~N>kC6	均	level, average	キン	jlpt3kanji
+te}|36T=3/	率いる	to lead, to spearhead (in a group), to command (troops)	ひきいる	jlpt3vocab
+c-^dVXD*9?	平らな	flatness, level, smooth, calm, plain, sitting tailor fashion	たいらな	jlpt3vocab
+r2A(23;k~|	平	sth. broad and flat, palm of the hand, common, ordinary, low-ranking employee, freshman, novice, private	ひら	jlpt3vocab
+t_d8bM,|s.	人一倍	more than others, redoubled, unusual; das Vielfache von einem normalen Menschen	ひといちばい	jlpt3vocab
+OKr0)Gy{1{	倍率	magnification, leverage, amplification, scaling factor, scale factor, acceptance rate, pass rate (of an exam, etc)	ばいりつ	jlpt3vocab
+p4;_`aoo$|	確率	probability, likelihood, chances	かくりつ	jlpt3vocab
+"d)#M&O:fkP"	平社員	rank and file member of staff, ordinary employee, low-grade employee	ひらしゃいん	jlpt3vocab
+id`fzMXy?X	平日	weekday, ordinary days (i.e. non-holiday)	へいじつ	jlpt3vocab
+E%?fSj^j|F	平均	average, mean, balance, equilibrium	へいきん	jlpt3vocab
+O(J}CbyTPL	百円均一	uniform price of 100 Yen; einheitlicher Preis von 100 Yen	ひゃくえんきんいつ	jlpt3vocab
+"BfJsBBFsR#"	公立	public (institution)&nbsp;	こうりつ	jlpt3vocab
+"lw#,1OD>pR"	引率	leading, commanding	いんそつ	jlpt3vocab
+CCDXx5=?Bq	平和な	peaceful, quiet, silent	へいわな	jlpt3vocab
+rJ=6^xCb_h	平成	Heisei era (from 1989)	へいせい	jlpt3vocab
+IU~XoF~oC9	手の平 auch 掌	palm (of one's hand); Handfläche	てのひら	jlpt3vocab
+"Pcs#pR=D?t"	平等に	same, in the same way	びょうどうに	jlpt3vocab
+pG[a9;M3cV	平等な	equal, impartial, even	びょうどうな	jlpt3vocab
+QOJm]:7[fT	成	turn into, become, get, grow, elapse, reach	なる　なす　セイ　ジョウ	jlpt3kanji
+J}$1~`v6<c	績	exploits, achievements, unreeling cocoons	セキ	jlpt3kanji
+v[uwkOr@mR	良	good, pleasing, skilled	よい　リョウ	jlpt3kanji
+dmfU$%K]fe	悪	bad, vice, rascal, false, evil, wrong	わるい　アク　オ	jlpt3kanji
+QvcCvUX&_6	成る	to become, to get, to grow, to be, to reach, to attain, to result in, to prove to be, to consist of, to be composed of, to succeed, to be complete, to change into, to be exchanged for, to play a role, to be promoted, (Keigo) to do ...	なる	jlpt3vocab
+"kNPNj|2#cs"	成す auch 為す	to build up, to establish, to form, to become (a state), to accomplish, to achieve, to succeed in, to change into, to do, to perform, to intend to, to attempt, to try	なす	jlpt3vocab
+Qv[s,M=W48	良い	good, excellent, fine, nice, pleasant, agreeable, sufficient (can be used to turn down an offer), ready, prepared, profitable (e.g. deal, business offer, etc.), beneficial, OK	よい	jlpt3vocab
+u/E;6y{jv1	悪い	bad, poor, inferior, evil, sinful, unbeneficial, sorry, to blame	わるい	jlpt3vocab
+xdK63dMhMh	悪	evil, wickedness	あく	jlpt3vocab
+ki4/eRd:f.	成功	success, hit	せいこう	jlpt3vocab
+er$A78p:?2	成績	results, record, grades, marks	せいせき	jlpt3vocab
+kK-.:Xpqag	業績	achievement, performance, results, work, contribution	ぎょうせき	jlpt3vocab
+x1ckb?;QIE	良好	favorable, satisfactory	りょうこう	jlpt3vocab
+i;w]vS4]yj	良心的な	upright, fair, honest	りょうしんてきな	jlpt3vocab
+r2Fkg=~},J	悪寒	chill, shakes, ague; Frösteln, Schauder, Fieberfrost, Schüttelfrost	おかん	jlpt3vocab
+pXYJLe65.>	悪意	ill will, spite, evil intention, malice, bad meaning, mala fides, bad faith, criminal intent to deceive	あくい	jlpt3vocab
+NG%!Y.jLVD	完成	complete, completion, perfection, accomplishment	かんせい	jlpt3vocab
+O}=LEs`%Gb	成長	growth, grow to adulthood	せいちょう	jlpt3vocab
+LBV)eW.4oH	達成	achievement	たっせい	jlpt3vocab
+EtjZn!4%~J	成人式	coming-of-age ceremony	せいじんしき	jlpt3vocab
+"s#4Y:s0MuG"	実績	achievements, actual results, accomplishments, past results, track record	じっせき	jlpt3vocab
+p7i?D1Jp1-	不良品	inferior goods, defective product, defective goods	ふりょうひん	jlpt3vocab
+Gqf^qV+~b_	悪口	abuse, insult, slander, evil speaking, bad mouth	わるぐち	jlpt3vocab
+ss114`e<eY	悪化	(suffer) deterioration, growing worse, aggravation, degeneration, corruption	あっか	jlpt3vocab
+F>E@Jog@0O	成就	fulfillment, realization, completion	じょうじゅ	jlpt3vocab
+tURB=|@/?z	授	impart, instruct, grant, confer	さずかる　さずける　ジュ	jlpt3kanji
+H&zZ&KuMx_	業	business, vocation, arts, performance	わざ　ギョウ　ゴウ	jlpt3kanji
+n_Vr.n+svj	級	class, rank, grade	キュウ	jlpt3kanji
+PLqI]8<7&T	卒	graduate, soldier, private, die	ソツ	jlpt3kanji
+me+<NqbClz	授かる	to be awarded (e.g. a prize), to be given an award, to receive (e.g. a title), to be gifted or endowed (e.g. with a talent), to be blessed (e.g. with a child), to be initiated (e.g. into a secret)	さずかる	jlpt3vocab
+"u<zf4I$W#K"	授ける	to grant, to award, to teach	さずける	jlpt3vocab
+ORa8V0b~ZN	業	deed, act, work, performance	わざ	jlpt3vocab
+NjE^4B$Js;	業	karma (i.e. actions committed in a former life)	ごう	jlpt3vocab
+LCsYO.?C5G	業	work, business, company, agency	ぎょう	jlpt3vocab
+EZr16|qM$r	級	class (e.g. school), grade, rank	きゅう	jlpt3vocab
+n+tMSO?WFM	神授	divine gift	しんじゅ	jlpt3vocab
+Gc|$U%2x0,	授業	lesson, class work, teaching, instruction	じゅぎょう	jlpt3vocab
+zH~DkqLkkC	残業	overtime (work)	ざんぎょう	jlpt3vocab
+"Qqa#g3vaX*"	初級	elementary level	しょきゅう	jlpt3vocab
+"LhjGUH=eR#"	高級な	high-class, high rank, luxurious	こうきゅうな	jlpt3vocab
+B^b]56O~[|	同級生	classmate	どうきゅうせい	jlpt3vocab
+Q(2z|u;v.P	脳卒中	stroke, cerebral haemorrhage	のうそっちゅう	jlpt3vocab
+BW8IJsMN(|	卒業	graduation, completion (e.g. of a course), outgrowing sth., moving on	そつぎょう	jlpt3vocab
+F*QT^4]uDE	教授	professor, teaching, instruction	きょうじゅ	jlpt3vocab
+sl7k>7J5RQ	休業	closed (e.g. store), business suspended, shutdown, holiday	きゅうぎょう	jlpt3vocab
+LQ?wrgSI$~	中級	intermediate level	ちゅうきゅう	jlpt3vocab
+tOK~M!*J7G	進級	promotion (school, military, etc.)	しんきゅう	jlpt3vocab
+DX7~%Sd6L)	卒論	graduation thesis, bachelor's degree thesis	そつろん	jlpt3vocab
+"el=0~W#=Jc"	欠	lack, gap, fail, yawning radical	かける　かく　ケツ	jlpt3kanji
+xr`02QEl!2	席	seat, mat, occasion, place	セキ	jlpt3kanji
+uj[yedsN]q	由	wherefore, a reason	よし　ユ　ユウ　ユイ	jlpt3kanji
+CvtSlSH,MX	訳	translate, reason, circumstance, case	わけ　ヤク	jlpt3kanji
+m]<&]g0r9A	欠ける	to be chipped, to be damaged, to be broken, to be lacking, to be missing, to be insufficient, to be short, to be deficient, to be negligent toward, (of the moon) to wane, to go into eclipse	かける	jlpt3vocab
+k:p$>E~yu.	欠く	to chip, to nick, to break, to crack, to lack	かく	jlpt3vocab
+hvO:tEnp*J	席	seat, location (of a gathering etc.), place, position, post	せき	jlpt3vocab
+l21WvK9n36	由	reason, significance, cause, piece of information that one has heard, I hear that..., it is said that...	よし	jlpt3vocab
+J3Z}0>)Rfb	訳	conclusion from reasoning, judgement or calculation based on sth. read or heard, reason, cause, meaning, corcumstances, situation	わけ	jlpt3vocab
+LAu+kDM$_{	訳	"translation, version (e.g. ""English version"")"	やく	jlpt3vocab
+v*;j,j*^Aa	欠席	absence, non-attendance	けっせき	jlpt3vocab
+ji[Qrd}9v]	客席	guest seating (e.g. theatre, stadium), passenger seat (e.g. taxi), audience	きゃくせき	jlpt3vocab
+oJVef4KM:-	経由	through, by way of, via, to go via, to go by way of	けいゆ	jlpt3vocab
+"kF/o#Q7154"	理由	reason, pretext, motive	りゆう	jlpt3vocab
+x_2}TgEscz	欠点	fault, defect, flaw, weak point, weakness, shortcoming, drawback, failure (in an examination), failing grade	けってん	jlpt3vocab
+g<pd.g*RBu	指定席	reserved seat	していせき	jlpt3vocab
+G>=;Z]{)r=	座席	seat	ざせき	jlpt3vocab
+C6BFWw*?]!	由緒	history, pedigree, lineage	ゆいしょ	jlpt3vocab
+MY`2j2;n2=	自由	freedom, liberty, as it pleases you&nbsp;	じゆう	jlpt3vocab
+O&kz1w}U?+	由来	origin, source, history, derivation, reason, destiny	ゆらい	jlpt3vocab
+t*`@`XG~,D	言い訳	excuse, explanation	いいわけ	jlpt3vocab
+r.Fv1Ot19P	例	example, custom, usage, precedent	たとえる　レイ	jlpt3kanji
+f*9x(2;9}Q	易	easy, ready to, simple, fortune-telling, divination	やさしい　エキ　イ	jlpt3kanji
+MhNb[CYQl*	解	unravel, notes, key, explanation, understanding, untie, undo, solve, answer, cancel, absolve, explain, minute	とける　とく　とかす　カイ　ゲ	jlpt3kanji
+M:lU|6[7Y0	説	opinion, theory, explanation, rumor	とく　セツ　ゼイ	jlpt3kanji
+PEm1~6.Gc8	例える	to compare, to liken, to speak figuratively, to illustrate, to use a simile	たとえる	jlpt3vocab
+Iu1{Zy%4pq	例	custom, practice, habit, usual, said, aforementioned, instance, example, case, illustration, precedent	れい	jlpt3vocab
+MUeGIDN>-N	易しい	easy, plain, simple	やさしい	jlpt3vocab
+b;V5h)`?DX	易	divination, fortune-telling	えき	jlpt3vocab
+J(ecZLTO6E	易	easiness	い	jlpt3vocab
+j|:O|TL?63	解ける	to be solved, to loosen, to come untied, to be removed (e.g. restrictions), to be cleared (e.g. misunderstandings), to be broken (e.g. spells, curses), to melt	とける	jlpt3vocab
+"q28#3wf3xZ"	解く	to untie, to unfasten, to unwrap, to undo, to unbind, to unpack, to unsew, to unstitch, to solve, to work out, to answer, to dispel (e.g. misunderstanding), to clear up, to remove (suspicion), to appease, to dissolve (a contract), to cancel, to remove (a prohibition), to lift (a ban), to raise (a siege), to release (from duty), to relieve, to dismiss, to comb (out), to card, to untangle (hair)	とく	jlpt3vocab
+cbD?(@>20W	解かす auch 溶かす	to melt, to dissolve	とかす	jlpt3vocab
+NVZJYXbUFI	解	solution (of equation)	かい	jlpt3vocab
+i?>kfo>S_`	説く	to explain, to advocate, to preach, to persuade	とく	jlpt3vocab
+h|DMjp0?B(	説	theory, doctrine, opinion, view, rumor, gossip, hearsay	せつ	jlpt3vocab
+"Fx2%0Hz#Fh"	例年通り	the same as every year; dasselbe wie jedes Jahr	れいねんとおり	jlpt3vocab
+K/t/%s-c[9	安易な	easy, simple, easy-going	あんいな	jlpt3vocab
+w3j%OFD;&V	貿易	trade (foreign), international trade	ぼうえき	jlpt3vocab
+p)$3WK/v7U	理解	understanding, comprehension, appreciation, sympathy	りかい	jlpt3vocab
+CrE14&>8ra	説明	explanation, exposition	せつめい	jlpt3vocab
+NJD0wQ`C/W	例外	exception	れいがい	jlpt3vocab
+cdl$LSM^Z7	実例	example, illustration, precedent	じつれい	jlpt3vocab
+meI1[A0!>L	解説	explanation, commentary, exposition, elucidation	かいせつ	jlpt3vocab
+Q*+]k*C]9J	解熱剤	fever medicine, antipyretic, antifebrile	げねつざい	jlpt3vocab
+c}mTSB:N?@	覚	memorize, learn, remember, awake, sober up	おぼえる　さます　さめる　カク	jlpt3kanji
+vkhhZMUb,?	忘	forget	わすれる　ボウ	jlpt3kanji
+n~Z:nk7sh@	努	toil, diligent, as much as possible	つとめる　ド	jlpt3kanji
+u~*f./0*b?	続	continue, series, sequel	つづく　つづける　ゾク	jlpt3kanji
+BDfrQ!mJbQ	覚える	to memorize, to commit to memory, to learn by heart, to bear in mind, to remember, to learn, to pick up, to acquire, to feel, to think, to regard	おぼえる	jlpt3vocab
+G({9}RGNbX	覚ます	to awaken, to disabuse, to sober up, to dampen, to throw a damper on, to spoil	さます	jlpt3vocab
+BbPD$3UW34	覚める	to wake (up), to become sober, to sober up, to regain consciousness (e.g. after anaesthesia), to come to one's senses, to be disillusioned	さめる	jlpt3vocab
+yy@_c9CQ`j	忘れる	to forget, to leave carelessly, to be forgetful, to forget about, to forget (an article)	わすれる	jlpt3vocab
+HH_=axyKHm	努める	to endeavour, to try, to strive, to make an effort, to exert oneself, to be diligent, to be committed (to doing sth.)	つとめる	jlpt3vocab
+MQR}*0*6I9	続く	to continue, to last, to go on, to continue (without a break), to be unbroken, to occur again and again, to lead to, to connect to, to adjoin, to come after, to follow, to succeed, to rank next to, to hold out, to keep, to last	つづく	jlpt3vocab
+JSuQ|1_&8A	続ける	to continue, to keep up, to keep on	つづける	jlpt3vocab
+BYbBtE`)ab	続	continuaion, sequel	ぞく	jlpt3vocab
+H7bSE$^ljy	視覚	sense of sight, vision, visual perception	しかく	jlpt3vocab
+A/Mi(`+co7	覚悟	resolution, resignation, readiness, preparedness	かくご	jlpt3vocab
+iz^@IKbW&1	忘れ物	lost article, sth. forgotten	わすれもの	jlpt3vocab
+Id/hRsqLur	忘年会	year-end party	ぼうねんかい	jlpt3vocab
+g_Jz23:$Gb	努力家	hard worker, hardworking person	どりょくか	jlpt3vocab
+N<qKt$(Md.	連続	serial, consecutive, continuity, occurring in succession, continuing	れんぞく	jlpt3vocab
+nHcv7M;0@d	感覚	sense, sensation, feeling, intuition	かんかく	jlpt3vocab
+dws`%Kuk82	味覚	taste, palate, sense of taste	みかく	jlpt3vocab
+Kx~;r_D|@*	努力	great effort, exertion, endeavor, effort	どりょく	jlpt3vocab
+pR%mB!mIrs	降り続く	to continue to rain or snow	ふりつづく	jlpt3vocab
+xd!lVUCLsp	継続	continuation	けいぞく	jlpt3vocab
+t>D@7I=r50	要	need, main point, essence, pivot, key to	いる　かなめ　ヨウ	jlpt3kanji
+"pVJB?-IS#P"	復	restore, return to, revert, resume	フク	jlpt3kanji
+es`4m8IL1]	補	supplement, supply, make good, offset, compensate, assistant, learner	おぎなう　ホ	jlpt3kanji
+K)(K.EWfL[	効	merit, efficacy, efficiency, benefit	きく　コウ	jlpt3kanji
+m;hPDnQAK]	要る	to need, to want	いる	jlpt3vocab
+nu&YDzN0U1	要	cornerstone, main point, keystone, requirement, need, necessary, required	よう	jlpt3vocab
+OygqIMq4u`	要	pivot, vital point, cornerstone, keystone	かなめ	jlpt3vocab
+lJ=B_Dc]C4	補う	to compensate for, to supplement	おぎなう	jlpt3vocab
+"o<#EGyWs&F"	補	assistant..., probationary...	ほ	jlpt3vocab
+l$ei5Rg9eZ	効く	to be effective, to show effect, to do its work, to carry out its function well, to be possible to use	きく	jlpt3vocab
+D5YquO{lzX	効	efficacy, benefit, effect, result, success	こう	jlpt3vocab
+q]o4|BUHbr	必要な	necessary, needed, essential, indispensable, necessity, need, requirement	ひつような	jlpt3vocab
+D5buYEUz*u	要約	summary, digest	ようやく	jlpt3vocab
+Np/S/QI|`~	往復	making a round trip, going and returning, coming and returning, round-trip ticket, return ticket, correspondence, exchanging (letters), socializing, visiting one another	おうふく	jlpt3vocab
+"AQ{8c,3#rt"	復帰	return, comeback, reinstatement, carriage return	ふっき	jlpt3vocab
+C^-NS2Ha0O	補習	supplementary lessons	ほしゅう	jlpt3vocab
+o57-uh|KA3	効き目	effect, virtue, efficacy, impression	ききめ	jlpt3vocab
+jxc.48rjfp	効果	effect, effectiveness, efficacy, result, effects (e.g. sound/visual/special effects)	こうか	jlpt3vocab
+CCTRZpE28x	主要な	chief, main, principle, major	しゅような	jlpt3vocab
+lvS[]>3a|E	要注意	attention (care) required, needs special attention	ようちゅうい	jlpt3vocab
+N=e9xC3q)L	回復	restoration, rehabilitation, recovery, return, replevin, improvement, recovery (from an illness), recuperation, convalescence	かいふく	jlpt3vocab
+bxjA+.(!t!	復讐	revenge	ふくしゅう	jlpt3vocab
+MrL-B+~YfZ	復習	review, revision	ふくしゅう	jlpt3vocab
+yTQhS*uA[P	補給	supply, supplying, replenishment	ほきゅう	jlpt3vocab
+tVvKKx|93l	立候補	announcing candidacy, becoming a candidate, bidding (to host an event e.g. Olympics, World Cup)	りっこうほ	jlpt3vocab
+I8K-Q<]&oB	無効	invalid, no effect, unavailable, illegal	むこう	jlpt3vocab
+"r#ym1b0/Hi"	有効	validity, legality, availability, effectiveness	ゆうこう	jlpt3vocab
+k.FK@.gUci	種	species, kind, class, variety, seed	たね　シュ	jlpt3kanji
+jl)0N2jpen	種	seed, pip, kind, &nbsp;variety, quality, tone, material matter, subject, theme, (news) copy, leaven (bread), cause, source, trick, secrect, inside story	たね	jlpt3vocab
+sZC6=zmkm-	種	kind, variety, ([bio]logical) species	しゅ	jlpt3vocab
+![{-C=Ye]	類	sort, kind, variety, class, genus	たぐい　ルイ	jlpt3kanji
+EaevTp!}m~	類	kind, sort, type, class, genus, order, family, similar example, parallel, the like	るい	jlpt3vocab
+P@M2a5VA<q	類い	kind, sort, type, equal, match, peer	たぐい	jlpt3vocab
+"b#+*J3:R>7"	存	exist, suppose, be aware of, believe, feel	ソン　ゾン	jlpt3kanji
+A,M*L@<APg	在る	exist, outskirts, suburbs, located in	ある　ザイ	jlpt3kanji
+Hcu0T*=7$t	在る auch 有る	to be (inanimate objects), to exist, to live, to have, to be located, to be equipped with, to happen, to come about	ある	jlpt3vocab
+k1]}6-5oba	品種	kind (of goods), brand, (taxonomical) form, breed, cultivar, race (biology)	ひんしゅ	jlpt3vocab
+"l$#9A~vqD6"	書類	documents, official papers	しょるい	jlpt3vocab
+"f;@2J3Ip#2"	種類	variety, kind, type, category, counter for different sorts of things	しゅるい	jlpt3vocab
+"PST#-gJk?P"	存続	duration, continuance	そんぞく	jlpt3vocab
+"u#N-5XF;f="	保存	preservation, conservation, storage, saving (e.g. to disk), maintenance	ほぞん	jlpt3vocab
+"xx#ofIy<Zs"	存在	existence, being	そんざい	jlpt3vocab
+QVDr%S$:2$	在り方	the way sth. ought to be, the (current) state of things, how things are	ありかた	jlpt3vocab
+J~E]Lp8~x3	在学	(enrolled) in school	ざいがく	jlpt3vocab
+xZ.sHUcTOa	人種	race (of people), type of person, race (human classification)	じんしゅ	jlpt3vocab
+xizJL)NPkt	人類	mankind, humanity	じんるい	jlpt3vocab
+cd/&WMPsA?	温存	preserve, retain	おんぞん	jlpt3vocab
+sQKMGW2r*8	生存	existence, being, survival, to exist, to live, to survive	せいぞん	jlpt3vocab
+Hgy7PL_e8D	在宅	being in, being at home	ざいたく	jlpt3vocab
+"kSp$1u#9QA"	陽	sunshine, yang principle, positive, male, heaven, daytime	ヨウ	jlpt3kanji
+m.])b|Lnv2	巨	gigantic, big, large, great	キョ	jlpt3kanji
+wceek@ics$	氷	icicle, ice, hail, freeze, congeal	こおり　ひ　ヒョウ	jlpt3kanji
+zEJD$43Dk<	河	river	かわ　カ	jlpt3kanji
+bqZ;{Jf:L&	太陽	sun, solar	たいよう	jlpt3vocab
+j`9rm_cyNP	陽光	sunshine, sunlight	ようこう	jlpt3vocab
+ew)f*{}nM-	陽気な	cheerful, jovial, merry, lively, weather, season, spirit of yang	ようき	jlpt3vocab
+t-..;=S)pi	巨大な	huge, gigantic, enormous	きょだい	jlpt3vocab
+B]+|PqVf!Q	巨万	huge fortune, millions	きょまん	jlpt3vocab
+c+rBz=iAuo	氷点下	below freezing	ひょうてんか	jlpt3vocab
+K=vr5do|kS	氷河	glacier	ひょうが	jlpt3vocab
+pbiHL(_y?.	河川	rivers	かせん	jlpt3vocab
+lFYC?`BHM;	運河	canal, waterway	うんが	jlpt3vocab
+qaW1^*I7Xg	陽性	positivity	ようせい	jlpt3vocab
+n}P~u({}|9	巨人	giant, great man	きょじん	jlpt3vocab
+K=tZI%B[,m	巨額	great sum	きょがく	jlpt3vocab
+"m^#o:?Iwz6"	かき氷	shaved ice (usually served with flavored simple syrup), Italian ice, Sno-cone, snow cone	かきごおり	jlpt3vocab
+s:ij:$uJHc	氷山	iceberg	ひょうざん	jlpt3vocab
+wt4Yc:h/s(	河口	mouth of river, estuary; Flussmündung	かこう　かわぐち	jlpt3vocab
+"F#AU6X^cS|"	季	seasons	キ	jlpt3kanji
+"p`#rwl;;0Y"	候	climate, season, weather, wait for, expect	そうろう　コウ	jlpt3kanji
+KL|cN/jAQc	暖	warmth	あたたまる　あたためる　あたたかい　あたたか　ダン	jlpt3kanji
+c[5|..P7!^	暖かい	warm, mild, genial	あたたかい	jlpt3vocab
+L{b=S{}7hi	暖まる auch 温まる	to warm oneself, to sun oneself, to warm up, to get warm	あたたまる	jlpt3vocab
+E;%u<1VfI7	暖める auch 温める	to warm, to heat	あたためる	jlpt3vocab
+t[oi_hzTDT	流	current, a sink, flow, forfeit	ながれる　ながす　リュウ　ル	jlpt3kanji
+pWLDx?DeBm	流	fashion, way, style, manner, school (of thought), class, rank, rate	りゅう	jlpt3vocab
+P[jTa6bNQn	流	exile	る	jlpt3vocab
+Hpvx.6Q}t|	流れる	to stream, to flow (liquid, time, etc.), to run (ink), to be washed away, to be carried, to drift, to float (e.g. clouds), to wander, to stray, to sweep, to spread, to circulate, to be heard (e.g. music), to be played, to lapse (e.g. into indolence, despair), to pass, to elapse, to be transmitted, to be called off, to be forfeited, to disappear, to be removed	ながれる	jlpt3vocab
+"t6#)yTmGsd"	流す	to drain, to pour, to spill, to shed (blood, tears), to wash away, to distribute (e.g. electricity over wires), to circulate, to broadcast, to beam, to cruise, to float, to set adrift, to call off (a meeting, etc.)	ながす	jlpt3vocab
+iV%NYh>m:_	季節	season	きせつ	jlpt3vocab
+h%<2ut1KmN	気候	climate	きこう	jlpt3vocab
+o,;awgie|&	天候	weather	てんこう	jlpt3vocab
+DwF?=z1>e`	温暖化	(global) warming	おんだんか	jlpt3vocab
+I;FJ?uK:;L	流行	fashion, fad, vogue, craze, prevalence (e.g. of a disease)	はやり	jlpt3vocab
+"l2$2st#8[v"	雨季	rainy season	うき	jlpt3vocab
+"K#:wJw[/c6"	冬季	(season of) winter	とうき	jlpt3vocab
+j)xqW8)cRJ	候補者	candidate, applicant	こうほしゃ	jlpt3vocab
+M$R,aKfQJA	氷雨	hail, chilly chilly rain	ひさめ	jlpt3vocab
+yk>um5y>h;	暖冬	mild winter, warm winter	だんとう	jlpt3vocab
+s.Ct^7;|;z	流氷	drift ice, ice floe	りゅうひょう	jlpt3vocab
+"x5v?u=NOb#"	形	shape, form, style	かた　かたち　ケイ　ギョウ	jlpt3kanji
+nJ|Ojq,Q{&	形	form, shape, figure, visage	かたち	jlpt3vocab
+r^RBLby@]v	形	form, tense, adjective	けい	jlpt3vocab
+HOb4Dh3jeb	形	shape, appearance, collateral	かた	jlpt3vocab
+N1/%tqT,j.	底	bottom, sole, depth, bottom price, base, kind, sort	そこ　テイ	jlpt3kanji
+O%-|i3?HF|	深	deep, heighten, intensify, strengthen	ふかまる　ふかめる　ふかい　シン	jlpt3kanji
+A8U~Gh1q;8	深まる	to deepen, to heighten, to intensify	ふかまる	jlpt3vocab
+Io|S@j[ay9	深める	to deepen, to heighten, to intensify	ふかめる	jlpt3vocab
+v<5@bqYseF	深い	deep, profound, dense, thick, close (relationship), intense, strong, late	ふかい	jlpt3vocab
+v_5k)aI<5%	浅	shallow, superficial, frivolous, wretched, shameful	あさい　セン	jlpt3kanji
+mf/?w?=E:]	浅い	shallow, superficial, slight (wound), light (sleep), pale (colour), inadequate (knowledge), short (time), early, young	あさい	jlpt3vocab
+oSLJx.xwEm	地形図	topographic map, elevation map	ちけいず	jlpt3vocab
+HHoa_l3?L>	人形	doll, puppet, figure	にんぎょう	jlpt3vocab
+tZyH1euk}B	徹底的な	thorough, complete; gründlich, vollständig, tiefschürfend	てっていてきな	jlpt3vocab
+Jz:==3_VO	深夜	late at night, midnight	しんや	jlpt3vocab
+tzf`djRn)s	浅薄な	shallowness, superficiality; oberflächlich, äußerlich, banal, gehaltlos, seicht	せんぱくな	jlpt3vocab
+KwyC-NdM_h	形式	form (as opposed to substance), formality, method, system, style, format, mode, appearance, form (sth. takes), math expression	けいしき	jlpt3vocab
+yZgGG%)Vt8	三角形	triangle; Dreieck	さんかくけい	jlpt3vocab
+JhN4Nq;Tp>	底辺	base, low class, low in social standing, low level, of poor education; Basis, Grundlinie, soziale Unterschicht	ていへん	jlpt3vocab
+Dj2cY^-*9*	海底	bottom of the ocean, undersea, submarine	かいてい	jlpt3vocab
+p9i^laH~lN	深海	deep sea, depths of the sea, ocean depths	しんかい	jlpt3vocab
+s>Kk6&@!.v	島	island	しま　トウ	jlpt3kanji
+p}t~|5TXRA	陸	land, shore, six	リク	jlpt3kanji
+Ng?HQq_yG>	岸	beach	きし　ガン	jlpt3kanji
+M,V,b-tVs$	岸	bank, coast, shore	きし	jlpt3vocab
+oJy_^z|Ig2	坂	slope, incline, hill	さか　ハン	jlpt3kanji
+B4b({HPQD3	島国	island country (sometimes used as a metaphor for Japan); Inselstaat, Inselnation	しまぐに	jlpt3vocab
+t;VR-7Xp/0	島民	islander	とうみん	jlpt3vocab
+"H9(&[#eq>&"	無人島	unpopulated island, deserted island	むじんとう	jlpt3vocab
+p(Z*o1tgB?	着陸	landing, alighting, touchdown; Landung (z.B. Flugzeug)	ちゃくりく	jlpt3vocab
+bF509Hv^%3	上陸	landing, disembarkation, landfall; Landen, Landung, An-Land-Gehen	じょうりく	jlpt3vocab
+KlL%U@nmuf	海岸	coast, beach	かいがん	jlpt3vocab
+E^p=A4ASH~	岸辺	shore, bank (of a body of water)	きしべ	jlpt3vocab
+CHAtHdsgQ4	完璧な	perfect, complete, flawless	かんぺきな	jlpt3vocab
+sHxDM~qWAR	坂道	hill road	さかみち	jlpt3vocab
+Oj`@%^48Gy	急坂	steep slope, steep gradient; steiler Hügel	きゅうはん	jlpt3vocab
+hx[~LWSfiC	半島	peninsula	はんとう	jlpt3vocab
+D=b!X~jUf;	諸島	archipelage, group of islands	しょとう	jlpt3vocab
+e1;@yhC^ye	陸上	land, ground, shore	りくじょう	jlpt3vocab
+CT$1._D5Mr	大陸	continent	たいりく	jlpt3vocab
+t0)]0bqPld	川岸	riverbank, riverside	かわぎし	jlpt3vocab
+"uAmr3mWK#f"	準	semi-, correspond to, proportionate to, conform, imitate	ジュン	jlpt3kanji
+e0n%l7f&[k	備	equip, provision, preparation	そなえる　そなわる　ビ	jlpt3kanji
+i]vVS_$.+R	備える	to furnish, to provide for, to equip, to install, to have ready, to prepare for, to possess (all that is needed), to be endowed with, to be armed with, to be born with, to have since birth	そなえる	jlpt3vocab
+ycLR6itC7d	備わる	to be furnished with, to be provided with, to be equipped with, to be possessed of, to be endowed with, to be gifted with, to be among, to be one of	そなわる	jlpt3vocab
+qwr<C>jPrL	迎	welcome, meet, greet	むかえる　ゲイ	jlpt3kanji
+"l?:i9P*QN#"	迎える	to go out to meet, to receive, to welcome, to greet, to salute, to hail, to reach, to approach, to enter (a phase, etc.), to accept (e.g. as member of a group), to call for, to summon, to invite, to approach (a certain time, a point in life, etc.)	むかえる	jlpt3vocab
+l5OmFSZUBe	変	unusual, change, strange	かわる　かえる　ヘン	jlpt3kanji
+"w<oI8&#!oz"	変	strange, odd, peculiar, weird, curious, queer, eccentric, funny, suspicous, fishy, unexpected, change, incident, disturbance, disaster, accident, flat (music term)	へん	jlpt3vocab
+PnKjWq.tLi	変わる	to change, to be transformed, to be altered, to vary, to move to, to be different, to be uncommon, to be unusual	かわる	jlpt3vocab
+k?4_H%@c1k	変える	to change, to alter, to transform, to convert, to turn, to vary, to reform, to revise, to amend	かえる	jlpt3vocab
+A>0kQD;,@7	準備	preparation, setup, arrangements, provision, reserve	じゅんび	jlpt3vocab
+JokmR}d|Zf	設備	equipment, device, facilities, installation	せつび	jlpt3vocab
+E8I]dOdL]z	出迎え	meeting, reception	でむかえ	jlpt3vocab
+"QxA#-+0&^H"	歓迎会	welcome party	かんげいかい	jlpt3vocab
+yF__{Ws=>s	変化	change, variation, alteration, mutation, transition, transformation, metamorphosis, variety, diversity, inflection, sidestepping	へんか	jlpt3vocab
+E8]TC.j]9j	準優勝	being the runner-up, finishing second; Vizemeisterschaft	じゅんゆうしょう	jlpt3vocab
+Ew=*ATL5lO	予備	preparation, preliminaries, reserve, spare	よび	jlpt3vocab
+"Qj#tJ1*=#a"	送迎	seeing off and meeting on return; Begrüßung und Verabschiedung	"そうげい　e.g. ""グランドホテルまでのそうげい送迎バスのりば乗り場はどこですか。Where's the bus stop for Grand Hotel?"""	jlpt3vocab
+gQSz@U-:.R	飛	fly, skip (pages), scatter	とぶ　とばす　ヒ	jlpt3kanji
+GV.sxgy=:	飛ぶ	to fly, to soar, to jump, to leap, to spring, to bound, to hop	とぶ	jlpt3vocab
+tfLQ![4>wR	飛ばす	to fly, to fire, to hurl, to launch, to make fly, to skip over, to omit, to drop (e.g. stitch), to run or drive fast, to gallop, to spread a rumor, to tell a story, to tell a joke, to remove, to get rid of, to transfer, to attack, to jeer at	とばす	jlpt3vocab
+hKAJod3{?E	移	shift, move, change, drift, catch (cold, fire), pass into	うつる　うつす　イ	jlpt3kanji
+zTR~j/E>8U	移る	to move (house), to transfer (department), to change the target of interest or concern, to elapse (passage of time), to be permeated by a color or scent, to be infected, to be contagious, to spread (as in fire)	うつる	jlpt3vocab
+u}Vfv%={=k	移す	to change, to swap, to substitute, to transfer, to change the object of one's interest or focus, to spend or take time, to infect, to permeate sth. with the smell or color of sth., to move on to the next or different stage (of a plan, etc.)	うつす	jlpt3vocab
+Lmapc+(Na/	登	ascend, climb up	のぼる　トウ　ト	jlpt3kanji
+c$+_bn$Z^L	登る auch 上る	to ascend, to go up, to climb, to ascned (as natural process, e.g. the sun), to rise, to go to, to be promoted, to add up to, to advance (in price), to swim up (a river), to sail up, to come up (on the agenda)	のぼる	jlpt3vocab
+xZ?Mh],zeX	泊	overnight stay, put up at, ride at anchor	とまる　とめる　ハク	jlpt3kanji
+l;d5gW]@CN	泊	counter for nights of a stay	はく	jlpt3vocab
+F:{f](E;gZ	泊まる	to stay (e.g. at a hotel), to be docked, to be berthed, to be moored	とまる	jlpt3vocab
+v(Nnlby_03	泊める	to give shelter to, to lodge, to put up, to accommodate	とめる	jlpt3vocab
+tQ@S4SVhxY	飛行機	aeroplane, airplane, aircraft	ひこうき	jlpt3vocab
+jkxlJ$3=TT	移住	migration, immigration	いじゅう	jlpt3vocab
+JJSFy]r3<I	移住者	emigrant, immigrant	いじゅうしゃ	jlpt3vocab
+pLFIH.jFnM	登山道	mountain trail, path up a mountain	とざんどう	jlpt3vocab
+E8<`7(Q7/C	飛び出す	to jump out, to rush out, to fly out, to appear (suddenly), to protrude, to project, to butt in; abfliegen, hinauslaufen, weglaufen, vorspringen, ausbrechen	とびだす	jlpt3vocab
+sEG.HmXjI4	移動	movement, transfer, migration, removal, travel, mobile, moving, traveling, roving	いどう	jlpt3vocab
+lUD%h(P4+/	移り	change, transition, return present	うつり	jlpt3vocab
+j`Snls^>6	移転	moving, relocation, transfer, demise	いてん	jlpt3vocab
+t8brymtle.	登山	mountain climbing	とざん	jlpt3vocab
+ltsVdAl+mQ	宿泊	lodging; Unterkunft, Übernachtung, Einquartierung	しゅくはく	jlpt3vocab
+d6Fv:]l!A&	団	group, association	ダン　トン	jlpt3kanji
+N@L.R]cYHf	程	extent, degree, law, formula, distance, limits, amount	ほど　テイ	jlpt3kanji
+t:nMI6C,V	欧	Europe	オウ	jlpt3kanji
+QJC?3cy~ya	州	state, province	す　シュウ	jlpt3kanji
+o(H,k2`a{7	団体	organization, association	だんたい	jlpt3vocab
+eW+@u4&%p:	団結	unity, union, combination	だんけつ	jlpt3vocab
+Ma,hAmnw|r	楽団	orchestra, band	がくだん	jlpt3vocab
+odp;9By^o+	布団	futon, round cushion used for Zen meditation	ふとん	jlpt3vocab
+LWI~BKA}qS	日程	schedule, program, agenda	にってい	jlpt3vocab
+e~}1uF<CFM	先程	some time ago, not long ago, just now	さきほど	jlpt3vocab
+znT`9(pL>%	欧米	Europe and America, the West	おうべい	jlpt3vocab
+CK/XVJDO2&	欧州	Europe	おうしゅう	jlpt3vocab
+v>ZLMaD-k*	三角州	river delta	さんかくす	jlpt3vocab
+e-<Z]>,$FJ	団地	multi-unit apartments, apartment complex	だんち	jlpt3vocab
+"j`#%Cb?fn="	程度	degree, amount, standard, of the order of (following number), about, approximately; Grad, Umfang, Format, Ausmaß, Ausdehnung, Niveau, Stufe, Grenze, ungefähr	ていど	jlpt3vocab
+r*Zx*/:@G7	欧米化	westernization; Verwestlichung	おうべいか	jlpt3vocab
+"yJ$M(pl|#."	本州	Honshu (largest of the four main islands of Japan)	ほんしゅう	jlpt3vocab
+dn@,fY4=)d	九州	Kyushu (southernmost of the four main islands of Japan)	きゅうしゅう	jlpt3vocab
+shtqvg+1m|	観	outlook, look, appearance, condition, view	カン	jlpt3kanji
+vdsH28aVc>	舟	boat, ship	ふね　ふな　シュウ	jlpt3kanji
+K++P-0(?rn	舟	ship, boat, watercraft, vessel, steamship, tank, tub, vat, trough, counter for boat-shaped containers (e.g. of sashimi)	ふね	jlpt3vocab
+A2rebv-nQE	芸	technique, art, craft, performance, acting, trick, stunt	ゲイ	jlpt3kanji
+HA6+,&-+C6	演	performance, act, play, render, stage	エン	jlpt3kanji
+i?!q1fzh9>	観光地	tourist attraction, sight-seeing area	かんこうち	jlpt3vocab
+E>+)WvP--s	観光地な	subjective	しゅかんてきな	jlpt3vocab
+I:M&Yg&UKt	観客	audience, spectator	かんきゃく	jlpt3vocab
+q/i|<ry^*T	園芸	horticulture, gardening	えんげい	jlpt3vocab
+mdR0QU*iwe	芸術	(fine) art, the arts	げいじゅつ	jlpt3vocab
+cu:5P]YyFR	学芸会	school arts festival	がくげいかい	jlpt3vocab
+DMcM~~=4et	演説	speech, adress, public speaking	えんぜつ	jlpt3vocab
+tIy20+c^TG	演じる	to perform (a play), to play (a part), to act (a part), to commit (a blunder)	えんじる	jlpt3vocab
+Q8]~a8tLd^	人生観	view of life	じんせいかん	jlpt3vocab
+m2CsU|xrKF	観察	observation, survey	かんさつ	jlpt3vocab
+PraS8Oea/Z	観光客	tourist	かんこうきゃく	jlpt3vocab
+H@T%*K?D;E	文芸	literature, art and literature, belles-lettres	ぶんげい	jlpt3vocab
+fL.`Pm(Et.	伝統芸能	traditional art, traditional performance art	でんとうげいのう	jlpt3vocab
+l[=NE|5w72	開演	curtain raising, starting (e.g. play, concert)	かいえん	jlpt3vocab
+EH{f/@=}(s	演技	acting, performance	えんぎ	jlpt3vocab
+iW!=D.|nGu	仏	Buddha, the dead, France	ほとけ　ブツ	jlpt3kanji
+gpJXg*c)Gc	仏	Buddha, merciful person, Buddhist image, the dead, dead person, spirit of the dead	ほとけ	jlpt3vocab
+"hd~#aNaqM&"	神	gods, mind, soul	かみ　かん　こう　シン　ジン	jlpt3kanji
+m=ky?|zwRl	神	god, deity, divinity, spirit, kami, incredible, fantastic	かみ	jlpt3vocab
+bVUh6^lrVl	神	soul, spirit, divine spirit	み	jlpt3vocab
+QOgo.PL<_R	神	spirit, psyche, god, deity, divinity, kami	しん	jlpt3vocab
+Hvia3PtQcA	祭	ritual, offer prayers, celebrate, deify, enshrine, worship	まつる　まつり　サイ	jlpt3kanji
+HrWt?_)BuN	祭り	festival, fest	まつり	jlpt3vocab
+J`=9Zt}9ud	祭る	to deify, to enshrine, to pray, to worship	まつる	jlpt3vocab
+sODs;}7g+2	絵	picture, drawing, painting, sketch	カイ　エ	jlpt3kanji
+hp-MP1HfyR	仏様	a Buddha, deceased person	ほとけさま	jlpt3vocab
+o=MFH=%-IE	仏教	Buddhism	ぶっきょう	jlpt3vocab
+JsE7tVI]Tj	大仏	large statue of Buddha	だいぶつ	jlpt3vocab
+p?hq3/?Ua&	神経質な	nervous(eness), (being) highly strung, sensitive(ness), neurotic	しんけいしつな	jlpt3vocab
+P!,M8MYD38	夏祭り	summer festival	なつまつり	jlpt3vocab
+h$5h-{{CFb	祭日	national holiday, festival day	さいじつ	jlpt3vocab
+v/13%wzAQ4	絵画展	art exhibition, art show	かいがてん	jlpt3vocab
+"d#I6HUe<Au"	油絵	oil painting	あぶらえ	jlpt3vocab
+jS->4QRG)t	念仏	Buddhist prayer	ねんぶつ	jlpt3vocab
+Go@P8ck8|4	仏心	mercy, merciful heart, charity	ほとけごころ	jlpt3vocab
+xI?)Um~j~m	神社	Shinto shrine	じんじゃ	jlpt3vocab
+e)+^ze`h_9	失神	faint, trance, swoon, stupefaction; Bewusstlosigkeit, Ohnmacht	しっしん	jlpt3vocab
+P%0u?NatCa	文化祭	school festival, cultural festival, arts festival	ぶんかさい	jlpt3vocab
+ohF[%TA8g	雪まつり	snow festival	ゆきまつり	jlpt3vocab
+"q,}*v@T1k#"	絵本	picture book	えほん	jlpt3vocab
+D)%bnHUFnN	絵具	paint, coloring materials, colors	えのぐ	jlpt3vocab
+l8OUm&sXYR	角	angle, corner, square, horn, antlers	かど　つの　カク	jlpt3kanji
+t}ONj}y?4n	曲	bend, music, melody, composition, pleasure, injustice, fault, curve, crooked, perverse, lean	まがる　まげる　キョク	jlpt3kanji
+l1*XD,*nfb	曲	song, tune, composition, piece of music	きょく	jlpt3vocab
+"qw0bNR#>y;"	曲がる	to bend, to curve, to warp, to wind, to twist, to turn, to be awry, to be askew, to be crooked	まがる	jlpt3vocab
+izM@1^U!A^	曲げる	to bend, to cook, to bow, to curve, to curl, to lean, to tilt, to incline, to slant, to bend (the truth), to distort, to twist, to pervert, to yield (a point), to depart (from a principle), to ignore (what one really thinks), to pawn	まげる	jlpt3vocab
+IcrMeP/C`v	折	fold, break, fracture, bend, yield, submit	おる　おり　おれる　セツ	jlpt3kanji
+O_H62ya;uZ	折り	opportunity, chance, occasion, time, fold, pleat, crease, small food box (wooden or cardboard)	おり	jlpt3vocab
+Cbks!PlPK3	折る	to break, to fracture, to break off, to snap off, to pick (e.g. flowers), to fold, to bend, to make (origami), to interrupt, to end	おる	jlpt3vocab
+nVO6v&a>e2	折れる	to break, to be broken, to snap, to fracture, to be folded, to give in, to back down, to yield, to submit, to turn (a corner)&nbsp;	おれる	jlpt3vocab
+Az<a~6M@TF	路	path, route, road, distance	じ　ロ	jlpt3kanji
+G0EWKC`x^~	角度	angle	かくど	jlpt3vocab
+in7xX-srs*	名曲	famous music	めいきょく	jlpt3vocab
+jE5V/hZh03	右折	turning to the right, right turn	うせつ	jlpt3vocab
+oY*j[/Wo*)	左折	turning to the left, left turn	させつ	jlpt3vocab
+p_4[E.zkDB	進路	route, course, career, university choices	しんろ	jlpt3vocab
+q=Q>RiW+$L	家路	the road home	いえじ	jlpt3vocab
+"j#V[`?gmH<"	頭角	distinguishing oneself, standing out, top of the head	とうかく	jlpt3vocab
+vK/%G;sN[|	線路	railway track, railway line, railroad, railway, track, line	せんろ	jlpt3vocab
+Ae&K$0a,}c	道路	road, highway	どうろ	jlpt3vocab
+rG|WQ`e>*3	追	chase, drive away, follow, pursue, meanwhile	おう　ツイ	jlpt3kanji
+tEw[b}`mVF	追う	to chase, to run after, to pursue, to follow (i.e. a set order, a trend), to drive out, to oust, to expel, to drive (e.g. a herd), (in passive voice) to be pressed (for time, etc.)	おう	jlpt3vocab
+EM4?/ir?B@	突	stab, protruding, thrust, pierce, prick, collision, sudden	つく　トツ	jlpt3kanji
+v%{B~g4EC]	突く	to prick, to stab, to poke, to prod, to push, to thrust, to nudge, to hit, to strike, to use (a cane), to prop oneself up with, to press against (the floor, etc.), to attack, to brave (the rain, etc.)	つく	jlpt3vocab
+"Atr;1hU#A%"	転	revolve, turn around, change	ころがる　ころげる　ころがす　ころぶ　テン	jlpt3kanji
+Jab!^g2m`>	転	altering pronunciation or meaning, word with altered pronunciation or meaning, turning or twisting part of a text (in Chinese poetry)	てん	jlpt3vocab
+Cgv,IXzZ!3	転ぶ	to fall down, to fall over	ころぶ	jlpt3vocab
+k0bYez-P)-	転がる	to roll, to tumble, to fall over, to roll over, to lie down, to be scattered about, to be common, (of a situation or outcome) to change, to turn out	ころがる	jlpt3vocab
+H{FzL]4}]a	転がす	to roll, to turn over, to tip over, to throw down, to leave, to buy and sell (quickly for a profit)	ころがす	jlpt3vocab
+dF8N19<!_S	転げる	to roll over, to tumble, to roll about (with laughter)	ころげる	jlpt3vocab
+AQ.GGELh?2	倒	overthrow, fall, collapse, drop, break down	たおれる　たおす　トウ	jlpt3kanji
+pp6Y^6]-qe	倒れる	to fall, to collapse, to drop, to fall senseless, to be forced to bed (by illness, etc.), to die, to go bankrupt, to be ruined, to have a bad debt, to be defeated (in a game), to fall (of governments, dictators, etc.)	たおれる	jlpt3vocab
+u}%A48{GBe	倒す	to knock/bring/blow/throw down, to fell, to set sth. down / turn sth on its side, to kill, defeat, beat, overthrow, trip up, to ruin, to leave unpaid, cheat	たおす	jlpt3vocab
+qYFo,nh&L<	追突	rear-end collision; Auffahrunfall	ついとつ	jlpt3vocab
+P!${MjVC>u	突然	abrupt, sudden, unexpected, all at once	とつぜん	jlpt3vocab
+g5rw0L5X){	転倒	falling down, tumbling, overturning, turning over, reversing, inverting, inversion, getting upset	てんとう	jlpt3vocab
+jue3H{2}U%	追及	investigation (e.g. into someone's guilt), questioning, pressing, hounding, pinning down, catching up, overtaking<br />	ついきゅう	jlpt3vocab
+bKreSLn!V=	突進	rush, charge; Ansturm	とっしん	jlpt3vocab
+kZKS+NJ,ze	衝突	collision, crash, running into, conflict, quarrel, clashing	しょうとつ	jlpt3vocab
+N{1;piWe`6	自転車	bicycle	じてんしゃ	jlpt3vocab
+K[)RNV7{R9	倒産	(corporate) bakruptcy, insolvency, commercial failure, failed business	とうさん	jlpt3vocab
+G-/_nEBQnM	位	rank, grade, throne, crown, about, some	くらい	jlpt3kanji
+NOb@.m)1sr	位	throne, crown, (nobleman's) seat, government position, court rank, social standing, rank, class, echelon, rung, grade (of quality, etc.), level, tier, rank, digit (e.g. the tens, the hundreds, etc.), place, degree, extent, amount	くらい	jlpt3vocab
+x>qu.^Tdb@	置	placement, put, set, deposit, leave behind, keep, employ, pawn	おく　チ	jlpt3kanji
+KzH$Dpr}je	置く	to put, to place, to leave (behind), to establish (an organization etc.), to set up, to place (one's trust etc.), to hire, to employ, to appoint (so. to a certain position), to bear (in mind etc.), to pout down a tool hence stopping what one is doing with said tool, to take in (boarders etc.), to provide lodging in one's house, to separate spatially or temporally, to do sth. in advance, to leave sth. in a certain state, to keep sth. in a certain state	おく	jlpt3vocab
+rA]Fk0=5)T	横	sideways, side, horizontal, width, woof, unreasonable, perverse	よこ	jlpt3kanji
+O>a@([U[@t	央	center, middle	オウ	jlpt3kanji
+cx4f!k@PJe	位置	place, situation, position, location	いち	jlpt3vocab
+"P#P?QbdT+t"	上位	superior (in rank), top, ranking, higher order (e.g. byte), host computer (of connected device)	じょうい	jlpt3vocab
+_GCoCc*kN	置き忘れる	to leave behind, to misplace, to forget	おきわすれる	jlpt3vocab
+N;|CRr=LQ|	置き場	place for sth., storehouse	おきば	jlpt3vocab
+u.H:&~Cv~c	横転	toppling sideways, turning sideways, falling over sideways, barrel roll	おうてん	jlpt3vocab
+hJx=TmTE?o	横顔	face in profile, profile, face seen from the side	よこがお	jlpt3vocab
+PN.sUx,rfL	横書き	writing horizontally	よこがき	jlpt3vocab
+h)E3nB}+-O	中央	center, middle, heart, metropolis, capital city, central government	ちゅうおう	jlpt3vocab
+io2*ptA`GO	一位	first place, first rank, unit's position	いちい	jlpt3vocab
+k(^_eO>0bT	地位	(social) position, status	ちい	jlpt3vocab
+K:{i_Ep%`1	設置	establishment, institution, installation (of a machine or equipment)	せっち	jlpt3vocab
+tC,~31RJs,	横断	crossing, transverse	おうだん	jlpt3vocab
+c`afKIFqMq	横道	byway, sidestreet, cross street, wrong way, digression	よこみち	jlpt3vocab
+P37Xy*F&^?	直	straightaway, honsety, frankness, fix, repair	ただちに　なおす　なおる　チョク　ジキ	jlpt3kanji
+N<[-<6{`|&	直	soon, in a moment, before long, shortly, nearby, close, direct	じき	jlpt3vocab
+KwGi<1}}q	直	direct, in person, frankness, honesty, simplicity, cheerfulness, correctness, being straight, night duty, shift&nbsp;	ちょく	jlpt3vocab
+u-v4=$whcS	直な	straight, ordinary, common, doing nothing	なおな	jlpt3vocab
+mB9Fn$qK/l	直す auch 治す	to cure, to heal, to fix, to correct, to repair, to do over again (after -masu bas of verb), to replace, to put back as it was, to convert (into a different state), to transform	なおす	jlpt3vocab
+r9Sgb}Yu*}	直る auch 治る	to be cured, to get well, to be healed, to get mended, to be repaired, to be fixed	なおる	jlpt3vocab
+olf0bmf.hs	直ちに	at once, immediately, directly, in person, automatically	ただちに	jlpt3vocab
+vRs5IGPt3[	線	line, track	セン	jlpt3kanji
+"IS-fAOZ%#!"	逆	inverted, reverse, opposite, wicked	ギャク　さか　さからう	jlpt3kanji
+b)^a;>60XZ	逆らう	to go against, to oppose, to disobey, to defy	さからう	jlpt3vocab
+jHqP1>NZDA	側	side, lean, oppose, regret	がわ　ソク	jlpt3kanji
+E+R({?o}&v	直進	going right on, going straight ahead	ちょくしん	jlpt3vocab
+I{Qr6;z}LN	正直な	honesty, integrity, frankness, honestly, frankly	しょうじきな	jlpt3vocab
+mK)&:asc.X	直接な	direct, immediate, personal, firsthand	ちょくせつな	jlpt3vocab
+ud`@i.*>&c	逆子	breech presentation (feet or buttocks-first birth), breech delivery, breech birth	さかご	jlpt3vocab
+_z9a6UMDq	直線	straight line	ちょくせん	jlpt3vocab
+sC/pLpu5Y5	率直な	frankness, candour, openheartedness, directness	そっちょくな	jlpt3vocab
+E4bjXZ0FVh	逆転	(sudden) change, reversal, turn-around, coming from behind (baseball)	ぎゃくてん	jlpt3vocab
+tUUCW,InJN	逆上	frenzy, distraction	ぎゃくじょう	jlpt3vocab
+"h#|,}*zzoD"	側面	side, flank, aspect, dimension, profile, sidelight, lateral	そくめん	jlpt3vocab
+k[aGRFnr3G	注	pour, irrigate, shed (tears), flow into, concentrate on, notes, comment, annotate	そそぐ　チュウ	jlpt3kanji
+zo)X}jfF5:	注ぐ	to pour (into), to fill, to sprinkle on from above, to shed (e.g. tears), to concentrate one's spirit (strength, attention) on, to fall onto (of rain, snow)	そそぐ	jlpt3vocab
+t~+!=&{FlJ	注す	to pour, to add (liquid), to serve (drinks), to put on (lipstick, etc.), to apply, to colour, to dye, to light (a fire), to burn	さす	jlpt3vocab
+uUk<?VTI@%	意	idea, mind, heart, taste, thought, desire, care, liking	イ	jlpt3kanji
+wP,+bOx8<=	橋	bridge	はし　キョク	jlpt3kanji
+hN.w+eaY]*	進	advance, proceed, progress, promote	すすむ　すすめる　シン	jlpt3kanji
+hyX%1{$9(J	進める	to advance, to promote, to hasten	すすめる	jlpt3vocab
+L3`uFGIQ24	進む	to advance, to go forward, to precede, to go ahead (of), to make progress, to improve, to deepen, to heighten, to be fast (of a clock), to be ahead, to do of one's own free will	すすむ	jlpt3vocab
+J-ZhW]VI)9	注意	caution, being careful, attention (heed), warning, advice	ちゅうい	jlpt3vocab
+eNSursUOU1	注目	notice, attention, observation	ちゅうもく	jlpt3vocab
+n%Lr,{Ky58	意味	meaning, significance	いみ	jlpt3vocab
+CQHKxuj)0m	石橋	stone bridge	いしばし	jlpt3vocab
+tumt{0)bf-	注文	order, request	ちゅうもん	jlpt3vocab
+"MO{#QQ+})<"	意見	opinion, view, comment	いけん	jlpt3vocab
+L7ZD%;Vl[	意識	consciousness, awareness, sense	いしき	jlpt3vocab
+z_fV2bTFGz	鉄橋	railway bridge, iron bridge	てっきょう	jlpt3vocab
+P/X)SNi?j7	歩道橋	pedestrian bridge	ほどうきょう	jlpt3vocab
+xjbV9v|8]r	進出	advance (into a new market or stage of progress), launching (a new career or venture), expanding (into a new market), stepping forward, emerging	しんしゅつ	jlpt3vocab
+KD3rf,Q2~@	仕	attend, doing, official, serve	つかえる　シ　ジ	jlpt3kanji
+LxYKmsb!!J	仕える	to serve, to work for, to attend	つかえる	jlpt3vocab
+q+eAQs|:3M	職	post, employment, work	ショク	jlpt3kanji
+Q!1V_Tdx,|	求	request, want, wish for, require, demand	もとめる　キュウ	jlpt3kanji
+tLj?RPP&$B	求める	to want, to wish for, to request, to demand, to seek, to search for, to pursue (pleasure), to hunt (a job), to purchase, to buy	もとめる	jlpt3vocab
+dHPX1x*nv)	探	grope, search, look for	さぐる　さがす　タン	jlpt3kanji
+c3B}.+RT$)	探す	to search (for sth. desired, needed), to look for, to search (for sth. lost), to seek (a suspect in crime)	さがす	jlpt3vocab
+f!;dWCg]H:	探る	to feel around for, to fumble for, to grope for, to search for, to look for, to investigate, to probe into, to spy on, to sound out, to explore (parts unknown), &nbsp;to enjoy (natural beauty)	さぐる	jlpt3vocab
+KY}QGbblYX	仕方	way, method, means, resource, course	しかた	jlpt3vocab
+v>^4}`%Ny-	仕事	work, job, business, occupation, employment, task, vocation	しごと	jlpt3vocab
+G/wh8ff{UW	給仕	waiting on a table, serving (at dinner), waiter, waitress, waitperson, server, cabin boy, bellboy, page(boy), office boy/girl	きゅうじ	jlpt3vocab
+F+,D]ePRsy	就職	finding, employment, getting a job	しゅうしょく	jlpt3vocab
+b(,Z&nOtM5	要求	demand, firm request, requisition, requirement, desire	ようきゅう	jlpt3vocab
+mqgUkc[BiO	求職	job hunting, seeking employment	きゅうしょく	jlpt3vocab
+u8YpVKl3UG	仕送り	allowance, remittance	しおくり	jlpt3vocab
+qp+T=%EZ0P	職業	occupation, business	しょくぎょう	jlpt3vocab
+g-=a&w_X1i	転職	change of occupation	てんしょく	jlpt3vocab
+"yXPH90_^#F"	求人	offer of job (situation), recruitment	きゅうじん	jlpt3vocab
+B&IvA7Wm:V	探り	sounding, probing, probe, stylet, spy; Sondieren, Sondierung, Ausspionieren	さぐり	jlpt3vocab
+tM;{Hm!tX6	探し物	object being sought	さがしもの	jlpt3vocab
+mgej/H5Vx:	常	usual, ordinary, normal, regular	つね　とこ　ジョウ	jlpt3kanji
+"mM`k)c#09S"	常	usual state of things	つね	jlpt3vocab
+h+TtmtlDJ0	常	constant, unchanging, eternal	とこ	jlpt3vocab
+hhT&TCx<dY	識	discriminating, know, write	シキ	jlpt3kanji
+z.r!AWZu:7	失	lose, error, fault, disadvantage, loss	うしなう　シツ	jlpt3kanji
+c{qyipH]YJ	失う	to lose, to part with	うしなう	jlpt3vocab
+m7h6Xx4U!R	礼	salute, bow, ceremony, thanks, remuneration	レイ　ライ	jlpt3kanji
+pakV[rbM)Q	礼	thanks, gratitude, manners, etiquette, bow, reward, gift, ceremony, ritual	れい	jlpt3vocab
+u@0!.0XwPN	常夏	everlasting summer	とこなつ	jlpt3vocab
+"x_$I#u5qmu"	通常	common, general, normal, usual	つうじょう	jlpt3vocab
+x-=>vM@RRv	常識	common sense, good sense, common knowledge, general knowledge, common practice, accepted practice, social etiquette	じょうしき	jlpt3vocab
+Hg}I3h)`%B	面識	acquaintance	めんしき	jlpt3vocab
+uLt6ewO1C?	失業	unemployment	しつぎょう	jlpt3vocab
+nLi$=+6Q+<	礼儀	courtesy, manners, etiquette	れいぎ	jlpt3vocab
+vZZNm<j^Eb	失礼	"discourtesy, impoliteness, ""Excuse me."", ""Goodbye."", to leave, to be rude"	しつれい	jlpt3vocab
+IfU22!jbf.	日常	ordinary, regular, everday, usual	にちじょう	jlpt3vocab
+bkvB8xCc`6	知識	knowledge, information	ちしき	jlpt3vocab
+pfg~u?|xj^	紛失	losing sth.	ふんしつ	jlpt3vocab
+CvY|&Nuc@/	礼金	finder's fee, reward, honorarium, key money	れいきん	jlpt3vocab
+"v($/!##b.n"	礼状	acknowledgment, letter of thanks	れいじょう	jlpt3vocab
+oX6NFJfW(z	労	labor, thank for, reward for, toil, trouble; Mühe, Arbeit	ロウ	jlpt3kanji
+hA^{%M!t+J	員	employee, member, number, the one in charge	イン	jlpt3kanji
+f6E>x9jtzZ	官	bureaucrat, the government, organ	カン	jlpt3kanji
+Pi&q,C)a,v	局	bureau, board, office, affair, conclusion, court lady, lady-in-waiting, her apartment	キョク	jlpt3kanji
+hDo{~M!lpY	疲労	fatigue, weariness	ひろう	jlpt3vocab
+BpSB}aO3:)	社員	company employee	しゃいん	jlpt3vocab
+s4z;Zz`6h:	店員	shop assistant, employee clerk, salesperson	てんいん	jlpt3vocab
+LrasptL>0N	器官	organ (of body, plant, etc.)	きかん	jlpt3vocab
+O-@4h3U_v*	外交官	diplomat	がいこうかん	jlpt3vocab
+"BYc=qEfpc#"	官民	government and people	かんみん	jlpt3vocab
+jtll_-~3yI	郵便局	post-office	ゆうびんきょく	jlpt3vocab
+lakbqUX|?[	薬局	pharmacy, chemist (shop), drugstore	やっきょく	jlpt3vocab
+c[j23H)c=i	難局	difficult situation	なんきょく	jlpt3vocab
+qHaY@(3m%I	労働	manual labor, toil, work; (körperliche) Arbeit	ろうどう	jlpt3vocab
+eR9+X1;L64	全員	all members (unanimity), all hand, the whole crew, everyone, everybody	ぜんいん	jlpt3vocab
+m6zmOL<QSO	満員	full house, no vacancy, sold out, standing room only, full (of people), crowded	まんいん	jlpt3vocab
+QWiqXHFQiu	官邸	official residence (e.g. of prime minister)	かんてい	jlpt3vocab
+ml@cX))|SB	官僚	bureaucrat, bureaucracy	かんりょう	jlpt3vocab
+b~srOdg%8B	結局	after all, eventually, in the end	けっきょく	jlpt3vocab
+E2k;h8k)Wm	局地	municipal, limited area, locality	きょくち	jlpt3vocab
+xWmv<b*g6F	辞	resign, word, term, expression	やめる　ジ	jlpt3kanji
+H2o0T5yCG	辞める	to resign, to reitre, to quit, to leave (one's job, etc.)	やめる	jlpt3vocab
+"GU#+zvG*Re"	退	retreat, withdraw, reitre, resign, repel, expel, reject	しりぞく　しりぞける　タイ	jlpt3kanji
+o@Oa(u-hRB	退く	to step back, to move back, to leave (the presence of a superior), to withdraw, to retreat, to concede, to resign, to retire, to quit	しりぞく	jlpt3vocab
+B1b,QV,Glt	退ける	to repel, to drive away, to repulse, to reject	しりぞける	jlpt3vocab
+OnEx`ReQ!%	積	volume, product (x*y), acreage, contents, pile up, stack, load, amass	つもる　つむ　セキ	jlpt3kanji
+"Oid#)]G>[a"	積もる	to pile up, to accumulate, to estimate	つもる	jlpt3vocab
+Pvn_`op0p_	積む	to pile up, to stack, to load (car, ship, etc.), to pack, to acquire, to accumulate	つむ	jlpt3vocab
+Fx}:flq*sj	辞書	dictionary, lexicon	じしょ	jlpt3vocab
+qU0F~G6]WQ	辞退	declining, refusal, nonacceptance, turning down, withdrawal (e.g. candidacy), pulling out (e.g. race), excusing oneself	じたい	jlpt3vocab
+t1PxcVZGhV	退屈	tedium, boredom	たいくつ	jlpt3vocab
+D!{:JAer0A	退学	dropping out of school	たいがく	jlpt3vocab
+tCgT+`4]m,	見積もり	estimate, estimation, valuation, quotation; Schätzung, Bewertung, Überschlag, Berechnung, Kalkulation, Angebot, Voranschlag, Anschlag, Kostenvoranschlag, Kostenanschlag	みつもり	jlpt3vocab
+QAOY:.dbNW	面積	square measure, size (e.g. of land), area, surface	めんせき	jlpt3vocab
+t<&_c1O$w~	辞典	dictionary	じてん	jlpt3vocab
+b={*@ba~W[	総辞職	mass resignation	そうじしょく	jlpt3vocab
+w53I7b0zb0	後退	retreat	こうたい	jlpt3vocab
+e{5e&:H.Ec	退職	reitrement (from office), resignation	たいしょく	jlpt3vocab
+"K#1jof&xy*"	山積	lying in piles, form into piles, forming a (huge) pile; Haufen wie ein Berg, Anhäufen zu einem Berg, sich stapeln, sich häufen, sich anhäufen	さんせき	jlpt3vocab
+Nc>w)PI;JJ	給	salary, wage, gift, allow, grant, bestow on	キュウ	jlpt3kanji
+P8*pWstEeb	収	income, obtain, reap, pay, supply, store	おさまる　おさめる　シュウ	jlpt3kanji
+fC{y%r_ce?	収まる	to be in one's place, to be installed, to settle into, to be delivered, to be obtained, to be paid, to be settled, to be sorted out, to lessen (e.g. of storms, pain), to calm down, to be fit tightly into (e.g. a frame), to be sheathed (in a scabbard)	おさまる	jlpt3vocab
+eAej0hQ.lt	収める	to dedicate, to make an offering, to pay (fees), to supply, to store, to finish, to bring to a close, to restore (sth. to its place), to achieve (e.g. a result)	おさめる	jlpt3vocab
+Myc_5P8vd9	支	branch, support, sustain, branch radical	ささえる　シ	jlpt3kanji
+ff2%9Rq&I?	支える	to support, to prop, to sustain, to underlay, to hold up, to hold at bay, to stem, to check	ささえる	jlpt3vocab
+jP,*znSMdf	厚	thick, heavy, rich, kind, cordial, brazen, shameless	あつい　コウ	jlpt3kanji
+gI&2Bms?=8	厚い	thick, deep, heavy, kind, cordial, hospitable, warm, faithful, serious (of an illness), abundant	あつい	jlpt3vocab
+idS:0ptAY?	給料日	payday	きょうりょうび	jlpt3vocab
+fO(^kcsd}k	時給	hourly pay, hourly wage	じきゅう	jlpt3vocab
+u~E$@y=6}F	収支	income and expenditure; Einnahmen und Ausgaben, Bilanz	しゅうし	jlpt3vocab
+Ri6w8gVsa5	支配人	manager, executive	しはいにん	jlpt3vocab
+L.a4Izjp{g	支出	expenditure, expenses; Ausgaben	ししゅつ	jlpt3vocab
+"z^i$n(#sp="	温厚な	gentle	おんこうな	jlpt3vocab
+q/<z.}E:(C	初任給	initial salary	しょにんきゅう	jlpt3vocab
+nB[KHH/YhN	自給自足	self-sufficiency; Autarkie, Selbstversorgung, Selbstgenügsamkeit	じきゅうじそく	jlpt3vocab
+N`$[@zdqk9	吸収	absorption, suction, attraction	きゅうしゅう	jlpt3vocab
+jz~co~ot9o	収入	income, receipts, revenue; Einkommen, Einkünfte	しゅうにゅう	jlpt3vocab
+mznh`fw,4`	支持	support, holding up, backing, endorsing	しじ	jlpt3vocab
+eV_X]%4?Q+	濃厚な	rich (in flavor, color, smell, etc.), thick, dense, strong, very likely, highly possible, passionate, hot	のうこうな	jlpt3vocab
+eCGoO|Z6:.	儀	ceremony, rule, affair, case, a matter	ギ	jlpt3kanji
+vNnumWKRzd	賛	approve, praise, title or inscription on picture, assist, agree with	サン	jlpt3kanji
+"nI#VdWi$-["	反	anti-	そる　そらす　ハン　ホン　タン	jlpt3kanji
+HwQrE;;^Q^	反る	to warp, to be warped, to curve, to be curved, to be arched, to bend, to be bent	そる	jlpt3vocab
+IzY_Fb]%RH	反らす	to bend, to warp, to curve	そらす	jlpt3vocab
+o:Q;JP$:S7	反する	to be contrary to, to be inconsistent with, to contradict, to act contrary to (rules or guidelines), to violate, to transgress, to oppose, to rebel, to revolt	はんする	jlpt3vocab
+yQ:]nP.<Zb	対	vis-a-vis, opposite, even, equal, versus, anti-, compare	タイ　ツイ	jlpt3kanji
+p6q=t(cQcJ	会議	meeting, conference, session, assembly, council, convention, congress	かいぎ	jlpt3vocab
+i>RXak3QUp	議	deliberation, consultation, debate, consideration	ギ	jlpt3kanji
+Ip_k-5K7d`	賛成	approval, agreement, support, favour	さんせい	jlpt3vocab
+JS`I$}(c0l	賛同	approval, endorsement	さんどう	jlpt3vocab
+gGn)C>m$x[	反り返る	to warp, to bend backwards, to throw the head (or shoulders) back, to throw out the chest	そりかえる	jlpt3vocab
+kNi:lG5&(3	反省	reflection, reconsideration, introspection, meditation, contemplation, regret, repentance, remorse, being sorry	はんせい	jlpt3vocab
+E=;48qwi*c	違反	violation, offense, breach, transgression, infringement, contravention	いはん	jlpt3vocab
+PutQS1:m5N	絶対	absolutely, unconditionally, absolute, unmistakable, absoluteness	ぜったい	jlpt3vocab
+DoCq!LagjB	反対	opposition, resistance, antagonism, hostility, objection, dissension, reverse, opposite, vice versa, contrast	はんたい	jlpt3vocab
+M5p@ans5fM	議題	topic of discussion, agenda	ぎだい	jlpt3vocab
+ib>-b&E1KR	自画自賛	singing one's own praises, praising one's own wares	じがじさん	jlpt3vocab
+O-W[n0-Is|	対立	confrontation, opposition, antagonism	たいりつ	jlpt3vocab
+gn{T2:tCHU	礼賛	praise, worship, adoration, glorification	らいさん	jlpt3vocab
+jQJ0B}ed4R	謀反	rebellion, uprising, insurrection, treason	むほん	jlpt3vocab
+ey9MW9j]]B	反物	fabric, cloth, textiles, drapery, dry-goods, piece goods, measure of kimono material	たんもの	jlpt3vocab
+"gp#b@yYT1S"	肯	agreement, consenst, comply with	コウ	jlpt3kanji
+"t#V{G4///-"	否	negate, no, noes, refuse, decline, deny	いな　ヒ	jlpt3kanji
+vU-dg1B}>)	保	protect, guarantee, keep, preserve, sustain, support	たもつ　ホ	jlpt3kanji
+Lx1iX&Gq9b	保もつ	to keep, to preserve, to hold, to retain, to maintain, to support, to sustain, to last, to endure, to keep well (food), to wear well, to be durable	たもつ	jlpt3vocab
+l>uPM8eo]6	留	detain, fasten, halt stop	とまる　とめる　リュウ　ル	jlpt3kanji
+NBV~JdAyVW	留まる auch 止まる	to stop (moving), to come to a stop, to stop (doing, working, being supplied), to come to a halt, to cease, to be stopped, to be suspended, to alight, to perch on	とまる	jlpt3vocab
+MTDL;BCC%v	留める auch 止める	to stop, to turn off, to park, to prevent, to suppress (a cough), to hold back (tears), to hold (one's breath), to relieve (pain), to stop (so. from doing sth.), to dissuade, to forbid, to prohibit, to notice, to be aware of, to concentrate on, to pay attention to, to remember, to bear in mind, to fix (in place), to fasten, to tack, to pin, to nail, to button, to staple, to detain, to keep in custody	とめる	jlpt3vocab
+xHi-xSm*L0	肯定的な	affirmative	こうていてきな	jlpt3vocab
+uA-6^%osX{	否や	as soon as, no sooner than, one way or another, objection	いなや	jlpt3vocab
+i*Xsuq>iEg	否定	renation, denial, repudiation, (computer) NOT operation	ひてい	jlpt3vocab
+"Pqj#ZxA+3c"	賛否	yes and no, for and against	さんび	jlpt3vocab
+B@Iq87wLXM	保護	care, protection, shelter, safeguard, guardianship, favor, patronage	ほご	jlpt3vocab
+dGV[2U*-)$	保留	reserve, putting on hold, deferment, hold (e.g. telephone button), pending	ほりゅう	jlpt3vocab
+E<7T^.3$s^	留守番	care-taking, house-sitting, house-watching, staying at home, caretaker, housesitter	るすばん	jlpt3vocab
+Bw^i[XneJ|	留守番電話	answering machine, answer phone	るすばんでんわ	jlpt3vocab
+yEtcoSLvi:	拒否	denial, veto, rejection, refusal	きょひ	jlpt3vocab
+syE+!>Nh*>	保育園	nursery school, preschool	ほいくえん	jlpt3vocab
+k!bGy+W%3m	留意	heeding, paying attention, bearing in mind	りゅうい	jlpt3vocab
+sW4e;rY8e`	留年	repeating the same class (school), staying in the same class for two or more years	りゅうねん	jlpt3vocab
+d)l}:Gtn?[	居留守	pretending to be out; Vortäuschen von Nichtanwesenheit	いるす	jlpt3vocab
+AO:bh|T`oS	判	judgement, signature, stamp, seal	ハン　バン	jlpt3kanji
+IMO~g5Bc!j	断	severance, decline, refuse, apologize, warn, dismiss, prohibit, decision, judgement, cutting	たつ　ことわる　ダン	jlpt3kanji
+gn2Sz~NKm_	断る	to refuse, to reject, to dismiss, to turn down, to decline, to inform, to give notice, to tell in advance, to ask leave, to excuse oneself (from)	ことわる	jlpt3vocab
+SqcfK2@ez	断つ	to sever, to cut off, to suppress, to abstain (from)	たつ	jlpt3vocab
+g>L@L^VhE<	確	assurance, firm, tight, hard, solid, confirm, clear, evident	たしかめる　たしか　カク	jlpt3kanji
+BFHs9YL%:F	確か	sure, certain, positive, definite, reliable, trustworthy, safe, sound, firm, accurate, correct, exact, (as adverb:) If I'm not mistaken, If I remember coorectly, If I remember rightly	たしか	jlpt3vocab
+gFNqrgB2h@	確かめる	to ascertain, to check, to make sure	たしかめる	jlpt3vocab
+s<SwxbmFn$	認	acknowledge, witness, discern, recognize, appreciate, believe	みとめる　ニン	jlpt3kanji
+zZ01XE_YC(	認める	to recognize, to observe, to notice, to deem, to judge, to assess, to approve, to deem acceptable, to allow, to admit, to accept, to confess (to a charge), to watch steadily, to observe carefully, to renown, to give renown, to appreciate, to acknowledge	みとめる	jlpt3vocab
+"wh#3;1%DL$"	判決	judicial decision, judgement, sentence, decree	はんけつ	jlpt3vocab
+f&+p(@Isc1	判定	judgement, decision, adjudication, award, verdict, determination	はんてい	jlpt3vocab
+N]d*w+/&=c	評判	fame, reputation, popularity, rumor, talk	ひょうばん	jlpt3vocab
+jRa4{Tc:CV	断定	conclusion, decision	だんてい	jlpt3vocab
+CYPjo@3GmY	確信	conviction, belief, confidence	かくしん	jlpt3vocab
+Mh:+$O(a`	認識	recognition, cognisance, konwledge, realization, awareness, perception	にんしき	jlpt3vocab
+p24X:KnPHr	判断	judgment, decision, conclusion, adjudication, divination	はんだん	jlpt3vocab
+jxY@_W&8e=	切断	cutting, severance, section, amputation, disconnection	せつだん	jlpt3vocab
+zaoF^ksz1	正確な	accurate, punctual, exact, authentic, veracious	せいかくな	jlpt3vocab
+rKR7=FdWi]	確認	confirmation, verification, validation, review, check, affirmation, identification	かくにん	jlpt3vocab
+QvVu;_VD`v	報	report, news, reward, retribution	むくいる　ホウ	jlpt3kanji
+Rd})*P|M,n	報いる	to reward, to recompense, to repay, to retaliate, to get revenge	むくいる	jlpt3vocab
+qQ9$<RIR<g	告	revelation, tell, inform, announce	つげる　コウ	jlpt3kanji
+A)`_FC+}AW	告げる	to tell, to inform, to announce, to indicate, to signal, to mark	つげる	jlpt3vocab
+K|)pSm3afe	連	take along, lead, join, connect, party, gang, clique	つらなる　つらねる　つれる　レン	jlpt3kanji
+km%0AFNr*G	連なる	to extend, to stretch out, to stand in a row, to attend, to participate in, to enrol, to join	つらなる	jlpt3vocab
+FZ%_D7mdFa	連ねる	to line up, to put in a row, to add (to a group), to accept (as a member of an organization, etc.), to join (e.g. a list), to link, to put together, to string together (e.g. compliments), to enumerate, to take along with, to bring with	つらねる	jlpt3vocab
+r3@5dH}f:O	連れる	to lead, to take (a person)	つれる	jlpt3vocab
+zujtkIqZH2	絡	entwine, coil around, get caught in	からまる　からめる　からむ　ラク	jlpt3kanji
+z6FO|!gU[y	絡む	to entangle, to entwine, to pick a quarrel, to find fault, to be involved with, to be influenced by, to develop a connection with	からむ	jlpt3vocab
+C<a)y2+0>:	絡まる	to be entwined, to be involved	からまる	jlpt3vocab
+"FnaKM#DOak"	絡める	to arrest, to entwine, to twine around, to mix together, to coordinate (with)	からめる	jlpt3vocab
+Qk`p2|[)xO	情報	information, news, intelligence, advices	じょうほう	jlpt3vocab
+y2NK|6N?oq	報告	report, information	ほうこく	jlpt3vocab
+B2<s2}JI.H	連絡	to contact, to get in touch, contacting, getting in touch, communication, call, message, connection, coordination, junction, intercalary, intercalaris, internuncial	れんらく	jlpt3vocab
+OQHAO1)_)(	一報	information	いっぽう	jlpt3vocab
+yS[G2R-:1x	告白	confession, acknowledgement, profession of love, confession of sins (e.g. the confessional)	こくはく	jlpt3vocab
+E<A7A>?!Wp	関連	relation, connection, relevance	かんれん	jlpt3vocab
+e2s+?ar-]x	連絡網	network	れんらくもう	jlpt3vocab
+sR4T|an4<9	相	inter-, mutual, together, each other, minister of state, councillor, aspect, phase, physiognomy	あい　ソウ　ショウ	jlpt3kanji
+y+*?knMODt	談	discuss, talk	ダン	jlpt3kanji
+Re>sWP[.!B	指	finger, point to, indicate, put into, play (chess), measure (ruler)	さす　ゆび　シ	jlpt3kanji
+g;O*%}({>}	指す	to point, to nominate, to select so., to specify some person, to identify, to indicate, to point out, to play, to extend one's arm straight ahead (in dance)	さす	jlpt3vocab
+C2b-?>.=!.	示	show, indicate, point out, express, display	しめす　ジ　シ	jlpt3kanji
+n0$C3;XeSg	示す	to (take out and) show, to demonstrate, to tell, to exemplify, to make apparent, to point out (finger, clock hand, needle, etc.), to indicate, to show, to represent, to signify, to display	しめす	jlpt3vocab
+Ja%Iv3>M(Z	相手	companion, partner, company, other party, addressee, opponent (sport, etc.)	あいて	jlpt3vocab
+"Hx##XSE3d;"	真相	truth, real situation	しんそう	jlpt3vocab
+or6U_PaET~	相談	consultation, discussion	そうだん	jlpt3vocab
+Md!<:?A;jh	冗談	jest, joke, funny story	じょうだん	jlpt3vocab
+CMZlvxOyy*	薬指	ring finger, fourth finger	くすりゆび	jlpt3vocab
+eaY[WA{StT	指導	leadership, guidance, coaching	しどう	jlpt3vocab
+s`^0EjD=0$	暗示	hint, suggestion	あんじ	jlpt3vocab
+Q=.S&;.).*	相思相愛	mutual love	そうしそうあい	jlpt3vocab
+LFa&uX@?n)	外相会談	foreign ministerial conference, meeting of foreign ministers	がいしょうかいだん	jlpt3vocab
+M`V?AeRUOZ	商談	business discussion, negotiation	しょうだん	jlpt3vocab
+b+^Y.!ob(T	指示	indication, instruction, designation, directions	しじ	jlpt3vocab
+D5o<4}=,!Y	最	utmost, most, extreme	もっとも　サイ	jlpt3kanji
+dm[Y%8{R5E	最も	most, extremely	もっとも	jlpt3vocab
+wq=9+rrvj&	副	vice-, assistant, aide, duplicate, copy	フク	jlpt3kanji
+dux)p4)L8w	管	pipe, tube, wind instrument, drunken talk, control, juristdiction	くだ　カン	jlpt3kanji
+s5Tmfcd+?y	者	someone, person	もの　シャ	jlpt3kanji
+KH;DX1C6yv	世界最大	world's largest<br />	せかいさいだい	jlpt3vocab
+mesc{q]bKW	最短	shortest	さいたん	jlpt3vocab
+n(Tr?Rq))+	副賞	extra prize	ふくしょう	jlpt3vocab
+mDD/726;-$	副社長	executive vice-president	ふくしゃちょう	jlpt3vocab
+y0Yl=S:mOa	水道管	water pipe	すいどうかん	jlpt3vocab
+uNIBZ<j[J_	管理職	management	かんりしょく	jlpt3vocab
+w=fId5M$uT	有力者	influential person, man of importance	ゆうりょくしゃ	jlpt3vocab
+yS}N(]+wht	人気者	popular person, favorite	にんきもの	jlpt3vocab
+c(uweX.{%y	記者	reporter	きしゃ	jlpt3vocab
+"A8I$UX]J#N"	最後	last, end, conclusion, latest, most recent, no sooner than, right after (often having negative consequences), one's final moments	さいご	jlpt3vocab
+bzeX&hz?q2	最近	most recent, these days, right now, recently, nowadays	さいきん	jlpt3vocab
+CpSfpb;N~m	最高	highest, supreme, the most	さいこう	jlpt3vocab
+fgDNpXi;cs	副作用	reaction, secondary effect, side effect	ふくさよう	jlpt3vocab
+B+w0iPK1/|	保管	charge, custody, safekeeping, deposit, storage	ほかん	jlpt3vocab
+D7HbeM0*6z	若者	young (wo)man, young people, youth, youngsters	わかもの	jlpt3vocab
+"qADGlq<#tb"	医者	(medical) doctor, physician	いしゃ	jlpt3vocab
+IW]h?>gT=_	現	present, existing, actual	あらわれる　あらわす　ゲン	jlpt3kanji
+o9>jv;s1=T	現す auch 表す　	to represent, to signify, to stand for, to reveal, to show, to display, to express, to make widely known	あらわす	jlpt3vocab
+oXx`sf9l{<	現れる or 表れる	to appear, to come in sight, to become visible, to come out, to embody, to materialize, to be expressed (e.g. in emotions), to become apparent (e.g. trends, effects)	あらわれる	jlpt3vocab
+z|[*oKB10:	旧	old times, old things, old friend, former, ex-	キュウ	jlpt3kanji
+qj|b_YA0un	昔	once upon a time, antiquity, old times, olden days, former	むかし　セキ　シャク	jlpt3kanji
+ec)*T9w7/A	次	next, order, sequence	つぐ　つぎ　ジ　シ	jlpt3kanji
+EdJ^SX-7>k	次	next, following, subsequent, stage, station	つぎ	jlpt3vocab
+m!JSrRqKJ-	次ぐ	to rank next, to come after	つぐ	jlpt3vocab
+bRdebhC+R}	現行	present, current, in operation	げんこう	jlpt3vocab
+MBjIo0g3B&	出現	appearance, arrival, make one's appearance	しゅつげん	jlpt3vocab
+"m#x$f<4JM*"	旧姓	one's former (maiden) name	きゅうせい	jlpt3vocab
+J^-p93`n^$	旧家	old family	きゅうか	jlpt3vocab
+np*gh%&!ge	昔話	old tale, folk tale, legend, reminiscence	むかしばなし	jlpt3vocab
+jR2E_9BlK-	次いで	next, secondly, subsequently	ついで	jlpt3vocab
+q6@9)4)xM4	次回	next time (occasion)	じかい	jlpt3vocab
+s0)0{X_{w%	次第	dependent upon, as soon as, immediately (upon), circumstances, order, precedence, program, agenda	しだい	jlpt3vocab
+nfxyx4Hdab	席次表	seating plan (e.g. banquet), seating chart	せきじひょう	jlpt3vocab
+zvfW3(9cZ2	現実的な	realistic, pragmatic	げんじつてきな	jlpt3vocab
+JN9([d/v21	現実	reality, actuality, hard fact	げんじつ	jlpt3vocab
+eZU?xd0;>9	現在	now, current, present, present time, as of	げんざい	jlpt3vocab
+s4D7>oeMH:	旧式	old type, old style	きゅうしき	jlpt3vocab
+dTP5GLpu%*	旧友	crony, old friend	きゅうゆう	jlpt3vocab
+B+=APk5AmX	旧正月	lunisolar New Year, Chinese New Year, Vietnamese Tet	きゅうしょうがつ	jlpt3vocab
+y~^^`{Yu]b	億	hundred million, 10^8	オク	jlpt3kanji
+"m./Zu/s(#r"	兆	portent, 10^12, trillion, sign, omen, symptoms	きざす　きざし　チョウ	jlpt3kanji
+KBhn$G6ld[	兆す	to show signs, to have symptoms, to give indications (of), to bud, to germinate, to sprout	きざす	jlpt3vocab
+Kk:?wTNM(A	兆し	signs, omen, symptoms	きざし	jlpt3vocab
+gn~cO-$0ni	費	expense, cost, spend, consume, waste	ついえる　ついやす　ヒ	jlpt3kanji
+kXDEYz?@wT	費える	to use up (one's savings), to be wasted (time, effort, etc.), to fall apart, to become useless, to be wiped out (in battle), to fall apart (one's body or health)	ついえる	jlpt3vocab
+i5Mh4JPVT)	費やす	to spend, to expend, to consume, to waste, to squander, to throw away, to devote	ついやす	jlpt3vocab
+CR0X*=<JMy	算	calculate, divining, number, abacus, probability	サン	jlpt3kanji
+GRgJZ?(PYo	学費	tuition, school expenses	がくひ	jlpt3vocab
+mCY|+_-?Xj	消費者	consumer	しょうひしゃ	jlpt3vocab
+cf?j>)txLN	会費	membership fee	かいひ	jlpt3vocab
+PIfyz.>.IE	食費	food expense	しょくひ	jlpt3vocab
+oR|W1tx{j[	算数	arithmetic, elementary mathematics; Rechnen, Arithmetik, Mathematik	さんすう	jlpt3vocab
+wC1jf>yp3^	暗算	mental arithmetic; Kopfrechnen	あんざん	jlpt3vocab
+itC80sj~y%	前兆	omen, sign, harbinger, premonition, portent	ぜんちょう	jlpt3vocab
+Nd:PTM2,w:	費用	cost, expense	ひよう	jlpt3vocab
+g6q1H`=c[X	予算	estimate, budget	よさん	jlpt3vocab
+B%q_}KM*+8	計算	calculation, reckoning, count, forecast	けいさん	jlpt3vocab
+v2q&n9K2Rc	供	submit, offer, present, serve (meal), accompany	とも　そなえる　キョウ　ク	jlpt3kanji
+x/>|bAhb4}	供	companion, follower, attendant, retinue	とも	jlpt3vocab
+o0^-3Tk2lR	供える	to offer, to sacrifice, to dedicate	そなえる	jlpt3vocab
+x~u=E2^TXZ	税	tax, duty	ゼイ	jlpt3kanji
+iwS,/T1LqP	試供品	specimen, sample; Gratisprobe	しきょうひん	jlpt3vocab
+I]dGZMn7[	提供	offer, tender, program sponsoring, furnishing, provisioning, supply	ていきょう	jlpt3vocab
+"O#kAei0n#J"	関税	tariff (import tax), duty, customs; Zoll	かんぜい	jlpt3vocab
+dQYaD5}LYT	自供	confession	じきょう	jlpt3vocab
+NwR6pnj5iL	増税	tax increase	ぞうぜい	jlpt3vocab
+MR!&Y<z]Pe	供給	supply, provision	きょうきゅう	jlpt3vocab
+P*8C|8Gq:(	税金	tax, duty	ぜいきん	jlpt3vocab
+hDMVwX!_H0	消費税	consumption tax (including sales tax, value added tax, excise duty, etc.); Mehrwertsteuer, Verbrauchssteuer, Konsumsteuer	しょうひぜい	jlpt3vocab
+A%~p+w(ll$	減税	tax reduction	げんぜい	jlpt3vocab
+NRg>x@KpT^	税関	cutsoms, customs house; Zollamt	ぜいかん	jlpt3vocab
+K[%`t0gwnt	供養	memorial service for the dead, holding a service	くよう	jlpt3vocab
+CbA6Jg5B(;	子供	child, children	こども	jlpt3vocab
+"PbcK#G6KVO"	産	products, bear, give birth, yield, childbirth, native, property	うまれる　うむ　うぶ　サン	jlpt3kanji
+Rd%Lj3H3u;	産	innocent, naive, unsophisticated, inexperienced, green, wet behind the ears, birth-	うぶ	jlpt3vocab
+l)jCo*ZZG_	産まれる or 生まれる	to be born	うまれる	jlpt3vocab
+PD-]AvrE4`	産む or 生む	to give birth, to bear (child), to lay (eggs), to produce, to yield, to give rise to, to deliver	うむ	jlpt3vocab
+B7-J^L~lx%	農	agriculture, farmers	ノウ	jlpt3kanji
+"r3TAsbwh-#"	貿	trade, exchange	ボウ	jlpt3kanji
+jIV*0dh!Cf	商	make a deal, selling, dealing in, merchant	あきなう　ショウ	jlpt3kanji
+PbRP=EZYyf	商う	to trade in (commercial goods), to deal in, to sell	あきなう	jlpt3vocab
+E,ConO-SB4	産声	baby's first cry	うぶごえ	jlpt3vocab
+g~jc@XHJ1>	生産者	manufacturer, producer	せいさんしゃ	jlpt3vocab
+LgoNxO[]kM	財産	property, fortune, assets	ざいさん	jlpt3vocab
+k4h(N068i(	農業	agriculture	のうぎょう	jlpt3vocab
+E50>Nv,9Y0	農家	farmer, farm family	のうか	jlpt3vocab
+K?/l`P%jBp	商店	shop, small store, business, firm	しょうてん	jlpt3vocab
+mdRnT*Jf^B	産業	industry, livelihood, occupation	さんぎょう	jlpt3vocab
+s)~=d!^[10	出産	childbirth, (giving) birht, delivery, parturition, confinement, production (of goods)	しゅっさん	jlpt3vocab
+N^L1_&{$&:	不動産	real estate; Immobilien, unbewegliches Vermögen, Grundbesitz, Liegenschaften	ふどうさん	jlpt3vocab
+bTBeC&Kyw|	農学部	department of agriculture	のうがくぶ	jlpt3vocab
+NQyQulyR^C	商売	trade, business, commerce, transaction, occupation	しょうばい	jlpt3vocab
+fa6;=[LG-=	商業	commerce, trade, business	しょうぎょう	jlpt3vocab
+bk/yGyjpIO	機	loom, mechanism, machine, airplane, opportunity, potency, efficacy, occasion	はた　キ	jlpt3kanji
+v@WxBb^U1X	械	contraption, fetter, machine, instrument	カイ	jlpt3kanji
+nvwfqO3N>3	危	dangerous, fear, uneasy	あやぶむ　あやうい　あぶない　キ	jlpt3kanji
+DIH-yNT`hX	危ない	dangerous, risky, hazardous, perilous, precarious, in danger, in jeopardy, critical, grave, at risk, uncertain, unreliable, insecure, unsteady, doubtful, close (i.e. a close call), narrow, look out!, watch out!	あぶない	jlpt3vocab
+bZ:U|h>C,0	危うい	dangerous, risky, harardous, perilous, precarious, in danger, heopardy, critical, grave, at risk, uncertain, unreliable, insecure, unsteady, doubtful, close (i.e. a close call), narrow	あやうい	jlpt3vocab
+MUb21P7es_	危ぶむ	to fear, to have misgivings, to be doubtful, to mistrust	あやぶむ	jlpt3vocab
+j9^Wfwx*Y)	険	precipitous, inaccessible place, impregnable position, steep place, sharp eyes	けわしい　ケン	jlpt3kanji
+JvsvKJ:p<g	機会	chance, opportunity	きかい	jlpt3vocab
+EN)%mvg7_]	機関	engine, agency, organization, institution, organ, body, system, facility	きかん	jlpt3vocab
+ET0R:hS](w	危機	crisis, danger, risk	きき	jlpt3vocab
+fxf%d,d/^0	機械	machine, mechanism, instrument, appliance, apparatus	きかい	jlpt3vocab
+hm~Kk_M6j/	保険	insurance, guarantee	ほけん	jlpt3vocab
+d|1KF:ow.+	険悪な	dangerous, serious, gloomy, preilous, threatening, stormy	けんあくな	jlpt3vocab
+emo<Cr=|9&	機能	function, facility, faculty, feature	きのう	jlpt3vocab
+OPs>4zy3&k	動機	motive, incentive	どうき	jlpt3vocab
+dLk2afO||X	転機	turning point	てんき	jlpt3vocab
+q;,~caU=,o	危険な	dangerous, perilous, hazardous, risky	きけんな	jlpt3vocab
+P.L`g1v]^t	技	skill, art, craft, ability, feat, performance, vocation, arts	わざ　ギ	jlpt3kanji
+Kr:Oh}p[>K	術	art, technique, skill, means, trick, resources, magic	ジュツ	jlpt3kanji
+"c_0UmV#D#n"	技術	art, craft, technique, technology, enineering, skill	ぎじゅつ	jlpt3vocab
+kV^UlA,qCU	手術	(surgical) operation, procedure	しゅじゅつ	jlpt3vocab
+PmG.X=Qgyi	美術館	art gallery, art museum	びじゅつかん	jlpt3vocab
+w-n{uZcfFk	編	compilation, knit, plait, braid, twist, editing, completed poem, part of a book	あむ　ヘン	jlpt3kanji
+w=_n8Y=*Ov	編む	to knit, to plait, to braid, to compile (anthology, dictionary, etc.), to edit	あむ	jlpt3vocab
+ccSvx~40eh	綿	cotton	わた　メン	jlpt3kanji
+tM4f&A$?wv	布	line, cloth, spread, distribute	ぬの　フ	jlpt3kanji
+ja0|U?TJ^A	皮	pelt, skin, hide, leather, skin radical	かわ　ヒ	jlpt3kanji
+I8)B)8cvY2	編み物	knitting, knitted material, crochet	あみもの	jlpt3vocab
+rL[_J`z8tl	編入	admission, incorporation	へんにゅう	jlpt3vocab
+B@Im+xOEh2	毛布	blanket	もうふ	jlpt3vocab
+FtmX@cT<vF	配布	distribution	はいふ	jlpt3vocab
+"H?9B.JP9#f"	皮肉	cynicism, sarcasm, irony, satire	ひにく	jlpt3vocab
+E{6Tw)nPDP	手編み	(hand)knitting	てあみ	jlpt3vocab
+BK<AE>t(l|	編集	editing, compilation, editorial (e.g. committee)	へんしゅう	jlpt3vocab
+B2l8l{F*7Z	全編	whole book (volume), complete episode	ぜんぺん	jlpt3vocab
+wk^9n5hRo+	散布	dissemination, scattering, sprinkling, spraying	さんぷ	jlpt3vocab
+DQl;r^tZw!	毛皮	fur, skin, pelt	けがわ	jlpt3vocab
+u<L>XA449C	脱皮	ecdysis, shedding (of skin), sloughing, molting, casting off, freeing oneself, breaking with (convention, etc.); Häutung, Ekdysis, Abstreifen, Ablegen, Brechen	だっぴ	jlpt3vocab
+Nlg4oBqCy6	貧	poverty, poor	まずしい　ヒン　ビン	jlpt3kanji
+x_%u-2tsvY	貧しい	poor, needy, lacking (quantity and quality-wise), poor, scanty, skimpy, slight, inadequate	まずしい	jlpt3vocab
+M/`n~zac=?	富	wealth, enrich, abundant	とむ　とみ　フ　フウ	jlpt3kanji
+zFA&.A[cNt	富み	riches, wealth, fortune, resources, lottery	とみ	jlpt3vocab
+zP=?VyUT^-	富む	to be rich, to become rich, to be abundant (with), to abound (with), to be rich (in)	とむ	jlpt3vocab
+"M3ML-#^(e9"	豊	bountiful, excellent, rich	ゆたか　ホウ	jlpt3kanji
+Nn*h0aIkGg	豊か	abundant, welathy, plentiful, rich, very, extremely, full of	ゆたか	jlpt3vocab
+fbKLng^MEX	等	etc., and so forth, class (first), quality, equal, similar	ひとしい　トウ	jlpt3kanji
+hmQs>LXAdY	等しい	equal, similar, like, equivalent	ひとしい	jlpt3vocab
+rww*86e:[1	貧血	anemia, anaemia	ひんけつ	jlpt3vocab
+d2A,(3+XnI	貧乏な	poor, destitute; arm, bedürftig, mittellos, notleidend	びんぼうな	jlpt3vocab
+byw1GoIe$U	豊富	abundance, wealth, plenty, bounty	ほうふ	jlpt3vocab
+COAs3J5ni:	貧富	wealth and poverty, rich and poor	ひんぷ	jlpt3vocab
+us8Tb+5(ud	同等な	equal, same rights/rank, equivalence	どうとうな	jlpt3vocab
+h@*]pXSIQ<	対等に	equality (esp. of status, on equal terms), equivalence, equivalent, equal	たいとうに	jlpt3vocab
+"FUn1#a]zj~"	貧弱な	poor, meagre, insubstantial; arm(selig), miserabel, kümmerlich, knapp, dürftig, mager, unzulänglich	ひんじゃくな	jlpt3vocab
+Dk;Bk+P_Yq	富士山	Mount Fuji	ふじさん	jlpt3vocab
+J3ge4_{Uss	均等	equality, uniformity, evenness	きんとう	jlpt3vocab
+qV~*zCO*@k	等身大	life-sized	とうしんだい	jlpt3vocab
+n:3jV0o*[x	上等な	superiority, first-class, very good, (that's) just fine!, bring it on!	じょうとうな	jlpt3vocab
+"P#.$j)-sNU"	富貴	riches and honors, wealth and rank; Rang und Namen	ふうき	jlpt3vocab
+FlKK?(s*B{	土産	present, souvenir	みやげ	jlpt3vocab
+QpZ%hvenH1	法	method, law, rule, principle, model, system	ホウ　ハツ　ホツ	jlpt3kanji
+H:}!TdTd_9	律	rythm, law, regulation, gauge, control	リツ　リチ	jlpt3kanji
+Z4FRv`j;A	規	standard, measure	キ	jlpt3kanji
+"jh8n+BW?=#"	則	rule, follow, based on, model after	ソク	jlpt3kanji
+o);<tPqKFy	法学部	law department, law school	ほうがくぶ	jlpt3vocab
+N:+jMnJQ3*	方法	method, process, manner, way, means, technique	ほうほう	jlpt3vocab
+b(:$e[Ztei	立法	legislation, lawmaking	りっぽう	jlpt3vocab
+dQed9:+Zb>	法律	law	ほうりつ	jlpt3vocab
+"B#he)4yxy~"	規律	order, observance, discipline	きりつ	jlpt3vocab
+Q^dKq.%`I%	律儀な	honest, faithful, intergrity, consecientiousness	りちぎな	jlpt3vocab
+ixa$KZhy7K	規則	rules, regulations, conventions	きそく	jlpt3vocab
+m>:1hsuGZP	新規に	new, fresh, new item (e.g. customer, regulation), newly created object, new customer	しんき	jlpt3vocab
+HG>Pf&mg+c	原則	principle, general rule	げんそく	jlpt3vocab
+Qj3?+5MV{U	法則	law, rule	ほうそく	jlpt3vocab
+"Q.#*FC1)?t"	文法	grammar, syntax	ぶんぽう	jlpt3vocab
+kDH-$rUQ!5	自律的な	autonomous, independent	じりつてきな	jlpt3vocab
+xC6Ar5*BKD	規格	standard, norm	きかく	jlpt3vocab
+L+ar?p2%D&	規模	scale, scope, plan, structure	きぼ	jlpt3vocab
+vYGXaFIF~}	反則	foul play (sport), breaking the rules, infringement, irregularity	はんそく	jlpt3vocab
+QJsfKxh~nD	法華	Nichiren sect, Tendai sect, Lotus Sutra	ほっけ	jlpt3vocab
+"ln5d#_/N-d"	禁	prohibition, ban, forbid	キン	jlpt3kanji
+pKmg<5R5@f	許	permit, approve	ゆるす　キョ	jlpt3kanji
+fwZ)3:Zyfr	許す	to permit, to allow, to approve, to tolerate, to exempt (from fine), to excuse (from), to pardon, to forgive, to release, to let off, to confide in, to give up, to yield	ゆるす	jlpt3vocab
+qS!EwmPAsR	件	affair, case, matter, item	ケン	jlpt3kanji
+"v]e#vje4zD"	禁止	prohibition, inhibition, ban	きんし	jlpt3vocab
+GfVF=|*ZUU	禁じる	to prohibit	きんじる	jlpt3vocab
+yt@o{248k1	免許	license, permit, certificate	めんきょ	jlpt3vocab
+"q-*MSW#e?("	許可	permission, approval, authorization, license, to permit, to authorize	きょか	jlpt3vocab
+P0V{sLV3Y9	事件	event, affair, incident, case, plot, trouble, scandal	じけん	jlpt3vocab
+dyzVD=v%Fp	条件	condition, term, requirement	じょうけん	jlpt3vocab
+ybv&0w~O%Q	用件	business, thing to be done, sth. that should be performed, information that should be conveyed	ようけん	jlpt3vocab
+Lsr:+PRdVG	禁酒	prohibition, temperance, abstinence	きんしゅ	jlpt3vocab
+e^4A$9Z/+h	許容	permission, pardon	きょよう	jlpt3vocab
+bWGa>+]V^I	物件	article, thing, object, property (real estate)	ぶっけん	jlpt3vocab
+eAW^O)Uu`v	件数	number of events (e.g. accidents, crimes, meetings, etc.)	けんすう	jlpt3vocab
+iTxwKn6<=$	犯	crime, sin, offense	おかす　ハン	jlpt3kanji
+uAi-=L05iS	犯す	to commit (crime, etc.), to perpetrate, to make (a mistake, etc.), to break (rules, etc.), violate, to transgress, contravene, to rape, ravish, deflower	おかす	jlpt3vocab
+O[@4K%jzm-	罪	guilt, sin, crime, fault, blame, offense	つみ　ザイ	jlpt3kanji
+p=1:`iuL`2	容	contain, form, looks	ヨウ	jlpt3kanji
+FOw1D*JCuY	疑	doubt, distrust, be suspicious, question	うたがう　ギ	jlpt3kanji
+bM*iJEu:kp	疑う	to doubt, to distrust, to be suspicious of, to suspect	うたがう	jlpt3vocab
+IZ(6(nT2,5	犯人	offender, criminal	はんにん	jlpt3vocab
+zxvzt,ua8)	防犯	prevention of crime	ぼうはん	jlpt3vocab
+"yNgsrmQ#Ix"	犯罪	crime, offense	はんざい	jlpt3vocab
+f`YZ0H@euy	内容	subject, contents, matter, substance, detail, import	ないよう	jlpt3vocab
+fMct:>kOp(	美容院	beauty parlor, beauty salon, hairdressing salon	びよういん	jlpt3vocab
+h_|f*QA8Yu	容量	capacity, volume	ようりょう	jlpt3vocab
+MrW^,}G|%C	疑問	question, problem, doubt, guess	ぎもん	jlpt3vocab
+JA&J:_jK&1	容疑者	suspect (person)	ようぎしゃ	jlpt3vocab
+DF7DgkyEq+	罪悪感	feelings of guilt	ざいあくかん	jlpt3vocab
+bR{D<)rsiY	収容	accommodation, reception, housing, seating, custody (e.g. awaiting deportation), internment, admission, hispitalization, entering (e.g. in dictionary)	しゅうよう	jlpt3vocab
+n~,;ha62No	容易に	easy, simple	よういに	jlpt3vocab
+e[S/y?Vdox	質疑	question, interpellation	しつぎ	jlpt3vocab
+m4H.hqEtQa	半信半疑	half in doubt, half-convinced, dubious, incredulous	はんしんはんぎ	jlpt3vocab
+KU]($u<,DJ	争	contend, dispute, argue	あらそう　ソウ	jlpt3kanji
+Gxz~*E;J;:	争う	to compete, to contest, to contend, to quarrel, to argue, to dispute, to be at variance, to oppose, (usu. in neg. form) to deny (e.g. evidence)	あらそう	jlpt3vocab
+L,wj,o9[ox	敗れる	to be defeated, to be beaten, to be unsuccessful, to lose	やぶれる	jlpt3vocab
+x60xHo](ml	敗	failure, defeat, reversal	やぶれる　ハイ	jlpt3kanji
+NPg<dxfLu~	兵	soldier, private, troops, army, warfare, strategy, tactics	ヘイ　ヒョウ	jlpt3kanji
+MJ9SsFiJY4	軍	army, force, troops, war, battle	グン	jlpt3kanji
+"ju8JmASp?#"	戦争	war	せんそう	jlpt3vocab
+KAnN-4h/CP	勝敗	victory or defeat, issue (of battle), outcome	しょうはい	jlpt3vocab
+oX^3Q=lf8-	大敗	crushing defeat	たいはい	jlpt3vocab
+LbVL1y}-Wp	失敗	failure, mistake, blunder	しっぱい	jlpt3vocab
+nAu{/CGuuJ	不敗	invincibility; Unbesiegtheit, Ungeschlagenheit	ふはい	jlpt3vocab
+sN|oP3pR&/	兵器	arms, weapons, ordnance	へいき	jlpt3vocab
+wVhfW1w]:h	争い	dispute, strife, quarrel, dissension, conflict, rivalry, contest	あらそい	jlpt3vocab
+lLfEF?T,2H	敗退	being defeated, being eliminated (from competition)	はいたい	jlpt3vocab
+"iM$I|)c#wJ"	一軍	one army, whole army, (sports) first string players	いちぐん	jlpt3vocab
+toa;8bj5b{	兵糧	(army) provisions, food	ひょうろう	jlpt3vocab
+uPsaBT-7w[	役	duty, war, campaign, drafted labor, office, service, role	ヤク　エキ	jlpt3kanji
+KCt?vKbcSh	臣	retainer, subject	シン　ジン	jlpt3kanji
+Pi!x&wOuRo	役所	government office, public office	やくしょ	jlpt3vocab
+hE?N?s!W4W	役割	part, assigning (allotment of) parts, role, duties	やくわり	jlpt3vocab
+A1N_=kUpOI	配役	cast (of a play)	はいやく	jlpt3vocab
+KG+QQtPzvb	兵役	military service, conscription	へいえき	jlpt3vocab
+O_7ZETA6~r	大臣	cabinet minister	だいじん	jlpt3vocab
+IyCGD_>D{i	役員	officer, official, executive, staff	やくいん	jlpt3vocab
+m;K`W4mm=N	大役	important task, important role, great duty, important mission, major part (e.g. in a movie)	たいやく	jlpt3vocab
+QSDqY!,&2r	使役形	causative form; Kausativform	しえきけい	jlpt3vocab
+A./3~idT1F	臣下	retainer; Untertan, Vasall	しんか	jlpt3vocab

@@ -1,0 +1,834 @@
+[
+  {
+    "kanji": "一",
+    "meaning": "One",
+    "on": "イチ、イツ",
+    "kun": "ひと、ひとつ",
+    "onRomaji": "ichi, itsu",
+    "kunRomaji": "hito, hitotsu"
+  },
+  {
+    "kanji": "二",
+    "meaning": "Two",
+    "on": "ニ",
+    "kun": "ふた、ふたつ",
+    "onRomaji": "ni",
+    "kunRomaji": "futa, futatsu"
+  },
+  {
+    "kanji": "三",
+    "meaning": "Three",
+    "on": "サン",
+    "kun": "み、みつ",
+    "onRomaji": "san",
+    "kunRomaji": "mi, mitsu"
+  },
+  {
+    "kanji": "四",
+    "meaning": "Four",
+    "on": "シ",
+    "kun": "よ、よつ、よん",
+    "onRomaji": "shi",
+    "kunRomaji": "yo, yotsu, yon"
+  },
+  {
+    "kanji": "五",
+    "meaning": "Five",
+    "on": "ゴ",
+    "kun": "いつ、いつつ",
+    "onRomaji": "go",
+    "kunRomaji": "itsu, itsutsu"
+  },
+  {
+    "kanji": "六",
+    "meaning": "Six",
+    "on": "ロク",
+    "kun": "む、むつ、むい",
+    "onRomaji": "roku",
+    "kunRomaji": "mu, mutsu, mui"
+  },
+  {
+    "kanji": "七",
+    "meaning": "Seven",
+    "on": "シチ",
+    "kun": "なな、ななつ、なの",
+    "onRomaji": "shichi",
+    "kunRomaji": "nana, nanatsu, nano"
+  },
+  {
+    "kanji": "八",
+    "meaning": "Eight",
+    "on": "ハチ",
+    "kun": "や、やつ、よう",
+    "onRomaji": "hachi",
+    "kunRomaji": "ya, yatsu, you"
+  },
+  {
+    "kanji": "九",
+    "meaning": "Nine",
+    "on": "ク、キュウ",
+    "kun": "ここの、ここのつ",
+    "onRomaji": "ku, kyuu",
+    "kunRomaji": "kokono, kokonotsu"
+  },
+  {
+    "kanji": "十",
+    "meaning": "Ten",
+    "on": "ジュウ、ジッ",
+    "kun": "とお、と",
+    "onRomaji": "juu, ji",
+    "kunRomaji": "too, to"
+  },
+  {
+    "kanji": "百",
+    "meaning": "Hundred",
+    "on": "ヒャク",
+    "kun": "—",
+    "onRomaji": "hyaku",
+    "kunRomaji": "—"
+  },
+  {
+    "kanji": "千",
+    "meaning": "Thousand",
+    "on": "セン",
+    "kun": "ち",
+    "onRomaji": "sen",
+    "kunRomaji": "chi"
+  },
+  {
+    "kanji": "万",
+    "meaning": "Ten Thousand",
+    "on": "マン、バン",
+    "kun": "—",
+    "onRomaji": "man, ban",
+    "kunRomaji": "—"
+  },
+  {
+    "kanji": "円",
+    "meaning": "Yen / Circle",
+    "on": "エン",
+    "kun": "まるい",
+    "onRomaji": "en",
+    "kunRomaji": "marui"
+  },
+  {
+    "kanji": "年",
+    "meaning": "Year",
+    "on": "ネン",
+    "kun": "とし",
+    "onRomaji": "nen",
+    "kunRomaji": "toshi"
+  },
+  {
+    "kanji": "月",
+    "meaning": "Month / Moon",
+    "on": "ゲツ、ガツ",
+    "kun": "つき",
+    "onRomaji": "getsu, gatsu",
+    "kunRomaji": "tsuki"
+  },
+  {
+    "kanji": "日",
+    "meaning": "Day / Sun",
+    "on": "ニチ、ジツ",
+    "kun": "ひ、か",
+    "onRomaji": "nichi, jitsu",
+    "kunRomaji": "hi, ka"
+  },
+  {
+    "kanji": "時",
+    "meaning": "Time / Hour",
+    "on": "ジ",
+    "kun": "とき",
+    "onRomaji": "ji",
+    "kunRomaji": "toki"
+  },
+  {
+    "kanji": "分",
+    "meaning": "Minute / Part",
+    "on": "フン、ブン",
+    "kun": "わかる、わける",
+    "onRomaji": "fun, bun",
+    "kunRomaji": "wakaru, wakeru"
+  },
+  {
+    "kanji": "半",
+    "meaning": "Half",
+    "on": "ハン",
+    "kun": "なかば",
+    "onRomaji": "han",
+    "kunRomaji": "nakaba"
+  },
+  {
+    "kanji": "今",
+    "meaning": "Now",
+    "on": "コン、キン",
+    "kun": "いま",
+    "onRomaji": "kon, kin",
+    "kunRomaji": "ima"
+  },
+  {
+    "kanji": "何",
+    "meaning": "What",
+    "on": "カ",
+    "kun": "なに、なん",
+    "onRomaji": "ka",
+    "kunRomaji": "nani, nan"
+  },
+  {
+    "kanji": "人",
+    "meaning": "Person",
+    "on": "ジン、ニン",
+    "kun": "ひと",
+    "onRomaji": "jin, nin",
+    "kunRomaji": "hito"
+  },
+  {
+    "kanji": "男",
+    "meaning": "Man / Male",
+    "on": "ダン、ナン",
+    "kun": "おとこ",
+    "onRomaji": "dan, nan",
+    "kunRomaji": "otoko"
+  },
+  {
+    "kanji": "女",
+    "meaning": "Woman / Female",
+    "on": "ジョ、ニョ",
+    "kun": "おんな、め",
+    "onRomaji": "jo, nyo",
+    "kunRomaji": "onna, me"
+  },
+  {
+    "kanji": "子",
+    "meaning": "Child",
+    "on": "シ、ス",
+    "kun": "こ",
+    "onRomaji": "shi, su",
+    "kunRomaji": "ko"
+  },
+  {
+    "kanji": "父",
+    "meaning": "Father",
+    "on": "フ",
+    "kun": "ちち",
+    "onRomaji": "fu",
+    "kunRomaji": "chichi"
+  },
+  {
+    "kanji": "母",
+    "meaning": "Mother",
+    "on": "ボ",
+    "kun": "はは",
+    "onRomaji": "bo",
+    "kunRomaji": "haha"
+  },
+  {
+    "kanji": "友",
+    "meaning": "Friend",
+    "on": "ユウ",
+    "kun": "とも",
+    "onRomaji": "yuu",
+    "kunRomaji": "tomo"
+  },
+  {
+    "kanji": "先",
+    "meaning": "Before / Previous",
+    "on": "セン",
+    "kun": "さき",
+    "onRomaji": "sen",
+    "kunRomaji": "saki"
+  },
+  {
+    "kanji": "生",
+    "meaning": "Life / Birth",
+    "on": "セイ、ショウ",
+    "kun": "いきる、うまれる",
+    "onRomaji": "sei, shou",
+    "kunRomaji": "ikiru, umareru"
+  },
+  {
+    "kanji": "学",
+    "meaning": "Study / Learn",
+    "on": "ガク",
+    "kun": "まなぶ",
+    "onRomaji": "gaku",
+    "kunRomaji": "manabu"
+  },
+  {
+    "kanji": "校",
+    "meaning": "School",
+    "on": "コウ",
+    "kun": "—",
+    "onRomaji": "kou",
+    "kunRomaji": "—"
+  },
+  {
+    "kanji": "大",
+    "meaning": "Big / Large",
+    "on": "ダイ、タイ",
+    "kun": "おおきい",
+    "onRomaji": "dai, tai",
+    "kunRomaji": "ookii"
+  },
+  {
+    "kanji": "小",
+    "meaning": "Small / Little",
+    "on": "ショウ",
+    "kun": "ちいさい",
+    "onRomaji": "shou",
+    "kunRomaji": "chiisai"
+  },
+  {
+    "kanji": "中",
+    "meaning": "Middle / Inside",
+    "on": "チュウ",
+    "kun": "なか",
+    "onRomaji": "chuu",
+    "kunRomaji": "naka"
+  },
+  {
+    "kanji": "上",
+    "meaning": "Up / Above",
+    "on": "ジョウ",
+    "kun": "うえ、あげる",
+    "onRomaji": "jou",
+    "kunRomaji": "ue, ageru"
+  },
+  {
+    "kanji": "下",
+    "meaning": "Down / Below",
+    "on": "カ、ゲ",
+    "kun": "した、さげる",
+    "onRomaji": "ka, ge",
+    "kunRomaji": "shita, sageru"
+  },
+  {
+    "kanji": "左",
+    "meaning": "Left",
+    "on": "サ",
+    "kun": "ひだり",
+    "onRomaji": "sa",
+    "kunRomaji": "hidari"
+  },
+  {
+    "kanji": "右",
+    "meaning": "Right",
+    "on": "ウ、ユウ",
+    "kun": "みぎ",
+    "onRomaji": "u, yuu",
+    "kunRomaji": "migi"
+  },
+  {
+    "kanji": "前",
+    "meaning": "Front / Before",
+    "on": "ゼン",
+    "kun": "まえ",
+    "onRomaji": "zen",
+    "kunRomaji": "mae"
+  },
+  {
+    "kanji": "後",
+    "meaning": "Back / After",
+    "on": "ゴ、コウ",
+    "kun": "うしろ、のち",
+    "onRomaji": "go, kou",
+    "kunRomaji": "ushiro, nochi"
+  },
+  {
+    "kanji": "東",
+    "meaning": "East",
+    "on": "トウ",
+    "kun": "ひがし",
+    "onRomaji": "tou",
+    "kunRomaji": "higashi"
+  },
+  {
+    "kanji": "西",
+    "meaning": "West",
+    "on": "セイ、サイ",
+    "kun": "にし",
+    "onRomaji": "sei, sai",
+    "kunRomaji": "nishi"
+  },
+  {
+    "kanji": "南",
+    "meaning": "South",
+    "on": "ナン、ナ",
+    "kun": "みなみ",
+    "onRomaji": "nan, na",
+    "kunRomaji": "minami"
+  },
+  {
+    "kanji": "北",
+    "meaning": "North",
+    "on": "ホク",
+    "kun": "きた",
+    "onRomaji": "hoku",
+    "kunRomaji": "kita"
+  },
+  {
+    "kanji": "外",
+    "meaning": "Outside",
+    "on": "ガイ、ゲ",
+    "kun": "そと、ほか",
+    "onRomaji": "gai, ge",
+    "kunRomaji": "soto, hoka"
+  },
+  {
+    "kanji": "国",
+    "meaning": "Country",
+    "on": "コク",
+    "kun": "くに",
+    "onRomaji": "koku",
+    "kunRomaji": "kuni"
+  },
+  {
+    "kanji": "山",
+    "meaning": "Mountain",
+    "on": "サン",
+    "kun": "やま",
+    "onRomaji": "san",
+    "kunRomaji": "yama"
+  },
+  {
+    "kanji": "川",
+    "meaning": "River",
+    "on": "セン",
+    "kun": "かわ",
+    "onRomaji": "sen",
+    "kunRomaji": "kawa"
+  },
+  {
+    "kanji": "空",
+    "meaning": "Sky / Empty",
+    "on": "クウ",
+    "kun": "そら、あく",
+    "onRomaji": "kuu",
+    "kunRomaji": "sora, aku"
+  },
+  {
+    "kanji": "海",
+    "meaning": "Sea / Ocean",
+    "on": "カイ",
+    "kun": "うみ",
+    "onRomaji": "kai",
+    "kunRomaji": "umi"
+  },
+  {
+    "kanji": "雨",
+    "meaning": "Rain",
+    "on": "ウ",
+    "kun": "あめ、あま",
+    "onRomaji": "u",
+    "kunRomaji": "ame, ama"
+  },
+  {
+    "kanji": "木",
+    "meaning": "Tree / Wood",
+    "on": "モク、ボク",
+    "kun": "き、こ",
+    "onRomaji": "moku, boku",
+    "kunRomaji": "ki, ko"
+  },
+  {
+    "kanji": "花",
+    "meaning": "Flower",
+    "on": "カ",
+    "kun": "はな",
+    "onRomaji": "ka",
+    "kunRomaji": "hana"
+  },
+  {
+    "kanji": "水",
+    "meaning": "Water",
+    "on": "スイ",
+    "kun": "みず",
+    "onRomaji": "sui",
+    "kunRomaji": "mizu"
+  },
+  {
+    "kanji": "火",
+    "meaning": "Fire",
+    "on": "カ",
+    "kun": "ひ、ほ",
+    "onRomaji": "ka",
+    "kunRomaji": "hi, ho"
+  },
+  {
+    "kanji": "金",
+    "meaning": "Gold / Money",
+    "on": "キン、コン",
+    "kun": "かね、かな",
+    "onRomaji": "kin, kon",
+    "kunRomaji": "kane, kana"
+  },
+  {
+    "kanji": "土",
+    "meaning": "Earth / Soil",
+    "on": "ド、ト",
+    "kun": "つち",
+    "onRomaji": "do, to",
+    "kunRomaji": "tsuchi"
+  },
+  {
+    "kanji": "白",
+    "meaning": "White",
+    "on": "ハク、ビャク",
+    "kun": "しろ、しろい",
+    "onRomaji": "haku, byaku",
+    "kunRomaji": "shiro, shiroi"
+  },
+  {
+    "kanji": "赤",
+    "meaning": "Red",
+    "on": "セキ、シャク",
+    "kun": "あか、あかい",
+    "onRomaji": "seki, shaku",
+    "kunRomaji": "aka, akai"
+  },
+  {
+    "kanji": "青",
+    "meaning": "Blue / Green",
+    "on": "セイ、ショウ",
+    "kun": "あお、あおい",
+    "onRomaji": "sei, shou",
+    "kunRomaji": "ao, aoi"
+  },
+  {
+    "kanji": "食",
+    "meaning": "Eat / Food",
+    "on": "ショク、ジキ",
+    "kun": "たべる、くう",
+    "onRomaji": "shoku, jiki",
+    "kunRomaji": "taberu, kuu"
+  },
+  {
+    "kanji": "飲",
+    "meaning": "Drink",
+    "on": "イン",
+    "kun": "のむ",
+    "onRomaji": "in",
+    "kunRomaji": "nomu"
+  },
+  {
+    "kanji": "見",
+    "meaning": "See / Look",
+    "on": "ケン",
+    "kun": "みる、みせる",
+    "onRomaji": "ken",
+    "kunRomaji": "miru, miseru"
+  },
+  {
+    "kanji": "聞",
+    "meaning": "Listen / Hear",
+    "on": "ブン、モン",
+    "kun": "きく、きこえる",
+    "onRomaji": "bun, mon",
+    "kunRomaji": "kiku, kikoeru"
+  },
+  {
+    "kanji": "言",
+    "meaning": "Say / Word",
+    "on": "ゲン、ゴン",
+    "kun": "いう、こと",
+    "onRomaji": "gen, gon",
+    "kunRomaji": "iu, koto"
+  },
+  {
+    "kanji": "読",
+    "meaning": "Read",
+    "on": "ドク、トク",
+    "kun": "よむ",
+    "onRomaji": "doku, toku",
+    "kunRomaji": "yomu"
+  },
+  {
+    "kanji": "書",
+    "meaning": "Write",
+    "on": "ショ",
+    "kun": "かく",
+    "onRomaji": "sho",
+    "kunRomaji": "kaku"
+  },
+  {
+    "kanji": "話",
+    "meaning": "Talk / Story",
+    "on": "ワ",
+    "kun": "はなす、はなし",
+    "onRomaji": "wa",
+    "kunRomaji": "hanasu, hanashi"
+  },
+  {
+    "kanji": "来",
+    "meaning": "Come",
+    "on": "ライ",
+    "kun": "くる、きたる",
+    "onRomaji": "rai",
+    "kunRomaji": "kuru, kitaru"
+  },
+  {
+    "kanji": "行",
+    "meaning": "Go",
+    "on": "コウ、ギョウ",
+    "kun": "いく、ゆく",
+    "onRomaji": "kou, gyou",
+    "kunRomaji": "iku, yuku"
+  },
+  {
+    "kanji": "帰",
+    "meaning": "Return Home",
+    "on": "キ",
+    "kun": "かえる、かえす",
+    "onRomaji": "ki",
+    "kunRomaji": "kaeru, kaesu"
+  },
+  {
+    "kanji": "出",
+    "meaning": "Exit / Out",
+    "on": "シュツ、スイ",
+    "kun": "でる、だす",
+    "onRomaji": "shutsu, sui",
+    "kunRomaji": "deru, dasu"
+  },
+  {
+    "kanji": "入",
+    "meaning": "Enter / In",
+    "on": "ニュウ、ジュ",
+    "kun": "いる、はいる",
+    "onRomaji": "nyuu, ju",
+    "kunRomaji": "iru, hairu"
+  },
+  {
+    "kanji": "休",
+    "meaning": "Rest",
+    "on": "キュウ",
+    "kun": "やすむ",
+    "onRomaji": "kyuu",
+    "kunRomaji": "yasumu"
+  },
+  {
+    "kanji": "起",
+    "meaning": "Wake up / Rise",
+    "on": "キ",
+    "kun": "おきる、おこす",
+    "onRomaji": "ki",
+    "kunRomaji": "okiru, okosu"
+  },
+  {
+    "kanji": "寝",
+    "meaning": "Sleep",
+    "on": "シン",
+    "kun": "ねる",
+    "onRomaji": "shin",
+    "kunRomaji": "neru"
+  },
+  {
+    "kanji": "買",
+    "meaning": "Buy",
+    "on": "バイ",
+    "kun": "かう",
+    "onRomaji": "bai",
+    "kunRomaji": "kau"
+  },
+  {
+    "kanji": "売",
+    "meaning": "Sell",
+    "on": "バイ",
+    "kun": "うる、うれる",
+    "onRomaji": "bai",
+    "kunRomaji": "uru, ureru"
+  },
+  {
+    "kanji": "高",
+    "meaning": "High / Expensive",
+    "on": "コウ",
+    "kun": "たかい",
+    "onRomaji": "kou",
+    "kunRomaji": "takai"
+  },
+  {
+    "kanji": "安",
+    "meaning": "Cheap / Safe",
+    "on": "アン",
+    "kun": "やすい",
+    "onRomaji": "an",
+    "kunRomaji": "yasui"
+  },
+  {
+    "kanji": "新",
+    "meaning": "New",
+    "on": "シン",
+    "kun": "あたらしい",
+    "onRomaji": "shin",
+    "kunRomaji": "atarashii"
+  },
+  {
+    "kanji": "古",
+    "meaning": "Old",
+    "on": "コ",
+    "kun": "ふるい",
+    "onRomaji": "ko",
+    "kunRomaji": "furui"
+  },
+  {
+    "kanji": "長",
+    "meaning": "Long / Chief",
+    "on": "チョウ",
+    "kun": "ながい",
+    "onRomaji": "chou",
+    "kunRomaji": "nagai"
+  },
+  {
+    "kanji": "短",
+    "meaning": "Short",
+    "on": "タン",
+    "kun": "みじかい",
+    "onRomaji": "tan",
+    "kunRomaji": "mijikai"
+  },
+  {
+    "kanji": "多",
+    "meaning": "Many / Much",
+    "on": "タ",
+    "kun": "おおい",
+    "onRomaji": "ta",
+    "kunRomaji": "ooi"
+  },
+  {
+    "kanji": "少",
+    "meaning": "Few / Little",
+    "on": "ショウ",
+    "kun": "すくない、すこし",
+    "onRomaji": "shou",
+    "kunRomaji": "sukunai, sukoshi"
+  },
+  {
+    "kanji": "好",
+    "meaning": "Like / Good",
+    "on": "コウ",
+    "kun": "すく、このむ",
+    "onRomaji": "kou",
+    "kunRomaji": "suku, konomu"
+  },
+  {
+    "kanji": "天",
+    "meaning": "Heaven / Sky",
+    "on": "テン",
+    "kun": "あめ、あま",
+    "onRomaji": "ten",
+    "kunRomaji": "ame, ama"
+  },
+  {
+    "kanji": "気",
+    "meaning": "Spirit / Energy",
+    "on": "キ、ケ",
+    "kun": "—",
+    "onRomaji": "ki, ke",
+    "kunRomaji": "—"
+  },
+  {
+    "kanji": "電",
+    "meaning": "Electricity",
+    "on": "デン",
+    "kun": "—",
+    "onRomaji": "den",
+    "kunRomaji": "—"
+  },
+  {
+    "kanji": "車",
+    "meaning": "Car / Vehicle",
+    "on": "シャ",
+    "kun": "くるま",
+    "onRomaji": "sha",
+    "kunRomaji": "kuruma"
+  },
+  {
+    "kanji": "駅",
+    "meaning": "Station",
+    "on": "エキ",
+    "kun": "—",
+    "onRomaji": "eki",
+    "kunRomaji": "—"
+  },
+  {
+    "kanji": "道",
+    "meaning": "Road / Way",
+    "on": "ドウ、トウ",
+    "kun": "みち",
+    "onRomaji": "dou, tou",
+    "kunRomaji": "michi"
+  },
+  {
+    "kanji": "毎",
+    "meaning": "Every",
+    "on": "マイ",
+    "kun": "—",
+    "onRomaji": "mai",
+    "kunRomaji": "—"
+  },
+  {
+    "kanji": "週",
+    "meaning": "Week",
+    "on": "シュウ",
+    "kun": "—",
+    "onRomaji": "shuu",
+    "kunRomaji": "—"
+  },
+  {
+    "kanji": "間",
+    "meaning": "Between / Interval",
+    "on": "カン、ケン",
+    "kun": "あいだ、ま",
+    "onRomaji": "kan, ken",
+    "kunRomaji": "aida, ma"
+  },
+  {
+    "kanji": "門",
+    "meaning": "Gate",
+    "on": "モン",
+    "kun": "かど",
+    "onRomaji": "mon",
+    "kunRomaji": "kado"
+  },
+  {
+    "kanji": "口",
+    "meaning": "Mouth / Opening",
+    "on": "コウ、ク",
+    "kun": "くち",
+    "onRomaji": "kou, ku",
+    "kunRomaji": "kuchi"
+  },
+  {
+    "kanji": "目",
+    "meaning": "Eye",
+    "on": "モク、ボク",
+    "kun": "め、ま",
+    "onRomaji": "moku, boku",
+    "kunRomaji": "me, ma"
+  },
+  {
+    "kanji": "耳",
+    "meaning": "Ear",
+    "on": "ジ",
+    "kun": "みみ",
+    "onRomaji": "ji",
+    "kunRomaji": "mimi"
+  },
+  {
+    "kanji": "手",
+    "meaning": "Hand",
+    "on": "シュ",
+    "kun": "て、た",
+    "onRomaji": "shu",
+    "kunRomaji": "te, ta"
+  },
+  {
+    "kanji": "足",
+    "meaning": "Foot / Leg",
+    "on": "ソク",
+    "kun": "あし、たりる",
+    "onRomaji": "soku",
+    "kunRomaji": "ashi, tariru"
+  }
+]

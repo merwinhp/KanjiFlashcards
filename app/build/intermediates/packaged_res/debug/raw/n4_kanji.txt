@@ -1,0 +1,208 @@
+#separator:tab
+#html:true
+#guid column:1
+#tags column:8
+m~=TdAT-$&	不	フ、ブ		non-; negative; bad	不便 (ふべん) inconvenience		
+HGpwNzn;%^	世	セ、セイ、ソウ	よ	generation; public; society; world	世界 (せかい) world<br>世話 (せわ) looking after		
+bNzu|O$FJc	主	シュ、シュウ、ス	おも、ぬし	chief; lord; main thing; master; principal	ご主人 (ごしゅじん) (hon) your husband		
+r/fU%7}2NP	乗	ショウ、ジョウ	の・せる、の・る	board; ride; counter for vehicles; multiplication; power	乗り換える (のりかえる) to transfer/change (bus, train)<br>乗り物 (のりもの) vehicle<br>乗る (のる) to get on (train, plane, bus, ship, etc.); to ride; to board		
+d%uq1/<LQZ	事	ジ	こと	business; fact; matter; possibly; reason; thing	事務所 (じむしょ) office<br>事故 (じこ) accident; incident; trouble<br>仕事 (しごと) work; job; business<br>返事 (へんじ) reply; response		
+xNqU?l*]|W	京	キョウ	みやこ	capital	京都 (きょうと) Kyoto		
+"cfswakF+$#"	仕	シ、ジ	つか・える	attend; doing; official; serve	仕事 (しごと) work; job; business<br>仕方 (しかた) way; method; means		
+C)D-TSw^pm	代	タイ、ダイ	かわ・る、か・える	change; replace; substitute; convert; counter for decades of ages; fee; generation; period	代わり (かわり) substitute; replacement<br>時代 (じだい) period; era; times		
+ee`h3Og]7o	以	イ		because; by means of; compared with	以上 (いじょう) more than (or equal to); at least<br>以下 (いか) less than (or equal to); below<br>以内 (いない) within; up to; less than<br>以外 (いがい) with the exception of; other than		
+BE]j.pi/vW	会	エ、カイ	あ・う、あ・わせる、あつ・まる	association; interview; join; meet; meeting; party	会う (あう) to meet<br>会場 (かいじょう) assembly hall; venue<br>会社 (かいしゃ) company<br>会議 (かいぎ) meeting; conference		
+bvGSbG,wrM	低	テイ	ひく・い、ひく・まる、ひく・める	humble; lower; short	低い (ひくい) low (rank, volumn, etc.) | short (height); low (position)		
+P8p6PH<D0j	住	ジュウ、チュウ、ヂュウ	す・まう、す・む	live; reside	住む (すむ) to live; to reside; to inhabit<br>住所 (じゅうしょ) address (e.g. of house)		
+izX`qQv[gE	体	タイ、テイ	かたち、からだ	body; object; substance	体 (からだ) body<br>大体 (だいたい) generally; approximately		
+Q$$)beQrP>	作	サ、サク	つく・り、つく・る	build; make; prepare; production	作る (つくる) to make; to produce; to manufacture<br>作文 (さくぶん) writing; composition		
+QKebH5Q*4q	使	シ	つか・い、つか・う	ambassador; use	使う (つかう) to use<br>大使館 (たいしかん) embassy		
+lI!rTY:79=	便	ビン、ベン	たよ・り	convenience; facility; feces; letter	不便 (ふべん) inconvenience<br>便利 (べんり) convenient; handy; useful<br>郵便局 (ゆうびんきょく) post office		
+tG7KJY)TCF	借	シャク	か・りる	borrow; rent	借りる (かりる) to borrow; to have a loan | to rent		
+"AIu?:=8vW#"	働	ドウ	はたら・く	work	働く (はたらく) to work; to labor		
+nId0gzC;;y	元	ガン、ゲン	もと	beginning; origin; former time	元気 (げんき) healthy; well; lively		
+N-QC3,8|O>	兄	キョウ	あに	elder brother	お兄さん (おにいさん) older brother<br>兄 (あに) (hum) older brother<br>兄弟 (きょうだい) siblings; brothers and sisters		
+i^nlzYr|:S	光	コウ	ひか・る	light; ray	光 (ひかり) light; illumination<br>光る (ひかる) to shine; to glitter		
+rXOQ),QE:Y	公	ク、コウ	おおやけ	governmental; public	公務員 (こうむいん) government worker<br>公園 (こうえん) park		
+KfTG7A5Jd_	写	シャ、ジャ	うつ・す、うつ・る	copy	写す (うつす) to copy; to transcribe; to photograph<br>写真 (しゃしん) photograph; photo; picture		
+f~6K$N8eM?	冬	トウ	ふゆ	winter	冬 (ふゆ) winter		
+H-7GeY9T6`	切	サイ、セツ	き・る、き・れる	be sharp; cut	切る (きる) to cut | to turn off (e.g. the light)<br>切手 (きって) stamp (postage)<br>切符 (きっぷ) ticket<br>大切 (たいせつ) important; necessary<br>親切 (しんせつ) kindness; gentleness		
+"qnGj!M^O#X"	別	ベツ	わか・れる、わ・ける	branch off; fork; separate	別 (べつ) different; another; separate<br>別れる (わかれる) to part from; to break up<br>特別 (とくべつ) special		
+Cc>UZ/[d6|	力	リイ、リキ、リョク	ちから	power; strength	力 (ちから) strength; power; skill		
+C%c4QXQyn~	勉	ベン	つと・める	diligent; make effort; strive	勉強 (べんきょう) study		
+GUy,nE5fq&	動	ドウ	うご・かす、うご・く	change; confusion; motion; move; shake; shift	動く (うごく) to move<br>動物 (どうぶつ) animal<br>動物園 (どうぶつえん) zoo<br>自動車 (じどうしゃ) automobile<br>運動 (うんどう) exercise; physical training		
+"IBC(ZK!Nu#"	区	ク、コウ		district; ward	～区 (～く) ～ district<br>渋谷区 (しぶやく) (district of) Shibuya		
+v_[jA9t&24	医	イ	い・する、い・やす	doctor; medicine	医学 (いがく) medical science; medicine<br>医者 (いしゃ) doctor<br>歯医者 (はいしゃ) dentist		
+xXCIX5)Rex	去	キョ、コ	さ・る	eliminate; leave; past; quit	去年 (きょねん) last year		
+Cb2/gK0T^&	口	ク、コウ	くち	mouth	人口 (じんこう) population<br>入口 (いりぐち) entrance; entry<br>出口 (でぐち) exit<br>口 (くち) mouth | opening; hole		
+L.C+[~Pt4=	古	コ	ふる・い	old	古い (ふるい) old (not person); aged; stale		
+}&8T;HNTg	台	タイ、ダイ	つかさ	a stand; counter for machines and vehicles	台所 (だいどころ) kitchen<br>台風 (たいふう) typhoon; hurricane<br>～台 (～だい) counter for large objects (esp. devices such as refrigerators, cars)		
+HEXsQw]&,`	合	カッ、ガッ、ゴウ	あ・う、あ・わせる	fit; join	場合 (ばあい) case; situation<br>試合 (しあい) match; game<br>都合 (つごう) circumstances; condition | arrangement<br>間に合う (まにあう) to be in time for		
+ELVjyn;}`Q	同	ドウ	おな・じ	agree; equal; same	同じ (おなじ) same; identical; equivalent		
+gbtaY3E=DM	味	ミ	あじ、あじ・わう	flavor; taste	味 (あじ) flavor<br>味噌 (みそ) (food) miso<br>意味 (いみ) meaning<br>興味 (きょうみ) interest (in something); curiosity<br>趣味 (しゅみ) hobby		
+Ca~t:+)X|`	品	ヒン	しな	goods; refinement	品物 (しなもの) goods; article<br>食料品 (しょくりょうひん) foodstuff; groceries		
+zF;6V<mVL>	員	イン		employee; member	会社員 (かいしゃいん) company employee<br>公務員 (こうむいん) government worker<br>店員 (てんいん) clerk; salesperson<br>～員 (～いん) member of ～		
+J`g0rEijGn	問	モン	と・う	ask; problem; question	問題 (もんだい) question (e.g. on a test); problem<br>質問 (しつもん) question; inquiry		
+F.GT|&>RIw	回	カイ	まわ・す、まわ・る	～ times; revolve	回る (まわる) to turn; to revolve; to go around<br>～回 (～かい) counter for number of times		
+AUE}9*c|2[	図	ズ、ト	はか・る	map; plan	図書館 (としょかん) library<br>地図 (ちず) map		
+LluCZ=J_(d	地	ジ、チ		earth; ground	地下鉄 (ちかてつ) subway<br>地図 (ちず) map<br>地理 (ちり) geography<br>地震 (じしん) earthquake		
+NCO<SZUmtN	堂	ドウ		hall	講堂 (こうどう) auditorium; lecture hall<br>食堂 (しょくどう) cafeteria		
+l;Q*;/2m/%	場	ジョウ	ば	location; place	会場 (かいじょう) assembly hall; venue<br>場合 (ばあい) case; situation<br>場所 (ばしょ) place; location<br>工場 (こうじょう、こうば) factory; plant; mill; workshop<br>駐車場 (ちゅうしゃじょう) parking lot		
+v~,Gr3al<,	声	ショウ、セイ	こえ	voice	声 (こえ) voice		
+nSw)c<GwnL	売	バイ	う・る、う・れる	sell	売り場 (うりば) place where things are sold (sales counter, corner, etc.)<br>売る (うる) to sell		
+Op~kC?_c)F	夏	カ、ガ	なつ	summer	夏 (なつ) summer<br>夏休み (なつやすみ) summer vacation		
+"bS~Tk#6q%_"	夕		ゆう	evening	夕方 (ゆうがた) evening; dusk<br>夕飯 (ゆうめし、ゆうはん) evening meal		
+vpFMHvnBJW	多	タ	おお・い	frequent; many	多い (おおい) many; a lot | large quantity<br>多分 (たぶん) perhaps; probably		
+Fi%NPaK$Y@	夜	ヤ	よ、よる	evening	今夜 (こんや) this evening; tonight<br>夜 (よる) evening; night<br>昨夜 (ゆうべ) last night		
+d;&cHB;V&l	太	タ、タイ	ふと・い、ふと・る	plump; thick	太い (ふとい) fat; thick | deep (of a voice)<br>太る (ふとる) to become fat		
+baFqu_=LT:	好	コウ	この・む、す・く	fond; pleasing	大好き (だいすき) loveable; like very much<br>好き (すき) like; likable		
+E!`d$%}fSS	妹	マイ	いもうと	younger sister	妹 (いもうと) (hum) younger sister		
+z::(WN:d,H	姉	シ	あね	elder sister	お姉さん (おねえさん) elder sister<br>姉 (あね) (hum) older sister		
+p,o~pb<)NH	始	シ	はじ・まる、はじ・める	begin	始まる (はじまる) to begin; to start<br>始める (はじめる) to start; to begin		
+dISc6K&^q?	字	ジ	あざ	character; letter	字 (じ) character; letter | hand-writing<br>字引き (じびき) dictionary<br>漢字 (かんじ) Chinese characters; kanji		
+EER$`eV4|t	安	アン	やす・い、やす・まる	cheap; peaceful; relaxed	安い (やすい) cheap; inexpensive<br>安全 (あんぜん) safety; security<br>安心 (あんしん) relief; peace of mind		
+Dp{s(sMDyK	室	シツ		chamber; room	会議室 (かいぎしつ) conference room<br>教室 (きょうしつ) classroom<br>研究室 (けんきゅうしつ) laboratory		
+"C#la=$tm%["	家	カ、ケ	いえ、うち、や	family; home; expert; professional	家 (いえ、うち) house; residence; dwelling<br>家内 (かない) (hum) wife | one's family<br>家庭 (かてい) household; family<br>家族 (かぞく) family; members of a family		
+MKsAuRX*nx	寒	カン	さむ・い	cold	寒い (さむい) cold (e.g. weather)		
+gQQqDi]o-a	少	ショウ	すく・ない、すこ・し	few	少し (すこし) small quantity; little; few<br>少ない (すくない) few; a little		
+eba.wZoTLb	屋	オク	や	house; roof; shop	八百屋 (やおや) greengrocer<br>屋上 (おくじょう) rooftop<br>部屋 (へや) room		
+y&,d/6XOXY	工	ク、コウ		construction; craft; katakana e radical (no. 48)	工場 (こうじょう、こうば) factory; plant; mill; workshop<br>工業 (こうぎょう) industry; industrial		
+Q0?TLg:d$|	市	シ	いち	city; market	市 (し) city<br>市民 (しみん) city resident; townspeople		
+KeO2uJ@,<I	帰	キ	かえ・る	come home	帰り (かえり) return; coming back<br>帰る (かえる) to return; to come home		
+"cP$3#BI6(;"	広	コウ	ひろ・い、ひろ・がる、ひろ・げる、ひろ・まる、ひろ・める	wide	広い (ひろい) spacious; wide		
+Jfb06bm.N~	店	テン	みせ	shop; store	喫茶店 (きっさてん) coffee shop; cafe<br>店 (みせ) store; shop<br>店員 (てんいん) clerk; salesperson		
+Kx8N:jesch	度	タク、ド	たび	degrees; occurrence; time	もう一度 (もういちど) once more; again<br>一度 (いちど) once<br>今度 (こんど) next time; another time<br>支度 (したく) preparation; arrangements<br>～度 (～ど) counter for number of times		
+LUE,q89`_{	建	ケン	た・つ、た・てる	build	建てる (たてる) to build; to construct<br>建物 (たてもの) building<br>～階建て (～かいだて) ～-storied building		
+MR{H`J|Y>m	引	イン	ひ・く、ひ・ける	pull	字引き (じびき) dictionary<br>引き出し (ひきだし) drawer<br>引き出す (ひきだす) to pull out; to bring out; to withdraw<br>引く (ひく) to pull<br>引っ越す (ひっこす) to move; to change residence		
+PJi+&Li;hK	弟	ダイ	おとうと	younger brother	兄弟 (きょうだい) siblings; brothers and sisters<br>弟 (おとうと) (hum) younger brother		
+rJMHg[kJC>	弱	ジャク	よわ・い、よわ・まる、よわ・める	frail; weak	弱い (よわい) weak; frail		
+"r_@[;[p#!G"	強	キョウ、ゴウ	つよ・い、つよ・まる、つよ・める	strong	勉強 (べんきょう) study<br>強い (つよい) strong; powerful		
+CMenj+Qvz@	待	タイ	ま・つ	depend on; wait	待つ (まつ) to wait<br>招待 (しょうたい) invitation		
+JFUK*?czPp	心	シン	こころ	heart; mind; spirit	心 (こころ) mind; heart; spirit<br>安心 (あんしん) relief; peace of mind<br>心配 (しんぱい) worry; concern<br>熱心 (ねっしん) zeal; enthusiasm		
+MgBJ{qCSE!	思	シ	おも・う	think	思い出す (おもいだす) to recall; to remember<br>思う (おもう) to think		
+HFNUQuvMIN	急	キュウ	いそ・ぎ、いそ・ぐ	emergency; hurry	急ぐ (いそぐ) to hurry; to rush<br>急行 (きゅうこう) express (train)<br>特急 (とっきゅう) limited express (train, faster than an express)		
+J_*wF$~$JU	悪	アク	わる・い	bad; evil	悪い (わるい) bad; poor; inferior | evil; sinful		
+"k9$jr#,7X#"	意	イ		care; desire; thought	意味 (いみ) meaning<br>意見 (いけん) opinion<br>注意 (ちゅうい) caution; attention; warning<br>用意 (ようい) preparation; arrangements		
+A2RX1y^T/(	所	ショ	ところ、どころ	extent; place	事務所 (じむしょ) office<br>住所 (じゅうしょ) address (e.g. of house)<br>台所 (だいどころ) kitchen<br>場所 (ばしょ) place; location<br>近所 (きんじょ) neighborhood		
+M>;pEndMGN	手	シュ、ズ	て	hand	お手洗い (おてあらい) toilet; restroom<br>上手 (じょうず) skillful; proficient; good (at)<br>手 (て) hand; arm<br>手伝う (てつだう) to help; to assist<br>手紙 (てがみ) letter		
+Oe8SJ0jH1d	持	ジ	も・つ、も・てる	have; hold	持つ (もつ) to hold | to possess; to have<br>気持ち (きもち) feeling; sensation; mood<br>金持ち (かねもち) rich person		
+CtBkIOE=:,	教	キョウ	おし・える、おそ・わる	doctrine; faith; teach	教える (おしえる) to teach; to instruct<br>教会 (きょうかい) church<br>教室 (きょうしつ) classroom<br>教育 (きょういく) education; schooling; training		
+vlm(D%7&wi	文	ブン、モン	あや、ふみ	art; decoration; literature	作文 (さくぶん) writing; composition<br>文化 (ぶんか) culture<br>文学 (ぶんがく) literature<br>文法 (ぶんぽう) grammar<br>文章 (ぶんしょう) writing; composition | sentence		
+cthOC~l[mp	料	リョウ		fee; materials	料理 (りょうり) cooking; cuisine<br>食料品 (しょくりょうひん) foodstuff; groceries		
+EV5@+(Uq(W	新	シン	あたら・しい、あら・た	new	新しい (あたらしい) new<br>新聞 (しんぶん) newspaper<br>新聞社 (しんぶんしゃ) newspaper company		
+xiD9Q}Zekh	方	ホウ	かた	alternative; person	両方 (りょうほう) both; both sides<br>仕方 (しかた) way; method; means<br>夕方 (ゆうがた) evening; dusk<br>方 (かた) (hon) person		
+K4.mM6SUWh	旅	リョ	たび	travel; trip	旅行 (りょこう) trip<br>旅館 (りょかん) Japanese-style lodging		
+ORDY/L!pP7	族	ゾク		family; tribe	家族 (かぞく) family; members of a family		
+hgUy5uQztJ	早	サッ、ソウ	はや・い、はや・まる、はや・める	early; fast	早い (はやい) early; fast; quick		
+iWw2(eZSCe	明	ミョウ、メイ	あか・るい、あき・らか、あ・かり	bright; light	明るい (あかるい) bright; colourful<br>明日 (あした) tomorrow<br>明日 (あした、あす) tomorrow<br>説明 (せつめい) explanation; exposition		
+Q-6TpTgFdo	映	エイ	うつ・す、うつ・る、は・える	projection; reflection	映画 (えいが) movie; film<br>映画館 (えいがかん) movie theatre		
+Q=9_xw,_Q4	春	シュン	はる	springtime	春 (はる) spring		
+L5/f{:fBrD	昼	チュウ	ひる	daytime; noon	昼 (ひる) noon<br>昼休み (ひるやすみ) lunch (noon) break;<br>昼御飯 (ひるごはん) lunch<br>昼間 (ひるま) daytime; during the day		
+BVl|/298/m	暑	ショ	あつ・い	hot; sultry	暑い (あつい) hot (weather, etc.); warm		
+p9E3)twDWz	暗	アン	くら・い、くら・む、くれ・る	darkness; grow dark	暗い (くらい) dark; gloomy		
+"v(xYf3$#F]"	曜	ヨウ		weekday	土曜日 (どようび) Saturday<br>日曜日 (にちようび) Sunday<br>月曜日 (げつようび) Monday		
+"H&,Y#^d?Mc"	有	ユウ	あ・る	exist; happen; possess	有名 (ゆうめい) famous		
+A!H2^,SCu$	服	フク		clothing	服 (ふく) clothes<br>洋服 (ようふく) Western-style clothes		
+C(4|Yy@LV5	朝	チョウ	あさ	morning; dynasty; period	今朝 (けさ) this morning<br>朝 (あさ) morning<br>朝御飯 (あさごはん) breakfast<br>毎朝 (まいあさ) every morning		
+kc=%~%xs52	村	ソン	むら	town; village	村 (むら) village		
+Pje}{GnHW5	林	リン	はやし	forest; grove	林 (はやし) woods; thicket		
+MqN9pkgHKk	森	シン	もり	forest; woods	森 (もり) forest		
+Ltg?JSk+M3	業	ギョウ、ゴウ	わざ	arts; vocation	卒業 (そつぎょう) graduation<br>工業 (こうぎょう) industry; industrial<br>授業 (じゅぎょう) lesson; class work<br>産業 (さんぎょう) industry		
+l]&anGJmOa	楽	ガク、ゴウ、ラク	この・む、たの・しい、たの・しむ	comfort; ease	楽しい (たのしい) enjoyable; fun<br>楽しみ (たのしみ) enjoyment; pleasure<br>楽しむ (たのしむ) to enjoy oneself; to have fun<br>音楽 (おんがく) music		
+cPMPOJUna[	歌	カ	うた、うた・う	sing; song	歌 (うた) song<br>歌う (うたう) to sing | to recite a poem		
+z}ZS&yxP^e	止	シ	とど・まる、とど・める、と・まる、と・める、や・む、や・める	halt; stop	止まる (とまる) to stop<br>止む (やむ) to cease; to stop<br>止める (とめる) to stop; to turn off; to park<br>止める (やめる) to stop (an activity); to quit		
+"fi1_7~#J)P"	正	ショウ、セイ	ただ・しい、まさ・に	correct	正しい (ただしい) right; correct<br>正月 (しょうがつ) New Year (esp. the first few days); January		
+ojWmSF^zZ;	歩	フ、ブ、ホ	あゆ・む、ある・く	counter for steps; walk	散歩 (さんぽ) walk; stroll<br>歩く (あるく) to walk		
+"N#VyFhU+[0"	死	シ	し・ぬ	death	死ぬ (しぬ) to die; to pass away		
+g=7xTHI69J	民	ミン	たみ	nation; people	市民 (しみん) city resident; townspeople		
+IX6-^g2PKD	池	チ	いけ	pond; pool	池 (いけ) pond		
+vk9hG._bxR	注	チュウ	さ・す、そそ・ぐ、つ・ぐ	annotate; comment; concentrate on; flow into	注射 (ちゅうしゃ) injection; shot<br>注意 (ちゅうい) caution; attention; warning		
+etqKBY!m8w	洋	ヨウ		ocean; sea; Western style; foreign	洋服 (ようふく) Western-style clothes<br>西洋 (せいよう) the west; Western countries		
+B*l}NhR;W:	洗	セン	あら・う	inquire into; probe; wash	お手洗い (おてあらい) toilet; restroom<br>洗う (あらう) to wash; to cleanse<br>洗濯 (せんたく) washing; laundry		
+g~-3Va(}XX	海	カイ	うみ	ocean	海 (うみ) sea; ocean<br>海岸 (かいがん) coast; beach		
+"Hh3$#_^+0s"	漢	カン		China; Sino-	漢字 (かんじ) Chinese characters; kanji		
+zP`G76)_r{	牛	ギュウ	うし	cow	牛乳 (ぎゅうにゅう) (cow's) milk<br>牛肉 (ぎゅうにく) beef		
+"JoPB#pI}Fc"	物	ブツ、モツ	もの	matter; object; thing	動物 (どうぶつ) animal<br>動物園 (どうぶつえん) zoo<br>果物 (くだもの) fruit<br>荷物 (にもつ) luggage; package<br>見物 (けんぶつ) sightseeing; watching		
+c5HXw)/8,?	特	トク		special	特に (とくに) particularly; especially<br>特別 (とくべつ) special<br>特急 (とっきゅう) limited express (train, faster than an express)		
+N~Kvxs{3k6	犬	ケン	いぬ	dog	犬 (いぬ) dog		
+"pZ7Vn=Yb#A"	理	リ	ことわり	arrangement; justice; logic; reason	地理 (ちり) geography<br>料理 (りょうり) cooking; cuisine<br>無理 (むり) impossible<br>理由 (りゆう) reason; motive		
+q_EG0A5f(;	産	サン	う・まれる、う・む	childbirth; native; products; property	お土産 (おみやげ) present; souvenir<br>生産 (せいさん) production; manufacture<br>産業 (さんぎょう) industry		
+ham5~9}gs!	用	ヨウ	もち・いる	business; employ; use	利用 (りよう) use; utilization<br>用 (よう) business; task | use; purpose<br>用事 (ようじ) things to do; errand; business (to take care of)<br>用意 (ようい) preparation; arrangements		
+b*$Y76:G6)	田	デン	た	rice field; rice paddy	田舎 (いなか) rural area; countryside		
+BY}2I[bU7-	町	チョウ	まち	block; street; town; village	町 (まち) town		
+"ya=##x,AB."	画	エ、カク、ガ	えが・く、はか・る	brush-stroke; picture	映画 (えいが) movie; film<br>映画館 (えいがかん) movie theatre<br>漫画 (まんが) cartoon; comic<br>計画 (けいかく) plan; schedule		
+Gr.y$XwK,Q	界	カイ		boundary; world	世界 (せかい) world		
+L4&QZ9;He-	病	ビョウ	やまい、や・む	ill; sick	病気 (びょうき) illness; disease<br>病院 (びょういん) hospital		
+y~b<s}b>{{	発	ハツ、ホツ	た・つ、つか・わす、はな・つ	departure; disclose; emit; publish; start from	出発 (しゅっぱつ) departure<br>発音 (はつおん) pronunciation		
+G*_44>pCdo	目	ボク、モク	め	eye; insight; experience; favor	目 (め) eye; eyeball<br>真面目 (まじめ) diligent; serious; honest<br>～目 (～め) number in a sequence		
+Opzmz~m@1~	県	ケン		prefecture	千葉県 (ちばけん) Chiba Prefeture		
+Bv[]2zIipd	真	シン	ま、まこと	Buddhist sect; reality; true	写真 (しゃしん) photograph; photo; picture<br>真中 (まんなか) middle; center<br>真面目 (まじめ) diligent; serious; honest		
+b/Q+BcLl/R	着	ジャク、チャク	き・せる、き・る、つ・く、つ・ける	arrive; don; wear	上着 (うわぎ) coat; tunic; jacket; outer garment<br>下着 (したぎ) underwear<br>着く (つく) to arrive at; to reach<br>着る (きる) to wear; to put on<br>着物 (きもの) kimono (or other trad. Japanese clothing)		
+FyB<IC/nKE	知	チ	し・らせる、し・る	know; wisdom	承知 (しょうち) consent; acceptance<br>知らせる (しらせる) to notify; to inform<br>知る (しる) to know		
+KsP4u@u-m8	短	タン	みじか・い	brevity; short; defect; fault	短い (みじかい) short		
+P=$?iGu;pS	研	ケン	と・ぐ	polish; sharpen	研究 (けんきゅう) study; research<br>研究室 (けんきゅうしつ) laboratory		
+F@MgF44F~W	社	シャ	やしろ	association; company; shrine	会社 (かいしゃ) company<br>社会 (しゃかい) society<br>社長 (しゃちょう) company president<br>神社 (じんじゃ) Shinto shrine		
+oo[2`zp[+c	私	シ	わたくし、わたし	I; me; private	私 (わたし) I; me		
+G2eJ6R<Vc~	秋	シュウ	あき	autumn	秋 (あき) autumn; fall		
+mXs!-.u7m1	究	キュウ、ク	きわ・める	research; study	研究 (けんきゅう) study; research<br>研究室 (けんきゅうしつ) laboratory		
+c4$yLsu6$i	空	クウ	あ・く、あ・ける、から、す・く	empty; vacuum; sky	空 (そら) sky<br>空く (あく) (あく) to be open; to become empty<br>空く (すく) (すく) to become less crowded; to get empty<br>空気 (くうき) air; atmosphere | mood; situation<br>空港 (くうこう) airport		
+txf/U{ucTL	立	リツ、リュウ	た・つ、た・てる	erect; rise; stand up	役に立つ (やくにたつ) to be useful<br>立つ (たつ) to stand; to rise<br>立てる (たてる) to stand up; to erect<br>立派 (りっぱ) splendid; fine		
+m)yWaW7Et@	答	トウ	こた・える	answer; solution	答 (こたえ) answer; reply<br>答える (こたえる) to answer; to reply		
+sA_`hHE6al	紙	シ	かみ	paper	手紙 (てがみ) letter<br>紙 (かみ) paper		
+y~OiB9NdzH	終	シュウ	お・える、お・わる	end; finish	終わり (おわり) the end<br>終わる (おわる) to end; to finish		
+uAYG}y^Lp}	習	シュウ	なら・う	learn	予習 (よしゅう) preparation for a lesson<br>復習 (ふくしゅう) review<br>練習 (れんしゅう) practice<br>習う (ならう) to learn<br>習慣 (しゅうかん) habit; custom		
+J->D[VX^)9	考	コウ	かんが・える	consider	考える (かんがえる) to think; to ponder		
+bK,f~h{PI	者	シャ	もの	person	医者 (いしゃ) doctor<br>歯医者 (はいしゃ) dentist		
+"Iqrn#-p[AW"	肉	ニク		meat	牛肉 (ぎゅうにく) beef<br>肉 (にく) flesh | meat<br>豚肉 (ぶたにく) pork<br>鶏肉 (とりにく) chicken meat		
+eRDqQE.1+7	自	シ、ジ	みずか・ら	oneself	自分 (じぶん) myself; oneself<br>自動車 (じどうしゃ) automobile<br>自由 (じゆう) freedom<br>自転車 (じてんしゃ) bicycle		
+dE38pw;i^*	色	シキ、ショク	いろ	color	景色 (けしき) scenery; scene; landscape<br>色 (いろ) color<br>色々 (いろいろ) various<br>茶色 (ちゃいろ) brown<br>黄色い (きいろい) yellow		
+j.>_G26D1_	花	カ	はな	flower	花 (はな) flower<br>花瓶 (かびん) (flower) vase<br>花見 (はなみ) cherry blossom viewing		
+j4bK9VcdQS	英	エイ		England; English	英語 (えいご) English		
+kt:V$<i6u?	茶	サ、チャ		tea	お茶 (おちゃ) tea (usu. Green)<br>喫茶店 (きっさてん) coffee shop; cafe<br>紅茶 (こうちゃ) black tea<br>茶色 (ちゃいろ) brown		
+vS%dkz$v4a	菜	サイ	な	greens; vegetable	野菜 (やさい) vegetable		
+z846K^+Cr<	薬	ヤク	くすり	chemical; medicine	薬 (くすり) medicine; pharmaceuticals		
+jq8lT;`bhV	親	シン	おや、した・しい、した・しむ	parent; relative; intimacy	両親 (りょうしん) both parents<br>親 (おや) parent(s)<br>親切 (しんせつ) kindness; gentleness		
+dt|@ehNB%o	言	ゲン、ゴン	い・う	say; word	言う (いう) to say; to utter<br>言葉 (ことば) word; phrase		
+d{Y^JdcI>A	計	ケイ	はか・る	measure; plan	時計 (とけい) watch; clock<br>計画 (けいかく) plan; schedule		
+oCdm%CN<@3	試	シ	こころ・みる、ため・す	test; try	試合 (しあい) match; game<br>試験 (しけん) exam; test		
+l81B0FmT)J	説	セツ、ゼイ	と・く	explanation; opinion	小説 (しょうせつ) novel; (short) story<br>説明 (せつめい) explanation; exposition		
+Qi5etfX=lj	買	バイ	か・う	buy	買い物 (かいもの) shopping; purchased goods<br>買う (かう) to buy		
+FfX2lDk/:;	貸	タイ	か・す	lend	貸す (かす) to lend		
+l],rjr<a>S	質	シチ、シツ、チ		matter; quality	質問 (しつもん) question; inquiry		
+fmYI((>;om	赤	シャク、セキ	あか、あか・い、あか・らむ、あか・らめる	red	赤 (あか) red; crimson; scarlet<br>赤い (あかい) red<br>赤ちゃん (あかちゃん) baby<br>赤ん坊 (あかんぼう) baby; infant		
+w?j5=I=WN/	走	ソウ	はし・る	run	走る (はしる) to run		
+pgvWw!Vjf?	起	キ	お・きる、お・こす、お・こる	get up; wake up	起きる (おきる) to get up; to wake up<br>起こす (おこす) to wake up<br>起す (おこす) to wake up		
+o3|*qP/;|2	足	ソク	あし、た・す、た・りる、た・る	leg; foot; be sufficient	足 (あし) foot | leg<br>足す (たす) to add<br>足りる (たりる) to be sufficient; to be enough		
+"K:#bYFsu#:"	転	テン	ころ・がす、ころ・がる、ころ・げる、ころ・ぶ	revolve	自転車 (じてんしゃ) bicycle<br>運転 (うんてん) operation (of a machine, etc.); driving<br>運転手 (うんてんしゅ) driver; chauffeur		
+b@%;?T=5<:	軽	ケイ	かる・い、かろ・やか	light; unimportant	軽い (かるい) light (i.e. not heavy)		
+jH1<%03MwM	近	キン、コン	ちか・い	akin; near	最近 (さいきん) recently<br>近い (ちかい) near; close<br>近く (ちかく) near<br>近所 (きんじょ) neighborhood		
+G:$zGMp8nj	送	ソウ	おく・る	escort; send	放送 (ほうそう) broadcast<br>送る (おくる) to send; to dispatch | to escort		
+t`>f:HqkQ<	通	ツ、ツウ	かよ・う、とお・す、とお・る	avenue; commute; pass through	交通 (こうつう) traffic; transportation; communication<br>普通 (ふつう) usual; ordinary<br>通う (かよう) to go to (school, work, etc.); to commute<br>通り (とおり) street; road<br>通る (とおる) to pass by; to go through		
+sKrIA[uc]w	週	シュウ		week	今週 (こんしゅう) this week<br>来週 (らいしゅう) next week<br>毎週 (まいしゅう) every week<br>～週間 (～しゅうかん) period of weeks		
+Nj2GKgO%xL	進	シン	すす・む、すす・める	advance; proceed	進む (すすむ) to advance; to proceed		
+Pf<71ADf@*	運	ウン	はこ・ぶ	carry; destiny; fate	運ぶ (はこぶ) to carry<br>運動 (うんどう) exercise; physical training<br>運転 (うんてん) operation (of a machine, etc.); driving<br>運転手 (うんてんしゅ) driver; chauffeur		
+s*r(AM:uM.	道	トウ、ドウ	みち	road-way; street; teachings	柔道 (じゅうどう) judo<br>水道 (すいどう) water supply; water works<br>道 (みち) road; street<br>道具 (どうぐ) tool; apparatus; device		
+p0;_{dCi,G	遠	エン、オン	とお・い	far	遠い (とおい) far; distant<br>遠く (とおく) far away; distant<br>遠慮 (えんりょ) holding back (out of politeness)		
+E>Td{M*qfi	都	ツ、ト	みやこ	capital; metropolis	都 (と) metropolis; city<br>都合 (つごう) circumstances; condition | arrangement		
+P;`YI%*l6*	重	ジュウ、チョウ	おも・い、かさ・なる、かさ・ねる	heavy; important; pile up	重い (おもい) heavy; weighty		
+JK2],[z.]A	野	ヤ	の	field; rustic	野菜 (やさい) vegetable		
+fjvguJ-l,h	銀	ギン	しろがね	silver	銀行 (ぎんこう) bank		
+"ge;&k-L4g#"	門	モン	かど	gate	専門 (せんもん) speciality; area of expertise<br>門 (もん) gate		
+H)&?&unZD)	開	カイ	あ・く、あ・ける、ひら・く、ひら・ける	open; unfold	開く (あく) to open (e.g. doors)<br>開く（ひらく） (ひらく) to open<br>開ける (あける) to open (a door, etc.); to unwrap; to unlock		
+B,o_c*Vd;d	院	イン		institution	入院 (にゅういん) hospitalization<br>病院 (びょういん) hospital<br>退院 (たいいん) discharge from hospital		
+KGq@gP<i$A	集	シュウ	あつ・まる、あつ・める	flock; gather	集まる (あつまる) to gather<br>集める (あつめる) to collect; to assemble; to gather		
+"td6G#z{;?0"	青	ショウ、セイ	あお、あお・い	blue; green	青 (あお) blue; green<br>青い (あおい) blue; green		
+Jgt,NYTMS)	音	イン、オン	おと、ね	noise; sound	発音 (はつおん) pronunciation<br>音 (おと) sound; noise<br>音楽 (おんがく) music		
+"r26P|(X+4#"	頭	ズ、ト、トウ	あたま、かしら	head	頭 (あたま) head		
+l~Tn%r,M(U	題	ダイ		subject; topic	問題 (もんだい) question (e.g. on a test); problem<br>宿題 (しゅくだい) homework; assignment		
+n[KbOQ8C.<	顔	ガン	かお	expression; face	顔 (かお) face | look; expression		
+i652FIO*X:	風	フ、フウ	かぜ	air; manner; style; wind	台風 (たいふう) typhoon; hurricane<br>風 (かぜ) wind; breeze<br>風呂 (ふろ) bath; bathhouse<br>風邪 (かぜ) common cold		
+mDN2yD5b3g	飯	ハン	めし	boiled rice; meal	夕飯 (ゆうめし、ゆうはん) evening meal<br>御飯 (ごはん) cooked rice | meal<br>晩御飯 (ばんごはん) dinner		
+q`ii^if/=m	飲	イン	の・む	drink	飲み物 (のみもの) drink; beverage<br>飲む (のむ) to drink; to swallow; to take (medicine)		
+jsy^T=eLnW	館	カン	やかた	(large) building	図書館 (としょかん) library<br>大使館 (たいしかん) embassy<br>旅館 (りょかん) Japanese-style lodging<br>映画館 (えいがかん) movie theatre<br>美術館 (びじゅつかん) art museum		
+pR/<%L-()d	首	シュ	くび	neck	首 (くび) neck		
+dd^$;hW_>5	駅	エキ		station	駅 (えき) station		
+xu@I.xU&_x	験	ケン、ゲン		testing; verification	経験 (けいけん) experience<br>試験 (しけん) exam; test		
+B4vA;8n`&)	魚	ギョ	さかな	fish	魚 (さかな) fish		
+fFwIr,&DFG	鳥	チョウ	とり	bird; chicken	小鳥 (ことり) small bird<br>鳥 (とり) bird		
+Pz`WmM5>kk	黒	コク	くろ、くろ・い	black	黒 (くろ) black<br>黒い (くろい) black		
