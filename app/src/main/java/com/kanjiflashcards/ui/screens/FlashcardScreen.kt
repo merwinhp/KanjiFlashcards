@@ -30,6 +30,7 @@ import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.kanjiflashcards.ReviewMode
+import com.kanjiflashcards.model.ExampleSentence
 import com.kanjiflashcards.model.KanjiCard
 import com.kanjiflashcards.ui.theme.*
 
@@ -59,6 +60,7 @@ fun FlashcardScreen(
     var isRandom by remember { mutableStateOf(false) }
     var selectedKanji by remember { mutableStateOf(setOf<Int>()) }
     var showSelection by remember { mutableStateOf(false) }
+    var showExampleDialog by remember { mutableStateOf(false) }
 
     fun markCurrentReviewed() {
         if (cards.isEmpty() || currentIndex >= cards.size) return
@@ -339,7 +341,8 @@ fun FlashcardScreen(
                                 nextCard()
                             }
                         }
-                    }
+                    },
+                    onExampleClick = { showExampleDialog = true }
                 )
 
                 Spacer(modifier = Modifier.height(16.dp))
@@ -359,6 +362,14 @@ fun FlashcardScreen(
             }
         }
     }
+
+    if (showExampleDialog && cards.isNotEmpty()) {
+        ExampleSentenceDialog(
+            kanji = cards[currentIndex].kanji,
+            examples = cards[currentIndex].examples,
+            onDismiss = { showExampleDialog = false }
+        )
+    }
 }
 
 @Composable
@@ -372,7 +383,8 @@ fun FlashCard(
     notYetLabel: String,
     gotItLabel: String,
     onGotIt: () -> Unit,
-    onNotYet: () -> Unit
+    onNotYet: () -> Unit,
+    onExampleClick: () -> Unit = {}
 ) {
     var dragOffset by remember { mutableFloatStateOf(0f) }
     val colors = LocalKanjiColors.current
@@ -426,7 +438,7 @@ fun FlashCard(
                 label = "card_flip"
             ) { flipped ->
                 if (flipped) {
-                    BackContent(card, isVocabDeck, notYetLabel, gotItLabel, onGotIt, onNotYet)
+                    BackContent(card, isVocabDeck, notYetLabel, gotItLabel, onGotIt, onNotYet, onExampleClick)
                 } else {
                     FrontContent(card, isVocabDeck)
                 }
@@ -510,7 +522,7 @@ private fun FrontContent(card: KanjiCard, isVocabDeck: Boolean) {
 }
 
 @Composable
-private fun BackContent(card: KanjiCard, isVocabDeck: Boolean, notYetLabel: String, gotItLabel: String, onGotIt: () -> Unit, onNotYet: () -> Unit) {
+private fun BackContent(card: KanjiCard, isVocabDeck: Boolean, notYetLabel: String, gotItLabel: String, onGotIt: () -> Unit, onNotYet: () -> Unit, onExampleClick: () -> Unit = {}) {
     val isKana = card.on.isEmpty() && card.kun.isEmpty()
     val colors = LocalKanjiColors.current
 
@@ -697,7 +709,89 @@ private fun BackContent(card: KanjiCard, isVocabDeck: Boolean, notYetLabel: Stri
                 Text(gotItLabel, fontSize = 14.sp, fontWeight = FontWeight.Bold)
             }
         }
+
+        if (card.examples.isNotEmpty()) {
+            TextButton(
+                onClick = onExampleClick,
+                modifier = Modifier
+                    .align(Alignment.TopEnd)
+                    .padding(4.dp),
+                shape = RoundedCornerShape(8.dp),
+                colors = ButtonDefaults.textButtonColors(contentColor = colors.midBlue)
+            ) {
+                Text("\u4F8B", fontSize = 12.sp, fontWeight = FontWeight.Bold)
+                Spacer(modifier = Modifier.width(2.dp))
+                Text("Example", fontSize = 11.sp)
+            }
+        }
     }
+}
+
+@Composable
+private fun ExampleSentenceDialog(
+    kanji: String,
+    examples: List<ExampleSentence>,
+    onDismiss: () -> Unit
+) {
+    val colors = LocalKanjiColors.current
+    AlertDialog(
+        onDismissRequest = onDismiss,
+        title = {
+            Text(
+                text = "$kanji \u2014 Example Sentences",
+                fontWeight = FontWeight.Bold,
+                color = colors.textPrimary
+            )
+        },
+        text = {
+            Column(verticalArrangement = Arrangement.spacedBy(16.dp)) {
+                if (examples.isEmpty()) {
+                    Text(
+                        "No examples available.",
+                        color = colors.textSecondary
+                    )
+                } else {
+                    examples.forEachIndexed { i, sentence ->
+                        Column {
+                            Text(
+                                text = "${i + 1}. ${sentence.japanese}",
+                                fontSize = 16.sp,
+                                fontWeight = FontWeight.SemiBold,
+                                color = colors.textPrimary,
+                                lineHeight = 22.sp
+                            )
+                            Spacer(modifier = Modifier.height(2.dp))
+                            Text(
+                                text = sentence.romaji,
+                                fontSize = 13.sp,
+                                color = colors.textSecondary,
+                                lineHeight = 18.sp
+                            )
+                            Spacer(modifier = Modifier.height(1.dp))
+                            Text(
+                                text = sentence.meaning,
+                                fontSize = 13.sp,
+                                color = colors.midBlue,
+                                lineHeight = 18.sp
+                            )
+                            if (i < examples.size - 1) {
+                                Spacer(modifier = Modifier.height(8.dp))
+                                HorizontalDivider(color = colors.surfaceVariant)
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        confirmButton = {
+            TextButton(onClick = onDismiss) {
+                Text("Close", color = colors.midBlue, fontWeight = FontWeight.Bold)
+            }
+        },
+        containerColor = colors.cardBg,
+        titleContentColor = colors.textPrimary,
+        textContentColor = colors.textSecondary
+    )
 }
 
 @OptIn(ExperimentalMaterial3Api::class)

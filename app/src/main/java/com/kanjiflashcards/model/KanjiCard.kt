@@ -6,5 +6,6 @@ data class KanjiCard(
     val on: String = "",
     val kun: String = "",
     val onRomaji: String = "",
-    val kunRomaji: String = ""
+    val kunRomaji: String = "",
+    val examples: List<ExampleSentence> = emptyList()
 )

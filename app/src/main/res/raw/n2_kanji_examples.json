@@ -1,0 +1,4418 @@
+[
+  [
+    {
+      "japanese": "並という漢字の読み方を練習しています。",
+      "romaji": "並 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 並."
+    },
+    {
+      "japanese": "この文章には並が使われています。",
+      "romaji": "kono bunshou ni wa 並 ga tsukawarete imasu.",
+      "meaning": "The kanji 並 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "丸という漢字の読み方を練習しています。",
+      "romaji": "丸 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 丸."
+    },
+    {
+      "japanese": "この文章には丸が使われています。",
+      "romaji": "kono bunshou ni wa 丸 ga tsukawarete imasu.",
+      "meaning": "The kanji 丸 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "久という漢字の読み方を練習しています。",
+      "romaji": "久 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 久."
+    },
+    {
+      "japanese": "この文章には久が使われています。",
+      "romaji": "kono bunshou ni wa 久 ga tsukawarete imasu.",
+      "meaning": "The kanji 久 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "乱という漢字の読み方を練習しています。",
+      "romaji": "乱 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 乱."
+    },
+    {
+      "japanese": "この文章には乱が使われています。",
+      "romaji": "kono bunshou ni wa 乱 ga tsukawarete imasu.",
+      "meaning": "The kanji 乱 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "乳という漢字の読み方を練習しています。",
+      "romaji": "乳 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 乳."
+    },
+    {
+      "japanese": "この文章には乳が使われています。",
+      "romaji": "kono bunshou ni wa 乳 ga tsukawarete imasu.",
+      "meaning": "The kanji 乳 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "乾という漢字の読み方を練習しています。",
+      "romaji": "乾 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 乾."
+    },
+    {
+      "japanese": "この文章には乾が使われています。",
+      "romaji": "kono bunshou ni wa 乾 ga tsukawarete imasu.",
+      "meaning": "The kanji 乾 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "了という漢字の読み方を練習しています。",
+      "romaji": "了 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 了."
+    },
+    {
+      "japanese": "この文章には了が使われています。",
+      "romaji": "kono bunshou ni wa 了 ga tsukawarete imasu.",
+      "meaning": "The kanji 了 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "介という漢字の読み方を練習しています。",
+      "romaji": "介 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 介."
+    },
+    {
+      "japanese": "この文章には介が使われています。",
+      "romaji": "kono bunshou ni wa 介 ga tsukawarete imasu.",
+      "meaning": "The kanji 介 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "仏という漢字の読み方を練習しています。",
+      "romaji": "仏 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 仏."
+    },
+    {
+      "japanese": "この文章には仏が使われています。",
+      "romaji": "kono bunshou ni wa 仏 ga tsukawarete imasu.",
+      "meaning": "The kanji 仏 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "令という漢字の読み方を練習しています。",
+      "romaji": "令 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 令."
+    },
+    {
+      "japanese": "この文章には令が使われています。",
+      "romaji": "kono bunshou ni wa 令 ga tsukawarete imasu.",
+      "meaning": "The kanji 令 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "仲という漢字の読み方を練習しています。",
+      "romaji": "仲 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 仲."
+    },
+    {
+      "japanese": "この文章には仲が使われています。",
+      "romaji": "kono bunshou ni wa 仲 ga tsukawarete imasu.",
+      "meaning": "The kanji 仲 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "伸という漢字の読み方を練習しています。",
+      "romaji": "伸 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 伸."
+    },
+    {
+      "japanese": "この文章には伸が使われています。",
+      "romaji": "kono bunshou ni wa 伸 ga tsukawarete imasu.",
+      "meaning": "The kanji 伸 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "伺という漢字の読み方を練習しています。",
+      "romaji": "伺 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 伺."
+    },
+    {
+      "japanese": "この文章には伺が使われています。",
+      "romaji": "kono bunshou ni wa 伺 ga tsukawarete imasu.",
+      "meaning": "The kanji 伺 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "低という漢字の読み方を練習しています。",
+      "romaji": "低 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 低."
+    },
+    {
+      "japanese": "この文章には低が使われています。",
+      "romaji": "kono bunshou ni wa 低 ga tsukawarete imasu.",
+      "meaning": "The kanji 低 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "依という漢字の読み方を練習しています。",
+      "romaji": "依 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 依."
+    },
+    {
+      "japanese": "この文章には依が使われています。",
+      "romaji": "kono bunshou ni wa 依 ga tsukawarete imasu.",
+      "meaning": "The kanji 依 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "個という漢字の読み方を練習しています。",
+      "romaji": "個 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 個."
+    },
+    {
+      "japanese": "この文章には個が使われています。",
+      "romaji": "kono bunshou ni wa 個 ga tsukawarete imasu.",
+      "meaning": "The kanji 個 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "倍という漢字の読み方を練習しています。",
+      "romaji": "倍 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 倍."
+    },
+    {
+      "japanese": "この文章には倍が使われています。",
+      "romaji": "kono bunshou ni wa 倍 ga tsukawarete imasu.",
+      "meaning": "The kanji 倍 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "停という漢字の読み方を練習しています。",
+      "romaji": "停 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 停."
+    },
+    {
+      "japanese": "この文章には停が使われています。",
+      "romaji": "kono bunshou ni wa 停 ga tsukawarete imasu.",
+      "meaning": "The kanji 停 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "傾という漢字の読み方を練習しています。",
+      "romaji": "傾 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 傾."
+    },
+    {
+      "japanese": "この文章には傾が使われています。",
+      "romaji": "kono bunshou ni wa 傾 ga tsukawarete imasu.",
+      "meaning": "The kanji 傾 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "像という漢字の読み方を練習しています。",
+      "romaji": "像 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 像."
+    },
+    {
+      "japanese": "この文章には像が使われています。",
+      "romaji": "kono bunshou ni wa 像 ga tsukawarete imasu.",
+      "meaning": "The kanji 像 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "億という漢字の読み方を練習しています。",
+      "romaji": "億 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 億."
+    },
+    {
+      "japanese": "この文章には億が使われています。",
+      "romaji": "kono bunshou ni wa 億 ga tsukawarete imasu.",
+      "meaning": "The kanji 億 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "兆という漢字の読み方を練習しています。",
+      "romaji": "兆 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 兆."
+    },
+    {
+      "japanese": "この文章には兆が使われています。",
+      "romaji": "kono bunshou ni wa 兆 ga tsukawarete imasu.",
+      "meaning": "The kanji 兆 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "児という漢字の読み方を練習しています。",
+      "romaji": "児 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 児."
+    },
+    {
+      "japanese": "この文章には児が使われています。",
+      "romaji": "kono bunshou ni wa 児 ga tsukawarete imasu.",
+      "meaning": "The kanji 児 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "党という漢字の読み方を練習しています。",
+      "romaji": "党 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 党."
+    },
+    {
+      "japanese": "この文章には党が使われています。",
+      "romaji": "kono bunshou ni wa 党 ga tsukawarete imasu.",
+      "meaning": "The kanji 党 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "兵という漢字の読み方を練習しています。",
+      "romaji": "兵 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 兵."
+    },
+    {
+      "japanese": "この文章には兵が使われています。",
+      "romaji": "kono bunshou ni wa 兵 ga tsukawarete imasu.",
+      "meaning": "The kanji 兵 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "冊という漢字の読み方を練習しています。",
+      "romaji": "冊 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 冊."
+    },
+    {
+      "japanese": "この文章には冊が使われています。",
+      "romaji": "kono bunshou ni wa 冊 ga tsukawarete imasu.",
+      "meaning": "The kanji 冊 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "再という漢字の読み方を練習しています。",
+      "romaji": "再 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 再."
+    },
+    {
+      "japanese": "この文章には再が使われています。",
+      "romaji": "kono bunshou ni wa 再 ga tsukawarete imasu.",
+      "meaning": "The kanji 再 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "凍という漢字の読み方を練習しています。",
+      "romaji": "凍 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 凍."
+    },
+    {
+      "japanese": "この文章には凍が使われています。",
+      "romaji": "kono bunshou ni wa 凍 ga tsukawarete imasu.",
+      "meaning": "The kanji 凍 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "刊という漢字の読み方を練習しています。",
+      "romaji": "刊 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 刊."
+    },
+    {
+      "japanese": "この文章には刊が使われています。",
+      "romaji": "kono bunshou ni wa 刊 ga tsukawarete imasu.",
+      "meaning": "The kanji 刊 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "刷という漢字の読み方を練習しています。",
+      "romaji": "刷 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 刷."
+    },
+    {
+      "japanese": "この文章には刷が使われています。",
+      "romaji": "kono bunshou ni wa 刷 ga tsukawarete imasu.",
+      "meaning": "The kanji 刷 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "券という漢字の読み方を練習しています。",
+      "romaji": "券 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 券."
+    },
+    {
+      "japanese": "この文章には券が使われています。",
+      "romaji": "kono bunshou ni wa 券 ga tsukawarete imasu.",
+      "meaning": "The kanji 券 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "刺という漢字の読み方を練習しています。",
+      "romaji": "刺 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 刺."
+    },
+    {
+      "japanese": "この文章には刺が使われています。",
+      "romaji": "kono bunshou ni wa 刺 ga tsukawarete imasu.",
+      "meaning": "The kanji 刺 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "則という漢字の読み方を練習しています。",
+      "romaji": "則 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 則."
+    },
+    {
+      "japanese": "この文章には則が使われています。",
+      "romaji": "kono bunshou ni wa 則 ga tsukawarete imasu.",
+      "meaning": "The kanji 則 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "副という漢字の読み方を練習しています。",
+      "romaji": "副 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 副."
+    },
+    {
+      "japanese": "この文章には副が使われています。",
+      "romaji": "kono bunshou ni wa 副 ga tsukawarete imasu.",
+      "meaning": "The kanji 副 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "劇という漢字の読み方を練習しています。",
+      "romaji": "劇 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 劇."
+    },
+    {
+      "japanese": "この文章には劇が使われています。",
+      "romaji": "kono bunshou ni wa 劇 ga tsukawarete imasu.",
+      "meaning": "The kanji 劇 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "効という漢字の読み方を練習しています。",
+      "romaji": "効 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 効."
+    },
+    {
+      "japanese": "この文章には効が使われています。",
+      "romaji": "kono bunshou ni wa 効 ga tsukawarete imasu.",
+      "meaning": "The kanji 効 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "勇という漢字の読み方を練習しています。",
+      "romaji": "勇 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 勇."
+    },
+    {
+      "japanese": "この文章には勇が使われています。",
+      "romaji": "kono bunshou ni wa 勇 ga tsukawarete imasu.",
+      "meaning": "The kanji 勇 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "募という漢字の読み方を練習しています。",
+      "romaji": "募 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 募."
+    },
+    {
+      "japanese": "この文章には募が使われています。",
+      "romaji": "kono bunshou ni wa 募 ga tsukawarete imasu.",
+      "meaning": "The kanji 募 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "勢という漢字の読み方を練習しています。",
+      "romaji": "勢 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 勢."
+    },
+    {
+      "japanese": "この文章には勢が使われています。",
+      "romaji": "kono bunshou ni wa 勢 ga tsukawarete imasu.",
+      "meaning": "The kanji 勢 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "包という漢字の読み方を練習しています。",
+      "romaji": "包 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 包."
+    },
+    {
+      "japanese": "この文章には包が使われています。",
+      "romaji": "kono bunshou ni wa 包 ga tsukawarete imasu.",
+      "meaning": "The kanji 包 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "匹という漢字の読み方を練習しています。",
+      "romaji": "匹 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 匹."
+    },
+    {
+      "japanese": "この文章には匹が使われています。",
+      "romaji": "kono bunshou ni wa 匹 ga tsukawarete imasu.",
+      "meaning": "The kanji 匹 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "区という漢字の読み方を練習しています。",
+      "romaji": "区 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 区."
+    },
+    {
+      "japanese": "この文章には区が使われています。",
+      "romaji": "kono bunshou ni wa 区 ga tsukawarete imasu.",
+      "meaning": "The kanji 区 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "卒という漢字の読み方を練習しています。",
+      "romaji": "卒 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 卒."
+    },
+    {
+      "japanese": "この文章には卒が使われています。",
+      "romaji": "kono bunshou ni wa 卒 ga tsukawarete imasu.",
+      "meaning": "The kanji 卒 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "協という漢字の読み方を練習しています。",
+      "romaji": "協 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 協."
+    },
+    {
+      "japanese": "この文章には協が使われています。",
+      "romaji": "kono bunshou ni wa 協 ga tsukawarete imasu.",
+      "meaning": "The kanji 協 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "占という漢字の読み方を練習しています。",
+      "romaji": "占 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 占."
+    },
+    {
+      "japanese": "この文章には占が使われています。",
+      "romaji": "kono bunshou ni wa 占 ga tsukawarete imasu.",
+      "meaning": "The kanji 占 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "印という漢字の読み方を練習しています。",
+      "romaji": "印 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 印."
+    },
+    {
+      "japanese": "この文章には印が使われています。",
+      "romaji": "kono bunshou ni wa 印 ga tsukawarete imasu.",
+      "meaning": "The kanji 印 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "卵という漢字の読み方を練習しています。",
+      "romaji": "卵 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 卵."
+    },
+    {
+      "japanese": "この文章には卵が使われています。",
+      "romaji": "kono bunshou ni wa 卵 ga tsukawarete imasu.",
+      "meaning": "The kanji 卵 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "厚という漢字の読み方を練習しています。",
+      "romaji": "厚 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 厚."
+    },
+    {
+      "japanese": "この文章には厚が使われています。",
+      "romaji": "kono bunshou ni wa 厚 ga tsukawarete imasu.",
+      "meaning": "The kanji 厚 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "双という漢字の読み方を練習しています。",
+      "romaji": "双 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 双."
+    },
+    {
+      "japanese": "この文章には双が使われています。",
+      "romaji": "kono bunshou ni wa 双 ga tsukawarete imasu.",
+      "meaning": "The kanji 双 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "叫という漢字の読み方を練習しています。",
+      "romaji": "叫 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 叫."
+    },
+    {
+      "japanese": "この文章には叫が使われています。",
+      "romaji": "kono bunshou ni wa 叫 ga tsukawarete imasu.",
+      "meaning": "The kanji 叫 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "召という漢字の読み方を練習しています。",
+      "romaji": "召 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 召."
+    },
+    {
+      "japanese": "この文章には召が使われています。",
+      "romaji": "kono bunshou ni wa 召 ga tsukawarete imasu.",
+      "meaning": "The kanji 召 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "史という漢字の読み方を練習しています。",
+      "romaji": "史 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 史."
+    },
+    {
+      "japanese": "この文章には史が使われています。",
+      "romaji": "kono bunshou ni wa 史 ga tsukawarete imasu.",
+      "meaning": "The kanji 史 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "各という漢字の読み方を練習しています。",
+      "romaji": "各 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 各."
+    },
+    {
+      "japanese": "この文章には各が使われています。",
+      "romaji": "kono bunshou ni wa 各 ga tsukawarete imasu.",
+      "meaning": "The kanji 各 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "含という漢字の読み方を練習しています。",
+      "romaji": "含 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 含."
+    },
+    {
+      "japanese": "この文章には含が使われています。",
+      "romaji": "kono bunshou ni wa 含 ga tsukawarete imasu.",
+      "meaning": "The kanji 含 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "周という漢字の読み方を練習しています。",
+      "romaji": "周 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 周."
+    },
+    {
+      "japanese": "この文章には周が使われています。",
+      "romaji": "kono bunshou ni wa 周 ga tsukawarete imasu.",
+      "meaning": "The kanji 周 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "咲という漢字の読み方を練習しています。",
+      "romaji": "咲 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 咲."
+    },
+    {
+      "japanese": "この文章には咲が使われています。",
+      "romaji": "kono bunshou ni wa 咲 ga tsukawarete imasu.",
+      "meaning": "The kanji 咲 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "喫という漢字の読み方を練習しています。",
+      "romaji": "喫 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 喫."
+    },
+    {
+      "japanese": "この文章には喫が使われています。",
+      "romaji": "kono bunshou ni wa 喫 ga tsukawarete imasu.",
+      "meaning": "The kanji 喫 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "営という漢字の読み方を練習しています。",
+      "romaji": "営 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 営."
+    },
+    {
+      "japanese": "この文章には営が使われています。",
+      "romaji": "kono bunshou ni wa 営 ga tsukawarete imasu.",
+      "meaning": "The kanji 営 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "団という漢字の読み方を練習しています。",
+      "romaji": "団 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 団."
+    },
+    {
+      "japanese": "この文章には団が使われています。",
+      "romaji": "kono bunshou ni wa 団 ga tsukawarete imasu.",
+      "meaning": "The kanji 団 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "囲という漢字の読み方を練習しています。",
+      "romaji": "囲 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 囲."
+    },
+    {
+      "japanese": "この文章には囲が使われています。",
+      "romaji": "kono bunshou ni wa 囲 ga tsukawarete imasu.",
+      "meaning": "The kanji 囲 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "固という漢字の読み方を練習しています。",
+      "romaji": "固 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 固."
+    },
+    {
+      "japanese": "この文章には固が使われています。",
+      "romaji": "kono bunshou ni wa 固 ga tsukawarete imasu.",
+      "meaning": "The kanji 固 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "圧という漢字の読み方を練習しています。",
+      "romaji": "圧 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 圧."
+    },
+    {
+      "japanese": "この文章には圧が使われています。",
+      "romaji": "kono bunshou ni wa 圧 ga tsukawarete imasu.",
+      "meaning": "The kanji 圧 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "坂という漢字の読み方を練習しています。",
+      "romaji": "坂 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 坂."
+    },
+    {
+      "japanese": "この文章には坂が使われています。",
+      "romaji": "kono bunshou ni wa 坂 ga tsukawarete imasu.",
+      "meaning": "The kanji 坂 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "均という漢字の読み方を練習しています。",
+      "romaji": "均 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 均."
+    },
+    {
+      "japanese": "この文章には均が使われています。",
+      "romaji": "kono bunshou ni wa 均 ga tsukawarete imasu.",
+      "meaning": "The kanji 均 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "型という漢字の読み方を練習しています。",
+      "romaji": "型 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 型."
+    },
+    {
+      "japanese": "この文章には型が使われています。",
+      "romaji": "kono bunshou ni wa 型 ga tsukawarete imasu.",
+      "meaning": "The kanji 型 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "埋という漢字の読み方を練習しています。",
+      "romaji": "埋 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 埋."
+    },
+    {
+      "japanese": "この文章には埋が使われています。",
+      "romaji": "kono bunshou ni wa 埋 ga tsukawarete imasu.",
+      "meaning": "The kanji 埋 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "城という漢字の読み方を練習しています。",
+      "romaji": "城 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 城."
+    },
+    {
+      "japanese": "この文章には城が使われています。",
+      "romaji": "kono bunshou ni wa 城 ga tsukawarete imasu.",
+      "meaning": "The kanji 城 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "域という漢字の読み方を練習しています。",
+      "romaji": "域 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 域."
+    },
+    {
+      "japanese": "この文章には域が使われています。",
+      "romaji": "kono bunshou ni wa 域 ga tsukawarete imasu.",
+      "meaning": "The kanji 域 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "塔という漢字の読み方を練習しています。",
+      "romaji": "塔 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 塔."
+    },
+    {
+      "japanese": "この文章には塔が使われています。",
+      "romaji": "kono bunshou ni wa 塔 ga tsukawarete imasu.",
+      "meaning": "The kanji 塔 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "塗という漢字の読み方を練習しています。",
+      "romaji": "塗 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 塗."
+    },
+    {
+      "japanese": "この文章には塗が使われています。",
+      "romaji": "kono bunshou ni wa 塗 ga tsukawarete imasu.",
+      "meaning": "The kanji 塗 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "塩という漢字の読み方を練習しています。",
+      "romaji": "塩 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 塩."
+    },
+    {
+      "japanese": "この文章には塩が使われています。",
+      "romaji": "kono bunshou ni wa 塩 ga tsukawarete imasu.",
+      "meaning": "The kanji 塩 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "境という漢字の読み方を練習しています。",
+      "romaji": "境 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 境."
+    },
+    {
+      "japanese": "この文章には境が使われています。",
+      "romaji": "kono bunshou ni wa 境 ga tsukawarete imasu.",
+      "meaning": "The kanji 境 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "央という漢字の読み方を練習しています。",
+      "romaji": "央 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 央."
+    },
+    {
+      "japanese": "この文章には央が使われています。",
+      "romaji": "kono bunshou ni wa 央 ga tsukawarete imasu.",
+      "meaning": "The kanji 央 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "奥という漢字の読み方を練習しています。",
+      "romaji": "奥 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 奥."
+    },
+    {
+      "japanese": "この文章には奥が使われています。",
+      "romaji": "kono bunshou ni wa 奥 ga tsukawarete imasu.",
+      "meaning": "The kanji 奥 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "姓という漢字の読み方を練習しています。",
+      "romaji": "姓 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 姓."
+    },
+    {
+      "japanese": "この文章には姓が使われています。",
+      "romaji": "kono bunshou ni wa 姓 ga tsukawarete imasu.",
+      "meaning": "The kanji 姓 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "委という漢字の読み方を練習しています。",
+      "romaji": "委 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 委."
+    },
+    {
+      "japanese": "この文章には委が使われています。",
+      "romaji": "kono bunshou ni wa 委 ga tsukawarete imasu.",
+      "meaning": "The kanji 委 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "季という漢字の読み方を練習しています。",
+      "romaji": "季 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 季."
+    },
+    {
+      "japanese": "この文章には季が使われています。",
+      "romaji": "kono bunshou ni wa 季 ga tsukawarete imasu.",
+      "meaning": "The kanji 季 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "孫という漢字の読み方を練習しています。",
+      "romaji": "孫 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 孫."
+    },
+    {
+      "japanese": "この文章には孫が使われています。",
+      "romaji": "kono bunshou ni wa 孫 ga tsukawarete imasu.",
+      "meaning": "The kanji 孫 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "宇という漢字の読み方を練習しています。",
+      "romaji": "宇 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 宇."
+    },
+    {
+      "japanese": "この文章には宇が使われています。",
+      "romaji": "kono bunshou ni wa 宇 ga tsukawarete imasu.",
+      "meaning": "The kanji 宇 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "宝という漢字の読み方を練習しています。",
+      "romaji": "宝 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 宝."
+    },
+    {
+      "japanese": "この文章には宝が使われています。",
+      "romaji": "kono bunshou ni wa 宝 ga tsukawarete imasu.",
+      "meaning": "The kanji 宝 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "寺という漢字の読み方を練習しています。",
+      "romaji": "寺 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 寺."
+    },
+    {
+      "japanese": "この文章には寺が使われています。",
+      "romaji": "kono bunshou ni wa 寺 ga tsukawarete imasu.",
+      "meaning": "The kanji 寺 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "封という漢字の読み方を練習しています。",
+      "romaji": "封 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 封."
+    },
+    {
+      "japanese": "この文章には封が使われています。",
+      "romaji": "kono bunshou ni wa 封 ga tsukawarete imasu.",
+      "meaning": "The kanji 封 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "専という漢字の読み方を練習しています。",
+      "romaji": "専 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 専."
+    },
+    {
+      "japanese": "この文章には専が使われています。",
+      "romaji": "kono bunshou ni wa 専 ga tsukawarete imasu.",
+      "meaning": "The kanji 専 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "将という漢字の読み方を練習しています。",
+      "romaji": "将 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 将."
+    },
+    {
+      "japanese": "この文章には将が使われています。",
+      "romaji": "kono bunshou ni wa 将 ga tsukawarete imasu.",
+      "meaning": "The kanji 将 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "尊という漢字の読み方を練習しています。",
+      "romaji": "尊 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 尊."
+    },
+    {
+      "japanese": "この文章には尊が使われています。",
+      "romaji": "kono bunshou ni wa 尊 ga tsukawarete imasu.",
+      "meaning": "The kanji 尊 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "導という漢字の読み方を練習しています。",
+      "romaji": "導 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 導."
+    },
+    {
+      "japanese": "この文章には導が使われています。",
+      "romaji": "kono bunshou ni wa 導 ga tsukawarete imasu.",
+      "meaning": "The kanji 導 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "届という漢字の読み方を練習しています。",
+      "romaji": "届 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 届."
+    },
+    {
+      "japanese": "この文章には届が使われています。",
+      "romaji": "kono bunshou ni wa 届 ga tsukawarete imasu.",
+      "meaning": "The kanji 届 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "層という漢字の読み方を練習しています。",
+      "romaji": "層 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 層."
+    },
+    {
+      "japanese": "この文章には層が使われています。",
+      "romaji": "kono bunshou ni wa 層 ga tsukawarete imasu.",
+      "meaning": "The kanji 層 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "岩という漢字の読み方を練習しています。",
+      "romaji": "岩 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 岩."
+    },
+    {
+      "japanese": "この文章には岩が使われています。",
+      "romaji": "kono bunshou ni wa 岩 ga tsukawarete imasu.",
+      "meaning": "The kanji 岩 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "岸という漢字の読み方を練習しています。",
+      "romaji": "岸 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 岸."
+    },
+    {
+      "japanese": "この文章には岸が使われています。",
+      "romaji": "kono bunshou ni wa 岸 ga tsukawarete imasu.",
+      "meaning": "The kanji 岸 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "島という漢字の読み方を練習しています。",
+      "romaji": "島 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 島."
+    },
+    {
+      "japanese": "この文章には島が使われています。",
+      "romaji": "kono bunshou ni wa 島 ga tsukawarete imasu.",
+      "meaning": "The kanji 島 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "州という漢字の読み方を練習しています。",
+      "romaji": "州 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 州."
+    },
+    {
+      "japanese": "この文章には州が使われています。",
+      "romaji": "kono bunshou ni wa 州 ga tsukawarete imasu.",
+      "meaning": "The kanji 州 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "巨という漢字の読み方を練習しています。",
+      "romaji": "巨 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 巨."
+    },
+    {
+      "japanese": "この文章には巨が使われています。",
+      "romaji": "kono bunshou ni wa 巨 ga tsukawarete imasu.",
+      "meaning": "The kanji 巨 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "巻という漢字の読み方を練習しています。",
+      "romaji": "巻 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 巻."
+    },
+    {
+      "japanese": "この文章には巻が使われています。",
+      "romaji": "kono bunshou ni wa 巻 ga tsukawarete imasu.",
+      "meaning": "The kanji 巻 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "布という漢字の読み方を練習しています。",
+      "romaji": "布 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 布."
+    },
+    {
+      "japanese": "この文章には布が使われています。",
+      "romaji": "kono bunshou ni wa 布 ga tsukawarete imasu.",
+      "meaning": "The kanji 布 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "希という漢字の読み方を練習しています。",
+      "romaji": "希 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 希."
+    },
+    {
+      "japanese": "この文章には希が使われています。",
+      "romaji": "kono bunshou ni wa 希 ga tsukawarete imasu.",
+      "meaning": "The kanji 希 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "帯という漢字の読み方を練習しています。",
+      "romaji": "帯 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 帯."
+    },
+    {
+      "japanese": "この文章には帯が使われています。",
+      "romaji": "kono bunshou ni wa 帯 ga tsukawarete imasu.",
+      "meaning": "The kanji 帯 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "帽という漢字の読み方を練習しています。",
+      "romaji": "帽 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 帽."
+    },
+    {
+      "japanese": "この文章には帽が使われています。",
+      "romaji": "kono bunshou ni wa 帽 ga tsukawarete imasu.",
+      "meaning": "The kanji 帽 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "幅という漢字の読み方を練習しています。",
+      "romaji": "幅 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 幅."
+    },
+    {
+      "japanese": "この文章には幅が使われています。",
+      "romaji": "kono bunshou ni wa 幅 ga tsukawarete imasu.",
+      "meaning": "The kanji 幅 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "干という漢字の読み方を練習しています。",
+      "romaji": "干 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 干."
+    },
+    {
+      "japanese": "この文章には干が使われています。",
+      "romaji": "kono bunshou ni wa 干 ga tsukawarete imasu.",
+      "meaning": "The kanji 干 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "幼という漢字の読み方を練習しています。",
+      "romaji": "幼 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 幼."
+    },
+    {
+      "japanese": "この文章には幼が使われています。",
+      "romaji": "kono bunshou ni wa 幼 ga tsukawarete imasu.",
+      "meaning": "The kanji 幼 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "庁という漢字の読み方を練習しています。",
+      "romaji": "庁 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 庁."
+    },
+    {
+      "japanese": "この文章には庁が使われています。",
+      "romaji": "kono bunshou ni wa 庁 ga tsukawarete imasu.",
+      "meaning": "The kanji 庁 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "床という漢字の読み方を練習しています。",
+      "romaji": "床 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 床."
+    },
+    {
+      "japanese": "この文章には床が使われています。",
+      "romaji": "kono bunshou ni wa 床 ga tsukawarete imasu.",
+      "meaning": "The kanji 床 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "底という漢字の読み方を練習しています。",
+      "romaji": "底 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 底."
+    },
+    {
+      "japanese": "この文章には底が使われています。",
+      "romaji": "kono bunshou ni wa 底 ga tsukawarete imasu.",
+      "meaning": "The kanji 底 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "府という漢字の読み方を練習しています。",
+      "romaji": "府 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 府."
+    },
+    {
+      "japanese": "この文章には府が使われています。",
+      "romaji": "kono bunshou ni wa 府 ga tsukawarete imasu.",
+      "meaning": "The kanji 府 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "庫という漢字の読み方を練習しています。",
+      "romaji": "庫 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 庫."
+    },
+    {
+      "japanese": "この文章には庫が使われています。",
+      "romaji": "kono bunshou ni wa 庫 ga tsukawarete imasu.",
+      "meaning": "The kanji 庫 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "延という漢字の読み方を練習しています。",
+      "romaji": "延 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 延."
+    },
+    {
+      "japanese": "この文章には延が使われています。",
+      "romaji": "kono bunshou ni wa 延 ga tsukawarete imasu.",
+      "meaning": "The kanji 延 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "弱という漢字の読み方を練習しています。",
+      "romaji": "弱 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 弱."
+    },
+    {
+      "japanese": "この文章には弱が使われています。",
+      "romaji": "kono bunshou ni wa 弱 ga tsukawarete imasu.",
+      "meaning": "The kanji 弱 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "律という漢字の読み方を練習しています。",
+      "romaji": "律 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 律."
+    },
+    {
+      "japanese": "この文章には律が使われています。",
+      "romaji": "kono bunshou ni wa 律 ga tsukawarete imasu.",
+      "meaning": "The kanji 律 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "復という漢字の読み方を練習しています。",
+      "romaji": "復 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 復."
+    },
+    {
+      "japanese": "この文章には復が使われています。",
+      "romaji": "kono bunshou ni wa 復 ga tsukawarete imasu.",
+      "meaning": "The kanji 復 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "快という漢字の読み方を練習しています。",
+      "romaji": "快 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 快."
+    },
+    {
+      "japanese": "この文章には快が使われています。",
+      "romaji": "kono bunshou ni wa 快 ga tsukawarete imasu.",
+      "meaning": "The kanji 快 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "恋という漢字の読み方を練習しています。",
+      "romaji": "恋 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 恋."
+    },
+    {
+      "japanese": "この文章には恋が使われています。",
+      "romaji": "kono bunshou ni wa 恋 ga tsukawarete imasu.",
+      "meaning": "The kanji 恋 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "患という漢字の読み方を練習しています。",
+      "romaji": "患 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 患."
+    },
+    {
+      "japanese": "この文章には患が使われています。",
+      "romaji": "kono bunshou ni wa 患 ga tsukawarete imasu.",
+      "meaning": "The kanji 患 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "悩という漢字の読み方を練習しています。",
+      "romaji": "悩 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 悩."
+    },
+    {
+      "japanese": "この文章には悩が使われています。",
+      "romaji": "kono bunshou ni wa 悩 ga tsukawarete imasu.",
+      "meaning": "The kanji 悩 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "憎という漢字の読み方を練習しています。",
+      "romaji": "憎 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 憎."
+    },
+    {
+      "japanese": "この文章には憎が使われています。",
+      "romaji": "kono bunshou ni wa 憎 ga tsukawarete imasu.",
+      "meaning": "The kanji 憎 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "戸という漢字の読み方を練習しています。",
+      "romaji": "戸 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 戸."
+    },
+    {
+      "japanese": "この文章には戸が使われています。",
+      "romaji": "kono bunshou ni wa 戸 ga tsukawarete imasu.",
+      "meaning": "The kanji 戸 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "承という漢字の読み方を練習しています。",
+      "romaji": "承 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 承."
+    },
+    {
+      "japanese": "この文章には承が使われています。",
+      "romaji": "kono bunshou ni wa 承 ga tsukawarete imasu.",
+      "meaning": "The kanji 承 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "技という漢字の読み方を練習しています。",
+      "romaji": "技 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 技."
+    },
+    {
+      "japanese": "この文章には技が使われています。",
+      "romaji": "kono bunshou ni wa 技 ga tsukawarete imasu.",
+      "meaning": "The kanji 技 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "担という漢字の読み方を練習しています。",
+      "romaji": "担 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 担."
+    },
+    {
+      "japanese": "この文章には担が使われています。",
+      "romaji": "kono bunshou ni wa 担 ga tsukawarete imasu.",
+      "meaning": "The kanji 担 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "拝という漢字の読み方を練習しています。",
+      "romaji": "拝 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 拝."
+    },
+    {
+      "japanese": "この文章には拝が使われています。",
+      "romaji": "kono bunshou ni wa 拝 ga tsukawarete imasu.",
+      "meaning": "The kanji 拝 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "拾という漢字の読み方を練習しています。",
+      "romaji": "拾 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 拾."
+    },
+    {
+      "japanese": "この文章には拾が使われています。",
+      "romaji": "kono bunshou ni wa 拾 ga tsukawarete imasu.",
+      "meaning": "The kanji 拾 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "挟という漢字の読み方を練習しています。",
+      "romaji": "挟 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 挟."
+    },
+    {
+      "japanese": "この文章には挟が使われています。",
+      "romaji": "kono bunshou ni wa 挟 ga tsukawarete imasu.",
+      "meaning": "The kanji 挟 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "捜という漢字の読み方を練習しています。",
+      "romaji": "捜 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 捜."
+    },
+    {
+      "japanese": "この文章には捜が使われています。",
+      "romaji": "kono bunshou ni wa 捜 ga tsukawarete imasu.",
+      "meaning": "The kanji 捜 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "捨という漢字の読み方を練習しています。",
+      "romaji": "捨 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 捨."
+    },
+    {
+      "japanese": "この文章には捨が使われています。",
+      "romaji": "kono bunshou ni wa 捨 ga tsukawarete imasu.",
+      "meaning": "The kanji 捨 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "掃という漢字の読み方を練習しています。",
+      "romaji": "掃 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 掃."
+    },
+    {
+      "japanese": "この文章には掃が使われています。",
+      "romaji": "kono bunshou ni wa 掃 ga tsukawarete imasu.",
+      "meaning": "The kanji 掃 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "掘という漢字の読み方を練習しています。",
+      "romaji": "掘 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 掘."
+    },
+    {
+      "japanese": "この文章には掘が使われています。",
+      "romaji": "kono bunshou ni wa 掘 ga tsukawarete imasu.",
+      "meaning": "The kanji 掘 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "採という漢字の読み方を練習しています。",
+      "romaji": "採 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 採."
+    },
+    {
+      "japanese": "この文章には採が使われています。",
+      "romaji": "kono bunshou ni wa 採 ga tsukawarete imasu.",
+      "meaning": "The kanji 採 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "接という漢字の読み方を練習しています。",
+      "romaji": "接 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 接."
+    },
+    {
+      "japanese": "この文章には接が使われています。",
+      "romaji": "kono bunshou ni wa 接 ga tsukawarete imasu.",
+      "meaning": "The kanji 接 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "換という漢字の読み方を練習しています。",
+      "romaji": "換 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 換."
+    },
+    {
+      "japanese": "この文章には換が使われています。",
+      "romaji": "kono bunshou ni wa 換 ga tsukawarete imasu.",
+      "meaning": "The kanji 換 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "損という漢字の読み方を練習しています。",
+      "romaji": "損 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 損."
+    },
+    {
+      "japanese": "この文章には損が使われています。",
+      "romaji": "kono bunshou ni wa 損 ga tsukawarete imasu.",
+      "meaning": "The kanji 損 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "改という漢字の読み方を練習しています。",
+      "romaji": "改 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 改."
+    },
+    {
+      "japanese": "この文章には改が使われています。",
+      "romaji": "kono bunshou ni wa 改 ga tsukawarete imasu.",
+      "meaning": "The kanji 改 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "敬という漢字の読み方を練習しています。",
+      "romaji": "敬 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 敬."
+    },
+    {
+      "japanese": "この文章には敬が使われています。",
+      "romaji": "kono bunshou ni wa 敬 ga tsukawarete imasu.",
+      "meaning": "The kanji 敬 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "旧という漢字の読み方を練習しています。",
+      "romaji": "旧 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 旧."
+    },
+    {
+      "japanese": "この文章には旧が使われています。",
+      "romaji": "kono bunshou ni wa 旧 ga tsukawarete imasu.",
+      "meaning": "The kanji 旧 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "昇という漢字の読み方を練習しています。",
+      "romaji": "昇 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 昇."
+    },
+    {
+      "japanese": "この文章には昇が使われています。",
+      "romaji": "kono bunshou ni wa 昇 ga tsukawarete imasu.",
+      "meaning": "The kanji 昇 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "星という漢字の読み方を練習しています。",
+      "romaji": "星 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 星."
+    },
+    {
+      "japanese": "この文章には星が使われています。",
+      "romaji": "kono bunshou ni wa 星 ga tsukawarete imasu.",
+      "meaning": "The kanji 星 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "普という漢字の読み方を練習しています。",
+      "romaji": "普 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 普."
+    },
+    {
+      "japanese": "この文章には普が使われています。",
+      "romaji": "kono bunshou ni wa 普 ga tsukawarete imasu.",
+      "meaning": "The kanji 普 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "暴という漢字の読み方を練習しています。",
+      "romaji": "暴 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 暴."
+    },
+    {
+      "japanese": "この文章には暴が使われています。",
+      "romaji": "kono bunshou ni wa 暴 ga tsukawarete imasu.",
+      "meaning": "The kanji 暴 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "曇という漢字の読み方を練習しています。",
+      "romaji": "曇 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 曇."
+    },
+    {
+      "japanese": "この文章には曇が使われています。",
+      "romaji": "kono bunshou ni wa 曇 ga tsukawarete imasu.",
+      "meaning": "The kanji 曇 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "替という漢字の読み方を練習しています。",
+      "romaji": "替 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 替."
+    },
+    {
+      "japanese": "この文章には替が使われています。",
+      "romaji": "kono bunshou ni wa 替 ga tsukawarete imasu.",
+      "meaning": "The kanji 替 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "札という漢字の読み方を練習しています。",
+      "romaji": "札 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 札."
+    },
+    {
+      "japanese": "この文章には札が使われています。",
+      "romaji": "kono bunshou ni wa 札 ga tsukawarete imasu.",
+      "meaning": "The kanji 札 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "机という漢字の読み方を練習しています。",
+      "romaji": "机 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 机."
+    },
+    {
+      "japanese": "この文章には机が使われています。",
+      "romaji": "kono bunshou ni wa 机 ga tsukawarete imasu.",
+      "meaning": "The kanji 机 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "材という漢字の読み方を練習しています。",
+      "romaji": "材 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 材."
+    },
+    {
+      "japanese": "この文章には材が使われています。",
+      "romaji": "kono bunshou ni wa 材 ga tsukawarete imasu.",
+      "meaning": "The kanji 材 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "村という漢字の読み方を練習しています。",
+      "romaji": "村 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 村."
+    },
+    {
+      "japanese": "この文章には村が使われています。",
+      "romaji": "kono bunshou ni wa 村 ga tsukawarete imasu.",
+      "meaning": "The kanji 村 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "板という漢字の読み方を練習しています。",
+      "romaji": "板 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 板."
+    },
+    {
+      "japanese": "この文章には板が使われています。",
+      "romaji": "kono bunshou ni wa 板 ga tsukawarete imasu.",
+      "meaning": "The kanji 板 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "林という漢字の読み方を練習しています。",
+      "romaji": "林 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 林."
+    },
+    {
+      "japanese": "この文章には林が使われています。",
+      "romaji": "kono bunshou ni wa 林 ga tsukawarete imasu.",
+      "meaning": "The kanji 林 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "枚という漢字の読み方を練習しています。",
+      "romaji": "枚 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 枚."
+    },
+    {
+      "japanese": "この文章には枚が使われています。",
+      "romaji": "kono bunshou ni wa 枚 ga tsukawarete imasu.",
+      "meaning": "The kanji 枚 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "枝という漢字の読み方を練習しています。",
+      "romaji": "枝 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 枝."
+    },
+    {
+      "japanese": "この文章には枝が使われています。",
+      "romaji": "kono bunshou ni wa 枝 ga tsukawarete imasu.",
+      "meaning": "The kanji 枝 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "枯という漢字の読み方を練習しています。",
+      "romaji": "枯 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 枯."
+    },
+    {
+      "japanese": "この文章には枯が使われています。",
+      "romaji": "kono bunshou ni wa 枯 ga tsukawarete imasu.",
+      "meaning": "The kanji 枯 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "柔という漢字の読み方を練習しています。",
+      "romaji": "柔 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 柔."
+    },
+    {
+      "japanese": "この文章には柔が使われています。",
+      "romaji": "kono bunshou ni wa 柔 ga tsukawarete imasu.",
+      "meaning": "The kanji 柔 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "柱という漢字の読み方を練習しています。",
+      "romaji": "柱 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 柱."
+    },
+    {
+      "japanese": "この文章には柱が使われています。",
+      "romaji": "kono bunshou ni wa 柱 ga tsukawarete imasu.",
+      "meaning": "The kanji 柱 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "査という漢字の読み方を練習しています。",
+      "romaji": "査 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 査."
+    },
+    {
+      "japanese": "この文章には査が使われています。",
+      "romaji": "kono bunshou ni wa 査 ga tsukawarete imasu.",
+      "meaning": "The kanji 査 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "栄という漢字の読み方を練習しています。",
+      "romaji": "栄 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 栄."
+    },
+    {
+      "japanese": "この文章には栄が使われています。",
+      "romaji": "kono bunshou ni wa 栄 ga tsukawarete imasu.",
+      "meaning": "The kanji 栄 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "根という漢字の読み方を練習しています。",
+      "romaji": "根 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 根."
+    },
+    {
+      "japanese": "この文章には根が使われています。",
+      "romaji": "kono bunshou ni wa 根 ga tsukawarete imasu.",
+      "meaning": "The kanji 根 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "械という漢字の読み方を練習しています。",
+      "romaji": "械 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 械."
+    },
+    {
+      "japanese": "この文章には械が使われています。",
+      "romaji": "kono bunshou ni wa 械 ga tsukawarete imasu.",
+      "meaning": "The kanji 械 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "棒という漢字の読み方を練習しています。",
+      "romaji": "棒 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 棒."
+    },
+    {
+      "japanese": "この文章には棒が使われています。",
+      "romaji": "kono bunshou ni wa 棒 ga tsukawarete imasu.",
+      "meaning": "The kanji 棒 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "森という漢字の読み方を練習しています。",
+      "romaji": "森 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 森."
+    },
+    {
+      "japanese": "この文章には森が使われています。",
+      "romaji": "kono bunshou ni wa 森 ga tsukawarete imasu.",
+      "meaning": "The kanji 森 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "植という漢字の読み方を練習しています。",
+      "romaji": "植 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 植."
+    },
+    {
+      "japanese": "この文章には植が使われています。",
+      "romaji": "kono bunshou ni wa 植 ga tsukawarete imasu.",
+      "meaning": "The kanji 植 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "極という漢字の読み方を練習しています。",
+      "romaji": "極 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 極."
+    },
+    {
+      "japanese": "この文章には極が使われています。",
+      "romaji": "kono bunshou ni wa 極 ga tsukawarete imasu.",
+      "meaning": "The kanji 極 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "橋という漢字の読み方を練習しています。",
+      "romaji": "橋 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 橋."
+    },
+    {
+      "japanese": "この文章には橋が使われています。",
+      "romaji": "kono bunshou ni wa 橋 ga tsukawarete imasu.",
+      "meaning": "The kanji 橋 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "欧という漢字の読み方を練習しています。",
+      "romaji": "欧 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 欧."
+    },
+    {
+      "japanese": "この文章には欧が使われています。",
+      "romaji": "kono bunshou ni wa 欧 ga tsukawarete imasu.",
+      "meaning": "The kanji 欧 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "武という漢字の読み方を練習しています。",
+      "romaji": "武 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 武."
+    },
+    {
+      "japanese": "この文章には武が使われています。",
+      "romaji": "kono bunshou ni wa 武 ga tsukawarete imasu.",
+      "meaning": "The kanji 武 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "歴という漢字の読み方を練習しています。",
+      "romaji": "歴 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 歴."
+    },
+    {
+      "japanese": "この文章には歴が使われています。",
+      "romaji": "kono bunshou ni wa 歴 ga tsukawarete imasu.",
+      "meaning": "The kanji 歴 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "殿という漢字の読み方を練習しています。",
+      "romaji": "殿 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 殿."
+    },
+    {
+      "japanese": "この文章には殿が使われています。",
+      "romaji": "kono bunshou ni wa 殿 ga tsukawarete imasu.",
+      "meaning": "The kanji 殿 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "毒という漢字の読み方を練習しています。",
+      "romaji": "毒 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 毒."
+    },
+    {
+      "japanese": "この文章には毒が使われています。",
+      "romaji": "kono bunshou ni wa 毒 ga tsukawarete imasu.",
+      "meaning": "The kanji 毒 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "比という漢字の読み方を練習しています。",
+      "romaji": "比 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 比."
+    },
+    {
+      "japanese": "この文章には比が使われています。",
+      "romaji": "kono bunshou ni wa 比 ga tsukawarete imasu.",
+      "meaning": "The kanji 比 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "毛という漢字の読み方を練習しています。",
+      "romaji": "毛 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 毛."
+    },
+    {
+      "japanese": "この文章には毛が使われています。",
+      "romaji": "kono bunshou ni wa 毛 ga tsukawarete imasu.",
+      "meaning": "The kanji 毛 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "氷という漢字の読み方を練習しています。",
+      "romaji": "氷 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 氷."
+    },
+    {
+      "japanese": "この文章には氷が使われています。",
+      "romaji": "kono bunshou ni wa 氷 ga tsukawarete imasu.",
+      "meaning": "The kanji 氷 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "永という漢字の読み方を練習しています。",
+      "romaji": "永 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 永."
+    },
+    {
+      "japanese": "この文章には永が使われています。",
+      "romaji": "kono bunshou ni wa 永 ga tsukawarete imasu.",
+      "meaning": "The kanji 永 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "汗という漢字の読み方を練習しています。",
+      "romaji": "汗 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 汗."
+    },
+    {
+      "japanese": "この文章には汗が使われています。",
+      "romaji": "kono bunshou ni wa 汗 ga tsukawarete imasu.",
+      "meaning": "The kanji 汗 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "汚という漢字の読み方を練習しています。",
+      "romaji": "汚 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 汚."
+    },
+    {
+      "japanese": "この文章には汚が使われています。",
+      "romaji": "kono bunshou ni wa 汚 ga tsukawarete imasu.",
+      "meaning": "The kanji 汚 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "池という漢字の読み方を練習しています。",
+      "romaji": "池 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 池."
+    },
+    {
+      "japanese": "この文章には池が使われています。",
+      "romaji": "kono bunshou ni wa 池 ga tsukawarete imasu.",
+      "meaning": "The kanji 池 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "沈という漢字の読み方を練習しています。",
+      "romaji": "沈 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 沈."
+    },
+    {
+      "japanese": "この文章には沈が使われています。",
+      "romaji": "kono bunshou ni wa 沈 ga tsukawarete imasu.",
+      "meaning": "The kanji 沈 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "河という漢字の読み方を練習しています。",
+      "romaji": "河 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 河."
+    },
+    {
+      "japanese": "この文章には河が使われています。",
+      "romaji": "kono bunshou ni wa 河 ga tsukawarete imasu.",
+      "meaning": "The kanji 河 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "沸という漢字の読み方を練習しています。",
+      "romaji": "沸 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 沸."
+    },
+    {
+      "japanese": "この文章には沸が使われています。",
+      "romaji": "kono bunshou ni wa 沸 ga tsukawarete imasu.",
+      "meaning": "The kanji 沸 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "油という漢字の読み方を練習しています。",
+      "romaji": "油 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 油."
+    },
+    {
+      "japanese": "この文章には油が使われています。",
+      "romaji": "kono bunshou ni wa 油 ga tsukawarete imasu.",
+      "meaning": "The kanji 油 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "況という漢字の読み方を練習しています。",
+      "romaji": "況 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 況."
+    },
+    {
+      "japanese": "この文章には況が使われています。",
+      "romaji": "kono bunshou ni wa 況 ga tsukawarete imasu.",
+      "meaning": "The kanji 況 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "泉という漢字の読み方を練習しています。",
+      "romaji": "泉 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 泉."
+    },
+    {
+      "japanese": "この文章には泉が使われています。",
+      "romaji": "kono bunshou ni wa 泉 ga tsukawarete imasu.",
+      "meaning": "The kanji 泉 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "泊という漢字の読み方を練習しています。",
+      "romaji": "泊 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 泊."
+    },
+    {
+      "japanese": "この文章には泊が使われています。",
+      "romaji": "kono bunshou ni wa 泊 ga tsukawarete imasu.",
+      "meaning": "The kanji 泊 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "波という漢字の読み方を練習しています。",
+      "romaji": "波 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 波."
+    },
+    {
+      "japanese": "この文章には波が使われています。",
+      "romaji": "kono bunshou ni wa 波 ga tsukawarete imasu.",
+      "meaning": "The kanji 波 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "泥という漢字の読み方を練習しています。",
+      "romaji": "泥 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 泥."
+    },
+    {
+      "japanese": "この文章には泥が使われています。",
+      "romaji": "kono bunshou ni wa 泥 ga tsukawarete imasu.",
+      "meaning": "The kanji 泥 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "浅という漢字の読み方を練習しています。",
+      "romaji": "浅 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 浅."
+    },
+    {
+      "japanese": "この文章には浅が使われています。",
+      "romaji": "kono bunshou ni wa 浅 ga tsukawarete imasu.",
+      "meaning": "The kanji 浅 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "浴という漢字の読み方を練習しています。",
+      "romaji": "浴 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 浴."
+    },
+    {
+      "japanese": "この文章には浴が使われています。",
+      "romaji": "kono bunshou ni wa 浴 ga tsukawarete imasu.",
+      "meaning": "The kanji 浴 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "涙という漢字の読み方を練習しています。",
+      "romaji": "涙 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 涙."
+    },
+    {
+      "japanese": "この文章には涙が使われています。",
+      "romaji": "kono bunshou ni wa 涙 ga tsukawarete imasu.",
+      "meaning": "The kanji 涙 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "液という漢字の読み方を練習しています。",
+      "romaji": "液 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 液."
+    },
+    {
+      "japanese": "この文章には液が使われています。",
+      "romaji": "kono bunshou ni wa 液 ga tsukawarete imasu.",
+      "meaning": "The kanji 液 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "涼という漢字の読み方を練習しています。",
+      "romaji": "涼 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 涼."
+    },
+    {
+      "japanese": "この文章には涼が使われています。",
+      "romaji": "kono bunshou ni wa 涼 ga tsukawarete imasu.",
+      "meaning": "The kanji 涼 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "混という漢字の読み方を練習しています。",
+      "romaji": "混 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 混."
+    },
+    {
+      "japanese": "この文章には混が使われています。",
+      "romaji": "kono bunshou ni wa 混 ga tsukawarete imasu.",
+      "meaning": "The kanji 混 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "清という漢字の読み方を練習しています。",
+      "romaji": "清 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 清."
+    },
+    {
+      "japanese": "この文章には清が使われています。",
+      "romaji": "kono bunshou ni wa 清 ga tsukawarete imasu.",
+      "meaning": "The kanji 清 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "減という漢字の読み方を練習しています。",
+      "romaji": "減 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 減."
+    },
+    {
+      "japanese": "この文章には減が使われています。",
+      "romaji": "kono bunshou ni wa 減 ga tsukawarete imasu.",
+      "meaning": "The kanji 減 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "温という漢字の読み方を練習しています。",
+      "romaji": "温 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 温."
+    },
+    {
+      "japanese": "この文章には温が使われています。",
+      "romaji": "kono bunshou ni wa 温 ga tsukawarete imasu.",
+      "meaning": "The kanji 温 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "測という漢字の読み方を練習しています。",
+      "romaji": "測 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 測."
+    },
+    {
+      "japanese": "この文章には測が使われています。",
+      "romaji": "kono bunshou ni wa 測 ga tsukawarete imasu.",
+      "meaning": "The kanji 測 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "湖という漢字の読み方を練習しています。",
+      "romaji": "湖 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 湖."
+    },
+    {
+      "japanese": "この文章には湖が使われています。",
+      "romaji": "kono bunshou ni wa 湖 ga tsukawarete imasu.",
+      "meaning": "The kanji 湖 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "湯という漢字の読み方を練習しています。",
+      "romaji": "湯 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 湯."
+    },
+    {
+      "japanese": "この文章には湯が使われています。",
+      "romaji": "kono bunshou ni wa 湯 ga tsukawarete imasu.",
+      "meaning": "The kanji 湯 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "湾という漢字の読み方を練習しています。",
+      "romaji": "湾 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 湾."
+    },
+    {
+      "japanese": "この文章には湾が使われています。",
+      "romaji": "kono bunshou ni wa 湾 ga tsukawarete imasu.",
+      "meaning": "The kanji 湾 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "湿という漢字の読み方を練習しています。",
+      "romaji": "湿 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 湿."
+    },
+    {
+      "japanese": "この文章には湿が使われています。",
+      "romaji": "kono bunshou ni wa 湿 ga tsukawarete imasu.",
+      "meaning": "The kanji 湿 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "準という漢字の読み方を練習しています。",
+      "romaji": "準 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 準."
+    },
+    {
+      "japanese": "この文章には準が使われています。",
+      "romaji": "kono bunshou ni wa 準 ga tsukawarete imasu.",
+      "meaning": "The kanji 準 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "溶という漢字の読み方を練習しています。",
+      "romaji": "溶 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 溶."
+    },
+    {
+      "japanese": "この文章には溶が使われています。",
+      "romaji": "kono bunshou ni wa 溶 ga tsukawarete imasu.",
+      "meaning": "The kanji 溶 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "滴という漢字の読み方を練習しています。",
+      "romaji": "滴 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 滴."
+    },
+    {
+      "japanese": "この文章には滴が使われています。",
+      "romaji": "kono bunshou ni wa 滴 ga tsukawarete imasu.",
+      "meaning": "The kanji 滴 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "漁という漢字の読み方を練習しています。",
+      "romaji": "漁 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 漁."
+    },
+    {
+      "japanese": "この文章には漁が使われています。",
+      "romaji": "kono bunshou ni wa 漁 ga tsukawarete imasu.",
+      "meaning": "The kanji 漁 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "濃という漢字の読み方を練習しています。",
+      "romaji": "濃 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 濃."
+    },
+    {
+      "japanese": "この文章には濃が使われています。",
+      "romaji": "kono bunshou ni wa 濃 ga tsukawarete imasu.",
+      "meaning": "The kanji 濃 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "濯という漢字の読み方を練習しています。",
+      "romaji": "濯 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 濯."
+    },
+    {
+      "japanese": "この文章には濯が使われています。",
+      "romaji": "kono bunshou ni wa 濯 ga tsukawarete imasu.",
+      "meaning": "The kanji 濯 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "灯という漢字の読み方を練習しています。",
+      "romaji": "灯 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 灯."
+    },
+    {
+      "japanese": "この文章には灯が使われています。",
+      "romaji": "kono bunshou ni wa 灯 ga tsukawarete imasu.",
+      "meaning": "The kanji 灯 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "灰という漢字の読み方を練習しています。",
+      "romaji": "灰 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 灰."
+    },
+    {
+      "japanese": "この文章には灰が使われています。",
+      "romaji": "kono bunshou ni wa 灰 ga tsukawarete imasu.",
+      "meaning": "The kanji 灰 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "炭という漢字の読み方を練習しています。",
+      "romaji": "炭 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 炭."
+    },
+    {
+      "japanese": "この文章には炭が使われています。",
+      "romaji": "kono bunshou ni wa 炭 ga tsukawarete imasu.",
+      "meaning": "The kanji 炭 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "無という漢字の読み方を練習しています。",
+      "romaji": "無 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 無."
+    },
+    {
+      "japanese": "この文章には無が使われています。",
+      "romaji": "kono bunshou ni wa 無 ga tsukawarete imasu.",
+      "meaning": "The kanji 無 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "焼という漢字の読み方を練習しています。",
+      "romaji": "焼 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 焼."
+    },
+    {
+      "japanese": "この文章には焼が使われています。",
+      "romaji": "kono bunshou ni wa 焼 ga tsukawarete imasu.",
+      "meaning": "The kanji 焼 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "照という漢字の読み方を練習しています。",
+      "romaji": "照 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 照."
+    },
+    {
+      "japanese": "この文章には照が使われています。",
+      "romaji": "kono bunshou ni wa 照 ga tsukawarete imasu.",
+      "meaning": "The kanji 照 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "燃という漢字の読み方を練習しています。",
+      "romaji": "燃 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 燃."
+    },
+    {
+      "japanese": "この文章には燃が使われています。",
+      "romaji": "kono bunshou ni wa 燃 ga tsukawarete imasu.",
+      "meaning": "The kanji 燃 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "燥という漢字の読み方を練習しています。",
+      "romaji": "燥 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 燥."
+    },
+    {
+      "japanese": "この文章には燥が使われています。",
+      "romaji": "kono bunshou ni wa 燥 ga tsukawarete imasu.",
+      "meaning": "The kanji 燥 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "爆という漢字の読み方を練習しています。",
+      "romaji": "爆 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 爆."
+    },
+    {
+      "japanese": "この文章には爆が使われています。",
+      "romaji": "kono bunshou ni wa 爆 ga tsukawarete imasu.",
+      "meaning": "The kanji 爆 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "片という漢字の読み方を練習しています。",
+      "romaji": "片 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 片."
+    },
+    {
+      "japanese": "この文章には片が使われています。",
+      "romaji": "kono bunshou ni wa 片 ga tsukawarete imasu.",
+      "meaning": "The kanji 片 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "版という漢字の読み方を練習しています。",
+      "romaji": "版 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 版."
+    },
+    {
+      "japanese": "この文章には版が使われています。",
+      "romaji": "kono bunshou ni wa 版 ga tsukawarete imasu.",
+      "meaning": "The kanji 版 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "玉という漢字の読み方を練習しています。",
+      "romaji": "玉 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 玉."
+    },
+    {
+      "japanese": "この文章には玉が使われています。",
+      "romaji": "kono bunshou ni wa 玉 ga tsukawarete imasu.",
+      "meaning": "The kanji 玉 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "珍という漢字の読み方を練習しています。",
+      "romaji": "珍 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 珍."
+    },
+    {
+      "japanese": "この文章には珍が使われています。",
+      "romaji": "kono bunshou ni wa 珍 ga tsukawarete imasu.",
+      "meaning": "The kanji 珍 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "瓶という漢字の読み方を練習しています。",
+      "romaji": "瓶 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 瓶."
+    },
+    {
+      "japanese": "この文章には瓶が使われています。",
+      "romaji": "kono bunshou ni wa 瓶 ga tsukawarete imasu.",
+      "meaning": "The kanji 瓶 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "甘という漢字の読み方を練習しています。",
+      "romaji": "甘 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 甘."
+    },
+    {
+      "japanese": "この文章には甘が使われています。",
+      "romaji": "kono bunshou ni wa 甘 ga tsukawarete imasu.",
+      "meaning": "The kanji 甘 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "畜という漢字の読み方を練習しています。",
+      "romaji": "畜 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 畜."
+    },
+    {
+      "japanese": "この文章には畜が使われています。",
+      "romaji": "kono bunshou ni wa 畜 ga tsukawarete imasu.",
+      "meaning": "The kanji 畜 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "略という漢字の読み方を練習しています。",
+      "romaji": "略 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 略."
+    },
+    {
+      "japanese": "この文章には略が使われています。",
+      "romaji": "kono bunshou ni wa 略 ga tsukawarete imasu.",
+      "meaning": "The kanji 略 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "畳という漢字の読み方を練習しています。",
+      "romaji": "畳 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 畳."
+    },
+    {
+      "japanese": "この文章には畳が使われています。",
+      "romaji": "kono bunshou ni wa 畳 ga tsukawarete imasu.",
+      "meaning": "The kanji 畳 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "療という漢字の読み方を練習しています。",
+      "romaji": "療 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 療."
+    },
+    {
+      "japanese": "この文章には療が使われています。",
+      "romaji": "kono bunshou ni wa 療 ga tsukawarete imasu.",
+      "meaning": "The kanji 療 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "皮という漢字の読み方を練習しています。",
+      "romaji": "皮 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 皮."
+    },
+    {
+      "japanese": "この文章には皮が使われています。",
+      "romaji": "kono bunshou ni wa 皮 ga tsukawarete imasu.",
+      "meaning": "The kanji 皮 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "皿という漢字の読み方を練習しています。",
+      "romaji": "皿 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 皿."
+    },
+    {
+      "japanese": "この文章には皿が使われています。",
+      "romaji": "kono bunshou ni wa 皿 ga tsukawarete imasu.",
+      "meaning": "The kanji 皿 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "省という漢字の読み方を練習しています。",
+      "romaji": "省 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 省."
+    },
+    {
+      "japanese": "この文章には省が使われています。",
+      "romaji": "kono bunshou ni wa 省 ga tsukawarete imasu.",
+      "meaning": "The kanji 省 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "県という漢字の読み方を練習しています。",
+      "romaji": "県 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 県."
+    },
+    {
+      "japanese": "この文章には県が使われています。",
+      "romaji": "kono bunshou ni wa 県 ga tsukawarete imasu.",
+      "meaning": "The kanji 県 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "短という漢字の読み方を練習しています。",
+      "romaji": "短 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 短."
+    },
+    {
+      "japanese": "この文章には短が使われています。",
+      "romaji": "kono bunshou ni wa 短 ga tsukawarete imasu.",
+      "meaning": "The kanji 短 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "砂という漢字の読み方を練習しています。",
+      "romaji": "砂 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 砂."
+    },
+    {
+      "japanese": "この文章には砂が使われています。",
+      "romaji": "kono bunshou ni wa 砂 ga tsukawarete imasu.",
+      "meaning": "The kanji 砂 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "硬という漢字の読み方を練習しています。",
+      "romaji": "硬 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 硬."
+    },
+    {
+      "japanese": "この文章には硬が使われています。",
+      "romaji": "kono bunshou ni wa 硬 ga tsukawarete imasu.",
+      "meaning": "The kanji 硬 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "磨という漢字の読み方を練習しています。",
+      "romaji": "磨 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 磨."
+    },
+    {
+      "japanese": "この文章には磨が使われています。",
+      "romaji": "kono bunshou ni wa 磨 ga tsukawarete imasu.",
+      "meaning": "The kanji 磨 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "祈という漢字の読み方を練習しています。",
+      "romaji": "祈 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 祈."
+    },
+    {
+      "japanese": "この文章には祈が使われています。",
+      "romaji": "kono bunshou ni wa 祈 ga tsukawarete imasu.",
+      "meaning": "The kanji 祈 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "祝という漢字の読み方を練習しています。",
+      "romaji": "祝 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 祝."
+    },
+    {
+      "japanese": "この文章には祝が使われています。",
+      "romaji": "kono bunshou ni wa 祝 ga tsukawarete imasu.",
+      "meaning": "The kanji 祝 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "祭という漢字の読み方を練習しています。",
+      "romaji": "祭 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 祭."
+    },
+    {
+      "japanese": "この文章には祭が使われています。",
+      "romaji": "kono bunshou ni wa 祭 ga tsukawarete imasu.",
+      "meaning": "The kanji 祭 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "禁という漢字の読み方を練習しています。",
+      "romaji": "禁 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 禁."
+    },
+    {
+      "japanese": "この文章には禁が使われています。",
+      "romaji": "kono bunshou ni wa 禁 ga tsukawarete imasu.",
+      "meaning": "The kanji 禁 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "秒という漢字の読み方を練習しています。",
+      "romaji": "秒 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 秒."
+    },
+    {
+      "japanese": "この文章には秒が使われています。",
+      "romaji": "kono bunshou ni wa 秒 ga tsukawarete imasu.",
+      "meaning": "The kanji 秒 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "移という漢字の読み方を練習しています。",
+      "romaji": "移 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 移."
+    },
+    {
+      "japanese": "この文章には移が使われています。",
+      "romaji": "kono bunshou ni wa 移 ga tsukawarete imasu.",
+      "meaning": "The kanji 移 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "税という漢字の読み方を練習しています。",
+      "romaji": "税 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 税."
+    },
+    {
+      "japanese": "この文章には税が使われています。",
+      "romaji": "kono bunshou ni wa 税 ga tsukawarete imasu.",
+      "meaning": "The kanji 税 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "章という漢字の読み方を練習しています。",
+      "romaji": "章 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 章."
+    },
+    {
+      "japanese": "この文章には章が使われています。",
+      "romaji": "kono bunshou ni wa 章 ga tsukawarete imasu.",
+      "meaning": "The kanji 章 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "童という漢字の読み方を練習しています。",
+      "romaji": "童 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 童."
+    },
+    {
+      "japanese": "この文章には童が使われています。",
+      "romaji": "kono bunshou ni wa 童 ga tsukawarete imasu.",
+      "meaning": "The kanji 童 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "競という漢字の読み方を練習しています。",
+      "romaji": "競 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 競."
+    },
+    {
+      "japanese": "この文章には競が使われています。",
+      "romaji": "kono bunshou ni wa 競 ga tsukawarete imasu.",
+      "meaning": "The kanji 競 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "竹という漢字の読み方を練習しています。",
+      "romaji": "竹 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 竹."
+    },
+    {
+      "japanese": "この文章には竹が使われています。",
+      "romaji": "kono bunshou ni wa 竹 ga tsukawarete imasu.",
+      "meaning": "The kanji 竹 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "符という漢字の読み方を練習しています。",
+      "romaji": "符 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 符."
+    },
+    {
+      "japanese": "この文章には符が使われています。",
+      "romaji": "kono bunshou ni wa 符 ga tsukawarete imasu.",
+      "meaning": "The kanji 符 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "筆という漢字の読み方を練習しています。",
+      "romaji": "筆 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 筆."
+    },
+    {
+      "japanese": "この文章には筆が使われています。",
+      "romaji": "kono bunshou ni wa 筆 ga tsukawarete imasu.",
+      "meaning": "The kanji 筆 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "筒という漢字の読み方を練習しています。",
+      "romaji": "筒 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 筒."
+    },
+    {
+      "japanese": "この文章には筒が使われています。",
+      "romaji": "kono bunshou ni wa 筒 ga tsukawarete imasu.",
+      "meaning": "The kanji 筒 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "算という漢字の読み方を練習しています。",
+      "romaji": "算 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 算."
+    },
+    {
+      "japanese": "この文章には算が使われています。",
+      "romaji": "kono bunshou ni wa 算 ga tsukawarete imasu.",
+      "meaning": "The kanji 算 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "管という漢字の読み方を練習しています。",
+      "romaji": "管 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 管."
+    },
+    {
+      "japanese": "この文章には管が使われています。",
+      "romaji": "kono bunshou ni wa 管 ga tsukawarete imasu.",
+      "meaning": "The kanji 管 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "築という漢字の読み方を練習しています。",
+      "romaji": "築 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 築."
+    },
+    {
+      "japanese": "この文章には築が使われています。",
+      "romaji": "kono bunshou ni wa 築 ga tsukawarete imasu.",
+      "meaning": "The kanji 築 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "簡という漢字の読み方を練習しています。",
+      "romaji": "簡 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 簡."
+    },
+    {
+      "japanese": "この文章には簡が使われています。",
+      "romaji": "kono bunshou ni wa 簡 ga tsukawarete imasu.",
+      "meaning": "The kanji 簡 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "籍という漢字の読み方を練習しています。",
+      "romaji": "籍 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 籍."
+    },
+    {
+      "japanese": "この文章には籍が使われています。",
+      "romaji": "kono bunshou ni wa 籍 ga tsukawarete imasu.",
+      "meaning": "The kanji 籍 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "粉という漢字の読み方を練習しています。",
+      "romaji": "粉 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 粉."
+    },
+    {
+      "japanese": "この文章には粉が使われています。",
+      "romaji": "kono bunshou ni wa 粉 ga tsukawarete imasu.",
+      "meaning": "The kanji 粉 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "粒という漢字の読み方を練習しています。",
+      "romaji": "粒 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 粒."
+    },
+    {
+      "japanese": "この文章には粒が使われています。",
+      "romaji": "kono bunshou ni wa 粒 ga tsukawarete imasu.",
+      "meaning": "The kanji 粒 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "糸という漢字の読み方を練習しています。",
+      "romaji": "糸 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 糸."
+    },
+    {
+      "japanese": "この文章には糸が使われています。",
+      "romaji": "kono bunshou ni wa 糸 ga tsukawarete imasu.",
+      "meaning": "The kanji 糸 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "紅という漢字の読み方を練習しています。",
+      "romaji": "紅 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 紅."
+    },
+    {
+      "japanese": "この文章には紅が使われています。",
+      "romaji": "kono bunshou ni wa 紅 ga tsukawarete imasu.",
+      "meaning": "The kanji 紅 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "純という漢字の読み方を練習しています。",
+      "romaji": "純 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 純."
+    },
+    {
+      "japanese": "この文章には純が使われています。",
+      "romaji": "kono bunshou ni wa 純 ga tsukawarete imasu.",
+      "meaning": "The kanji 純 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "細という漢字の読み方を練習しています。",
+      "romaji": "細 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 細."
+    },
+    {
+      "japanese": "この文章には細が使われています。",
+      "romaji": "kono bunshou ni wa 細 ga tsukawarete imasu.",
+      "meaning": "The kanji 細 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "紹という漢字の読み方を練習しています。",
+      "romaji": "紹 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 紹."
+    },
+    {
+      "japanese": "この文章には紹が使われています。",
+      "romaji": "kono bunshou ni wa 紹 ga tsukawarete imasu.",
+      "meaning": "The kanji 紹 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "絡という漢字の読み方を練習しています。",
+      "romaji": "絡 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 絡."
+    },
+    {
+      "japanese": "この文章には絡が使われています。",
+      "romaji": "kono bunshou ni wa 絡 ga tsukawarete imasu.",
+      "meaning": "The kanji 絡 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "綿という漢字の読み方を練習しています。",
+      "romaji": "綿 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 綿."
+    },
+    {
+      "japanese": "この文章には綿が使われています。",
+      "romaji": "kono bunshou ni wa 綿 ga tsukawarete imasu.",
+      "meaning": "The kanji 綿 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "総という漢字の読み方を練習しています。",
+      "romaji": "総 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 総."
+    },
+    {
+      "japanese": "この文章には総が使われています。",
+      "romaji": "kono bunshou ni wa 総 ga tsukawarete imasu.",
+      "meaning": "The kanji 総 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "緑という漢字の読み方を練習しています。",
+      "romaji": "緑 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 緑."
+    },
+    {
+      "japanese": "この文章には緑が使われています。",
+      "romaji": "kono bunshou ni wa 緑 ga tsukawarete imasu.",
+      "meaning": "The kanji 緑 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "線という漢字の読み方を練習しています。",
+      "romaji": "線 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 線."
+    },
+    {
+      "japanese": "この文章には線が使われています。",
+      "romaji": "kono bunshou ni wa 線 ga tsukawarete imasu.",
+      "meaning": "The kanji 線 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "編という漢字の読み方を練習しています。",
+      "romaji": "編 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 編."
+    },
+    {
+      "japanese": "この文章には編が使われています。",
+      "romaji": "kono bunshou ni wa 編 ga tsukawarete imasu.",
+      "meaning": "The kanji 編 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "練という漢字の読み方を練習しています。",
+      "romaji": "練 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 練."
+    },
+    {
+      "japanese": "この文章には練が使われています。",
+      "romaji": "kono bunshou ni wa 練 ga tsukawarete imasu.",
+      "meaning": "The kanji 練 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "績という漢字の読み方を練習しています。",
+      "romaji": "績 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 績."
+    },
+    {
+      "japanese": "この文章には績が使われています。",
+      "romaji": "kono bunshou ni wa 績 ga tsukawarete imasu.",
+      "meaning": "The kanji 績 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "缶という漢字の読み方を練習しています。",
+      "romaji": "缶 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 缶."
+    },
+    {
+      "japanese": "この文章には缶が使われています。",
+      "romaji": "kono bunshou ni wa 缶 ga tsukawarete imasu.",
+      "meaning": "The kanji 缶 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "署という漢字の読み方を練習しています。",
+      "romaji": "署 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 署."
+    },
+    {
+      "japanese": "この文章には署が使われています。",
+      "romaji": "kono bunshou ni wa 署 ga tsukawarete imasu.",
+      "meaning": "The kanji 署 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "群という漢字の読み方を練習しています。",
+      "romaji": "群 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 群."
+    },
+    {
+      "japanese": "この文章には群が使われています。",
+      "romaji": "kono bunshou ni wa 群 ga tsukawarete imasu.",
+      "meaning": "The kanji 群 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "羽という漢字の読み方を練習しています。",
+      "romaji": "羽 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 羽."
+    },
+    {
+      "japanese": "この文章には羽が使われています。",
+      "romaji": "kono bunshou ni wa 羽 ga tsukawarete imasu.",
+      "meaning": "The kanji 羽 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "翌という漢字の読み方を練習しています。",
+      "romaji": "翌 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 翌."
+    },
+    {
+      "japanese": "この文章には翌が使われています。",
+      "romaji": "kono bunshou ni wa 翌 ga tsukawarete imasu.",
+      "meaning": "The kanji 翌 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "耕という漢字の読み方を練習しています。",
+      "romaji": "耕 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 耕."
+    },
+    {
+      "japanese": "この文章には耕が使われています。",
+      "romaji": "kono bunshou ni wa 耕 ga tsukawarete imasu.",
+      "meaning": "The kanji 耕 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "肌という漢字の読み方を練習しています。",
+      "romaji": "肌 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 肌."
+    },
+    {
+      "japanese": "この文章には肌が使われています。",
+      "romaji": "kono bunshou ni wa 肌 ga tsukawarete imasu.",
+      "meaning": "The kanji 肌 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "肩という漢字の読み方を練習しています。",
+      "romaji": "肩 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 肩."
+    },
+    {
+      "japanese": "この文章には肩が使われています。",
+      "romaji": "kono bunshou ni wa 肩 ga tsukawarete imasu.",
+      "meaning": "The kanji 肩 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "肯という漢字の読み方を練習しています。",
+      "romaji": "肯 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 肯."
+    },
+    {
+      "japanese": "この文章には肯が使われています。",
+      "romaji": "kono bunshou ni wa 肯 ga tsukawarete imasu.",
+      "meaning": "The kanji 肯 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "胃という漢字の読み方を練習しています。",
+      "romaji": "胃 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 胃."
+    },
+    {
+      "japanese": "この文章には胃が使われています。",
+      "romaji": "kono bunshou ni wa 胃 ga tsukawarete imasu.",
+      "meaning": "The kanji 胃 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "胸という漢字の読み方を練習しています。",
+      "romaji": "胸 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 胸."
+    },
+    {
+      "japanese": "この文章には胸が使われています。",
+      "romaji": "kono bunshou ni wa 胸 ga tsukawarete imasu.",
+      "meaning": "The kanji 胸 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "脂という漢字の読み方を練習しています。",
+      "romaji": "脂 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 脂."
+    },
+    {
+      "japanese": "この文章には脂が使われています。",
+      "romaji": "kono bunshou ni wa 脂 ga tsukawarete imasu.",
+      "meaning": "The kanji 脂 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "脳という漢字の読み方を練習しています。",
+      "romaji": "脳 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 脳."
+    },
+    {
+      "japanese": "この文章には脳が使われています。",
+      "romaji": "kono bunshou ni wa 脳 ga tsukawarete imasu.",
+      "meaning": "The kanji 脳 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "腕という漢字の読み方を練習しています。",
+      "romaji": "腕 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 腕."
+    },
+    {
+      "japanese": "この文章には腕が使われています。",
+      "romaji": "kono bunshou ni wa 腕 ga tsukawarete imasu.",
+      "meaning": "The kanji 腕 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "腰という漢字の読み方を練習しています。",
+      "romaji": "腰 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 腰."
+    },
+    {
+      "japanese": "この文章には腰が使われています。",
+      "romaji": "kono bunshou ni wa 腰 ga tsukawarete imasu.",
+      "meaning": "The kanji 腰 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "膚という漢字の読み方を練習しています。",
+      "romaji": "膚 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 膚."
+    },
+    {
+      "japanese": "この文章には膚が使われています。",
+      "romaji": "kono bunshou ni wa 膚 ga tsukawarete imasu.",
+      "meaning": "The kanji 膚 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "臓という漢字の読み方を練習しています。",
+      "romaji": "臓 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 臓."
+    },
+    {
+      "japanese": "この文章には臓が使われています。",
+      "romaji": "kono bunshou ni wa 臓 ga tsukawarete imasu.",
+      "meaning": "The kanji 臓 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "臣という漢字の読み方を練習しています。",
+      "romaji": "臣 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 臣."
+    },
+    {
+      "japanese": "この文章には臣が使われています。",
+      "romaji": "kono bunshou ni wa 臣 ga tsukawarete imasu.",
+      "meaning": "The kanji 臣 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "舟という漢字の読み方を練習しています。",
+      "romaji": "舟 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 舟."
+    },
+    {
+      "japanese": "この文章には舟が使われています。",
+      "romaji": "kono bunshou ni wa 舟 ga tsukawarete imasu.",
+      "meaning": "The kanji 舟 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "航という漢字の読み方を練習しています。",
+      "romaji": "航 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 航."
+    },
+    {
+      "japanese": "この文章には航が使われています。",
+      "romaji": "kono bunshou ni wa 航 ga tsukawarete imasu.",
+      "meaning": "The kanji 航 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "般という漢字の読み方を練習しています。",
+      "romaji": "般 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 般."
+    },
+    {
+      "japanese": "この文章には般が使われています。",
+      "romaji": "kono bunshou ni wa 般 ga tsukawarete imasu.",
+      "meaning": "The kanji 般 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "芸という漢字の読み方を練習しています。",
+      "romaji": "芸 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 芸."
+    },
+    {
+      "japanese": "この文章には芸が使われています。",
+      "romaji": "kono bunshou ni wa 芸 ga tsukawarete imasu.",
+      "meaning": "The kanji 芸 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "荒という漢字の読み方を練習しています。",
+      "romaji": "荒 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 荒."
+    },
+    {
+      "japanese": "この文章には荒が使われています。",
+      "romaji": "kono bunshou ni wa 荒 ga tsukawarete imasu.",
+      "meaning": "The kanji 荒 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "荷という漢字の読み方を練習しています。",
+      "romaji": "荷 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 荷."
+    },
+    {
+      "japanese": "この文章には荷が使われています。",
+      "romaji": "kono bunshou ni wa 荷 ga tsukawarete imasu.",
+      "meaning": "The kanji 荷 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "菓という漢字の読み方を練習しています。",
+      "romaji": "菓 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 菓."
+    },
+    {
+      "japanese": "この文章には菓が使われています。",
+      "romaji": "kono bunshou ni wa 菓 ga tsukawarete imasu.",
+      "meaning": "The kanji 菓 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "菜という漢字の読み方を練習しています。",
+      "romaji": "菜 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 菜."
+    },
+    {
+      "japanese": "この文章には菜が使われています。",
+      "romaji": "kono bunshou ni wa 菜 ga tsukawarete imasu.",
+      "meaning": "The kanji 菜 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "著という漢字の読み方を練習しています。",
+      "romaji": "著 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 著."
+    },
+    {
+      "japanese": "この文章には著が使われています。",
+      "romaji": "kono bunshou ni wa 著 ga tsukawarete imasu.",
+      "meaning": "The kanji 著 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "蒸という漢字の読み方を練習しています。",
+      "romaji": "蒸 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 蒸."
+    },
+    {
+      "japanese": "この文章には蒸が使われています。",
+      "romaji": "kono bunshou ni wa 蒸 ga tsukawarete imasu.",
+      "meaning": "The kanji 蒸 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "蔵という漢字の読み方を練習しています。",
+      "romaji": "蔵 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 蔵."
+    },
+    {
+      "japanese": "この文章には蔵が使われています。",
+      "romaji": "kono bunshou ni wa 蔵 ga tsukawarete imasu.",
+      "meaning": "The kanji 蔵 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "薄という漢字の読み方を練習しています。",
+      "romaji": "薄 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 薄."
+    },
+    {
+      "japanese": "この文章には薄が使われています。",
+      "romaji": "kono bunshou ni wa 薄 ga tsukawarete imasu.",
+      "meaning": "The kanji 薄 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "虫という漢字の読み方を練習しています。",
+      "romaji": "虫 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 虫."
+    },
+    {
+      "japanese": "この文章には虫が使われています。",
+      "romaji": "kono bunshou ni wa 虫 ga tsukawarete imasu.",
+      "meaning": "The kanji 虫 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "血という漢字の読み方を練習しています。",
+      "romaji": "血 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 血."
+    },
+    {
+      "japanese": "この文章には血が使われています。",
+      "romaji": "kono bunshou ni wa 血 ga tsukawarete imasu.",
+      "meaning": "The kanji 血 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "衣という漢字の読み方を練習しています。",
+      "romaji": "衣 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 衣."
+    },
+    {
+      "japanese": "この文章には衣が使われています。",
+      "romaji": "kono bunshou ni wa 衣 ga tsukawarete imasu.",
+      "meaning": "The kanji 衣 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "袋という漢字の読み方を練習しています。",
+      "romaji": "袋 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 袋."
+    },
+    {
+      "japanese": "この文章には袋が使われています。",
+      "romaji": "kono bunshou ni wa 袋 ga tsukawarete imasu.",
+      "meaning": "The kanji 袋 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "被という漢字の読み方を練習しています。",
+      "romaji": "被 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 被."
+    },
+    {
+      "japanese": "この文章には被が使われています。",
+      "romaji": "kono bunshou ni wa 被 ga tsukawarete imasu.",
+      "meaning": "The kanji 被 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "装という漢字の読み方を練習しています。",
+      "romaji": "装 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 装."
+    },
+    {
+      "japanese": "この文章には装が使われています。",
+      "romaji": "kono bunshou ni wa 装 ga tsukawarete imasu.",
+      "meaning": "The kanji 装 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "裏という漢字の読み方を練習しています。",
+      "romaji": "裏 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 裏."
+    },
+    {
+      "japanese": "この文章には裏が使われています。",
+      "romaji": "kono bunshou ni wa 裏 ga tsukawarete imasu.",
+      "meaning": "The kanji 裏 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "補という漢字の読み方を練習しています。",
+      "romaji": "補 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 補."
+    },
+    {
+      "japanese": "この文章には補が使われています。",
+      "romaji": "kono bunshou ni wa 補 ga tsukawarete imasu.",
+      "meaning": "The kanji 補 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "複という漢字の読み方を練習しています。",
+      "romaji": "複 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 複."
+    },
+    {
+      "japanese": "この文章には複が使われています。",
+      "romaji": "kono bunshou ni wa 複 ga tsukawarete imasu.",
+      "meaning": "The kanji 複 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "角という漢字の読み方を練習しています。",
+      "romaji": "角 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 角."
+    },
+    {
+      "japanese": "この文章には角が使われています。",
+      "romaji": "kono bunshou ni wa 角 ga tsukawarete imasu.",
+      "meaning": "The kanji 角 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "触という漢字の読み方を練習しています。",
+      "romaji": "触 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 触."
+    },
+    {
+      "japanese": "この文章には触が使われています。",
+      "romaji": "kono bunshou ni wa 触 ga tsukawarete imasu.",
+      "meaning": "The kanji 触 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "訓という漢字の読み方を練習しています。",
+      "romaji": "訓 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 訓."
+    },
+    {
+      "japanese": "この文章には訓が使われています。",
+      "romaji": "kono bunshou ni wa 訓 ga tsukawarete imasu.",
+      "meaning": "The kanji 訓 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "設という漢字の読み方を練習しています。",
+      "romaji": "設 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 設."
+    },
+    {
+      "japanese": "この文章には設が使われています。",
+      "romaji": "kono bunshou ni wa 設 ga tsukawarete imasu.",
+      "meaning": "The kanji 設 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "詞という漢字の読み方を練習しています。",
+      "romaji": "詞 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 詞."
+    },
+    {
+      "japanese": "この文章には詞が使われています。",
+      "romaji": "kono bunshou ni wa 詞 ga tsukawarete imasu.",
+      "meaning": "The kanji 詞 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "詰という漢字の読み方を練習しています。",
+      "romaji": "詰 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 詰."
+    },
+    {
+      "japanese": "この文章には詰が使われています。",
+      "romaji": "kono bunshou ni wa 詰 ga tsukawarete imasu.",
+      "meaning": "The kanji 詰 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "誌という漢字の読み方を練習しています。",
+      "romaji": "誌 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 誌."
+    },
+    {
+      "japanese": "この文章には誌が使われています。",
+      "romaji": "kono bunshou ni wa 誌 ga tsukawarete imasu.",
+      "meaning": "The kanji 誌 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "課という漢字の読み方を練習しています。",
+      "romaji": "課 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 課."
+    },
+    {
+      "japanese": "この文章には課が使われています。",
+      "romaji": "kono bunshou ni wa 課 ga tsukawarete imasu.",
+      "meaning": "The kanji 課 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "諸という漢字の読み方を練習しています。",
+      "romaji": "諸 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 諸."
+    },
+    {
+      "japanese": "この文章には諸が使われています。",
+      "romaji": "kono bunshou ni wa 諸 ga tsukawarete imasu.",
+      "meaning": "The kanji 諸 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "講という漢字の読み方を練習しています。",
+      "romaji": "講 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 講."
+    },
+    {
+      "japanese": "この文章には講が使われています。",
+      "romaji": "kono bunshou ni wa 講 ga tsukawarete imasu.",
+      "meaning": "The kanji 講 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "谷という漢字の読み方を練習しています。",
+      "romaji": "谷 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 谷."
+    },
+    {
+      "japanese": "この文章には谷が使われています。",
+      "romaji": "kono bunshou ni wa 谷 ga tsukawarete imasu.",
+      "meaning": "The kanji 谷 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "豊という漢字の読み方を練習しています。",
+      "romaji": "豊 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 豊."
+    },
+    {
+      "japanese": "この文章には豊が使われています。",
+      "romaji": "kono bunshou ni wa 豊 ga tsukawarete imasu.",
+      "meaning": "The kanji 豊 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "象という漢字の読み方を練習しています。",
+      "romaji": "象 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 象."
+    },
+    {
+      "japanese": "この文章には象が使われています。",
+      "romaji": "kono bunshou ni wa 象 ga tsukawarete imasu.",
+      "meaning": "The kanji 象 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "貝という漢字の読み方を練習しています。",
+      "romaji": "貝 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 貝."
+    },
+    {
+      "japanese": "この文章には貝が使われています。",
+      "romaji": "kono bunshou ni wa 貝 ga tsukawarete imasu.",
+      "meaning": "The kanji 貝 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "貨という漢字の読み方を練習しています。",
+      "romaji": "貨 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 貨."
+    },
+    {
+      "japanese": "この文章には貨が使われています。",
+      "romaji": "kono bunshou ni wa 貨 ga tsukawarete imasu.",
+      "meaning": "The kanji 貨 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "販という漢字の読み方を練習しています。",
+      "romaji": "販 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 販."
+    },
+    {
+      "japanese": "この文章には販が使われています。",
+      "romaji": "kono bunshou ni wa 販 ga tsukawarete imasu.",
+      "meaning": "The kanji 販 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "貯という漢字の読み方を練習しています。",
+      "romaji": "貯 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 貯."
+    },
+    {
+      "japanese": "この文章には貯が使われています。",
+      "romaji": "kono bunshou ni wa 貯 ga tsukawarete imasu.",
+      "meaning": "The kanji 貯 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "貿という漢字の読み方を練習しています。",
+      "romaji": "貿 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 貿."
+    },
+    {
+      "japanese": "この文章には貿が使われています。",
+      "romaji": "kono bunshou ni wa 貿 ga tsukawarete imasu.",
+      "meaning": "The kanji 貿 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "賞という漢字の読み方を練習しています。",
+      "romaji": "賞 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 賞."
+    },
+    {
+      "japanese": "この文章には賞が使われています。",
+      "romaji": "kono bunshou ni wa 賞 ga tsukawarete imasu.",
+      "meaning": "The kanji 賞 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "賢という漢字の読み方を練習しています。",
+      "romaji": "賢 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 賢."
+    },
+    {
+      "japanese": "この文章には賢が使われています。",
+      "romaji": "kono bunshou ni wa 賢 ga tsukawarete imasu.",
+      "meaning": "The kanji 賢 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "贈という漢字の読み方を練習しています。",
+      "romaji": "贈 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 贈."
+    },
+    {
+      "japanese": "この文章には贈が使われています。",
+      "romaji": "kono bunshou ni wa 贈 ga tsukawarete imasu.",
+      "meaning": "The kanji 贈 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "超という漢字の読み方を練習しています。",
+      "romaji": "超 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 超."
+    },
+    {
+      "japanese": "この文章には超が使われています。",
+      "romaji": "kono bunshou ni wa 超 ga tsukawarete imasu.",
+      "meaning": "The kanji 超 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "跡という漢字の読み方を練習しています。",
+      "romaji": "跡 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 跡."
+    },
+    {
+      "japanese": "この文章には跡が使われています。",
+      "romaji": "kono bunshou ni wa 跡 ga tsukawarete imasu.",
+      "meaning": "The kanji 跡 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "踊という漢字の読み方を練習しています。",
+      "romaji": "踊 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 踊."
+    },
+    {
+      "japanese": "この文章には踊が使われています。",
+      "romaji": "kono bunshou ni wa 踊 ga tsukawarete imasu.",
+      "meaning": "The kanji 踊 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "軍という漢字の読み方を練習しています。",
+      "romaji": "軍 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 軍."
+    },
+    {
+      "japanese": "この文章には軍が使われています。",
+      "romaji": "kono bunshou ni wa 軍 ga tsukawarete imasu.",
+      "meaning": "The kanji 軍 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "軒という漢字の読み方を練習しています。",
+      "romaji": "軒 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 軒."
+    },
+    {
+      "japanese": "この文章には軒が使われています。",
+      "romaji": "kono bunshou ni wa 軒 ga tsukawarete imasu.",
+      "meaning": "The kanji 軒 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "軟という漢字の読み方を練習しています。",
+      "romaji": "軟 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 軟."
+    },
+    {
+      "japanese": "この文章には軟が使われています。",
+      "romaji": "kono bunshou ni wa 軟 ga tsukawarete imasu.",
+      "meaning": "The kanji 軟 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "軽という漢字の読み方を練習しています。",
+      "romaji": "軽 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 軽."
+    },
+    {
+      "japanese": "この文章には軽が使われています。",
+      "romaji": "kono bunshou ni wa 軽 ga tsukawarete imasu.",
+      "meaning": "The kanji 軽 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "輪という漢字の読み方を練習しています。",
+      "romaji": "輪 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 輪."
+    },
+    {
+      "japanese": "この文章には輪が使われています。",
+      "romaji": "kono bunshou ni wa 輪 ga tsukawarete imasu.",
+      "meaning": "The kanji 輪 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "輸という漢字の読み方を練習しています。",
+      "romaji": "輸 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 輸."
+    },
+    {
+      "japanese": "この文章には輸が使われています。",
+      "romaji": "kono bunshou ni wa 輸 ga tsukawarete imasu.",
+      "meaning": "The kanji 輸 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "辛という漢字の読み方を練習しています。",
+      "romaji": "辛 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 辛."
+    },
+    {
+      "japanese": "この文章には辛が使われています。",
+      "romaji": "kono bunshou ni wa 辛 ga tsukawarete imasu.",
+      "meaning": "The kanji 辛 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "農という漢字の読み方を練習しています。",
+      "romaji": "農 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 農."
+    },
+    {
+      "japanese": "この文章には農が使われています。",
+      "romaji": "kono bunshou ni wa 農 ga tsukawarete imasu.",
+      "meaning": "The kanji 農 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "辺という漢字の読み方を練習しています。",
+      "romaji": "辺 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 辺."
+    },
+    {
+      "japanese": "この文章には辺が使われています。",
+      "romaji": "kono bunshou ni wa 辺 ga tsukawarete imasu.",
+      "meaning": "The kanji 辺 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "述という漢字の読み方を練習しています。",
+      "romaji": "述 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 述."
+    },
+    {
+      "japanese": "この文章には述が使われています。",
+      "romaji": "kono bunshou ni wa 述 ga tsukawarete imasu.",
+      "meaning": "The kanji 述 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "逆という漢字の読み方を練習しています。",
+      "romaji": "逆 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 逆."
+    },
+    {
+      "japanese": "この文章には逆が使われています。",
+      "romaji": "kono bunshou ni wa 逆 ga tsukawarete imasu.",
+      "meaning": "The kanji 逆 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "造という漢字の読み方を練習しています。",
+      "romaji": "造 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 造."
+    },
+    {
+      "japanese": "この文章には造が使われています。",
+      "romaji": "kono bunshou ni wa 造 ga tsukawarete imasu.",
+      "meaning": "The kanji 造 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "郊という漢字の読み方を練習しています。",
+      "romaji": "郊 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 郊."
+    },
+    {
+      "japanese": "この文章には郊が使われています。",
+      "romaji": "kono bunshou ni wa 郊 ga tsukawarete imasu.",
+      "meaning": "The kanji 郊 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "郵という漢字の読み方を練習しています。",
+      "romaji": "郵 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 郵."
+    },
+    {
+      "japanese": "この文章には郵が使われています。",
+      "romaji": "kono bunshou ni wa 郵 ga tsukawarete imasu.",
+      "meaning": "The kanji 郵 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "量という漢字の読み方を練習しています。",
+      "romaji": "量 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 量."
+    },
+    {
+      "japanese": "この文章には量が使われています。",
+      "romaji": "kono bunshou ni wa 量 ga tsukawarete imasu.",
+      "meaning": "The kanji 量 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "針という漢字の読み方を練習しています。",
+      "romaji": "針 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 針."
+    },
+    {
+      "japanese": "この文章には針が使われています。",
+      "romaji": "kono bunshou ni wa 針 ga tsukawarete imasu.",
+      "meaning": "The kanji 針 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "鈍という漢字の読み方を練習しています。",
+      "romaji": "鈍 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 鈍."
+    },
+    {
+      "japanese": "この文章には鈍が使われています。",
+      "romaji": "kono bunshou ni wa 鈍 ga tsukawarete imasu.",
+      "meaning": "The kanji 鈍 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "鉄という漢字の読み方を練習しています。",
+      "romaji": "鉄 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 鉄."
+    },
+    {
+      "japanese": "この文章には鉄が使われています。",
+      "romaji": "kono bunshou ni wa 鉄 ga tsukawarete imasu.",
+      "meaning": "The kanji 鉄 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "鉱という漢字の読み方を練習しています。",
+      "romaji": "鉱 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 鉱."
+    },
+    {
+      "japanese": "この文章には鉱が使われています。",
+      "romaji": "kono bunshou ni wa 鉱 ga tsukawarete imasu.",
+      "meaning": "The kanji 鉱 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "銅という漢字の読み方を練習しています。",
+      "romaji": "銅 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 銅."
+    },
+    {
+      "japanese": "この文章には銅が使われています。",
+      "romaji": "kono bunshou ni wa 銅 ga tsukawarete imasu.",
+      "meaning": "The kanji 銅 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "鋭という漢字の読み方を練習しています。",
+      "romaji": "鋭 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 鋭."
+    },
+    {
+      "japanese": "この文章には鋭が使われています。",
+      "romaji": "kono bunshou ni wa 鋭 ga tsukawarete imasu.",
+      "meaning": "The kanji 鋭 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "録という漢字の読み方を練習しています。",
+      "romaji": "録 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 録."
+    },
+    {
+      "japanese": "この文章には録が使われています。",
+      "romaji": "kono bunshou ni wa 録 ga tsukawarete imasu.",
+      "meaning": "The kanji 録 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "門という漢字の読み方を練習しています。",
+      "romaji": "門 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 門."
+    },
+    {
+      "japanese": "この文章には門が使われています。",
+      "romaji": "kono bunshou ni wa 門 ga tsukawarete imasu.",
+      "meaning": "The kanji 門 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "防という漢字の読み方を練習しています。",
+      "romaji": "防 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 防."
+    },
+    {
+      "japanese": "この文章には防が使われています。",
+      "romaji": "kono bunshou ni wa 防 ga tsukawarete imasu.",
+      "meaning": "The kanji 防 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "陸という漢字の読み方を練習しています。",
+      "romaji": "陸 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 陸."
+    },
+    {
+      "japanese": "この文章には陸が使われています。",
+      "romaji": "kono bunshou ni wa 陸 ga tsukawarete imasu.",
+      "meaning": "The kanji 陸 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "隅という漢字の読み方を練習しています。",
+      "romaji": "隅 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 隅."
+    },
+    {
+      "japanese": "この文章には隅が使われています。",
+      "romaji": "kono bunshou ni wa 隅 ga tsukawarete imasu.",
+      "meaning": "The kanji 隅 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "階という漢字の読み方を練習しています。",
+      "romaji": "階 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 階."
+    },
+    {
+      "japanese": "この文章には階が使われています。",
+      "romaji": "kono bunshou ni wa 階 ga tsukawarete imasu.",
+      "meaning": "The kanji 階 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "隻という漢字の読み方を練習しています。",
+      "romaji": "隻 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 隻."
+    },
+    {
+      "japanese": "この文章には隻が使われています。",
+      "romaji": "kono bunshou ni wa 隻 ga tsukawarete imasu.",
+      "meaning": "The kanji 隻 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "雇という漢字の読み方を練習しています。",
+      "romaji": "雇 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 雇."
+    },
+    {
+      "japanese": "この文章には雇が使われています。",
+      "romaji": "kono bunshou ni wa 雇 ga tsukawarete imasu.",
+      "meaning": "The kanji 雇 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "雲という漢字の読み方を練習しています。",
+      "romaji": "雲 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 雲."
+    },
+    {
+      "japanese": "この文章には雲が使われています。",
+      "romaji": "kono bunshou ni wa 雲 ga tsukawarete imasu.",
+      "meaning": "The kanji 雲 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "零という漢字の読み方を練習しています。",
+      "romaji": "零 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 零."
+    },
+    {
+      "japanese": "この文章には零が使われています。",
+      "romaji": "kono bunshou ni wa 零 ga tsukawarete imasu.",
+      "meaning": "The kanji 零 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "震という漢字の読み方を練習しています。",
+      "romaji": "震 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 震."
+    },
+    {
+      "japanese": "この文章には震が使われています。",
+      "romaji": "kono bunshou ni wa 震 ga tsukawarete imasu.",
+      "meaning": "The kanji 震 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "革という漢字の読み方を練習しています。",
+      "romaji": "革 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 革."
+    },
+    {
+      "japanese": "この文章には革が使われています。",
+      "romaji": "kono bunshou ni wa 革 ga tsukawarete imasu.",
+      "meaning": "The kanji 革 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "順という漢字の読み方を練習しています。",
+      "romaji": "順 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 順."
+    },
+    {
+      "japanese": "この文章には順が使われています。",
+      "romaji": "kono bunshou ni wa 順 ga tsukawarete imasu.",
+      "meaning": "The kanji 順 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "預という漢字の読み方を練習しています。",
+      "romaji": "預 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 預."
+    },
+    {
+      "japanese": "この文章には預が使われています。",
+      "romaji": "kono bunshou ni wa 預 ga tsukawarete imasu.",
+      "meaning": "The kanji 預 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "領という漢字の読み方を練習しています。",
+      "romaji": "領 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 領."
+    },
+    {
+      "japanese": "この文章には領が使われています。",
+      "romaji": "kono bunshou ni wa 領 ga tsukawarete imasu.",
+      "meaning": "The kanji 領 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "額という漢字の読み方を練習しています。",
+      "romaji": "額 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 額."
+    },
+    {
+      "japanese": "この文章には額が使われています。",
+      "romaji": "kono bunshou ni wa 額 ga tsukawarete imasu.",
+      "meaning": "The kanji 額 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "香という漢字の読み方を練習しています。",
+      "romaji": "香 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 香."
+    },
+    {
+      "japanese": "この文章には香が使われています。",
+      "romaji": "kono bunshou ni wa 香 ga tsukawarete imasu.",
+      "meaning": "The kanji 香 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "駐という漢字の読み方を練習しています。",
+      "romaji": "駐 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 駐."
+    },
+    {
+      "japanese": "この文章には駐が使われています。",
+      "romaji": "kono bunshou ni wa 駐 ga tsukawarete imasu.",
+      "meaning": "The kanji 駐 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "骨という漢字の読み方を練習しています。",
+      "romaji": "骨 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 骨."
+    },
+    {
+      "japanese": "この文章には骨が使われています。",
+      "romaji": "kono bunshou ni wa 骨 ga tsukawarete imasu.",
+      "meaning": "The kanji 骨 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "麦という漢字の読み方を練習しています。",
+      "romaji": "麦 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 麦."
+    },
+    {
+      "japanese": "この文章には麦が使われています。",
+      "romaji": "kono bunshou ni wa 麦 ga tsukawarete imasu.",
+      "meaning": "The kanji 麦 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "黄という漢字の読み方を練習しています。",
+      "romaji": "黄 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 黄."
+    },
+    {
+      "japanese": "この文章には黄が使われています。",
+      "romaji": "kono bunshou ni wa 黄 ga tsukawarete imasu.",
+      "meaning": "The kanji 黄 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "鼻という漢字の読み方を練習しています。",
+      "romaji": "鼻 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 鼻."
+    },
+    {
+      "japanese": "この文章には鼻が使われています。",
+      "romaji": "kono bunshou ni wa 鼻 ga tsukawarete imasu.",
+      "meaning": "The kanji 鼻 is used in this sentence."
+    }
+  ],
+  [
+    {
+      "japanese": "齢という漢字の読み方を練習しています。",
+      "romaji": "齢 to iu kanji no yomikata o renshuu shite imasu.",
+      "meaning": "I'm practicing how to read the kanji 齢."
+    },
+    {
+      "japanese": "この文章には齢が使われています。",
+      "romaji": "kono bunshou ni wa 齢 ga tsukawarete imasu.",
+      "meaning": "The kanji 齢 is used in this sentence."
+    }
+  ]
+]

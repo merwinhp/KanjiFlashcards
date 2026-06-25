@@ -1,0 +1,1320 @@
+[
+  [
+    {
+      "japanese": "一番大切なのは健康です。",
+      "romaji": "ichiban taisetsu na no wa kenkou desu.",
+      "meaning": "The most important thing is health."
+    },
+    {
+      "japanese": "これが一つだけあります。",
+      "romaji": "kore ga hitotsu dake arimasu.",
+      "meaning": "There is only one of this."
+    }
+  ],
+  [
+    {
+      "japanese": "二番目の駅で降りてください。",
+      "romaji": "nibanme no eki de orite kudasai.",
+      "meaning": "Please get off at the second station."
+    },
+    {
+      "japanese": "りんごを二つ買いました。",
+      "romaji": "ringo o futatsu kaimashita.",
+      "meaning": "I bought two apples."
+    }
+  ],
+  [
+    {
+      "japanese": "三時に会いましょう。",
+      "romaji": "sanji ni aimashou.",
+      "meaning": "Let's meet at three o'clock."
+    },
+    {
+      "japanese": "三日間雨が続きました。",
+      "romaji": "mikka kan ame ga tsuzukimashita.",
+      "meaning": "The rain continued for three days."
+    }
+  ],
+  [
+    {
+      "japanese": "四月から新学期が始まります。",
+      "romaji": "shigatsu kara shingakki ga hajimarimasu.",
+      "meaning": "The new semester starts in April."
+    },
+    {
+      "japanese": "四人で旅行に行きました。",
+      "romaji": "yonin de ryokou ni ikimashita.",
+      "meaning": "I went on a trip with four people."
+    }
+  ],
+  [
+    {
+      "japanese": "五時に起きます。",
+      "romaji": "goji ni okimasu.",
+      "meaning": "I wake up at five o'clock."
+    },
+    {
+      "japanese": "五百円払いました。",
+      "romaji": "gohyaku en haraimashita.",
+      "meaning": "I paid five hundred yen."
+    }
+  ],
+  [
+    {
+      "japanese": "六人家族です。",
+      "romaji": "rokunin kazoku desu.",
+      "meaning": "We are a family of six."
+    },
+    {
+      "japanese": "六つ目の交差点を曲がってください。",
+      "romaji": "mutsume no kousaten o magatte kudasai.",
+      "meaning": "Please turn at the sixth intersection."
+    }
+  ],
+  [
+    {
+      "japanese": "七時に夕食を食べます。",
+      "romaji": "shichiji ni yuushoku o tabemasu.",
+      "meaning": "I eat dinner at seven o'clock."
+    },
+    {
+      "japanese": "七つの海を旅したい。",
+      "romaji": "nanatsu no umi o tabi shitai.",
+      "meaning": "I want to travel the seven seas."
+    }
+  ],
+  [
+    {
+      "japanese": "八時に出発します。",
+      "romaji": "hachiji ni shuppatsu shimasu.",
+      "meaning": "We depart at eight o'clock."
+    },
+    {
+      "japanese": "八十八歳のおばあさんです。",
+      "romaji": "hachijuhassai no obaasan desu.",
+      "meaning": "She is an eighty-eight-year-old grandmother."
+    }
+  ],
+  [
+    {
+      "japanese": "九時から授業です。",
+      "romaji": "kuji kara jugyou desu.",
+      "meaning": "Class starts at nine."
+    },
+    {
+      "japanese": "九つ目の答えが正解でした。",
+      "romaji": "kokonotsume no kotae ga seikai deshita.",
+      "meaning": "The ninth answer was correct."
+    }
+  ],
+  [
+    {
+      "japanese": "十分かかります。",
+      "romaji": "juppun kakarimasu.",
+      "meaning": "It takes ten minutes."
+    },
+    {
+      "japanese": "十人でパーティーをしました。",
+      "romaji": "juunin de paatii o shimashita.",
+      "meaning": "We had a party with ten people."
+    }
+  ],
+  [
+    {
+      "japanese": "百円ショップに行きました。",
+      "romaji": "hyaku en shoppu ni ikimashita.",
+      "meaning": "I went to the hundred-yen shop."
+    },
+    {
+      "japanese": "出席者は百人以上でした。",
+      "romaji": "shusseki sha wa hyakunin ijou deshita.",
+      "meaning": "There were over a hundred attendees."
+    }
+  ],
+  [
+    {
+      "japanese": "千円貸してください。",
+      "romaji": "sen en kashite kudasai.",
+      "meaning": "Please lend me a thousand yen."
+    },
+    {
+      "japanese": "千羽鶴を折りました。",
+      "romaji": "senbazuru o orimashita.",
+      "meaning": "I folded a thousand paper cranes."
+    }
+  ],
+  [
+    {
+      "japanese": "万年筆を使っています。",
+      "romaji": "mannenhitsu o tsukatte imasu.",
+      "meaning": "I use a fountain pen."
+    },
+    {
+      "japanese": "万が一の時に備えます。",
+      "romaji": "mangaichi no toki ni sonaemasu.",
+      "meaning": "I prepare for emergencies."
+    }
+  ],
+  [
+    {
+      "japanese": "百円玉が三枚あります。",
+      "romaji": "hyakuendama ga sanmai arimasu.",
+      "meaning": "I have three hundred-yen coins."
+    },
+    {
+      "japanese": "円いテーブルを買いました。",
+      "romaji": "marui teeburu o kaimashita.",
+      "meaning": "I bought a round table."
+    }
+  ],
+  [
+    {
+      "japanese": "来年、日本に行きます。",
+      "romaji": "rainen, nihon ni ikimasu.",
+      "meaning": "I will go to Japan next year."
+    },
+    {
+      "japanese": "彼は年をとりました。",
+      "romaji": "kare wa toshi o torimashita.",
+      "meaning": "He has gotten older."
+    },
+    {
+      "japanese": "毎年、夏に花火を見ます。",
+      "romaji": "mainen, natsu ni hanabi o mimasu.",
+      "meaning": "I see fireworks every summer."
+    }
+  ],
+  [
+    {
+      "japanese": "今月は忙しいです。",
+      "romaji": "kongetsu wa isogashii desu.",
+      "meaning": "This month is busy."
+    },
+    {
+      "japanese": "月がきれいですね。",
+      "romaji": "tsuki ga kirei desu ne.",
+      "meaning": "The moon is beautiful, isn't it."
+    },
+    {
+      "japanese": "毎月、図書館に行きます。",
+      "romaji": "maitsuki, toshokan ni ikimasu.",
+      "meaning": "I go to the library every month."
+    }
+  ],
+  [
+    {
+      "japanese": "毎日、日本語を勉強します。",
+      "romaji": "mainichi, nihongo o benkyou shimasu.",
+      "meaning": "I study Japanese every day."
+    },
+    {
+      "japanese": "日曜日は休みです。",
+      "romaji": "nichiyoubi wa yasumi desu.",
+      "meaning": "Sunday is a day off."
+    },
+    {
+      "japanese": "あの日は楽しかった。",
+      "romaji": "ano hi wa tanoshikatta.",
+      "meaning": "That day was fun."
+    }
+  ],
+  [
+    {
+      "japanese": "今、何時ですか。",
+      "romaji": "ima, nanji desu ka.",
+      "meaning": "What time is it now?"
+    },
+    {
+      "japanese": "子供の時、よく泳ぎました。",
+      "romaji": "kodomo no toki, yoku oyogimashita.",
+      "meaning": "I often swam when I was a child."
+    }
+  ],
+  [
+    {
+      "japanese": "十分待ってください。",
+      "romaji": "juupen matte kudasai.",
+      "meaning": "Please wait ten minutes."
+    },
+    {
+      "japanese": "この問題が分かりました。",
+      "romaji": "kono mondai ga wakarimashita.",
+      "meaning": "I understood this problem."
+    },
+    {
+      "japanese": "三分の一を食べました。",
+      "romaji": "sanbun no ichi o tabemashita.",
+      "meaning": "I ate one third of it."
+    }
+  ],
+  [
+    {
+      "japanese": "七時半に起きます。",
+      "romaji": "shichiji han ni okimasu.",
+      "meaning": "I wake up at half past seven."
+    },
+    {
+      "japanese": "半分だけ食べました。",
+      "romaji": "hanbun dake tabemashita.",
+      "meaning": "I only ate half of it."
+    }
+  ],
+  [
+    {
+      "japanese": "今、勉強しています。",
+      "romaji": "ima, benkyou shite imasu.",
+      "meaning": "I am studying now."
+    },
+    {
+      "japanese": "今週はテストがあります。",
+      "romaji": "konshuu wa tesuto ga arimasu.",
+      "meaning": "There is a test this week."
+    }
+  ],
+  [
+    {
+      "japanese": "これは何ですか。",
+      "romaji": "kore wa nan desu ka.",
+      "meaning": "What is this?"
+    },
+    {
+      "japanese": "何人いますか。",
+      "romaji": "nannin imasu ka.",
+      "meaning": "How many people are there?"
+    }
+  ],
+  [
+    {
+      "japanese": "あの人は先生です。",
+      "romaji": "ano hito wa sensei desu.",
+      "meaning": "That person is a teacher."
+    },
+    {
+      "japanese": "日本人の友達がいます。",
+      "romaji": "nihonjin no tomodachi ga imasu.",
+      "meaning": "I have a Japanese friend."
+    },
+    {
+      "japanese": "三人で映画を見ました。",
+      "romaji": "sannin de eiga o mimashita.",
+      "meaning": "Three of us watched a movie."
+    }
+  ],
+  [
+    {
+      "japanese": "男の子が生まれました。",
+      "romaji": "otoko no ko ga umaremashita.",
+      "meaning": "A baby boy was born."
+    },
+    {
+      "japanese": "男性の医者に診てもらいました。",
+      "romaji": "dansei no isha ni mite moraimashita.",
+      "meaning": "I was seen by a male doctor."
+    }
+  ],
+  [
+    {
+      "japanese": "女の人が三人います。",
+      "romaji": "onna no hito ga sannin imasu.",
+      "meaning": "There are three women."
+    },
+    {
+      "japanese": "女性の作家が好きです。",
+      "romaji": "josei no sakka ga suki desu.",
+      "meaning": "I like female authors."
+    }
+  ],
+  [
+    {
+      "japanese": "子供が公園で遊んでいます。",
+      "romaji": "kodomo ga kouen de asonde imasu.",
+      "meaning": "Children are playing in the park."
+    },
+    {
+      "japanese": "男の子と女の子がいます。",
+      "romaji": "otoko no ko to onna no ko ga imasu.",
+      "meaning": "There is a boy and a girl."
+    }
+  ],
+  [
+    {
+      "japanese": "父は会社員です。",
+      "romaji": "chichi wa kaishain desu.",
+      "meaning": "My father is a company employee."
+    },
+    {
+      "japanese": "お父さんは元気ですか。",
+      "romaji": "otousan wa genki desu ka.",
+      "meaning": "How is your father?"
+    }
+  ],
+  [
+    {
+      "japanese": "母は料理が上手です。",
+      "romaji": "haha wa ryouri ga jouzu desu.",
+      "meaning": "My mother is good at cooking."
+    },
+    {
+      "japanese": "お母さんに電話しました。",
+      "romaji": "okaasan ni denwa shimashita.",
+      "meaning": "I called my mother."
+    }
+  ],
+  [
+    {
+      "japanese": "友達と映画を見ました。",
+      "romaji": "tomodachi to eiga o mimashita.",
+      "meaning": "I watched a movie with a friend."
+    },
+    {
+      "japanese": "友情は大切です。",
+      "romaji": "yuujou wa taisetsu desu.",
+      "meaning": "Friendship is important."
+    }
+  ],
+  [
+    {
+      "japanese": "先生は親切です。",
+      "romaji": "sensei wa shinsetsu desu.",
+      "meaning": "The teacher is kind."
+    },
+    {
+      "japanese": "先週、京都に行きました。",
+      "romaji": "senshuu, kyouto ni ikimashita.",
+      "meaning": "I went to Kyoto last week."
+    },
+    {
+      "japanese": "駅の先を右に曲がってください。",
+      "romaji": "eki no saki o migi ni magatte kudasai.",
+      "meaning": "Turn right after the station."
+    }
+  ],
+  [
+    {
+      "japanese": "学生です。",
+      "romaji": "gakusei desu.",
+      "meaning": "I am a student."
+    },
+    {
+      "japanese": "毎日、生きています。",
+      "romaji": "mainichi, ikite imasu.",
+      "meaning": "I live every day."
+    },
+    {
+      "japanese": "日本で生まれました。",
+      "romaji": "nihon de umaremashita.",
+      "meaning": "I was born in Japan."
+    }
+  ],
+  [
+    {
+      "japanese": "日本語を学んでいます。",
+      "romaji": "nihongo o manande imasu.",
+      "meaning": "I am learning Japanese."
+    },
+    {
+      "japanese": "学校に行きます。",
+      "romaji": "gakkou ni ikimasu.",
+      "meaning": "I go to school."
+    }
+  ],
+  [
+    {
+      "japanese": "学校の近くに住んでいます。",
+      "romaji": "gakkou no chikaku ni sunde imasu.",
+      "meaning": "I live near the school."
+    },
+    {
+      "japanese": "校長先生の話を聞きました。",
+      "romaji": "kouchou sensei no hanashi o kikimashita.",
+      "meaning": "I listened to the principal's speech."
+    }
+  ],
+  [
+    {
+      "japanese": "大きい犬ですね。",
+      "romaji": "ookii inu desu ne.",
+      "meaning": "That's a big dog."
+    },
+    {
+      "japanese": "大学に行きたいです。",
+      "romaji": "daigaku ni ikitai desu.",
+      "meaning": "I want to go to university."
+    }
+  ],
+  [
+    {
+      "japanese": "小さい猫が好きです。",
+      "romaji": "chiisai neko ga suki desu.",
+      "meaning": "I like small cats."
+    },
+    {
+      "japanese": "小学校で習いました。",
+      "romaji": "shougakkou de naraimashita.",
+      "meaning": "I learned it in elementary school."
+    }
+  ],
+  [
+    {
+      "japanese": "箱の中に何がありますか。",
+      "romaji": "hako no naka ni nani ga arimasu ka.",
+      "meaning": "What is inside the box?"
+    },
+    {
+      "japanese": "中国に行ったことがあります。",
+      "romaji": "chuugoku ni itta koto ga arimasu.",
+      "meaning": "I have been to China."
+    },
+    {
+      "japanese": "ただ今、勉強中です。",
+      "romaji": "tadaima, benkyou chuu desu.",
+      "meaning": "I'm studying right now."
+    }
+  ],
+  [
+    {
+      "japanese": "机の上に本があります。",
+      "romaji": "tsukue no ue ni hon ga arimasu.",
+      "meaning": "There is a book on the desk."
+    },
+    {
+      "japanese": "上手に歌えますね。",
+      "romaji": "jouzu ni utaemasu ne.",
+      "meaning": "You sing well."
+    },
+    {
+      "japanese": "温度が上がりました。",
+      "romaji": "ondo ga agarimashita.",
+      "meaning": "The temperature rose."
+    }
+  ],
+  [
+    {
+      "japanese": "猫が机の下にいます。",
+      "romaji": "neko ga tsukue no shita ni imasu.",
+      "meaning": "The cat is under the desk."
+    },
+    {
+      "japanese": "天気が悪くなりました。",
+      "romaji": "tenki ga waruku narimashita.",
+      "meaning": "The weather got bad."
+    },
+    {
+      "japanese": "荷物を下ろしてください。",
+      "romaji": "nimotsu o oroshite kudasai.",
+      "meaning": "Please unload the luggage."
+    }
+  ],
+  [
+    {
+      "japanese": "左に曲がってください。",
+      "romaji": "hidari ni magatte kudasai.",
+      "meaning": "Please turn left."
+    },
+    {
+      "japanese": "左手にバッグを持っています。",
+      "romaji": "hidarite ni baggu o motte imasu.",
+      "meaning": "I'm holding the bag in my left hand."
+    }
+  ],
+  [
+    {
+      "japanese": "右側に郵便局があります。",
+      "romaji": "migigawa ni yuubinkyoku ga arimasu.",
+      "meaning": "There is a post office on the right side."
+    },
+    {
+      "japanese": "右手で書いてください。",
+      "romaji": "migite de kaite kudasai.",
+      "meaning": "Please write with your right hand."
+    }
+  ],
+  [
+    {
+      "japanese": "駅の前にあります。",
+      "romaji": "eki no mae ni arimasu.",
+      "meaning": "It's in front of the station."
+    },
+    {
+      "japanese": "十年前に日本に来ました。",
+      "romaji": "juunen mae ni nihon ni kimashita.",
+      "meaning": "I came to Japan ten years ago."
+    }
+  ],
+  [
+    {
+      "japanese": "後ろを見てください。",
+      "romaji": "ushiro o mite kudasai.",
+      "meaning": "Please look behind you."
+    },
+    {
+      "japanese": "その後、映画を見ました。",
+      "romaji": "sono go, eiga o mimashita.",
+      "meaning": "After that, I watched a movie."
+    }
+  ],
+  [
+    {
+      "japanese": "東京に行きたいです。",
+      "romaji": "toukyou ni ikitai desu.",
+      "meaning": "I want to go to Tokyo."
+    },
+    {
+      "japanese": "東口で待っています。",
+      "romaji": "higashiguchi de matte imasu.",
+      "meaning": "I'm waiting at the east exit."
+    }
+  ],
+  [
+    {
+      "japanese": "西口を出てください。",
+      "romaji": "nishiguchi o dete kudasai.",
+      "meaning": "Please exit through the west exit."
+    },
+    {
+      "japanese": "西ヨーロッパへ旅行したい。",
+      "romaji": "nishi yooroppa e ryokou shitai.",
+      "meaning": "I want to travel to Western Europe."
+    }
+  ],
+  [
+    {
+      "japanese": "南口で会いましょう。",
+      "romaji": "minamiguchi de aimashou.",
+      "meaning": "Let's meet at the south exit."
+    },
+    {
+      "japanese": "南アメリカへ旅行したいです。",
+      "romaji": "minami amerika e ryokou shitai desu.",
+      "meaning": "I want to travel to South America."
+    }
+  ],
+  [
+    {
+      "japanese": "北口はこちらです。",
+      "romaji": "kitaguchi wa kochira desu.",
+      "meaning": "The north exit is this way."
+    },
+    {
+      "japanese": "北海道は日本の北にあります。",
+      "romaji": "hokkaidou wa nihon no kita ni arimasu.",
+      "meaning": "Hokkaido is in the north of Japan."
+    }
+  ],
+  [
+    {
+      "japanese": "外は寒いです。",
+      "romaji": "soto wa samui desu.",
+      "meaning": "It's cold outside."
+    },
+    {
+      "japanese": "外国人と話しました。",
+      "romaji": "gaikokujin to hanashimashita.",
+      "meaning": "I talked with a foreigner."
+    }
+  ],
+  [
+    {
+      "japanese": "外国に行ったことがあります。",
+      "romaji": "gaikoku ni itta koto ga arimasu.",
+      "meaning": "I have been to a foreign country."
+    },
+    {
+      "japanese": "この国は美しいです。",
+      "romaji": "kono kuni wa utsukushii desu.",
+      "meaning": "This country is beautiful."
+    }
+  ],
+  [
+    {
+      "japanese": "山に登りました。",
+      "romaji": "yama ni noborimashita.",
+      "meaning": "I climbed a mountain."
+    },
+    {
+      "japanese": "富士山は日本で一番高い山です。",
+      "romaji": "fujisan wa nihon de ichiban takai yama desu.",
+      "meaning": "Mt. Fuji is the tallest mountain in Japan."
+    }
+  ],
+  [
+    {
+      "japanese": "川で魚を釣りました。",
+      "romaji": "kawa de sakana o tsurimashita.",
+      "meaning": "I fished in the river."
+    },
+    {
+      "japanese": "この川はとてもきれいです。",
+      "romaji": "kono kawa wa totemo kirei desu.",
+      "meaning": "This river is very clean."
+    }
+  ],
+  [
+    {
+      "japanese": "空が青いです。",
+      "romaji": "sora ga aoi desu.",
+      "meaning": "The sky is blue."
+    },
+    {
+      "japanese": "空港まで送ります。",
+      "romaji": "kuukou made okurimasu.",
+      "meaning": "I'll take you to the airport."
+    },
+    {
+      "japanese": "箱が空です。",
+      "romaji": "hako ga kara desu.",
+      "meaning": "The box is empty."
+    }
+  ],
+  [
+    {
+      "japanese": "海で泳ぐのが好きです。",
+      "romaji": "umi de oyogu no ga suki desu.",
+      "meaning": "I like swimming in the sea."
+    },
+    {
+      "japanese": "海外旅行に行きました。",
+      "romaji": "kaigai ryokou ni ikimashita.",
+      "meaning": "I went on an overseas trip."
+    }
+  ],
+  [
+    {
+      "japanese": "雨が降っています。",
+      "romaji": "ame ga futte imasu.",
+      "meaning": "It's raining."
+    },
+    {
+      "japanese": "今日は雨模様です。",
+      "romaji": "kyou wa ame moyou desu.",
+      "meaning": "It looks like rain today."
+    }
+  ],
+  [
+    {
+      "japanese": "木の下で休みました。",
+      "romaji": "ki no shita de yasumimashita.",
+      "meaning": "I rested under the tree."
+    },
+    {
+      "japanese": "木曜日に会いましょう。",
+      "romaji": "mokuyoubi ni aimashou.",
+      "meaning": "Let's meet on Thursday."
+    }
+  ],
+  [
+    {
+      "japanese": "花が咲きました。",
+      "romaji": "hana ga sakimashita.",
+      "meaning": "The flowers bloomed."
+    },
+    {
+      "japanese": "この花は何ですか。",
+      "romaji": "kono hana wa nan desu ka.",
+      "meaning": "What flower is this?"
+    }
+  ],
+  [
+    {
+      "japanese": "水を飲みたいです。",
+      "romaji": "mizu o nomitai desu.",
+      "meaning": "I want to drink water."
+    },
+    {
+      "japanese": "水道代を払いました。",
+      "romaji": "suidou dai o haraimashita.",
+      "meaning": "I paid the water bill."
+    }
+  ],
+  [
+    {
+      "japanese": "火事に気をつけてください。",
+      "romaji": "kaji ni ki o tsukete kudasai.",
+      "meaning": "Please be careful of fire."
+    },
+    {
+      "japanese": "火曜日は図書館が休みです。",
+      "romaji": "kayoubi wa toshokan ga yasumi desu.",
+      "meaning": "The library is closed on Tuesday."
+    }
+  ],
+  [
+    {
+      "japanese": "お金がありません。",
+      "romaji": "okane ga arimasen.",
+      "meaning": "I don't have money."
+    },
+    {
+      "japanese": "金曜日にパーティーがあります。",
+      "romaji": "kinyoubi ni paatii ga arimasu.",
+      "meaning": "There is a party on Friday."
+    }
+  ],
+  [
+    {
+      "japanese": "土曜日に買い物に行きます。",
+      "romaji": "doyoubi ni kaimono ni ikimasu.",
+      "meaning": "I will go shopping on Saturday."
+    },
+    {
+      "japanese": "この土はとても良いです。",
+      "romaji": "kono tsuchi wa totemo yoi desu.",
+      "meaning": "This soil is very good."
+    }
+  ],
+  [
+    {
+      "japanese": "白い猫が好きです。",
+      "romaji": "shiroi neko ga suki desu.",
+      "meaning": "I like white cats."
+    },
+    {
+      "japanese": "白紙で出したいです。",
+      "romaji": "hakushi de dashitai desu.",
+      "meaning": "I want to submit a blank sheet."
+    }
+  ],
+  [
+    {
+      "japanese": "赤いリンゴを食べました。",
+      "romaji": "akai ringo o tabemashita.",
+      "meaning": "I ate a red apple."
+    },
+    {
+      "japanese": "信号が赤です。",
+      "romaji": "shingou ga aka desu.",
+      "meaning": "The traffic light is red."
+    }
+  ],
+  [
+    {
+      "japanese": "海は青いです。",
+      "romaji": "umi wa aoi desu.",
+      "meaning": "The sea is blue."
+    },
+    {
+      "japanese": "青信号になったら渡ってください。",
+      "romaji": "aoshingou ni nattara watatte kudasai.",
+      "meaning": "Please cross when the light turns green."
+    }
+  ],
+  [
+    {
+      "japanese": "朝ごはんを食べました。",
+      "romaji": "asagohan o tabemashita.",
+      "meaning": "I ate breakfast."
+    },
+    {
+      "japanese": "食堂で昼食をとりました。",
+      "romaji": "shokudou de chuushoku o torimashita.",
+      "meaning": "I had lunch in the cafeteria."
+    },
+    {
+      "japanese": "食事の前に手を洗いましょう。",
+      "romaji": "shokuji no mae ni te o araimashou.",
+      "meaning": "Let's wash our hands before the meal."
+    }
+  ],
+  [
+    {
+      "japanese": "水を飲みました。",
+      "romaji": "mizu o nomimashita.",
+      "meaning": "I drank water."
+    },
+    {
+      "japanese": "飲み物は何にしますか。",
+      "romaji": "nomimono wa nani ni shimasu ka.",
+      "meaning": "What would you like to drink?"
+    }
+  ],
+  [
+    {
+      "japanese": "映画を見ます。",
+      "romaji": "eiga o mimasu.",
+      "meaning": "I watch a movie."
+    },
+    {
+      "japanese": "見せてください。",
+      "romaji": "misete kudasai.",
+      "meaning": "Please show me."
+    },
+    {
+      "japanese": "意見があります。",
+      "romaji": "iken ga arimasu.",
+      "meaning": "I have an opinion."
+    }
+  ],
+  [
+    {
+      "japanese": "音楽を聞きます。",
+      "romaji": "ongaku o kikimasu.",
+      "meaning": "I listen to music."
+    },
+    {
+      "japanese": "ニュースを聞きました。",
+      "romaji": "nyuusu o kikimashita.",
+      "meaning": "I heard the news."
+    }
+  ],
+  [
+    {
+      "japanese": "先生がそう言いました。",
+      "romaji": "sensei ga sou iimashita.",
+      "meaning": "The teacher said so."
+    },
+    {
+      "japanese": "言葉の意味を調べました。",
+      "romaji": "kotoba no imi o shirabemashita.",
+      "meaning": "I looked up the meaning of the word."
+    }
+  ],
+  [
+    {
+      "japanese": "本を読むのが好きです。",
+      "romaji": "hon o yomu no ga suki desu.",
+      "meaning": "I like reading books."
+    },
+    {
+      "japanese": "この漢字は何と読みますか。",
+      "romaji": "kono kanji wa nan to yomimasu ka.",
+      "meaning": "How do you read this kanji?"
+    }
+  ],
+  [
+    {
+      "japanese": "手紙を書きました。",
+      "romaji": "tegami o kakimashita.",
+      "meaning": "I wrote a letter."
+    },
+    {
+      "japanese": "辞書を買いました。",
+      "romaji": "jisho o kaimashita.",
+      "meaning": "I bought a dictionary."
+    }
+  ],
+  [
+    {
+      "japanese": "日本語で話しましょう。",
+      "romaji": "nihongo de hanashimashou.",
+      "meaning": "Let's speak in Japanese."
+    },
+    {
+      "japanese": "電話番号を教えてください。",
+      "romaji": "denwa bangou o oshiete kudasai.",
+      "meaning": "Please tell me your phone number."
+    }
+  ],
+  [
+    {
+      "japanese": "日本に来ました。",
+      "romaji": "nihon ni kimashita.",
+      "meaning": "I came to Japan."
+    },
+    {
+      "japanese": "来週、試験があります。",
+      "romaji": "raishuu, shiken ga arimasu.",
+      "meaning": "There is an exam next week."
+    }
+  ],
+  [
+    {
+      "japanese": "学校に行きます。",
+      "romaji": "gakkou ni ikimasu.",
+      "meaning": "I go to school."
+    },
+    {
+      "japanese": "銀行でお金を下ろしました。",
+      "romaji": "ginkou de okane o oroshimashita.",
+      "meaning": "I withdrew money at the bank."
+    }
+  ],
+  [
+    {
+      "japanese": "家に帰ります。",
+      "romaji": "ie ni kaerimasu.",
+      "meaning": "I go home."
+    },
+    {
+      "japanese": "本を図書館に返します。",
+      "romaji": "hon o toshokan ni kaeshimasu.",
+      "meaning": "I return the book to the library."
+    }
+  ],
+  [
+    {
+      "japanese": "外に出ます。",
+      "romaji": "soto ni demasu.",
+      "meaning": "I go outside."
+    },
+    {
+      "japanese": "宿題を出しました。",
+      "romaji": "shukudai o dashimashita.",
+      "meaning": "I submitted my homework."
+    },
+    {
+      "japanese": "出発は七時です。",
+      "romaji": "shuppatsu wa shichiji desu.",
+      "meaning": "Departure is at seven."
+    }
+  ],
+  [
+    {
+      "japanese": "部屋に入ります。",
+      "romaji": "heya ni hairimasu.",
+      "meaning": "I enter the room."
+    },
+    {
+      "japanese": "入学式は四月です。",
+      "romaji": "nyuugakushiki wa shigatsu desu.",
+      "meaning": "The entrance ceremony is in April."
+    }
+  ],
+  [
+    {
+      "japanese": "日曜日は休みます。",
+      "romaji": "nichiyoubi wa yasumimasu.",
+      "meaning": "I rest on Sunday."
+    },
+    {
+      "japanese": "休憩しましょう。",
+      "romaji": "kyuukei shimashou.",
+      "meaning": "Let's take a break."
+    }
+  ],
+  [
+    {
+      "japanese": "毎朝六時に起きます。",
+      "romaji": "maiasa rokuji ni okimasu.",
+      "meaning": "I wake up at six every morning."
+    },
+    {
+      "japanese": "問題が起きました。",
+      "romaji": "mondai ga okimashita.",
+      "meaning": "A problem occurred."
+    }
+  ],
+  [
+    {
+      "japanese": "昨夜、早く寝ました。",
+      "romaji": "sakuya, hayaku nemashita.",
+      "meaning": "I slept early last night."
+    },
+    {
+      "japanese": "寝室は二階です。",
+      "romaji": "shinshitsu wa nikai desu.",
+      "meaning": "The bedroom is on the second floor."
+    }
+  ],
+  [
+    {
+      "japanese": "スーパーで野菜を買いました。",
+      "romaji": "suupaa de yasai o kaimashita.",
+      "meaning": "I bought vegetables at the supermarket."
+    },
+    {
+      "japanese": "買い物に行きましょう。",
+      "romaji": "kaimono ni ikimashou.",
+      "meaning": "Let's go shopping."
+    }
+  ],
+  [
+    {
+      "japanese": "この店では切手を売っています。",
+      "romaji": "kono mise de wa kitte o utte imasu.",
+      "meaning": "This store sells stamps."
+    },
+    {
+      "japanese": "その本はよく売れています。",
+      "romaji": "sono hon wa yoku urete imasu.",
+      "meaning": "That book is selling well."
+    }
+  ],
+  [
+    {
+      "japanese": "この山は高いです。",
+      "romaji": "kono yama wa takai desu.",
+      "meaning": "This mountain is tall."
+    },
+    {
+      "japanese": "物価が高いですね。",
+      "romaji": "bukka ga takai desu ne.",
+      "meaning": "Prices are high, aren't they."
+    }
+  ],
+  [
+    {
+      "japanese": "この店は安いです。",
+      "romaji": "kono mise wa yasui desu.",
+      "meaning": "This store is cheap."
+    },
+    {
+      "japanese": "安心してください。",
+      "romaji": "anshin shite kudasai.",
+      "meaning": "Please rest assured."
+    }
+  ],
+  [
+    {
+      "japanese": "新しい車を買いました。",
+      "romaji": "atarashii kuruma o kaimashita.",
+      "meaning": "I bought a new car."
+    },
+    {
+      "japanese": "新年明けましておめでとう。",
+      "romaji": "shinnen akemashite omedetou.",
+      "meaning": "Happy New Year."
+    }
+  ],
+  [
+    {
+      "japanese": "この古い時計は価値があります。",
+      "romaji": "kono furui tokei wa kachi ga arimasu.",
+      "meaning": "This old clock is valuable."
+    },
+    {
+      "japanese": "古着をリサイクルしましょう。",
+      "romaji": "furugi o risaikuru shimashou.",
+      "meaning": "Let's recycle old clothes."
+    }
+  ],
+  [
+    {
+      "japanese": "髪が長いです。",
+      "romaji": "kami ga nagai desu.",
+      "meaning": "My hair is long."
+    },
+    {
+      "japanese": "校長先生にお会いしました。",
+      "romaji": "kouchou sensei ni o ai shimashita.",
+      "meaning": "I met with the principal."
+    }
+  ],
+  [
+    {
+      "japanese": "冬は日が短いです。",
+      "romaji": "fuyu wa hi ga mijikai desu.",
+      "meaning": "The days are short in winter."
+    },
+    {
+      "japanese": "時間が短すぎます。",
+      "romaji": "jikan ga mijika sugimasu.",
+      "meaning": "The time is too short."
+    }
+  ],
+  [
+    {
+      "japanese": "人が多いですね。",
+      "romaji": "hito ga ooi desu ne.",
+      "meaning": "There are many people."
+    },
+    {
+      "japanese": "多分、明日も雨です。",
+      "romaji": "tabun, ashita mo ame desu.",
+      "meaning": "Probably it will rain tomorrow too."
+    }
+  ],
+  [
+    {
+      "japanese": "お金が少ないです。",
+      "romaji": "okane ga sukunai desu.",
+      "meaning": "I have little money."
+    },
+    {
+      "japanese": "少し待ってください。",
+      "romaji": "sukoshi matte kudasai.",
+      "meaning": "Please wait a moment."
+    }
+  ],
+  [
+    {
+      "japanese": "すしが好きです。",
+      "romaji": "sushi ga suki desu.",
+      "meaning": "I like sushi."
+    },
+    {
+      "japanese": "この機会を好んで選びました。",
+      "romaji": "kono kikai o konde erabimashita.",
+      "meaning": "I chose this opportunity willingly."
+    }
+  ],
+  [
+    {
+      "japanese": "天気がいいですね。",
+      "romaji": "tenki ga ii desu ne.",
+      "meaning": "The weather is nice."
+    },
+    {
+      "japanese": "天井に蛍光灯があります。",
+      "romaji": "tenjou ni keikoutou ga arimasu.",
+      "meaning": "There is a fluorescent light on the ceiling."
+    }
+  ],
+  [
+    {
+      "japanese": "気をつけてください。",
+      "romaji": "ki o tsukete kudasai.",
+      "meaning": "Please be careful."
+    },
+    {
+      "japanese": "天気がいいですね。",
+      "romaji": "tenki ga ii desu ne.",
+      "meaning": "The weather is nice."
+    }
+  ],
+  [
+    {
+      "japanese": "電車で行きます。",
+      "romaji": "densha de ikimasu.",
+      "meaning": "I'll go by train."
+    },
+    {
+      "japanese": "電気を消してください。",
+      "romaji": "denki o keshite kudasai.",
+      "meaning": "Please turn off the light."
+    }
+  ],
+  [
+    {
+      "japanese": "車で送ります。",
+      "romaji": "kuruma de okurimasu.",
+      "meaning": "I'll take you by car."
+    },
+    {
+      "japanese": "電車が遅れました。",
+      "romaji": "densha ga okuremashita.",
+      "meaning": "The train was late."
+    }
+  ],
+  [
+    {
+      "japanese": "駅で待っています。",
+      "romaji": "eki de matte imasu.",
+      "meaning": "I'm waiting at the station."
+    },
+    {
+      "japanese": "東京駅は大きいです。",
+      "romaji": "toukyou eki wa ookii desu.",
+      "meaning": "Tokyo Station is big."
+    }
+  ],
+  [
+    {
+      "japanese": "この道をまっすぐ行ってください。",
+      "romaji": "kono michi o massugu itte kudasai.",
+      "meaning": "Please go straight down this road."
+    },
+    {
+      "japanese": "道具を貸してください。",
+      "romaji": "dougu o kashite kudasai.",
+      "meaning": "Please lend me the tool."
+    }
+  ],
+  [
+    {
+      "japanese": "毎朝ジョギングをします。",
+      "romaji": "maiasa jogingu o shimasu.",
+      "meaning": "I jog every morning."
+    },
+    {
+      "japanese": "毎日勉強しています。",
+      "romaji": "mainichi benkyou shite imasu.",
+      "meaning": "I study every day."
+    }
+  ],
+  [
+    {
+      "japanese": "週末に映画を見ます。",
+      "romaji": "shuumatsu ni eiga o mimasu.",
+      "meaning": "I watch a movie on the weekend."
+    },
+    {
+      "japanese": "先週、風邪をひきました。",
+      "romaji": "senshuu, kaze o hikimashita.",
+      "meaning": "I caught a cold last week."
+    }
+  ],
+  [
+    {
+      "japanese": "駅と学校の間にあります。",
+      "romaji": "eki to gakkou no aida ni arimasu.",
+      "meaning": "It's between the station and the school."
+    },
+    {
+      "japanese": "時間がありません。",
+      "romaji": "jikan ga arimasen.",
+      "meaning": "There's no time."
+    }
+  ],
+  [
+    {
+      "japanese": "門の前に立ちました。",
+      "romaji": "mon no mae ni tachimashita.",
+      "meaning": "I stood in front of the gate."
+    },
+    {
+      "japanese": "専門学校に通っています。",
+      "romaji": "senmon gakkou ni kayotte imasu.",
+      "meaning": "I attend a vocational school."
+    }
+  ],
+  [
+    {
+      "japanese": "口を開けてください。",
+      "romaji": "kuchi o akete kudasai.",
+      "meaning": "Please open your mouth."
+    },
+    {
+      "japanese": "入口はあちらです。",
+      "romaji": "iriguchi wa achira desu.",
+      "meaning": "The entrance is over there."
+    }
+  ],
+  [
+    {
+      "japanese": "目が痛いです。",
+      "romaji": "me ga itai desu.",
+      "meaning": "My eyes hurt."
+    },
+    {
+      "japanese": "目的は何ですか。",
+      "romaji": "mokuteki wa nan desu ka.",
+      "meaning": "What is your purpose?"
+    }
+  ],
+  [
+    {
+      "japanese": "耳が大きいです。",
+      "romaji": "mimi ga ookii desu.",
+      "meaning": "My ears are big."
+    },
+    {
+      "japanese": "耳鼻科に行きました。",
+      "romaji": "jibika ni ikimashita.",
+      "meaning": "I went to the otolaryngologist."
+    }
+  ],
+  [
+    {
+      "japanese": "手を洗いましょう。",
+      "romaji": "te o araimashou.",
+      "meaning": "Let's wash our hands."
+    },
+    {
+      "japanese": "切手を買いました。",
+      "romaji": "kitte o kaimashita.",
+      "meaning": "I bought stamps."
+    }
+  ],
+  [
+    {
+      "japanese": "足が疲れました。",
+      "romaji": "ashi ga tsukaremashita.",
+      "meaning": "My feet are tired."
+    },
+    {
+      "japanese": "時間が足りません。",
+      "romaji": "jikan ga tarimasen.",
+      "meaning": "There isn't enough time."
+    }
+  ]
+]

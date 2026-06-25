@@ -2,7 +2,9 @@ package com.kanjiflashcards
 
 import android.content.Context
 import android.os.Bundle
+import android.widget.Toast
 import androidx.activity.ComponentActivity
+import androidx.activity.compose.BackHandler
 import androidx.activity.compose.setContent
 import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 import androidx.compose.foundation.background
@@ -17,6 +19,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.compose.ui.platform.LocalContext
+import com.kanjiflashcards.data.ExampleRepository
 import com.kanjiflashcards.data.KanaData
 import com.kanjiflashcards.data.KanjiRepository
 import com.kanjiflashcards.data.VocabRepository
@@ -85,23 +88,46 @@ private fun AppNavigation(isDarkTheme: Boolean, onToggleTheme: () -> Unit) {
     var currentScreen by remember { mutableStateOf<Screen>(Screen.MainMenu) }
     var reviewedIndices by remember { mutableStateOf(setOf<Int>()) }
     val reviewedPrefs = remember { context.getSharedPreferences("kanji_reviewed", Context.MODE_PRIVATE) }
+    var backPressTime by remember { mutableLongStateOf(0L) }
 
     fun loadReviewedIndices(title: String) {
         val saved = reviewedPrefs.getStringSet("reviewed_$title", null)
         reviewedIndices = saved?.mapNotNull { it.toIntOrNull() }?.toSet() ?: emptySet()
     }
 
+    suspend fun attachExamples(deck: StudyDeck, cards: List<KanjiCard>): List<KanjiCard> {
+        val exampleResId = when (deck) {
+            StudyDeck.N5_KANJI -> R.raw.n5_kanji_examples
+            StudyDeck.N4_KANJI -> R.raw.n4_kanji_examples
+            StudyDeck.N3_KANJI -> R.raw.n3_kanji_examples
+            StudyDeck.N2_KANJI -> R.raw.n2_kanji_examples
+            StudyDeck.N5_VOCAB -> R.raw.n5_vocab_examples
+            StudyDeck.N4_VOCAB -> R.raw.n4_vocab_examples
+            StudyDeck.N3_VOCAB -> R.raw.n3_vocab_examples
+            StudyDeck.N2_VOCAB -> R.raw.n2_vocab_examples
+            else -> return cards
+        }
+        val examples = withContext(Dispatchers.IO) {
+            ExampleRepository.loadExamples(context, exampleResId, cards.size)
+        }
+        if (examples.size == cards.size) {
+            return cards.mapIndexed { i, card -> card.copy(examples = examples[i]) }
+        }
+        return cards
+    }
+
     fun loadDeck(deck: StudyDeck, fromMenu: () -> Unit) {
         scope.launch {
             currentScreen = Screen.Loading
             try {
-                val cards: List<KanjiCard>
+                var cards: List<KanjiCard>
                 val title: String
                 when (deck) {
                 StudyDeck.N5_KANJI -> {
                     cards = withContext(Dispatchers.IO) {
                         KanjiRepository.loadCards(context, R.raw.n5_kanji)
                     }
+                    cards = attachExamples(deck, cards)
                     title = "N5 Kanji"
                     loadReviewedIndices(title)
                     currentScreen = Screen.ReviewModeSelect(title, cards, isVocabDeck = false, fromMenu)
@@ -111,6 +137,7 @@ private fun AppNavigation(isDarkTheme: Boolean, onToggleTheme: () -> Unit) {
                     cards = withContext(Dispatchers.IO) {
                         KanjiRepository.loadCards(context, R.raw.n4_kanji)
                     }
+                    cards = attachExamples(deck, cards)
                     title = "N4 Kanji"
                     loadReviewedIndices(title)
                     currentScreen = Screen.ReviewModeSelect(title, cards, isVocabDeck = false, fromMenu)
@@ -120,6 +147,7 @@ private fun AppNavigation(isDarkTheme: Boolean, onToggleTheme: () -> Unit) {
                     cards = withContext(Dispatchers.IO) {
                         KanjiRepository.loadCards(context, R.raw.n3_kanji)
                     }
+                    cards = attachExamples(deck, cards)
                     title = "N3 Kanji"
                     loadReviewedIndices(title)
                     currentScreen = Screen.ReviewModeSelect(title, cards, isVocabDeck = false, fromMenu)
@@ -129,6 +157,7 @@ private fun AppNavigation(isDarkTheme: Boolean, onToggleTheme: () -> Unit) {
                     cards = withContext(Dispatchers.IO) {
                         KanjiRepository.loadCards(context, R.raw.n2_kanji)
                     }
+                    cards = attachExamples(deck, cards)
                     title = "N2 Kanji"
                     loadReviewedIndices(title)
                     currentScreen = Screen.ReviewModeSelect(title, cards, isVocabDeck = false, fromMenu)
@@ -152,6 +181,7 @@ private fun AppNavigation(isDarkTheme: Boolean, onToggleTheme: () -> Unit) {
                     cards = withContext(Dispatchers.IO) {
                         VocabRepository.loadCards(context, R.raw.n5_vocab)
                     }
+                    cards = attachExamples(deck, cards)
                     title = "N5 Vocab"
                     loadReviewedIndices(title)
                     currentScreen = Screen.ReviewModeSelect(title, cards, isVocabDeck = true, fromMenu)
@@ -161,6 +191,7 @@ private fun AppNavigation(isDarkTheme: Boolean, onToggleTheme: () -> Unit) {
                     cards = withContext(Dispatchers.IO) {
                         VocabRepository.loadCards(context, R.raw.n4_vocab)
                     }
+                    cards = attachExamples(deck, cards)
                     title = "N4 Vocab"
                     loadReviewedIndices(title)
                     currentScreen = Screen.ReviewModeSelect(title, cards, isVocabDeck = true, fromMenu)
@@ -170,6 +201,7 @@ private fun AppNavigation(isDarkTheme: Boolean, onToggleTheme: () -> Unit) {
                     cards = withContext(Dispatchers.IO) {
                         VocabRepository.loadCards(context, R.raw.n3_vocab)
                     }
+                    cards = attachExamples(deck, cards)
                     title = "N3 Vocab"
                     loadReviewedIndices(title)
                     currentScreen = Screen.ReviewModeSelect(title, cards, isVocabDeck = true, fromMenu)
@@ -179,6 +211,7 @@ private fun AppNavigation(isDarkTheme: Boolean, onToggleTheme: () -> Unit) {
                     cards = withContext(Dispatchers.IO) {
                         VocabRepository.loadCards(context, R.raw.n2_vocab)
                     }
+                    cards = attachExamples(deck, cards)
                     title = "N2 Vocab"
                     loadReviewedIndices(title)
                     currentScreen = Screen.ReviewModeSelect(title, cards, isVocabDeck = true, fromMenu)
@@ -193,6 +226,14 @@ private fun AppNavigation(isDarkTheme: Boolean, onToggleTheme: () -> Unit) {
 
     when (val screen = currentScreen) {
         Screen.MainMenu -> {
+            BackHandler {
+                if (System.currentTimeMillis() - backPressTime < 2000) {
+                    (context as? ComponentActivity)?.finishAffinity()
+                } else {
+                    backPressTime = System.currentTimeMillis()
+                    Toast.makeText(context, "Press back again to exit", Toast.LENGTH_SHORT).show()
+                }
+            }
             MainMenuScreen(
                 isDarkTheme = isDarkTheme,
                 onToggleTheme = onToggleTheme,
@@ -203,18 +244,21 @@ private fun AppNavigation(isDarkTheme: Boolean, onToggleTheme: () -> Unit) {
             )
         }
         Screen.KanjiMenu -> {
+            BackHandler { currentScreen = Screen.MainMenu }
             KanjiMenuScreen(
                 onBack = { currentScreen = Screen.MainMenu },
                 onDeckSelected = { deck -> loadDeck(deck) { currentScreen = Screen.KanjiMenu } }
             )
         }
         Screen.VocabMenu -> {
+            BackHandler { currentScreen = Screen.MainMenu }
             VocabMenuScreen(
                 onBack = { currentScreen = Screen.MainMenu },
                 onDeckSelected = { deck -> loadDeck(deck) { currentScreen = Screen.VocabMenu } }
             )
         }
         is Screen.ReviewModeSelect -> {
+            BackHandler { screen.fromMenu() }
             ReviewModeSelectScreen(
                 title = screen.title,
                 cards = screen.cards,
@@ -227,6 +271,9 @@ private fun AppNavigation(isDarkTheme: Boolean, onToggleTheme: () -> Unit) {
             )
         }
         is Screen.Review -> {
+            BackHandler {
+                currentScreen = Screen.ReviewModeSelect(screen.title, screen.cards, screen.isVocabDeck, screen.fromMenu)
+            }
             FlashcardScreen(
                 deckTitle = screen.title,
                 deckCards = screen.cards,
@@ -241,6 +288,7 @@ private fun AppNavigation(isDarkTheme: Boolean, onToggleTheme: () -> Unit) {
             )
         }
         Screen.Loading -> {
+            BackHandler { currentScreen = Screen.MainMenu }
             Box(
                 modifier = Modifier.fillMaxSize(),
                 contentAlignment = Alignment.Center
@@ -249,6 +297,7 @@ private fun AppNavigation(isDarkTheme: Boolean, onToggleTheme: () -> Unit) {
             }
         }
         is Screen.Error -> {
+            BackHandler { currentScreen = Screen.MainMenu }
             Box(
                 modifier = Modifier.fillMaxSize(),
                 contentAlignment = Alignment.Center
